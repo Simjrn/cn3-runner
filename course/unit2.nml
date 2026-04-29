@@ -1,0 +1,1696 @@
+<unit:2>
+<skill:Fruits|image:fruit|lessonsperlevel:2|strokecolor:213,0,0|fillcolor:255,23,68|position:1|description:Learn some basic nouns|id:YV35eNbVnhCt>
+<lesson:1|id:ixbSkUKlE697>
+{type:PickOne|question:Ina banana|options:[Elderly (femenine)][With][A banana]|answer:A banana|id:8kYiWbxSFgH7}
+{type:PickOne|question:Ina tscharescha|options:[Girl][A cherry][With]|answer:A cherry|id:6iCLhLScIV3L}
+{type:PickOne|question:In'oranscha|options:[An orange][Child][Young (femenine)]|answer:An orange|id:cdN5msPHA3a0}
+{type:FlashCard|front:Ina banana|back:A banana|id:TxeRXjOOzd8W}
+{type:FlashCard|front:In'izun|back:A blueberry|id:gXkW6UxJtJjj}
+{type:PickOne|question:In mail|options:[With][An apple][Girl]|answer:An apple|id:VjXnRb0duhWb}
+{type:FlashCard|front:Ina mura|back:A blackberry|id:KjylguBFikXq}
+</lesson>
+<lesson:2|id:kF9NVqoMAmEG>
+{type:FlashCard|front:Ina tscharescha|back:A cherry|id:i8SijRQPplxU}
+{type:PickOne|question:Ina tscharescha|options:[Elderly (femenine)][Boy][A cherry]|answer:A cherry|id:UYmVC40JfYbK}
+{type:PickOne|question:Ina mura|options:[Boy][Woman][A blackberry]|answer:A blackberry|id:2ZOczsKFxmxH}
+{type:FlashCard|front:A strawberry|back:Ina fraja|id:XEz9JbseuUVp}
+{type:FlashCard|front:Ina tscharescha|back:A cherry|id:qJOp6ReFBdNP}
+{type:PickOne|question:Ina banana|options:[Man][A banana][Elderly (femenine)]|answer:A banana|id:ivYjloPMoBLO}
+{type:PickOne|question:Ina mura|options:[Elderly (masculine)][A blackberry][Boy]|answer:Elderly (masculine)|id:MFsU6vNx4oiK}
+</lesson>
+<lesson:3|id:cNSBCbqUvgGM>
+{type:Match|question:Select the matching words|options:[Ina citrona:A lemon][Ina banana:A banana][In'apricosa:An apricot][Ina mura:A blackberry]|id:0nnn0YVD1Qw9}
+{type:PickMissingWord|question:Vul ella mangiar ina banana ______ in'oranscha?|options:[In'oranscha][Ina tscharescha][In mail][e]|answer:e|id:em2tExDhmjWl}
+{type:Match|question:Select the matching words|options:[Ina citrona:A lemon][In persic:A peach][Ina tscharescha:A cherry][In'apricosa:An apricot]|id:0Lr6TvWqJxSc}
+{type:Match|question:Select the matching words|options:[Um:Man][Mat:Boy][Ina mura:A blackberry][Attemptada:Elderly (femenine)]|id:cKolJCZtSxmf}
+{type:PickOne|question:In mail|options:[A strawberry][A blackberry][An apple]|answer:An apple|id:eQ8oFYE9YvNl}
+{type:PickMissingWord|question:In mail __ in'oranscha|options:[e][Giuven][Mat][Giuvna]|answer:e|id:apmsnifNkPy9}
+</lesson>
+<lesson:4|id:ZrpmJruisES7>
+{type:PickMissingWord|question:Vul ella mangiar ina ______ e in'oranscha?|options:[Attemptà][Uffant][banana][In'apricosa]|answer:banana|id:x1UsSp2Q9EBh}
+{type:Match|question:Select the matching words|options:[In'ampuauna:A raspberry][In'zun:A blueberry][Ina banana:A banana][In'apricosa:An apricot]|id:UFrqb3GNd6Jn}
+{type:PickMissingWord|question:L'oranscha è ______|options:[Attemptada][In mail][Ina mura][bella]|answer:bella|id:IvONQoXeEnfQ}
+{type:PickOne|question:Ina fraja|options:[A lemon][A strawberry][An orange]|answer:A strawberry|id:WTPVScSMR5wk}
+{type:Match|question:Select the matching words|options:[In'ampuauna:A raspberry][In persic:A peach][Ina banana:A banana][Ina mura:A blackberry]|id:ns9IYDOA9gU7}
+{type:Match|question:Select the matching words|options:[Attemptada:Elderly (femenine)][In'oranscha:An orange][Attemptà:Elderly (masculine)][Giuvna:Young (femenine)]|id:wWASZwmJLkPB}
+</lesson>
+<lesson:5|id:0o8g0I0zyZfR>
+{type:PickOne|question:In'izun|options:[A blueberry][A lemon][A strawberry]|answer:A blueberry|id:JJQodznDgGTB}
+{type:Match|question:Select the matching words|options:[Ina fraja:A strawberry][In'zun:A blueberry][In persic:A peach][In'ampuauna:A raspberry]|id:2gAvTuqDtmk5}
+{type:WriteWords|question:He has a blackberry and a raspberry|answer:El ha ina mura e in'ampuauna|id:hV9YLh64zn5Y}
+{type:PickMissingWord|question:La ______ n'è ni in mail ni ina tscharescha|options:[Teenager][In persic][In'apricosa][citrona]|answer:citrona|id:ECk8JwK4eASp}
+{type:WriteWords|question:L'oranscha è bella|answer:[The orange is nice][The orange is pretty][The orange is beautiful]|id:eZiUhpj9PXFJ}
+{type:WriteWords|question:Has ti ina fraja?|answer:Do you have a strawberry?|id:p8yEXGO4OQXj}
+{type:PickMissingWord|question:Ina citrona e ina ______|options:[Teenager][Ina mura][Ina citrona][tscharescha]|answer:tscharescha|id:BFwgO2xc1Qiw}
+{type:PickMissingWord|question:Es ti ___ persic?|options:[In'oranscha][Teenager][in][Ina mura]|answer:in|id:FWwf4AETGa86}
+{type:WriteWords|question:The orange is nice|answer:L'oranscha è bella|id:gFd7GJN2Hvgf}
+{type:WriteWords|question:Mangian els l'izun e l'apricosa?|answer:Do they eat the blueberry and the apricot?|id:ZpHdpA5ng6iz}
+{type:WriteWords|question:I am an apricot|answer:[Jau sun in'apricosa][Jau sun ina apricosa]|id:eSwNxyouMgex}
+{type:Match|question:Select the matching words|options:[Ina banana:A banana][In'oranscha:An orange][In persic:A peach][Ina citrona:A lemon]|id:TQMeUjXa7bIA}
+</lesson>
+<lesson:6|id:26oL6sik3oxC>
+{type:WriteWords|question:El ha la banana, e nus vulain la banana|answer:He has the banana, and we want the banana|id:mUhJyu7Za3qK}
+{type:Match|question:Select the matching words|options:[In persic:A peach][In'ampuauna:A raspberry][In'oranscha:An orange][Ina banana:A banana]|id:Vcwso8wHcPFK}
+{type:PickMissingWord|question:La citrona ____ ni in mail ni ina tscharescha|options:[Ina banana][Giuvna][n'è][Giuven]|answer:n'è|id:9ef3I4Teb7fK}
+{type:WriteWords|question:Els han la banana, e nus vulain la banana|answer:They have the banana, and we want the banana|id:yz3xGfWuIKMk}
+{type:WriteWords|question:The orange is pretty|answer:L'oranscha è bella|id:LVKfRLGRdW9n}
+{type:PickOne|question:Ina mura|options:[A blueberry][A blackberry][An apple]|answer:A blackberry|id:hqNoPHsFU2eV}
+{type:PickMissingWord|question:Vus ______ in'izun|options:[In mail][Um][avais][Giuven]|answer:avais|id:tjQKosIN3e14}
+{type:WriteWords|question:Vus na mangiais betg l'ampuauna|answer:[You (pl) don't eat the raspberry][You don't eat the raspberry]|id:Bu6lRp72lbqw}
+{type:Match|question:Select the matching words|options:[In'apricosa:An apricot][Ina banana:A banana][Ina tscharescha:A cherry][Ina mura:A blackberry]|id:VtShuTPflOIY}
+{type:PickMissingWord|question:___ sun in'apricosa|options:[Ina fraja][In'ampuauna][In mail][Jau]|answer:Jau|id:EsAiAZKNGi9M}
+{type:WriteWords|question:The lemon is neither an apple or a cherry|answer:[La citrona n'è ni in mail ni ina tscharescha][La citrona na è ni in mail ni ina tscharescha]|id:oMhNEdxj07ci}
+{type:WriteWords|question:Do they eat the blueberry and the apricot?|answer:Mangian els l'izun e l'apricosa?|id:3YVY6WwAG36k}
+</lesson>
+<lesson:7|id:ZYprl9LEHaWF>
+{type:WriteWords|question:I eat the apple|answer:Jau mangel il mail|id:mh4ckwbbWRJZ}
+{type:WriteWords|question:Ti vuls mangiar in mail cun mes barba|answer:You want to eat an apple with my uncle|id:dW3VvBMubrCU}
+{type:WriteWords|question:The cherry eats the banana|answer:La tscharescha mangia la citrona|id:Op5LCyeqKZIx}
+{type:WriteWords|question:Do they eat the blueberry and the apricot?|answer:Mangian els l'izun e l'apricosa?|id:LtnnnHXkT9ip}
+{type:Match|question:Select the matching words|options:[Ina mura:A blackberry][In'zun:A blueberry][Ina citrona:A lemon][In mail:An apple]|id:hjViDRikr8Je}
+{type:PickMissingWord|question:Vul ____ mangiar ina banana e in'oranscha?|options:[ella][In'ampuauna][In'apricosa][Attemptà]|answer:ella|id:dW7azE3TgZQc}
+{type:PickOne|question:In'ampuauna|options:[A strawberry][A peach][A raspberry]|answer:A raspberry|id:Upm34KZUG3XN}
+{type:WriteWords|question:L'oranscha è bella|answer:[The orange is nice][The orange is pretty][the orange is beautiful]|id:gaq6QdL3hBBv}
+{type:PickMissingWord|question:La tscharescha mangia la ______|options:[In'zun][citrona][In'oranscha][Ina mura]|answer:citrona|id:ZqDOIzlD7ltq}
+{type:WriteWords|question:Ina mura e ina fraja|answer:A blackberry and a strawberry|id:62JfwXDbG1HB}
+{type:Match|question:Select the matching words|options:[Ina citrona:A lemon][Ina tscharescha:A cherry][In persic:A peach][In'ampuauna:A raspberry]|id:QxpZrR9Y4LYO}
+{type:WriteWords|question:An apple and an orange|answer:[In mail e in'oranscha][In mail e ina oranscha]|id:ouuW1ofZRsKb}
+</lesson>
+<lesson:8|id:IHawjt0uIKtC>
+{type:PickMissingWord|question:Jau sun ______|options:[Giuvna][in'apricosa][Matta][In']|answer:in'apricosa|id:wDezwO15HAbW}
+{type:WriteWords|question:He has a blackberry and a raspberry|answer:El ha ina mura e in'ampuauna|id:2aHzHMliQgTu}
+{type:WriteWords|question:Does she want to eat a banana and an orange?|answer:Vul ella mangiar ina banana e in'oranscha?|id:mCNUTctpd7Sl}
+{type:PickOne|question:Ina banana|options:[An apricot][A banana][A raspberry]|answer:A banana|id:FGjva53RKgMc}
+{type:WriteWords|question:In mail e in'oranscha|answer:An apple and an orange|id:adYtfFpiPIS8}
+{type:Match|question:Select the matching words|options:[In'izun:A blueberry][In'ampuauna:A raspberry][In persic:A peach][Ina mura:A blackberry]|id:ccHWwpvBTkW2}
+{type:WriteWords|question:The orange is nice|answer:L'oranscha è bella|id:iVi7Ah556a8B}
+{type:WriteWords|question:El ha la banana, e nus vulain la banana|answer:He has the banana, and we want the banana|id:zlWlvBN8ySs5}
+{type:PickMissingWord|question:La citrona n'è ___ in mail ni ina tscharescha|options:[In persic][In'apricosa][Uffant][ni]|answer:ni|id:isH5l7se7gau}
+{type:WriteWords|question:The apricot wants to be a blueberry|answer:L'apricosa vul esser in izun|id:1Uw65cfWJcbe}
+{type:WriteWords|question:L'oranscha è bella|answer:The orange is nice|id:IHe6rY76UdOq}
+{type:WriteWords|question:In mail e in'oranscha|answer:An apple and an orange|id:ZkmCJydXG4wI}
+{type:Match|question:Select the matching words|options:[In'apricosa:An apricot][In persic:A peach][Ina banana:A banana][Ina citrona:A lemon]|id:SFmGKilJx7fh}
+</lesson>
+<lesson:9|id:suqbV6WP8d8e>
+{type:Match|question:Select the matching words|options:[In persic:A peach][Ina tscharescha:A cherry][In'apricosa:An apricot][Ina banana:A banana]|id:BTerHLiMDE7N}
+{type:PickMissingWord|question:Ti vuls ______ in mail cun mes barba|options:[In'oranscha][In'ampuauna][Giuvna][mangiar]|answer:mangiar|id:gQh4jCiEHSCj}
+{type:WriteWords|question:The orange is nice|answer:L'oranscha è bella|id:lPAT6Td2xgn1}
+{type:PickOne|question:Ina fraja|options:[A peach][A strawberry][A lemon]|answer:A strawberry|id:wD4FAvc1IP8r}
+{type:PickMissingWord|question:Vus avais ______|options:[in'izun][In persic][Attemptà][Mat]|answer:in'izun|id:mLlat3iukm7n}
+{type:WriteWords|question:Jau sun in'apricosa|answer:I am an apricot|id:Lp2p8HpTe8yc}
+{type:WriteWords|question:Ina mura e ina fraja|answer:A blackberry and a strawberry|id:ckeMP2BLUP1Q}
+{type:Match|question:Select the matching words|options:[Ina banana:A banana][In'ampuauna:A raspberry][Ina tscharescha:A cherry][Ina fraja:A strawberry]|id:8injOyeyiUrd}
+{type:WriteWords|question:La citrona n'è ni in mail ni ina tscharescha|answer:[The lemon is neither an apple or a cherry][The lemon is neither an apple nor a cherry]|id:98yFoK0acQuX}
+{type:WriteWords|question:The cherry eats the banana|answer:La tscharescha mangia la citrona|id:ohJFPEMUpNUv}
+{type:WriteWords|question:Vus na mangiais betg l'ampuauna|answer:[You (pl) don't eat the raspberry][You don't eat the raspberry][You (pl) do not eat the raspberry][You do not eat the raspberry]|id:81P4Au1mlEOE}
+{type:WriteWords|question:They will drink milk with a banana|answer:Els vegnan a baiver latg cun ina banana|id:fAupHiG2Wra2}
+{type:WriteWords|question:Jau mangel il mail|answer:I eat the apple|id:CNxGyYOH2D0j}
+{type:WriteWords|question:Does she want to eat a banana and an orange?|answer:[Vul ella mangiar ina banana e in'oranscha?][Vul ella mangiar ina banana e ina oranscha?]|id:WzhuXX9CTvHB}
+{type:WriteWords|question:An apple and an orange|answer:[In mail e in'oranscha][In mail e ina oranscha]|id:EidmpywoTPIE}
+</lesson>
+<lesson:10|id:rk2OlZf7v5Ao>
+{type:WriteWords|question:Do you have a strawberry?|answer:Has ti ina fraja?|id:kUYpTf5A1HZ1}
+{type:PickMissingWord|question:Has ti ______ fraja?|options:[In'ampuauna][ina][In persic][Um]|answer:ina|id:UQwLf7RrvOdo}
+{type:WriteWords|question:Do you have a strawberry?|answer:Has ti ina fraja?|id:uIG3eegDHAFF}
+{type:WriteWords|question:The apricot wants to be a blueberry|answer:L'apricosa vul esser in izun|id:V1Aoo7LlcjY9}
+{type:WriteWords|question:Ti vuls mangiar in mail cun mes barba|answer:You want to eat an apple with my uncle|id:D10y5nvjgfDB}
+{type:WriteWords|question:El ha ina mura e in'ampuauna|answer:He has a blackberry and a raspberry|id:UbBDJIV83ZvQ}
+{type:WriteWords|question:You (pl) have a blueberry|answer:Vus avais in'izun|id:rze0Iiz2KFiK}
+{type:WriteWords|question:You want to eat an apple with my uncle|answer:Ti vuls mangiar in mail cun mes barba|id:gxLZirHCDniK}
+{type:WriteWords|question:La tscharescha mangia la citrona|answer:The cherry eats the banana|id:TtfxR37b8a46}
+{type:WriteWords|question:L'oranscha è bella|answer:The orange is nice|id:g4N5lDe5RABo}
+{type:PickOne|question:Ina citrona|options:[A cherry][An apricot][A lemon]|answer:A lemon|id:L0FpmyHbRo4E}
+{type:Match|question:Select the matching words|options:[Ina citrona:A lemon][In mail:An apple][In'zun:A blueberry][In'apricosa:An apricot]|id:94Mu9Qo2kJ9X}
+{type:WriteWords|question:Vus na mangiais betg l'ampuauna|answer:[You (pl) don't eat the raspberry][You don't eat the raspberry][You (pl) do not eat the raspberry][You do not eat the raspberry]|id:g3YpNWahX6Ph}
+{type:Match|question:Select the matching words|options:[In'apricosa:An apricot][Ina banana:A banana][Ina tscharescha:A cherry][Ina fraja:A strawberry]|id:ttyxeiDnrpkX}
+{type:PickMissingWord|question:Vus na ______ betg l'ampuauna|options:[mangiais][In'ampuauna][Ina citrona][Mat]|answer:mangiais|id:KJ5og7BjvIrD}
+</lesson>
+</skill>
+<skill:Colours|image:bell-pepper|lessonsperlevel:2|strokecolor:213,0,0|fillcolor:255,23,68|position:1|description:Learn how to describe what colour something is|id:zvur6TATWLw7>
+<lesson:1|id:CMbbpQDDdIY0>
+{type:FlashCard|front:Brin|back:Brown|id:7KUaKqXVkLEZ}
+{type:FlashCard|front:Rosa|back:Pink|id:V0LWQ6gSsasl}
+{type:PickOne|question:Violetta|options:[A cherry][Purple (femenine)][A lemon]|answer:Purple (femenine)|id:MnFFtiGVHHxR}
+{type:FlashCard|front:Purple (masculine)|back:Violet|id:ofXnO9Vv4Oga}
+{type:PickOne|question:Rosa|options:[A cherry][Pink][A banana]|answer:Pink|id:kBseoz9MUsL3}
+{type:PickOne|question:Blue|options:[Rosa][In'apricosa][In'ampuauna]|answer:Rosa|id:ghdkKSaiKXMk}
+{type:PickOne|question:Melna|options:[A blueberry][A blackberry][Yellow (femenine)]|answer:Yellow (femenine)|id:wPkixfIyjtig}
+</lesson>
+<lesson:2|id:cPovVhtd2aCB>
+{type:FlashCard|front:Purple (femenine)|back:Violetta|id:sWOvU2DnY93S}
+{type:FlashCard|front:Mellen|back:Yellow (masculine)|id:Z5QG3AeDdLZ3}
+{type:PickOne|question:Rosa|options:[A raspberry][Pink][A strawberry]|answer:Pink|id:pSdCTd4ZiMOO}
+{type:FlashCard|front:Brown|back:Brin|id:ENVEKFNn1wyo}
+{type:PickOne|question:Verd|options:[A cherry][A strawberry][Green]|answer:Green|id:oXqGSBYtnmpR}
+{type:PickOne|question:Brin|options:[A blackberry][Brown][A blueberry]|answer:Brown|id:3kxaj9ihUZQf}
+{type:PickOne|question:Brin|options:[Brown][An apple][A cherry]|answer:Brown|id:5uWtGliVYjLq}
+</lesson>
+<lesson:3|id:Ar7L6fOVIuhd>
+{type:Match|question:Select the matching words|options:[Mellen:Yellow (masculine)][Violet:Purple (masculine)][Melna:Yellow (femenine)][Verd:Green]|id:If9ffc5hc6mb}
+{type:PickMissingWord|question:La tschagula verd è ______ la tomata cotschna|options:[In'ampuauna][Nair][sper][Cotschna]|answer:sper|id:nPLm9BTYL5Dz}
+{type:Match|question:Select the matching words|options:[Rosa:Pink][Violetta:Purple (femenine)][Cotschna:Red femenine)][Dad aur:Golden]|id:veS9r5T5VFm6}
+{type:PickMissingWord|question:___ tschagula verd è sper la tomata cotschna|options:[In'ampuauna][In mail][Alv][La]|answer:La|id:HftKwJD6eEbY}
+{type:PickOne|question:Melna|options:[Green][Pink][Yellow (femenine)]|answer:Yellow (femenine)|id:h0XEClTB9bt5}
+{type:Match|question:Select the matching words|options:[Cotschna:Red femenine)][Ina mura:A blackberry][In'ampuauna:A raspberry][Ina citrona:A lemon]|id:hx95tPZwViGo}
+</lesson>
+<lesson:4|id:9IvcC8FozEzQ>
+{type:PickMissingWord|question:Jau na vi betg mangiar l'izun cotschen, e ___?|options:[In mail][Cotschna][Ina citrona][ti]|answer:ti|id:FnnihtK6fQ9N}
+{type:Match|question:Select the matching words|options:[Ina fraja:A strawberry][In'ampuauna:A raspberry][Dad aur:Golden][Ina tscharescha:A cherry]|id:wL1nDI19OlOu}
+{type:PickOne|question:Mellen|options:[Pink][Yellow (masculine)][Black]|answer:Yellow (masculine)|id:RTNasgOehEb9}
+{type:Match|question:Select the matching words|options:[Mellen:Yellow (masculine)][Brin:Brown][Blau:Blue][Dad aur:Golden]|id:Aq2hfQ6IRpwG}
+{type:Match|question:Select the matching words|options:[Violetta:Purple (femenine)][Violet:Purple (masculine)][Mellen:Yellow (masculine)][Dad aur:Golden]|id:jLtT0dqnQAJV}
+{type:PickMissingWord|question:Es ______ verd?|options:[Nair][Rosa][ti][Mellen]|answer:ti|id:lSbr6pPnjIg4}
+</lesson>
+<lesson:5|id:cvqsz90oup6P>
+{type:WriteWords|question:Mes tat è mellen|answer:My grandfather is yellow|id:GgArI9hFcjQ7}
+{type:Match|question:Select the matching words|options:[Mellen:Yellow (masculine)][Violetta:Purple (femenine)][Alv:White][Melna:Yellow (femenine)]|id:XgcjTo3f4LYP}
+{type:Match|question:Select the matching words|options:[Brin:Brown][Mellen:Yellow (masculine)][Melna:Yellow (femenine)][Violetta:Purple (femenine)]|id:038RX5o2wEEd}
+{type:WriteWords|question:Es ti melna?|answer:Are you yellow?|id:ZsJvLcnpNW2T}
+{type:PickOne|question:Rosa|options:[Pink][Red (masculine)][Golden]|answer:Pink|id:B8brjHAFw12r}
+{type:WriteWords|question:The green onion is near the red tomato|answer:La tschagula verd è sper la tomata cotschna|id:hhIC5RQDmd3M}
+{type:WriteWords|question:Mes tat è mellen|answer:My grandfather is yellow|id:QmqycBvlVhfj}
+{type:PickMissingWord|question:È ____ mat blau là?|options:[Ina tscharescha][In mail][il][In'apricosa]|answer:il|id:H4u6YokrUB7v}
+{type:WriteWords|question:They have a yellow lemon|answer:Els han ina citrona melna|id:10atn41KDrcJ}
+{type:PickMissingWord|question:Vuls ______ in'apricosa melna?|options:[Cotschen][Ina fraja][ti][Verd]|answer:ti|id:whNoqVNjXte6}
+{type:WriteWords|question:Do you want a yellow apricot?|answer:[Vuls ti in'apricosa melna?][Vuls ti ina apricosa melna?]|id:hl2YjgmNFH8J}
+{type:PickMissingWord|question:Es ti ______?|options:[chasa][la][e][melna]|answer:melna|id:XbBl1JVGyBAt}
+</lesson>
+<lesson:6|id:RbNrnnbZvodJ>
+{type:Match|question:Select the matching words|options:[Alv:White][Blau:Blue][Cotschna:Red femenine)][Cotschen:Red (masculine)]|id:pJX3McEG1AIK}
+{type:WriteWords|question:Els na vulan betg la fraja nair|answer:The don't want the black strawberry|id:3Nix9zzgXIUS}
+{type:PickMissingWord|question:L'uffant dad aur ___ cun mia chasa nair|options:[è][Rosa][Cotschna][Ina tscharescha]|answer:è|id:vItTLpjyRORA}
+{type:PickOne|question:Mellen|options:[Purple (masculine)][Yellow (masculine)][Yellow (femenine)]|answer:Yellow (masculine)|id:xsajhOqJ2xfW}
+{type:PickMissingWord|question:Es ti ______?|options:[Ina tscharescha][Ina citrona][verd][Violetta]|answer:verd|id:j3ZsnsgljHj6}
+{type:WriteWords|question:Mes bab è rosa|answer:My father is pink|id:CijeajYVLZm2}
+{type:WriteWords|question:The purple cherry and the purple blueberry are here|answer:La tscharescha violetta e l'izun violet èn qua|id:8LIeg7Ho8NRK}
+{type:Match|question:Select the matching words|options:[Verd:Green][Dad aur:Golden][Mellen:Yellow (masculine)][Rosa:Pink]|id:0iOha4HIH7Ut}
+{type:PickMissingWord|question:Es ___ verd?|options:[In persic][ti][In mail][Ina tscharescha]|answer:ti|id:hSyFRRWvih33}
+{type:WriteWords|question:È Svizra nair e alv?|answer:Is Switzerland black and white?|id:Psqsv4Ug3zHd}
+{type:WriteWords|question:He has a brown blackberry and a pink raspberry|answer:El ha ina mura brin e in'ampuauna rosa|id:LHcj86rtCCgp}
+{type:WriteWords|question:My red uncle and my yellow aunt|answer:Mes barba cotschen e mia onda melna|id:LL63xJ3f9dnH}
+</lesson>
+<lesson:7|id:yAV8YNHCEDdx>
+{type:WriteWords|question:L'uffant dad aur è cun mia chasa nair|answer:The golden child is with my black house|id:0BX0SXVrjn0T}
+{type:WriteWords|question:I don't want to eat the red blueberry, and you?|answer:Jau na vi betg mangiar l'izun cotschen, e ti?|id:xAmSYiFq377k}
+{type:Match|question:Select the matching words|options:[Cotschna:Red femenine)][Brin:Brown][Cotschen:Red (masculine)][Verd:Green]|id:djovWo8Skbvp}
+{type:WriteWords|question:Is Switzerland black and white?|answer:[È Svizra nair e alv?][È Svizra nair ed alv]|id:mQ48URQBJ5qR}
+{type:WriteWords|question:The green onion is near the red tomato|answer:La tschagula verd è sper la tomata cotschna|id:QTqT7SIh9T5u}
+{type:WriteWords|question:Vuls ti in'apricosa melna?|answer:Do you want a yellow apricot?|id:PIMj2SiZvKGu}
+{type:WriteWords|question:They don't want the black strawberry|answer:Els na vulan betg la fraja nair|id:D75jEptFHDUK}
+{type:PickMissingWord|question:La tschagula verd è ______ la tomata cotschna|options:[Violetta][sper][Cotschen][Mellen]|answer:sper|id:BWpju6HwMu5o}
+{type:PickOne|question:Dad aur|options:[Purple (femenine)][Brown][Golden]|answer:Golden|id:obuLTNwFvYfU}
+{type:Match|question:Select the matching words|options:[Violet:Purple (masculine)][Alv:White][Nair:Black][Cotschen:Red (masculine)]|id:3RzRyyMDICRZ}
+{type:PickMissingWord|question:L'uffant dad aur è cun mia chasa ____0|options:[Violet][In'ampuauna][Ina banana][nair]|answer:nair|id:pVDAsoK5p6MT}
+{type:WriteWords|question:Ella è dad aur|answer:She is gold|id:eMrTx2xRtF7u}
+{type:WriteWords|question:È Svizra nair e alv?|answer:Is Switzerland black and white?|id:ipkJ09z4RR9y}
+</lesson>
+<lesson:8|id:UzhPzhkyJaNC>
+{type:Match|question:Select the matching words|options:[Mellen:Yellow (masculine)][Rosa:Pink][Cotschna:Red femenine)][Violet:Purple (masculine)]|id:iGD78uraLMKa}
+{type:WriteWords|question:Els han ina citrona melna|answer:They have a yellow lemon|id:pnXalr0rEOuC}
+{type:PickMissingWord|question:El fa ______ in'oranscha cotschna|options:[Verd][Mellen][gugent][In'apricosa]|answer:gugent|id:YBkbzxuTKwqy}
+{type:PickMissingWord|question:______ bab è rosa|options:[Dad aur][Violetta][Nair][Mes]|answer:Mes|id:YaJjpgujmJit}
+{type:Match|question:Select the matching words|options:[Blau:Blue][Verd:Green][Violetta:Purple (femenine)][Nair:Black]|id:t8jMKE9HcWHg}
+{type:WriteWords|question:My grandfather is yellow|answer:Mes tat è mellen|id:SIBXf6pLHoNy}
+{type:WriteWords|question:Es ti verd?|answer:Are you green?|id:4t7tBTfGM5l5}
+{type:WriteWords|question:Mes barba cotschen e mia onda melna|answer:My red uncle and my yellow aunt|id:C4u7p8aHnPD8}
+{type:WriteWords|question:The green onion is near the red tomato|answer:La tschagula verd è sper la tomata cotschna|id:H2XaaZvdpd9a}
+{type:WriteWords|question:They don't want the black strawberry|answer:Els na vulan betg la fraja nair|id:z1G3drsbORVw}
+{type:PickOne|question:Cotschen|options:[Red (masculine)][Yellow (femenine)][Pink]|answer:Red (masculine)|id:YPNdkX7URcN7}
+{type:WriteWords|question:Il mail mellen n'è ni davant ina banana ni in persic|answer:[The yellow apple is neither in front of a banana nor behind a peach][The yellow apple is neither in front of a banana or behind a peach][The yellow apple is not in front of a banana or a peach]|id:76lSefRObVS7}
+{type:WriteWords|question:They have a yellow lemon|answer:Els han ina citrona melna|id:3v6M2JwQUypN}
+</lesson>
+<lesson:9|id:IaIept3op6ZZ>
+{type:WriteWords|question:Vuls ti in'apricosa melna?|answer:Do you want a yellow apricot?|id:PfV4d4oQb4Y9}
+{type:WriteWords|question:La tscharescha violetta e l'izun violet èn qua|answer:The purple cherry and the purple blueberry are here|id:4FK5k2Y3NbKB}
+{type:PickOne|question:Alv|options:[Purple (femenine)][Pink][White]|answer:White|id:0y1AO16oOpjj}
+{type:Match|question:Select the matching words|options:[Verd:Green][Dad aur:Golden][Brin:Brown][Cotschna:Red femenine)]|id:UhNdceI3lfBH}
+{type:PickMissingWord|question:___ tat è mellen|options:[Mes][In'apricosa][Ina mura][Rosa]|answer:Mes|id:uzKGi3uplFl0}
+{type:WriteWords|question:My grandfather is yellow|answer:Mes tat è mellen|id:lLP7fhFsMajL}
+{type:WriteWords|question:I don't want to eat the red blueberry, and you?|answer:Jau na vi betg mangiar l'izun cotschen, e ti?|id:SvM2gdmOUkbp}
+{type:PickMissingWord|question:Mes ______ è mellen|options:[Brin][In persic][Alv][tat]|answer:tat|id:4fG7z7PK6O3S}
+{type:WriteWords|question:They don't want the black strawberry|answer:Els na vulan betg la fraja nair|id:NRDh81KdUVPF}
+{type:WriteWords|question:Mia mamma è blau|answer:My mother is blue|id:UnUSRn1ILrjp}
+{type:WriteWords|question:A purple cherry and a purple blueberry are here|answer:Ina tscharescha violetta e in izun violet èn qua|id:73ONeRnZmI74}
+{type:WriteWords|question:Ella è dad aur|answer:She is gold|id:vYCxIBgdyHw3}
+{type:Match|question:Select the matching words|options:[Nair:Black][Mellen:Yellow (masculine)][Violet:Purple (masculine)][Verd:Green]|id:JGICmsy4yTVG}
+{type:WriteWords|question:Es ti melna?|answer:Are you yellow?|id:u9QLBK0oboHv}
+{type:WriteWords|question:The yellow apple is neither in front of a banana nor behind a peach|answer:[Il mail mellen n'è ni davant ina banana ni in persic][Il mail mellen na è ni davant ina banana ni in persic]|id:HkfC3IoByQf2}
+</lesson>
+<lesson:10|id:o2To5bXTOg1N>
+{type:WriteWords|question:The golden child is with my black house|answer:L'uffant dad aur è cun mia chasa nair|id:3OoVP9yVAexh}
+{type:WriteWords|question:Els na vulan betg la fraja nair|answer:They don't want the black strawberry|id:gSkKgh5LdXA5}
+{type:Match|question:Select the matching words|options:[Cotschna:Red femenine)][Rosa:Pink][Cotschen:Red (masculine)][Verd:Green]|id:s0aqBQVppK77}
+{type:WriteWords|question:Do you want a yellow apricot?|answer:[Vuls ti in'apricosa melna?][Vuls ti ina apricosa melna?]|id:8Yi0CXKzuZZk}
+{type:PickMissingWord|question:La tscharescha violetta e in izun violet èn ______|options:[qua][Mat][Matta][Uffant]|answer:qua|id:mK57q1agMxLF}
+{type:WriteWords|question:El fa gugent in'oranscha cotschna|answer:[He likes to make a red orange][He likes making a red orange]|id:pQh3XqDHKOzN}
+{type:PickOne|question:Dad aur|options:[Red femenine)][Golden][White]|answer:Golden|id:fgkXBVRpC91p}
+{type:Match|question:Select the matching words|options:[Violetta:Purple (femenine)][Cotschen:Red (masculine)][Cotschna:Red femenine)][Nair:Black]|id:0Oku0z9x0XhY}
+{type:WriteWords|question:I don't want to eat the red blueberry, and you?|answer:Jau na vi betg mangiar l'izun cotschen, e ti?|id:5mON1e2PcNM2}
+{type:WriteWords|question:El ha ina mura brin e in'ampuauna rosa|answer:He has a brown blackberry and a pink raspberry|id:oognoY7YjnHe}
+{type:WriteWords|question:My red uncle and my yellow aunt|answer:Mes barba cotschen e mia onda melna|id:d3IDYX66fymO}
+{type:WriteWords|question:She is gold|answer:Ella è dad aur|id:qtnQjVaSKHOA}
+{type:WriteWords|question:Vuls ti in'apricosa melna?|answer:Do you want a yellow apricot?|id:aLOojQ9RCpZM}
+{type:PickMissingWord|question:Jau na vi ______ mangiar l'izun cotschen, e ti?|options:[Ina mura][Nair][betg][Rosa]|answer:betg|id:e11KFMDDUpWn}
+{type:WriteWords|question:Els han ina citrona melna|answer:They have a yellow lemon|id:Ixc23jVij7vA}
+</lesson>
+</skill>
+<skill:Conjunctions|image:nautilus|lessonsperlevel:1|strokecolor:213,0,0|fillcolor:255,23,68|position:2|description:Learn how to form complex sentences in Romansh|id:7IgXpXh02gde>
+<lesson:1|id:a0IIBFES77j2>
+{type:PickOne|question:Però|options:[But][Purple (masculine)][Green]|answer:But|id:3qCn9J1RUc9d}
+{type:FlashCard|front:Damai|back:So|id:xSf81ldg3UCf}
+{type:FlashCard|front:But|back:Però|id:5CzORxAKmIXS}
+{type:PickOne|question:Avant che|options:[Black][Before][Golden]|answer:Before|id:OCkGnpyuFOQK}
+{type:PickOne|question:Suenter che|options:[Green][Red (masculine)][After]|answer:After|id:rL4jOixJO14h}
+{type:FlashCard|front:Perquai che|back:Because|id:xUv8iIs1PcvU}
+{type:PickOne|question:But|options:[Rosa][Però][Violetta]|answer:Rosa|id:96lXNsI3zs71}
+</lesson>
+<lesson:2|id:nBJg1gb6XOFx>
+{type:Match|question:Select the matching words|options:[Però:But][Per:For][Suenter che:After][Damai:So]|id:cbKLz5lFFqGZ}
+{type:Match|question:Select the matching words|options:[Per:For][Suenter che:After][U:Or][Damai:So]|id:Oiyx6fDL30Dn}
+{type:Match|question:Select the matching words|options:[Rosa:Pink][Alv:White][Per:For][Verd:Green]|id:d0FhlmlC2RaP}
+{type:PickMissingWord|question:Jau vi mangiar ina citrona suenter che els ______ in'oranscha perquai che la citrona è bella|options:[mangiar][Però][Violetta][Melna]|answer:mangiar|id:k56SJTHztVX8}
+{type:PickOne|question:Per|options:[For][After][So]|answer:For|id:9WZur10jlrOX}
+</lesson>
+<lesson:3|id:Eow6JNaD784q>
+{type:Match|question:Select the matching words|options:[Avant che:Before][Damai:So][U:Or][Però:But]|id:SIGX4fPGy2tN}
+{type:PickMissingWord|question:Jau vi mangiar ina citrona suenter ______ els mangian in'oranscha perquai che la citrona è bella|options:[Suenter che][Violet][che][Perquai che]|answer:che|id:JFjn9OOTpTl1}
+{type:WriteWords|question:Oz u damaun?|answer:Today or tomorrow?|id:rSCK42Mo8ZLd}
+{type:WriteWords|question:I will eat a lemon after they eat the orange because the lemon is beautiful|answer:Jau vegn a mangiar ina citrona suenter che els mangian l'oranscha perquai che la citrona è bella|id:9IY88VgAgZqx}
+{type:WriteWords|question:I want to make pasta before you make a yellow apple|answer:Jau vi far pasta avant che ti fas in mail mellen|id:IzSdSSSgefhN}
+{type:Match|question:Select the matching words|options:[Perquai che:Because][U:Or][Per:For][Suenter che:After]|id:3X214VUcwB13}
+{type:PickMissingWord|question:Jau vi mangiar tscharescha da Spagna u Belgia perquai ______ jau sun da Norvegia|options:[Per][Avant che][che][Mellen]|answer:che|id:jSkXQBtjF4lJ}
+{type:WriteWords|question:Jau vi mangiar cun mia famiglia, però els n'èn betg qua|answer:I want to eat with my family, but they are not here|id:k0hxAXjuZw0Y}
+{type:WriteWords|question:I want a tomato for my brother|answer:Jau vi ina tomata per mes frar|id:hu9R2JDiIPGj}
+{type:WriteWords|question:Jau vi mangiar cun mia famiglia, però els n'èn betg qua|answer:I want to eat with my family, but they are not here|id:MwzGQIQ974q0}
+{type:PickMissingWord|question:Oz ______ damaun?|options:[u][Nair][Per][Melna]|answer:u|id:3D8wqLxf2BCS}
+{type:PickOne|question:Per|options:[After][Before][For]|answer:For|id:2bYEKo4qd8sC}
+</lesson>
+<lesson:4|id:FX9uvMT4029R>
+{type:PickMissingWord|question:Vul ella ______ brin u ina fraja dad aur?|options:[Brin][Melna][in'ampuauna][Violet]|answer:in'ampuauna|id:WsJW6LEYi77L}
+{type:WriteWords|question:Jau vi ina tomata per mes frar|answer:I want a tomato for my brother|id:9raQLjb3XCMC}
+{type:Match|question:Select the matching words|options:[Suenter che:After][Per:For][Damai:So][Però:But]|id:kEtIMe3f4ecC}
+{type:WriteWords|question:Jau vi mangiar ina tscharescha da Spagna u Belgia perquai che jau sun da Norvegia|answer:I want to eat a cherry from Spain or Belgium because I am from Norway|id:JJoManUCxmcb}
+{type:WriteWords|question:I want to eat a cherry from Spain or Belgium because I am from Norway|answer:Jau vi mangiar ina tscharescha da Spagna u Belgia perquai che jau sun da Norvegia|id:hcuOosbDVolZ}
+{type:WriteWords|question:You want to go now, but we want to go later|answer:Ti vuls ir ussa, però nus vulain ir suenter|id:W3xPzZ5lI0JF}
+{type:WriteWords|question:Jau vi mangiar ina citrona suenter che els mangian in'oranscha perquai che la citrona è bella|answer:I will eat a lemon after they eat an orange because the lemon is beautiful|id:rPBzaKrrEwqK}
+{type:Match|question:Select the matching words|options:[Avant che:Before][Per:For][Suenter che:After][U:Or]|id:dexxIFdzLdgk}
+{type:PickMissingWord|question:El è verd, ______ ella è blau|options:[damai][Nair][Cotschna][Dad aur]|answer:damai|id:eX63u85v7ZFQ}
+{type:PickOne|question:Avant che|options:[Before][So][But]|answer:Before|id:MVmyS3cDAeP4}
+{type:WriteWords|question:Jau vi ina tomata per mes frar|answer:I want a tomato for my brother|id:FedYuGj8zETJ}
+{type:WriteWords|question:I will eat a lemon after they eat the orange because the lemon is beautiful|answer:Jau vegn a mangiar ina citrona suenter che els mangian l'oranscha perquai che la citrona è bella|id:hgReMLJEC6uP}
+{type:WriteWords|question:I want to make pasta before you make a yellow apple|answer:Jau vi far pasta avant che ti fas in mail mellen|id:oyRUvSpgxcS6}
+</lesson>
+<lesson:5|id:wkH4XrQ32FEY>
+{type:Match|question:Select the matching words|options:[Perquai che:Because][Avant che:Before][Per:For][U:Or]|id:a07ik8jHe0Uk}
+{type:PickMissingWord|question:Vul ella in'ampuauna brin u ina fraja dad ______?|options:[Dad aur][Perquai che][aur][Alv]|answer:aur|id:uO55pgxCdgcb}
+{type:WriteWords|question:He will go to East Timor before he will go to Czechia and after he will go to France|answer:El vegn ad ir a Timor da L'ost avant che el vegn ad ir a Tschechia e suenter che el vegn ad ir a Frantscha|id:m6veeWOiwQu5}
+{type:WriteWords|question:Does she want a brown raspberru pr a golden strawberry?|answer:Vul ella in'ampuauna brin u ina fraja dad aur?|id:pAiuYKfquetu}
+{type:WriteWords|question:I will eat a lemon after they eat the orange because the lemon is beautiful|answer:[Jau vegn a mangiar ina citrona suenter che els mangian l'oranscha perquai che la citrona è bella][Jau vegn a mangiar ina citrona suenter ch'els mangian l'oranscha perquai che la citrona è bella]|id:6jzWzBb6JLDg}
+{type:WriteWords|question:Today or tomorrow?|answer:Oz u damaun?|id:uGI4Rml4wuA9}
+{type:PickOne|question:Per|options:[After][So][For]|answer:For|id:T6XEG70Y4avF}
+{type:WriteWords|question:El vegn ad ir a Timor da L'ost avant che el vegn ad ir a Tschechia e suenter che el vegn ad ir a Frantscha|answer:He will go to East Timor before he will go to Czechia and after he will go to France|id:fNzrQ51zeDMn}
+{type:WriteWords|question:El è verd, damai ella è blau|answer:[He is green, so she is blue][He is green, therefore she is blue][He is green, thus she is blue]|id:cLwPeArxNtOK}
+{type:WriteWords|question:Jau vi far pasta avant che ti fas in mail mellen|answer:I want to make pasta before you make a yellow apple|id:b89wICq63i0H}
+{type:WriteWords|question:Jau vi far pasta avant che ti fas in mail mellen|answer:I want to make pasta before you make a yellow apple|id:9FXBVrFL7jxb}
+{type:PickMissingWord|question:Jau vi mangiar ina citrona suenter che els mangian ______ perquai che la citrona è bella|options:[in'oranscha][Rosa][Damai][Per]|answer:in'oranscha|id:hAeBx5FcAYlg}
+{type:WriteWords|question:Oz u damaun?|answer:Today or tomorrow?|id:cnSwZx551NG7}
+{type:Match|question:Select the matching words|options:[Però:But][Per:For][Damai:So][Suenter che:After]|id:aYmalS06e7kB}
+{type:WriteWords|question:I want to make pasta before you make a yellow apple|answer:Jau vi far pasta avant che ti fas in mail mellen|id:kT0Wr8RzForn}
+</lesson>
+</skill>
+<skill:How long|image:measure-distance|lessonsperlevel:3|strokecolor:213,0,0|fillcolor:255,23,68|position:3|description:Learn how to describe how long something has been happening for|id:dnyAlc9Rv2Dj>
+<lesson:1|id:ysryBOcRQLZE>
+{type:FlashCard|front:Tschintg|back:Five|id:IWVxvpv0uVJu}
+{type:PickOne|question:Day|options:[Di][But][Before]|answer:Di|id:vDUYrhMyonMo}
+{type:PickOne|question:Days|options:[But][Because][Dis]|answer:Dis|id:esp8YeyCfiGr}
+{type:PickOne|question:Emna|options:[Because][Week][For]|answer:Week|id:LyQW8tGwkGuR}
+{type:FlashCard|front:Diesch|back:Ten|id:DYGw3qvGXiXH}
+{type:FlashCard|front:Emna|back:Week|id:xWKHi5T6CRjZ}
+{type:PickOne|question:Day|options:[Because][Di][Before]|answer:Di|id:SKEPqPP0pQwg}
+</lesson>
+<lesson:2|id:ECdeX814Hd2w>
+{type:PickOne|question:Day|options:[Di][Because][So]|answer:Di|id:iRcqeTzIAvLY}
+{type:FlashCard|front:Ten|back:Diesch|id:giZkaWjnG9Gu}
+{type:PickOne|question:Minute|options:[Però][Minuta][Damai]|answer:Però|id:tPZAS5iPyQrl}
+{type:PickOne|question:Nov|options:[Nine][Because][But]|answer:Nine|id:NEP9dbjidYj7}
+{type:FlashCard|front:Uras|back:Hours|id:skkRAJtTGog2}
+{type:PickOne|question:Diesch|options:[Ten][Because][Before]|answer:Ten|id:fji3xeZDDuSG}
+{type:FlashCard|front:Sis|back:Six|id:wuy32wCm7B27}
+</lesson>
+<lesson:3|id:9m5phSBC1w49>
+{type:PickOne|question:Hour|options:[U][Avant che][Ura]|answer:U|id:DuOyDLbrAfZQ}
+{type:PickOne|question:Days|options:[Dis][Perquai che][Per]|answer:Dis|id:jK5HiKD9XxWC}
+{type:PickOne|question:Duas|options:[But][Two][Before]|answer:But|id:9SO4x8SyZnnB}
+{type:PickOne|question:Three|options:[Però][Suenter che][Traia]|answer:Però|id:6zvnYwWCOFR9}
+{type:FlashCard|front:Six|back:Sis|id:DFE5A5DOdPRG}
+{type:FlashCard|front:Eight|back:Otg|id:dDgDVpPVtdiT}
+{type:FlashCard|front:Quatter|back:Four|id:acs5MUpN70yV}
+</lesson>
+<lesson:4|id:4S4VEMAeoIBm>
+{type:PickMissingWord|question:El ha in'emna però el vul ______ emnas|options:[Days][Nov][tschintg][Sis]|answer:tschintg|id:IZkTKjruC1Rq}
+{type:Match|question:Select the matching words|options:[Hours:Uras][Sis:Six][Tschintg:Five][Days:Dis]|id:K9ZcaclOMZ3u}
+{type:Match|question:Select the matching words|options:[In:One (masculine)][Minuta:Minute][Nov:Nine][Set:Seven]|id:sfztj3UhkCjv}
+{type:PickOne|question:Dapi|options:[Two][Since][Four]|answer:Since|id:DmlK6HjzTEqv}
+{type:Match|question:Select the matching words|options:[Per:For][Suenter che:After][Però:But][Minuta:Minute]|id:EmfxTh03cmbf}
+{type:PickMissingWord|question:Jau ______ pasta dapi duas minutas|options:[fatsch][Hours][Duas][Dapi]|answer:fatsch|id:fVsSpGFu8HR8}
+</lesson>
+<lesson:5|id:d6HlmFqiFHF5>
+{type:Match|question:Select the matching words|options:[Minuta:Minute][Emna:Week][Tschintg:Five][Days:Dis]|id:7Z33nxGDdR1p}
+{type:PickMissingWord|question:Otg dis suenter che jau mangel in ______ verd|options:[U][Set][persic][Tschintg]|answer:persic|id:FMi1LWB0ZM1p}
+{type:PickMissingWord|question:El ha in'emna però el ____ tschintg emnas|options:[Nov][Set][vul][Duas]|answer:vul|id:RInOa1NACeuS}
+{type:Match|question:Select the matching words|options:[Hour:Ura][Avant che:Before][Suenter che:After][U:Or]|id:x9wzNo8bi2b0}
+{type:Match|question:Select the matching words|options:[Hour:Ura][Nov:Nine][Set:Seven][Duas:Two]|id:j1OuuVTWGoYB}
+{type:PickOne|question:Quatter|options:[Five][Four][Minute]|answer:Five|id:BZMjnXoFZYNQ}
+</lesson>
+<lesson:6|id:cVYxj5ko0gnZ>
+{type:Match|question:Select the matching words|options:[Per:For][Perquai che:Because][Diesch:Ten][U:Or]|id:KfxxZINtM9Dc}
+{type:PickOne|question:Diesch|options:[Ten][Ura][Weeks]|answer:Ten|id:H2M0A5TwwtPm}
+{type:PickMissingWord|question:Nus giain ad ina posta dapi quatter ______|options:[Minuta][Perquai che][Suenter che][dis]|answer:dis|id:zlDAUqjxrEha}
+{type:Match|question:Select the matching words|options:[Otg:Eight][Days:Dis][Tschintg:Five][Trais:Three]|id:eCzclJnW4YJp}
+{type:Match|question:Select the matching words|options:[Nov:Nine][Hour:Ura][Diesch:Ten][Set:Seven]|id:gLxwW3rPwhYK}
+{type:PickMissingWord|question:Jau ______ pasta dapi duas minutas|options:[Minutas][Minuta][fatsch][Damai]|answer:fatsch|id:b5fVBzBQNTkm}
+</lesson>
+<lesson:7|id:chSiERi04rlM>
+{type:WriteWords|question:We've been here for six weeks|answer:Nus essan qua dapi sis emnas|id:Bq4nwuRls6lj}
+{type:PickMissingWord|question:Damai jau vegn ad ir diesch ______ avant che vus vulais ir|options:[minutas][Minuta][Sis][Emna]|answer:minutas|id:QC3w9pqXPp6m}
+{type:PickOne|question:Duas|options:[Seven][Five][Two]|answer:Two|id:ouiUwXLK4yfu}
+{type:PickMissingWord|question:Jau sun qua dapi ina ______|options:[Perquai che][Dapi][Avant che][minuta]|answer:minuta|id:l584Tu5AREP0}
+{type:WriteWords|question:I will go nine days later because I don't want to go now|answer:Jau vegn ad ir nov dis suenter perquai che jau na vi betg ir ussa|answerviewable:Kee poging|special:[Jau]|id:K7v14wtsUvXT}
+{type:Match|question:Select the matching words|options:[Emnas:Weeks][Day:Di][Diesch:Ten][Minuta:Minute]|id:xXGjXLrjMieI}
+{type:Match|question:Select the matching words|options:[Tschintg:Five][Emna:Week][Hour:Ura][Minutas:Minutes]|id:0ttdQTRsJhm1}
+{type:WriteWords|question:I've been here for a minute|answer:Jau sun qua dapi ina minuta|id:eDsevCgUAaM6}
+{type:WriteWords|question:Jau vi set uras per far ina mura alv|answer:i want seven hours to make a white blackberry|id:zskGhy5rrIdP}
+{type:WriteWords|question:Damai jau vegn ad ir diesch minutas avant che vus vulais ir|answer:[Therefore I will go ten minutes before you want to go][So I will go ten minutes before you want to go][Thus I will go ten minutes before you want to go]|answerviewable:Keep going|special:[So]|id:eIp8PMbnQ5Hn}
+{type:PickMissingWord|question:Ti ______ tschintg minutas|options:[Day][Suenter che][Duas][has]|answer:has|id:1tyYUuBoWKlt}
+</lesson>
+<lesson:8|id:LbTbuN5rKywQ>
+{type:WriteWords|question:Eight days after I eat a green peach|answer:Otg dis suenter che jau mangel in persic verd|id:qbmrgb2TQGdy}
+{type:WriteWords|question:Ha ella in'ura u in di?|answer:Does she have an hour or a day?|id:nnh2AbuHP1bE}
+{type:PickMissingWord|question:El ha in'emna però el ______ tschintg emnas|options:[Però][vul][Sis][Suenter che]|answer:vul|id:ZsWEHcdLBNup}
+{type:WriteWords|question:Ti has tschintg minutas|answer:You have five minutes|id:OAcVL23o2Dgk}
+{type:Match|question:Select the matching words|options:[Hours:Uras][Dapi:Since][Tschintg:Five][Emnas:Weeks]|id:JLoGuUHgJOpc}
+{type:WriteWords|question:Nus giain ad ina posta dapi quatter dis|answer:[We've been going to a post office for four days][We have been going to a post office for four days]|answerviewable:Keep going|special:[We]|id:sHndPOQkJkME}
+{type:PickMissingWord|question:Otg dis suenter che jau ______ in persic verd|options:[mangel][Hour][Duas][Set]|answer:mangel|id:vLH7AvdWtgOR}
+{type:PickMissingWord|question:Nus essan ______ dapi sis emnas|options:[qua][Days][Damai][Per]|answer:qua|id:iHo4vNs3wR8t}
+{type:Match|question:Select the matching words|options:[Minutas:Minutes][Set:Seven][Emnas:Weeks][Minuta:Minute]|id:GBpz7HAeFo7f}
+{type:WriteWords|question:We've been eating the onion for three hours|answer:Nus mangian la tschagula dapi trais uras|id:RYH8W1wYIDfA}
+{type:PickOne|question:Hour|options:[Ten][Two][Ura]|answer:Ura|id:Am4VKiWTxSaE}
+{type:WriteWords|question:You have five minutes|answer:Ti has tschintg minutas|id:MEd3fPIyB7tp}
+</lesson>
+<lesson:9|id:eSJiOvcCe4Pq>
+{type:WriteWords|question:I will go nine days later because I don't want to go now|answer:Jau vegn ad ir nov dis suenter perquai che jau na vi betg ir ussa|answerviewable:Keep going!|special:[dis]|id:GGVYaoXGuTAH}
+{type:PickMissingWord|question:Nus mangian ______ tschagula dapi trais uras|options:[Days][la][Minuta][Per]|answer:la|id:igT0FOaas99r}
+{type:Match|question:Select the matching words|options:[Trais:Three][Dapi:Since][Hour:Ura][Otg:Eight]|id:ih6sdwyIcVnU}
+{type:PickOne|question:Quatter|options:[Four][Weeks][Dis]|answer:Four|id:byo2ztKzOSzV}
+{type:Match|question:Select the matching words|options:[Minutas:Minutes][Tschintg:Five][Days:Dis][Trais:Three]|id:IMp8ZyklgUEf}
+{type:PickMissingWord|question:Nus giain ad ina ______ dapi quatter dis|options:[Hours][posta][Sis][Nov]|answer:posta|id:PE2lwlMOdX0P}
+{type:WriteWords|question:Eight days after I eat a green peach|answer:Otg dis suenter che jau mangel in persic verd|id:lgssEh2In3p4}
+{type:WriteWords|question:i want seven hours to make a white blackberry|answer:Jau vi set uras per far ina mura alv|id:BYpkm3NQyBjC}
+{type:PickMissingWord|question:Nus ______ la tschagula dapi trais uras|options:[Day][Perquai che][Però][mangian]|answer:mangian|id:5XYdWE4PLARO}
+{type:WriteWords|question:Ti has tschintg minutas|answer:You have five minutes|id:N88IxRSPWPvH}
+{type:WriteWords|question:El ha in'emna però el vul tschintg emnas|answer:He has a week but he wants five week|id:2M9Zfnmnsk6z}
+{type:WriteWords|question:Jau fatsch pasta dapi duas minutas|answer:[I've been making pasta for two minutes][I have been making pasta for two minutes]|answerviewable:Keep going|special:[I]|id:W6Fci0rIJdyR}
+</lesson>
+<lesson:10|id:WIaIFEFqOHj0>
+{type:PickMissingWord|question:Jau vi set uras per far ina mura ______|options:[alv][Damai][Perquai che][Nov]|answer:alv|id:Q1xrSU2DXe50}
+{type:WriteWords|question:Nus essan qua dapi sis emnas|answer:[We've been here for six weeks][We have been here for six weeks]|answerviewable:k|special:[We]|id:kshmfiUb8cCT}
+{type:WriteWords|question:Jau fatsch pasta dapi duas minutas|answer:[I've been making pasta for two minutes][I have been making pasta for two minutes]|answerviewable:k|special:[I]|id:2RhcIqSWBnYr}
+{type:WriteWords|question:We've been eating the onion for three hours|answer:Nus mangiain la tschagula dapi trais uras|answerviewable:k|special:[Nus]|id:EGanjQOVbGfw}
+{type:WriteWords|question:I will go nine days later because I don't want to go now|answer:Jau vegn ad ir nov dis suenter perquai che jau na vi betg ir ussa|answerviewable:K|special:[Jau]|id:znOeDhgrH5bZ}
+{type:Match|question:Select the matching words|options:[Minuta:Minute][Minutas:Minutes][Duas:Two][Dapi:Since]|id:8Dyqe9x6Ing8}
+{type:PickOne|question:Days|options:[Dis][Weeks][Two]|answer:Dis|id:qf8bFyIIWCTF}
+{type:PickMissingWord|question:Ti has ______ minutas|options:[Emna][Emnas][Perquai che][tschintg]|answer:tschintg|id:6ZdCw1pEf5UL}
+{type:WriteWords|question:Jau fatsch pasta dapi duas minutas|answer:[I've been making pasta for two minutes][I have been making pasta for two minutes]|answerviewable:L|special:[I]|id:7DykzSNRdEvM}
+{type:WriteWords|question:El ha in'emna però el vul tschintg emnas|answer:He has a week but he wants five week|id:NMHrymyBM4jn}
+{type:WriteWords|question:I've been here for a minute|answer:Jau sun qua dapi ina minuta|id:dM9HWPIn5HSS}
+{type:WriteWords|question:We've been eating the onion for three hours|answer:Nus mangian la tschagula dapi trais uras|id:3Wui5i0MAavI}
+{type:Match|question:Select the matching words|options:[Quatter:Four][Day:Di][Sis:Six][Otg:Eight]|id:InF49FLzUOvP}
+</lesson>
+<lesson:11|id:qZ0VaEAb2ifT>
+{type:WriteWords|question:Eight days after I eat a green peach|answer:Otg dis suenter che jau mangel in persic verd|id:6a6SnEpLxFCU}
+{type:WriteWords|question:Otg dis suenter che jau mangel in persic verd|answer:Eight days after I eat a green peach|id:VI8gq0g9Iqg5}
+{type:WriteWords|question:Otg dis suenter che jau mangel in persic verd|answer:Eight days after I eat a green peach|id:y47CQ23RWJLi}
+{type:PickOne|question:Duas|options:[Four][Two][Week]|answer:Two|id:u0ptqTanSHad}
+{type:PickMissingWord|question:Nus ______ ad ina posta dapi quatter dis|options:[giain][Avant che][U][Emna]|answer:giain|id:cmnQRwA9WFti}
+{type:Match|question:Select the matching words|options:[Day:Di][Minutas:Minutes][Sis:Six][Set:Seven]|id:WQeMm0Wdtl7V}
+{type:PickMissingWord|question:Nus giain ad ina ______ dapi quatter dis|options:[Day][Hour][Avant che][posta]|answer:posta|id:7ctwlLtVUy42}
+{type:WriteWords|question:Eight days after I eat a green peach|answer:Otg dis suenter che jau mangel in persic verd|id:Pe7xqppgT0Ub}
+{type:WriteWords|question:Jau vegn ad ir nov emnas suenter perquai che jau na vi betg ir ussa|answer:I will go nine weeks later because I don't want to go now|answerviewable:K|special:[will]|id:DXbW9sjj1bSF}
+{type:Match|question:Select the matching words|options:[Set:Seven][Emna:Week][Diesch:Ten][Duas:Two]|id:IeVujgsecTOI}
+{type:WriteWords|question:i want seven hours to make a white blackberry|answer:Jau vi set uras per far ina mura alv|id:uDhjd3gnN9Gh}
+{type:WriteWords|question:I've been making pasta for two minutes|answer:Jau fatsch pasta dapi duas minutas|id:q1yr0fcTYMPs}
+{type:WriteWords|question:Damai jau vegn ad ir diesch minutas avant che vus vulais ir|answer:[Therefore I will go ten minutes before you want to go][So I will go ten minutes before you want to go][Thus I will go ten minutes before you want to go]|answerviewable:K|special:[go]|id:0cxD4j5a8vIg}
+</lesson>
+<lesson:12|id:RMMRxqvgIbni>
+{type:WriteWords|question:Jau fatsch pasta dapi duas minutas|answer:[I've been making pasta for two minutes][I have been making pasta for two minutes]|answerviewable:K|special:[two]|id:0GgyhX7h2Nt7}
+{type:WriteWords|question:Jau sun qua dapi ina minuta|answer:[I've been here for a minute][I have been here for a minute]|answerviewable:K|special:[minute]|id:My51gBQ6UkSC}
+{type:WriteWords|question:Jau fatsch pasta dapi duas minutas|answer:[I've been making pasta for two minutes][I have been making pasta for two minutes]|answerviewable:K|special:[minutes]|id:uZJNyjNl5BzB}
+{type:WriteWords|question:Does she have an hour or a day?|answer:Ha ella in'ura u in di?|id:9xmziweTPpr8}
+{type:Match|question:Select the matching words|options:[Duas:Two][Minutas:Minutes][Otg:Eight][Nov:Nine]|id:SnUH3BqRPhPw}
+{type:WriteWords|question:I've been here for a minute|answer:Jau sun qua dapi ina minuta|id:zDp9ZmKcwBZu}
+{type:WriteWords|question:I've been here for a minute|answer:Jau sun qua dapi ina minuta|id:0rE9x9DTr0Wo}
+{type:WriteWords|question:Nus giain ad ina posta dapi quatter dis|answer:[We've been going to a post office for four days][We have been going to a post office for four days]|answerviewable:K|special:[We]|id:hJmZd4V4qxlg}
+{type:PickMissingWord|question:El ______ in'emna però el vul tschintg emnas|options:[U][ha][Minuta][Minutas]|answer:ha|id:iyQVktRiVu9a}
+{type:PickMissingWord|question:Damai jau ______ ad ir diesch minutas avant che vus vulais ir|options:[Per][vegn][Minutas][Nov]|answer:vegn|id:F8TuxifiWAyQ}
+{type:Match|question:Select the matching words|options:[Nov:Nine][Hours:Uras][Tschintg:Five][Otg:Eight]|id:pUTc09n7XY7W}
+{type:WriteWords|question:I've been here for a minute|answer:Jau sun qua dapi ina minuta|id:EwHqoWguOqGX}
+{type:PickOne|question:Diesch|options:[Nine][Ten][Two]|answer:Ten|id:d0nm8n01wToh}
+</lesson>
+<lesson:13|id:tv0lnRLpVvl7>
+{type:WriteWords|question:Ha ella in'ura u in di?|answer:Does she have an hour or a day?|id:YZbuRqsnxepv}
+{type:WriteWords|question:Jau vegn ad ir nov emnas suenter perquai che jau na vi betg ir ussa|answer:I will go nine weeks later because I don't want to go now|answerviewable:K|special:[weeks]|id:HLSbObkgsZ4H}
+{type:WriteWords|question:Nus giain ad ina posta dapi quatter dis|answer:[We've been going to a post office for four days][We have been going to a post office for four days]|answerviewable:K|special:[We]|id:d0xjOZuJs4vb}
+{type:PickMissingWord|question:______ giain ad ina posta dapi quatter dis|options:[Nus][Days][Per][Trais]|answer:Nus|id:PpnH9hz09fgQ}
+{type:Match|question:Select the matching words|options:[Hours:Uras][Duas:Two][Diesch:Ten][Quatter:Four]|id:NKJxnnjvO0OC}
+{type:WriteWords|question:We've been going to a post office for four days|answer:Nus giain ad ina posta dapi quatter dis|id:1dN8H8hm2hcB}
+{type:WriteWords|question:I've been here for a minute|answer:Jau sun qua dapi ina minuta|id:prCqecwEbJqE}
+{type:WriteWords|question:Jau vi set uras per far ina mura alv|answer:i want seven hours to make a white blackberry|id:zHbb8cppTHoO}
+{type:PickOne|question:Minutas|options:[Minutes][Ten][Seven]|answer:Minutes|id:KBCQ6m1I24p4}
+{type:WriteWords|question:I will go nine days later because I don't want to go now|answer:Jau vegn ad ir nov dis suenter perquai che jau na vi betg ir ussa|answerviewable:K|special:[dis]|id:y34YKTC4kv1O}
+{type:WriteWords|question:He has a week but he wants five week|answer:El ha in'emna però el vul tschintg emnas|id:fA02duLZJrYr}
+{type:WriteWords|question:We've been going to a post office for four days|answer:Nus giain ad ina posta dapi quatter dis|id:ha5YR9AnjmsK}
+{type:PickMissingWord|question:Ha ella ______ u in di?|options:[Sis][in'ura][portg da mar][Però]|answer:in'ura|id:49kX9QgnHGs4}
+{type:Match|question:Select the matching words|options:[Emnas:Weeks][Duas:Two][Nov:Nine][Otg:Eight]|id:Fwu5gKBAxJwG}
+{type:WriteWords|question:Jau sun qua dapi ina minuta|answer:[I've been here for a minute][I have been here for a minute][I've been here for one minute][I have been here for one minute]|answerviewable:K|special:[minute]|id:lvHg1NmtGBJb}
+</lesson>
+<lesson:14|id:vORM17BbPGsU>
+{type:PickMissingWord|question:Ti has tschintg ______|options:[minutas][Set][Tschintg][Emna]|answer:minutas|id:7jqbLTv9W4GP}
+{type:WriteWords|question:i want seven hours to make a white blackberry|answer:Jau vi set uras per far ina mura alv|id:NNIlNsI8Rnnc}
+{type:WriteWords|question:We've been eating the onion for three hours|answer:Nus mangian la tschagula dapi trais uras|id:CuQJaO3BZdkW}
+{type:WriteWords|question:Nus giain ad ina posta dapi quatter dis|answer:We've been going to a post office for four days|id:Ig1e2vi6WSB8}
+{type:WriteWords|question:Eight days after I eat a green peach|answer:Otg dis suenter che jau mangel in persic verd|id:rRN0w7C4zJCn}
+{type:WriteWords|question:Eight days after I eat a green peach|answer:Otg dis suenter che jau mangel in persic verd|id:xKtNQM0kOwdP}
+{type:WriteWords|question:We've been here for six weeks|answer:Nus essan qua dapi sis emnas|id:SnrZKnGtQozf}
+{type:WriteWords|question:Otg dis suenter che jau mangel in persic verd|answer:Eight days after I eat a green peach|id:sO2mFMsI0luX}
+{type:PickMissingWord|question:El ha in'emna però el vul ______ emnas|options:[tschintg][Minutas][Per][Quatter]|answer:tschintg|id:c0FUf5DuC4Na}
+{type:WriteWords|question:Damai jau vegn ad ir diesch minutas avant che vus vulais ir|answer:[Therefore I will go ten minutes before you want to go][So I will go ten minutes before you want to go][Thus I will go ten minutes before you want to go]|answerviewable:K|special:[go]|id:n5U2mPZ4chEA}
+{type:WriteWords|question:Nus essan qua dapi sis emnas|answer:[We've been here for six weeks][We have been here for six weeks]|answerviewable:K|special:[weeks]|id:vnvhpbcK4dnN}
+{type:Match|question:Select the matching words|options:[Quatter:Four][Duas:Two][Nov:Nine][Day:Di]|id:jRQrEOPLVkyL}
+{type:PickOne|question:Day|options:[Minutes][Dis][Di]|answer:Di|id:MhebinpjEN5A}
+{type:WriteWords|question:Jau sun qua dapi ina minuta|answer:[I've been here for a minute][I have been here for a minute]|answerviewable:K|special:[minute]|id:huGgINxYPMd7}
+{type:Match|question:Select the matching words|options:[Sis:Six][Emna:Week][Hour:Ura][Hours:Uras]|id:F9DE1AIYIIPK}
+</lesson>
+<lesson:15|id:ANJh2et4wx8C>
+{type:WriteWords|question:Nus mangian la tschagula dapi trais uras|answer:[We've been eating the onion for three hours][We have been eating the onion for three hours]|answerviewable:K|special:[hours]|id:gmG9wpNBpdsg}
+{type:WriteWords|question:Otg dis suenter che jau mangel in persic verd|answer:Eight days after I eat a green peach|id:ArjH2V0DqgTe}
+{type:WriteWords|question:We've been here for six weeks|answer:Nus essan qua dapi sis emnas|id:FWVs3hbJXL59}
+{type:PickOne|question:Emnas|options:[Ten][Seven][Weeks]|answer:Weeks|id:FV0hJvTx0fNb}
+{type:WriteWords|question:i want seven hours to make a white blackberry|answer:Jau vi set uras per far ina mura alv|id:R3eyLCqFpC0Q}
+{type:WriteWords|question:Nus giain ad ina posta dapi quatter dis|answer:[We've been going to a post office for four days][We have been going to a post office for four days]|answerviewable:Y|special:[days]|id:PGZNjEXVQNyT}
+{type:WriteWords|question:Jau vegn ad ir nov dis suenter perquai che jau na vi betg ir ussa|answer:I will go nine days later because I don't want to go now|answerviewable:K|special:[now]|id:YhQmWGoPKV51}
+{type:WriteWords|question:Does she have an hour or a day?|answer:Ha ella in'ura u in di?|id:akfzpQWyanNJ}
+{type:WriteWords|question:We've been here for six weeks|answer:Nus essan qua dapi sis emnas|id:5mikDCycw7vG}
+{type:WriteWords|question:Jau vi set uras per far ina mura alv|answer:i want seven hours to make a white blackberry|id:ZjPbEtTFiTZ3}
+{type:Match|question:Select the matching words|options:[Hours:Uras][Minuta:Minute][Emnas:Weeks][Otg:Eight]|id:AFYnAyT79flc}
+{type:Match|question:Select the matching words|options:[Minutas:Minutes][Sis:Six][Trais:Three][Set:Seven]|id:vBH4O5zuV99N}
+{type:PickMissingWord|question:Nus mangiain ______ tschagula dapi trais uras|options:[Per][Emnas][Hours][la]|answer:la|id:z0rWLfZjDaMQ}
+{type:WriteWords|question:I will go nine days later because I don't want to go now|answer:Jau vegn ad ir nov dis suenter perquai che jau na vi betg ir ussa|answerviewable:K|special:[ir]|id:2RK0e2qdhPRx}
+{type:PickMissingWord|question:______ dis suenter che jau mangel in persic verd|options:[Otg][Day][Perquai che][Che]|answer:Otg|id:M8qwIRafzEv9}
+</lesson>
+</skill>
+<skill:More foods|image:pizza|lessonsperlevel:2|strokecolor:213,0,0|fillcolor:255,23,68|position:4|description:Learn how to describe what you eat in Romansh|id:PMNDxHTtjs7H>
+<lesson:1|id:zykw4WcB1ouZ>
+{type:PickOne|question:Charn|options:[Six][Meat][Ura]|answer:Meat|id:3Ga8ItdJvVrT}
+{type:PickOne|question:Pesch|options:[Minutes][Fish][Three]|answer:Fish|id:sXuBH1WeVQkg}
+{type:PickOne|question:Chaschiel|options:[Cheese][Minute][Uras]|answer:Cheese|id:2HEf99jlqFJn}
+{type:FlashCard|front:Ice cream|back:Glatsch|id:KqzT2iJLSbxY}
+{type:PickOne|question:Ov|options:[Egg][Three][Uras]|answer:Egg|id:4xuVaDH619VZ}
+{type:FlashCard|front:Egg|back:Ov|id:WcNJi3lreBU3}
+{type:FlashCard|front:Fish|back:Pesch|id:VRXYyHYtZXxK}
+{type:ImagePick|question:Pizza|options:[Apple:apple][Pizza:pizza][Burger:burger][Cheese:cheese]|answer:Pizza|id:SyOdtvhGCjWq}
+{type:ImagePick|question:Charn|options:[Salt:salt][Meat:meat-2][Bread:bread][Pizza:pizza]|answer:Meat|id:lZA9d6QsrpDV}
+</lesson>
+<lesson:2|id:YhzSTWv5nyHY>
+{type:ImagePick|question:Paun|options:[Fish:fish-plate][Bread:bread][Ice cream:ice-cream-cone][Cheese:cheese]|answer:Bread|id:RitLye2WPMy9}
+{type:ImagePick|question:Pizza|options:[Pizza:pizza][Cheese:cheese][Salt:salt][Milk:milk]|answer:Pizza|id:fo99forBJEjN}
+{type:ImagePick|question:Charn|options:[Pizza:pizza][Meat:meat][Salt:salt][Fish:fish-plate]|answer:Meat|id:vKGekjQz3hT0}
+{type:PickOne|question:Glatsch|options:[Ice cream][Ten][Five]|answer:Ice cream|id:3Ug7jWeNGNQf}
+{type:FlashCard|front:Grut asch|back:Sauerkraut|id:o52VyClhrSI4}
+{type:PickOne|question:Charn|options:[Meat][Ura][Since]|answer:Meat|id:8YwM2gaMZ90D}
+{type:FlashCard|front:Chaschiel|back:Cheese|id:xjTwJGbSMpUC}
+{type:PickOne|question:Grut asch|options:[Ten][Sauerkraut][Minute]|answer:Sauerkraut|id:Eg8r3UdT8gGf}
+{type:PickOne|question:Charn|options:[Three][Minutes][Meat]|answer:Meat|id:EOOk1dBOQRHQ}
+{type:FlashCard|front:Fish|back:Pesch|id:9HZ7lihXdaVm}
+{type:ImagePick|question:Ov|options:[Cheese:cheese][Pizza:pizza][Egg:eggs][Meat:meat]|answer:Egg|id:uUwyzO1LepzZ}
+</lesson>
+<lesson:3|id:GnNofKGKY8Ry>
+{type:Match|question:Select the matching words|options:[Grut asch:Sauerkraut][Glatsch:Ice cream][Chaschiel:Cheese][Pizza:Pizza]|id:Iv3Svu8NadJL}
+{type:PickMissingWord|question:______ cun pommes frites|options:[Tschintg][Trais][Sis][Pizza]|answer:Pizza|id:IhXp5hFVdP3M}
+{type:PickOne|question:Pizza|options:[Cheese][Pizza][Ice cream]|answer:Pizza|id:lgVFdaXa8TQc}
+{type:Match|question:Select the matching words|options:[Ov:Egg][Sis:Six][Trais:Three][Tschintg:Five]|id:qlCI8LYieMlB}
+{type:Match|question:Select the matching words|options:[Glatsch:Ice cream][Pizza:Pizza][Grut asch:Sauerkraut][Ov:Egg]|id:PWVzI5aoJjS8}
+{type:PickMissingWord|question:______ mangel charn cun chaschiel perquai che jau vi mangiar chaschiel|options:[Grut asch][Otg][jau][Emna]|answer:jau|id:tYtRKys0zBHD}
+</lesson>
+<lesson:4|id:RLEUQiDGJTnI>
+{type:PickMissingWord|question:Pizza cun ______ frites|options:[Ov][Paun][pommes][Hours]|answer:pommes|id:DqrMBn8Oxepr}
+{type:PickMissingWord|question:______ ti gugent pizza?|options:[Day][Tschintg][Pizza][Mangias]|answer:Mangias|id:3XiS04Oz1mBk}
+{type:PickOne|question:Glatsch|options:[Sauerkraut][Pepper][Ice cream]|answer:Ice cream|id:OEmZZtT5HBqd}
+{type:Match|question:Select the matching words|options:[Charn:Meat][Pommes frites:Chips][Chaschiel:Cheese][Paiver:Pepper]|id:OhJwVTLzC6YP}
+{type:Match|question:Select the matching words|options:[Days:Dis][Emnas:Weeks][Charn:Meat][Hours:Uras]|id:yn24jibX1Sen}
+{type:Match|question:Select the matching words|options:[Pizza:Pizza][Ov:Egg][Grut asch:Sauerkraut][Charn:Meat]|id:gA29H8ySws6U}
+{type:FlashCard|front:Chips|back:Pommes frites|id:OhCcqnyinSAS}
+{type:ImagePick|question:Ov|options:[Ice cream:ice-cream-cone][Egg:eggs][Bread:bread][Pizza:pizza]|answer:Egg|id:5DMnwGUGNVrO}
+</lesson>
+<lesson:5|id:bSD4uDm35Vns>
+{type:WriteWords|question:Glatsch u grut asch?|answer:Ice cream or sauerkraut?|answerviewable:Keep going!|special:[e]|id:ezQj2dL2G7gb}
+{type:WriteWords|question:Els vegnan a baiver latg e mangiar glatsch|answer:They will drink milk and eat ice cream|id:0yiU9GMEZqDv}
+{type:PickOne|question:Charn|options:[Chips][Meat][Ice cream]|answer:Meat|id:LlVg0dKNWe1l}
+{type:WriteWords|question:Mangias ti gugent pizza?|answer:[Do you like eating pizza?][Do you like to eat pizza?]|answerviewable:K|special:[e]|id:mIkxLbThSyIB}
+{type:PickMissingWord|question:Jau ______ il paiver|options:[Pizza][Otg][vi][Pesch]|answer:vi|id:veZU1g89MjBb}
+{type:WriteWords|question:The meat and the egg|answer:La charn e il ov|id:VddgBWknpyKF}
+{type:WriteWords|question:Ice cream or sauekraut?|answer:Glatsch u grut asch?|id:z7e0IgLHIHm1}
+{type:PickMissingWord|question:______ mangel charn cun chaschiel perquai che jau vi mangiar chaschiel|options:[Otg][jau][Paiver][Paun]|answer:jau|id:C4peXe2l6AtE}
+{type:Match|question:Select the matching words|options:[Pizza:Pizza][Paun:Bread][Sal:Salt][Pesch:Fish]|id:bUCKk26QWN9q}
+{type:PickMissingWord|question:Vulais vus ______ cun sal e paiver?|options:[Minuta][paun][Sal][Ura]|answer:paun|id:PP0uUJgjdqEA}
+{type:WriteWords|question:Do you want bread?|answer:[Vuls ti paun?][Vulais vus paun?]|answerviewable:K|special:[a]|id:bJhDjgwMnhto}
+{type:Match|question:Select the matching words|options:[Paun:Bread][Charn:Meat][Grut asch:Sauerkraut][Paiver:Pepper]|id:VKsIbhx2P6CM}
+</lesson>
+<lesson:6|id:tXIQ0HGu3ZtV>
+{type:PickMissingWord|question:Jau vi il ______|options:[Emna][paiver][Minuta][Trais]|answer:paiver|id:3kdJ4Vkq8m7C}
+{type:WriteWords|question:Fish or meat?|answer:Pesch u charn?|id:LwInoZorSMGO}
+{type:PickOneMeaning|question:The speaker is saying:|speech:Trais|options:[Eight][Di][Three]|answer:Three|id:ajzxji6VlKYL}
+{type:PickMissingWord|question:Pesch ______ charn?|options:[u][Duas][Ov][Tschintg]|answer:u|id:OQVbCuksELJC}
+{type:WriteWords|question:Do you want bread?|answer:Ti vuls paun?|id:qp27HgQPrwUM}
+{type:AudioMatch|question:Listen and match|options:[Glatsch:LRrK05LMKwxa][Ov:zeGVBbGy2Ytb][Chaschiel:Qe9LwASIE1Z6][Grut asch:QmMiA776hh2d]|id:MGdYfzoVHrdn}
+{type:Match|question:Select the matching words|options:[Paiver:Pepper][Grut asch:Sauerkraut][Glatsch:Ice cream][Paun:Bread]|id:hs9Gu0bFtBCg}
+{type:WriteWords|question:La charn e il ov|answer:The meat and the egg|id:waobbJceBda6}
+{type:WriteWords|question:I want pepper|answer:Jau vi il paiver|id:bSlHaxB0HNRZ}
+{type:PickMissingWord|question:______ vi il paiver|options:[Jau][Minutas][Pommes frites][Dapi]|answer:Jau|id:HWemB7iSr3YS}
+{type:WriteWords|question:Pesch u charn?|answer:Fish or meat?|id:y8UcVDLq6NNi}
+{type:SpellingPick|text:Glatsch|options:[Glatsch][Pesch][Paiver][Charn]|answer:Glatsch|id:ji8Z3AtclxSI}
+{type:PickWords|question:Jau mangel charn cun chaschiel perquai che jau vi mangiar chaschiel|options:[eat][to][I][cheese][because][meat][eat][with][cheese][I][want]|answer:IeatmeatwithcheesebecauseIwanttoeatcheese|answerviewable:IeatmeatwithcheesebecauseIwanttoeatcheese|id:88YZGpCQ3OHM}
+{type:WriteWords|question:Nus vulain pesch cun sal|answer:We want fish with salt|id:b3tyecGtZ3f7}
+{type:Match|question:Select the matching words|options:[Paun:Bread][Pesch:Fish][Paiver:Pepper][Pizza:Pizza]|id:v3AzxxVntn5i}
+{type:SpellingPick|text:Paun|options:[Sal][Charn][Pizza][Paun]|answer:Paun|id:XKmuDRAOAuNg}
+{type:PickWords|question:Fish or meat?|options:[u][Pesch][Nov][charn][Tschintg]|answer:Peschucharn?|answerviewable:Peschucharn?|id:VHpeEzwNe8C2}
+{type:PickOne|question:Ov|options:[Egg][Fish][Ice cream]|answer:Egg|id:8Ppkqkgs5ZS2}
+{type:PickWords|question:Do you want bread with salt and pepper?|options:[Emnas][paiver][cun][e][sal][vus][Days][Vulais][paun]|answer:Vulaisvuspauncunsalepaiver?|answerviewable:Vulaisvuspauncunsalepaiver?|id:m028hfyNCISA}
+{type:AudioMatch|question:Listen and match|options:[Charn:CsOPEUbgYYKV][Chaschiel:CdZZwtUynNX5][Ov:YGvVP4lpos9d][Paun:qHCcBKfqFnip]|id:CRSLfQf6YWHI}
+</lesson>
+<lesson:7|id:SaF8fUb4MpRK>
+{type:WriteWords|question:Grut asch n'è betg bel|answer:[Sauerkraut is not pretty][Sauerkraut is not beautiful][Sauerkraut is not nice]|answerviewable:K|special:[e]|id:kAvws2tqmFeX}
+{type:WriteWords|question:They will drink milk and eat ice cream|answer:Els vegnan a baiver latg e mangiar glatsch|id:DUiTVvPntyBu}
+{type:PickMissingWord|question:Ella mangia pommes frites cun ______|options:[chaschiel][Day][Minutas][Sal]|answer:chaschiel|id:aGORMF4NDCqG}
+{type:WriteWords|question:Pizza with chips|answer:Pizza cun pommes frites|id:Ry6uEonRbdU8}
+{type:PickMissingWord|question:Els vegnan ______ baiver latg e mangiar glatsch|options:[Days][a][Sal][Paiver]|answer:a|id:f9MF7rRyxD9I}
+{type:WriteWords|question:Vulais vus paun cun sal e paiver?|answer:Do you want bread with salt and pepper?|id:oVfPLghOEj4w}
+{type:WriteWords|question:Jau vi il paiver|answer:[I want pepper][I want the pepper]|answerviewable:K|special:[e]|id:LanXkPJsLOf4}
+{type:WriteWords|question:Pizza with chips|answer:Pizza cun pommes frites|id:NDu4AE2kjdQR}
+{type:WriteWords|question:Fish or meat?|answer:Pesch u charn?|id:wv5qv4KFohqg}
+{type:Match|question:Select the matching words|options:[Paiver:Pepper][Grut asch:Sauerkraut][Pizza:Pizza][Pommes frites:Chips]|id:XpwSEm97Ee7N}
+{type:Match|question:Select the matching words|options:[Paun:Bread][Pommes frites:Chips][Grut asch:Sauerkraut][Chaschiel:Cheese]|id:wqZVMcuREU2u}
+{type:WriteWords|question:Pesch u charn?|answer:Fish or meat?|id:nd3xcLKKuJ2l}
+{type:PickOne|question:Ov|options:[Egg][Pepper][Salt]|answer:Egg|id:oc1wk3uEtwRI}
+</lesson>
+<lesson:8|id:9ot0M2YZY0Xn>
+{type:WriteWords|question:She eats chips with cheese|answer:Ella mangia pommes frites cun chaschiel|id:53uIMOyGc7qt}
+{type:WriteWords|question:Nus vulain pesch cun sal|answer:We want fish with salt|id:ZMBl3UR44yXW}
+{type:WriteWords|question:Do you (pl) want bread with salt and pepper?|answer:Vulais vus paun cun sal e paiver?|answerviewable:K|special:[u]|id:WTlNHWjDx4Mz}
+{type:PickOne|question:Paun|options:[Fish][Pepper][Bread]|answer:Bread|id:WFdSNTFu3i7O}
+{type:PickMissingWord|question:Jau mangel charn cun ______ perquai che jau vi mangiar chaschiel|options:[Quatter][Pizza][Pommes frites][chaschiel]|answer:chaschiel|id:nvPXhSNWldki}
+{type:Match|question:Select the matching words|options:[Pizza:Pizza][Paun:Bread][Paiver:Pepper][Pommes frites:Chips]|id:9CoUBKA8n3Y1}
+{type:WriteWords|question:Mangias ti gugent pizza?|answer:[Do you like eating pizza?][Do you like to eat pizza?]|answerviewable:K|special:[o]|id:tQ7D45PpDpgn}
+{type:WriteWords|question:Nus avain in ov|answer:We have an egg|id:b1MPn7sWHoDM}
+{type:WriteWords|question:Do you (pl) want bread with salt and pepper?|answer:Vulais vus paun cun sal e paiver?|answerviewable:K|special:[u]|id:up1S1EWiU0T6}
+{type:Match|question:Select the matching words|options:[Pommes frites:Chips][Grut asch:Sauerkraut][Sal:Salt][Charn:Meat]|id:9N1oSHJtMUAr}
+{type:WriteWords|question:Sauerkraut is not pretty|answer:Grut asch n'è betg bel|id:S8f0NqF3B1lD}
+{type:PickMissingWord|question:Pizza cun pommes ______|options:[Hour][Charn][Pizza][frites]|answer:frites|id:LvrUKoSS8HHf}
+{type:WriteWords|question:Pesch u charn?|answer:Fish or meat?|id:78isqNgNeZRL}
+</lesson>
+<lesson:9|id:PpjKi6Oi39Oh>
+{type:WriteWords|question:Nus vulain pesch cun sal|answer:We want fish with salt|id:JhQFpicvHJSE}
+{type:WriteWords|question:Do you want bread?|answer:[Vuls ti paun?][Vulais vus paun?]|answerviewable:K|special:[u]|id:qy0XymIO6tRw}
+{type:WriteWords|question:Jau vi il paiver|answer:[I want pepper][I want the pepper]|answerviewable:K|special:[e]|id:gs9mjHhadakE}
+{type:Match|question:Select the matching words|options:[Pommes frites:Chips][Paiver:Pepper][Ov:Egg][Paun:Bread]|id:D0XMGMj3II8N}
+{type:WriteWords|question:Ice cream or sauekraut?|answer:Glatsch u grut asch?|id:qmY3VM1s2O8G}
+{type:WriteWords|question:Jau mangel charn cun chaschiel perquai che jau vi mangiar chaschiel|answer:I eat meat with cheese because I want to eat cheese|id:ISjbFpmqgMMi}
+{type:WriteWords|question:Fish or meat?|answer:Pesch u charn?|id:HPqXccY4vi8Y}
+{type:PickMissingWord|question:La ______ e il ov|options:[Emnas][Sal][Sis][charn]|answer:charn|id:yczfkiyjBQxI}
+{type:PickOne|question:Pizza|options:[Sauerkraut][Bread][Pizza]|answer:Pizza|id:tBCAzDozadfX}
+{type:WriteWords|question:Grut asch n'è betg bel|answer:[Sauerkraut is not pretty][Sauerkraut is not beautiful][Sauerkraut is not nice]|answerviewable:K|special:[e]|id:9s2jdMEEeM8P}
+{type:WriteWords|question:Pizza with chips|answer:Pizza cun pommes frites|id:e0m50zsoFSSY}
+{type:Match|question:Select the matching words|options:[Ov:Egg][Sal:Salt][Glatsch:Ice cream][Pesch:Fish]|id:unyOYALrubWZ}
+{type:WriteWords|question:We want fish with salt|answer:Nus vulain pesch cun sal|id:ljjwcFni4y07}
+{type:WriteWords|question:Ella mangia pommes frites cun chaschiel|answer:She eats chips with cheese|id:aFREr3TgJXTv}
+{type:PickMissingWord|question:Vulais vus paun cun sal e ______?|options:[Ov][paiver][Sis][Trais]|answer:paiver|id:aF8D9eeGlbbs}
+</lesson>
+<lesson:10|id:x5qASfddOd7Q>
+{type:WriteWords|question:Grut asch n'è betg bel|answer:[Sauerkraut is not pretty][Sauerkraut is not beautiful][Sauerkraut is not nice]|answerviewable:K|special:[e]|id:L289dccAFMU7}
+{type:WriteWords|question:Els vegnan a baiver latg e mangiar glatsch|answer:They will drink milk and eat ice cream|id:DMHllRdlL6RF}
+{type:Match|question:Select the matching words|options:[Pizza:Pizza][Pommes frites:Chips][Sal:Salt][Glatsch:Ice cream]|id:mxDHVbzKheYd}
+{type:WriteWords|question:Pizza cun pommes frites|answer:Pizza with chips|id:pHtYMvfhCQNy}
+{type:WriteWords|question:Jau vi il paiver|answer:[I want pepper][I want the pepper]|answerviewable:K|special:[e]|id:jWrprrdnAWra}
+{type:WriteWords|question:Fish or meat?|answer:Pesch u charn?|id:drl0K9Zf6ecj}
+{type:WriteWords|question:Pizza with chips|answer:Pizza cun pommes frites|id:n48MoCl3CumW}
+{type:PickMissingWord|question:Mangias ti ______ pizza?|options:[Pizza][Duas][gugent][Hour]|answer:gugent|id:ghEkCYUCMwFR}
+{type:WriteWords|question:She eats chips with cheese|answer:Ella mangia pommes frites cun chaschiel|id:nrB9fPlyzCgs}
+{type:WriteWords|question:Pizza cun pommes frites|answer:Pizza with chips|id:3wXgS1zWZRsB}
+{type:PickMissingWord|question:Jau mangel charn cun ______ perquai che jau vi mangiar chaschiel|options:[Diesch][Pizza][Minuta][chaschiel]|answer:chaschiel|id:I0gPfnnMlcF3}
+{type:WriteWords|question:Fish or meat?|answer:Pesch u charn?|id:GESRKUQE16R7}
+{type:PickOne|question:Grut asch|options:[Egg][Sauerkraut][Fish]|answer:Sauerkraut|id:keC9xTUajUj7}
+{type:WriteWords|question:The meat and the egg|answer:La charn e il ov|id:jWNlamrRrVDe}
+{type:Match|question:Select the matching words|options:[Ov:Egg][Paiver:Pepper][Pesch:Fish][Sal:Salt]|id:GFGhNAm1OzMe}
+</lesson>
+</skill>
+<skill:Days of the week|image:today|lessonsperlevel:1|strokecolor:128,216,255|fillcolor:1,87,155|position:5|description:Learn how to say the days of the week in Romansh|id:vDtDo7H550lH>
+<lesson:1|id:X2WLKr80yyDC>
+{type:FlashCard|front:Saturday|back:Sonda|id:zEye82H7O5QI}
+{type:PickOne|question:Mardi|options:[Chips][Tuesday][Fish]|answer:Tuesday|id:4dIET23L2eUA}
+{type:PickOne|question:Sonda|options:[Cheese][Saturday][Pepper]|answer:Saturday|id:ztU3Z3AI2WoS}
+{type:FlashCard|front:Dumengia|back:Sunday|id:1XnDshZykzE0}
+{type:PickOne|question:Gievgia|options:[Salt][Thursday][Pizza]|answer:Thursday|id:SsHezSTPBcIF}
+{type:PickOne|question:Sonda|options:[Pizza][Chips][Saturday]|answer:Saturday|id:L8xml8sFwH1X}
+{type:FlashCard|front:Saturday|back:Sonda|id:jSn7R7nJmYv7}
+</lesson>
+<lesson:2|id:Ay54KdfyOv32>
+{type:Match|question:Select the matching words|options:[Sonda:Saturday][Ov:Egg][Paiver:Pepper][Pizza:Pizza]|id:4K0cAJI1jh9o}
+{type:PickMissingWord|question:______ dumengia, els van davos la buita|options:[La][Paiver][Venderdi][Dumengia]|answer:La|id:kX2JBqYVWOCf}
+{type:PickWords|question:Il mardi, il pesch va a Tirchia|options:[On][Turkey][Tuesdays][fish][goes][to][the]|answer:On Tuesdays the fish goes to Turkey|answerviewable:K|id:n7Ll0ECar5e6}
+{type:PickWords|question:On Thursday, she will be well|options:[Gievgia][vegn][ella][esser][bain][ad]|answer:Gievgia ella vegn ad esser bain|answerviewable:K|id:aR4XvN0j4Qon}
+{type:Match|question:Select the matching words|options:[Mesemna:Wednesday][Mardi:Tuesday][Venderdi:Friday][Glindesdi:Monday]|id:zzRk7Zc8VIz7}
+{type:PickOne|question:Gievgia|options:[Thursday][Friday][Sunday]|answer:Thursday|id:IphWiuA7ixTJ}
+{type:PickMissingWord|question:Il mardi, il pesch va a ______|options:[Tirchia][Glindesdi][Pesch][Paiver]|answer:Tirchia|id:XvvZI0LlXyUa}
+{type:Match|question:Select the matching words|options:[Venderdi:Friday][Mardi:Tuesday][Mesemna:Wednesday][Dumengia:Sunday]|id:I7oRPJhc8JFj}
+</lesson>
+<lesson:3|id:s6KPa4YvdqB7>
+{type:PickOne|question:Glindesdi|options:[Monday][Tuesday][Wednesday]|answer:Monday|id:P6CwF6BL8JyC}
+{type:PickWords|question:Mesemna, nus vegnin ad ir a Frantscha|options:[Wednesday][On][will][go][france][to][we]|answer:On Wednesday we will go to France|answerviewable:K|id:2OvRXpQGjk06}
+{type:PickMissingWord|question:Vegns ______ a star qua venderdi?|options:[Grut asch][ti][Paun][Glatsch]|answer:ti|id:QiopTobb40iB}
+{type:PickMissingWord|question:Il ______, jau fatsch pasta|options:[Mardi][Pizza][venderdi][Dumengia]|answer:venderdi|id:CGidvGMFbnsX}
+{type:PickMissingWord|question:______ e dumengia|options:[Pizza][Paun][Sonda][Gievgia]|answer:Sonda|id:Qm0xHgAYoZrn}
+{type:PickWords|question:Saturday and sunday|options:[e][Sonda][dumengia]|answer:Sonda e dumengia|answerviewable:K|id:DTeu7SlM4vIZ}
+{type:WriteWords|question:Saturday and sunday|answer:Sonda e dumengia|id:izgzdu2ILERj}
+{type:WriteWords|question:Glindesdi u mardi|answer:Monday or Tuesday|answerviewable:K|special:[a]|id:Mc0eal1tvQIb}
+{type:WriteWords|question:Il mardi, il pesch va a Tirchia|answer:On Tuesdays, the fish goes to Turkey|id:RRT7H2XbY6VN}
+{type:WriteWords|question:On sundays, they go behind the shop|answer:La dumengia, els van davos la buita|id:HCHOZiz22NLJ}
+{type:WriteWords|question:On sundays, they go behind the shop|answer:La dumengia, els van davos la buita|id:xZE6WNpuT3is}
+{type:WriteWords|question:Mesemna, nus vegnin ad ir a Frantscha|answer:[On Wednesday, we're going to go to France][On Wednesday, we will go to France]|answerviewable:K|special:[e]|id:0BPbluk5F3fa}
+{type:Match|question:Select the matching words|options:[Dumengia:Sunday][Gievgia:Thursday][Mesemna:Wednesday][Venderdi:Friday]|id:TsHD6hGNDxQT}
+{type:Match|question:Select the matching words|options:[Mesemna:Wednesday][Venderdi:Friday][Sonda:Saturday][Gievgia:Thursday]|id:6zMoKleUUSJ9}
+</lesson>
+<lesson:4|id:8WHSvoKmjwpc>
+{type:PickOne|question:Sonda|options:[Sunday][Saturday][Thursday]|answer:Saturday|id:p2VhVKVlU28Q}
+{type:WriteWords|question:On Wednesday, we will go to France|answer:Mesemna, nus vegnin ad ir a Frantscha|answerviewable:K|special:[a]|id:YwnvjKw13jjY}
+{type:WriteWords|question:On fridays, I make pasta|answer:Il venderdi, jau fatsch pasta|id:U1kNgTzAc7SV}
+{type:WriteWords|question:Glindesdi, jau vegn ad ir a Pajais Bass|answer:[On Monday, I will go to the Netherlands][On Monday, I will go to Holland]|answerviewable:K|special:[o]|id:n0dymHMgQ5h5}
+{type:WriteWords|question:Vegns ti a star qua venderdi?|answer:[Will you be here on Friday?][Will you live here on Friday?]|answerviewable:K|special:[e]|id:uYmbknjJrMQo}
+{type:PickMissingWord|question:Il mardi, il pesch va a ______|options:[Mardi][Pommes frites][Pesch][Tirchia]|answer:Tirchia|id:0qBoPmvp2uEQ}
+{type:Match|question:Select the matching words|options:[Glindesdi:Monday][Dumengia:Sunday][Mardi:Tuesday][Mesemna:Wednesday]|id:ViMYzgcAitOM}
+{type:PickMissingWord|question:Il glindesdi, jau ______ charn|options:[mangel][Pesch][Sal][Ov]|answer:mangel|id:wUQ7ee3siqHv}
+{type:Match|question:Select the matching words|options:[Dumengia:Sunday][Gievgia:Thursday][Venderdi:Friday][Sonda:Saturday]|id:776JDpFqSG9H}
+{type:WriteWords|question:On Thursday, she will be well|answer:Gievgia, ella vegn ad esser bain|id:X4dsgz6Qre5Y}
+{type:WriteWords|question:On sundays, they go behind the shop|answer:La dumengia, els van davos la buita|id:xJFOtLkeOm3d}
+{type:WriteWords|question:Glindesdi, jau vegn ad ir a Pajais Bass|answer:[On Monday, I will go to the Netherlands][On Monday, I will go to Holland]|answerviewable:K|special:[o]|id:wDUDMmGT47K5}
+{type:WriteWords|question:La sonda, jau vom ad ina bacharia e ina furnaria|answer:On saturdays, I go to a butchery and a bakery|id:V5E1wG78b7QA}
+</lesson>
+<lesson:5|id:r0eTFsTWAMuW>
+{type:WriteWords|question:On wednesdays, they have two hours, but on thursdays, they have three minutes|answer:La mesemna, els han duas uras, però la gievgia, els han trais minutas|id:7VW4Gf4BTAtP}
+{type:WriteWords|question:Monday or Tuesday?|answer:Glindesdi u mardi|id:jzAAh7YrpL4S}
+{type:WriteWords|question:On saturdays, I go to a butchery and a bakery|answer:La sonda, jau vom ad ina bacharia e ina furnaria|id:AkBzSVXUvoXw}
+{type:WriteWords|question:La mesemna, els han duas uras, però la gievgia, els han trais minutas|answer:On wednesdays, they have two hours, but on thursdays, they have three minutes|id:gDKcWW508dgP}
+{type:WriteWords|question:Mesemna, nus vegnin ad ir a Frantscha|answer:[On Wednesday, we're going to go to France][On Wednesday, we will go to France]|answerviewable:K|special:[O]|id:1qTdhRMrf0Ot}
+{type:WriteWords|question:Mesemna, nus vegnin ad ir a Frantscha|answer:[On Wednesday, we're going to go to France][On Wednesday, we will go to France]|answerviewable:K|special:[o]|id:g2b0hje0qKVx}
+{type:Match|question:Select the matching words|options:[Glindesdi:Monday][Mardi:Tuesday][Gievgia:Thursday][Venderdi:Friday]|id:Zx2W32dukAwz}
+{type:PickMissingWord|question:______ venderdi, jau fatsch pasta|options:[Grut asch][Venderdi][Il][Mesemna]|answer:Il|id:cjvbjgscedrb}
+{type:PickMissingWord|question:______ venderdi, jau fatsch pasta|options:[Il][Glindesdi][Grut asch][Glatsch]|answer:Il|id:IsXFKyupgbWh}
+{type:Match|question:Select the matching words|options:[Venderdi:Friday][Dumengia:Sunday][Mardi:Tuesday][Glindesdi:Monday]|id:o9MfguwpCkME}
+{type:PickOne|question:Gievgia|options:[Sunday][Thursday][Monday]|answer:Thursday|id:hyhtWDnckhCh}
+{type:WriteWords|question:On Monday, I will go to the Netherlands|answer:Glindesdi, jau vegn ad ir a Pajais Bass|id:tN7MDSyINkPr}
+{type:WriteWords|question:Sonda e dumengia|answer:Saturday and sunday|id:W1fgIuAL5pHl}
+{type:WriteWords|question:La sonda, jau vom ad ina bacharia e ina furnaria|answer:On saturdays, I go to a butchery and a bakery|id:uKSrG0sxfZnz}
+{type:WriteWords|question:On saturdays, I go to a butchery and a bakery|answer:La sonda, jau vom ad ina bacharia e ina furnaria|id:Ke68G4eM0D5s}
+</lesson>
+</skill>
+<skill:Months of the year|image:planet|lessonsperlevel:2|strokecolor:128,216,255|fillcolor:1,87,155|position:6|description:Learn how to say months of the year in romansh|id:WdTv9LTujnf9>
+<lesson:1|id:OCA1z6U4cagf>
+{type:FlashCard|front:November|back:november|id:cbwx7WdeHb4Z}
+{type:FlashCard|front:favrer|back:Febuary|id:LZnWsC4KbleI}
+{type:FlashCard|front:december|back:December|id:YJdg9eCMCLOq}
+{type:PickOne|question:november|options:[November][Tuesday][Wednesday]|answer:November|id:dMWsTejc0L03}
+{type:PickOne|question:settember|options:[Monday][Wednesday][September]|answer:September|id:p7A1F8SECz8P}
+{type:PickOne|question:matg|options:[Wednesday][Monday][May]|answer:May|id:QZCbMLDIUjpP}
+{type:PickOne|question:november|options:[November][Saturday][Tuesday]|answer:November|id:5sBZd3N6X6Hc}
+</lesson>
+<lesson:2|id:hB9WW2IytQMR>
+{type:PickOne|question:november|options:[Sunday][November][Tuesday]|answer:November|id:Z4W9K5TIzC1K}
+{type:PickOne|question:avust|options:[Saturday][August][Wednesday]|answer:August|id:WSJLKFo1vMSu}
+{type:PickOne|question:favrer|options:[Febuary][Saturday][Wednesday]|answer:Febuary|id:1Pl4uPtWXcmQ}
+{type:FlashCard|front:zercladur|back:June|id:T1133G2W1hPw}
+{type:FlashCard|front:fanadur|back:July|id:xcDokHBjjJcx}
+{type:FlashCard|front:May|back:matg|id:zYeJkQNWhQKN}
+{type:PickOne|question:avust|options:[August][Wednesday][Sunday]|answer:August|id:uo8TW0H2g7R4}
+</lesson>
+<lesson:3|id:4a0Z9F3HulEY>
+{type:Match|question:Select the matching words|options:[Gievgia:Thursday][Glindesdi:Monday][Mardi:Tuesday][avrigl:April]|id:nwsizIrFFKpU}
+{type:PickMissingWord|question:Nus vegnin ad ir ______ settember|options:[il][favrer][fanadur][avrigl]|answer:il|id:fqUuWFvZH6qX}
+{type:Match|question:Select the matching words|options:[avust:August][mars:March][october:October][fanadur:July]|id:oDY2VW3xjD7E}
+{type:PickOne|question:avrigl|options:[May][April][July]|answer:April|id:D5j1kIrrRJ8X}
+{type:PickWords|question:I have been wanting to eat pasta since June|options:[Jau][mangiar][vi][dapi][il][pasta][zercladur]|answer:Jau vi mangiar pasta dapi il zercladur|answerviewable:L|id:Nw2eutCfRLWT}
+{type:PickWords|question:Favrer e mars|options:[and][February][March][June][Sunday][or]|answer:February and march|answerviewable:L|id:0uttOuE7Fkqc}
+{type:Match|question:Select the matching words|options:[favrer:Febuary][schaner:January][zercladur:June][avust:August]|id:h3KcgVNwcbTM}
+{type:PickMissingWord|question:Settember e ______|options:[e][u][avust][che]|answer:avust|id:l9S5FMJlhkxA}
+{type:PickWords|question:L'avust, el è bain|options:[Friday][Sunday][On][he][is][well][In][August]|answer:In August, he is well|answerviewable:L|id:BGnTP1ziBLmW}
+{type:PickWords|question:February and march|options:[Favrer][e][Mars][che][December]|answer:Favrer e mars|answerviewable:L|id:fomKsDWxN17T}
+</lesson>
+<lesson:4|id:0pRQKplYi7MW>
+{type:PickWords|question:L'october, vuls ti mangiar la fraja?|options:[In][October][do][you][want][to][eat][the][strawberry][so][but]|answer:In October, do you want toeat the strawberry?|answerviewable:L|id:v4y6QhX2W9KS}
+{type:PickMissingWord|question:Vus essas qua dapi il ______|options:[perquai][december][che][gea]|answer:december|id:4goffzJ8GAME}
+{type:PickMissingWord|question:Set dis il ______|options:[matg][èn][es][sun]|answer:matg|id:NL4oieVnv8K3}
+{type:PickOne|question:matg|options:[May][November][August]|answer:May|id:svdDA6RxGPc3}
+{type:PickWords|question:In January, he makes pasta|options:[Il][schaner][el][fa][pasta][perquai che]|answer:Ilschaner,elfapasta|answerviewable:L|id:kvHa4lPY4fj8}
+{type:Match|question:Select the matching words|options:[schaner:January][zercladur:June][matg:May][fanadur:July]|id:I4qUL87HfsE2}
+{type:PickWords|question:A peach wants to be a cherry in March|options:[In][persic][vul][esser][ina][il][mars][tscharescha][però][es]|answer:In persic vul esser ina tscharescha il mars|answerviewable:L|id:kQ7iIuRFeQnB}
+{type:PickWords|question:Nus vegnin ad ir il settember|options:[We][will][go][in][September][who][with]|answer:We will go in September|answerviewable:L|id:VjRaY7utvqnh}
+{type:Match|question:Select the matching words|options:[october:October][november:November][schaner:January][matg:May]|id:ymXv7OEbrfDg}
+{type:Match|question:Select the matching words|options:[Sonda:Saturday][Dumengia:Sunday][avrigl:April][Gievgia:Thursday]|id:Kt9Qq2P8To9V}
+</lesson>
+<lesson:5|id:kfWrT7d4PYwP>
+{type:WriteWords|question:Jau vegn ad ir a norvegia il schaner|answer:I will go to Norway in january|answerviewable:L|special:[o]|id:BACmnQZyjtL8}
+{type:Match|question:Select the matching words|options:[zercladur:June][fanadur:July][november:November][avrigl:April]|id:AFYOQWoyYRwD}
+{type:PickMissingWord|question:Il favrer, el mangia in mail ______ in'ampuauna|options:[favrer][Venderdi][mars][e]|answer:e|id:91zOfkNMcOHc}
+{type:WriteWords|question:In January, he makes pasta|answer:Il schaner, el fa pasta|id:JG1eKPgQLmN3}
+{type:WriteWords|question:In April and in May|answer:L'avrigl e il matg|id:c05zfVE3oVXz}
+{type:PickMissingWord|question:Jau vi mangiar pasta dapi il ______|options:[Dumengia][zercladur][Sonda][Gievgia]|answer:zercladur|id:u5apBw2oSOMx}
+{type:PickOne|question:matg|options:[March][December][May]|answer:May|id:Ti1dP4Q2LTKZ}
+{type:WriteWords|question:Il schaner, el fa pasta|answer:In January, he makes pasta|id:kqV7JbZHOK3T}
+{type:WriteWords|question:In February, he eats an apple and a raspberry|answer:Il favrer, el mangia in mail e in'ampuauna|id:da1M841FgnfD}
+{type:WriteWords|question:Vus essas qua dapi il december|answer:You have been here since December|answerviewable:L|special:[e]|id:GgtpICbjr6eU}
+{type:Match|question:Select the matching words|options:[matg:May][fanadur:July][avrigl:April][zercladur:June]|id:8TqTbsRCV2xL}
+{type:PickMissingWord|question:Set dis il ______|options:[Sonda][Mesemna][matg][u]|answer:matg|id:fVuM3o3HWG0g}
+</lesson>
+<lesson:6|id:RPyXgDIYDRLF>
+{type:WriteWords|question:We will go in September|answer:Nus vegnin ad ir il settember|id:ZIZ0bu5lclir}
+{type:WriteWords|question:Zercladur u fanadur?|answer:June or July?|id:a9PgWeSgVoiL}
+{type:PickMissingWord|question:______ essas qua dapi il december|options:[avrigl][Vus][mars][schaner]|answer:Vus|id:FPUe3zOh50TK}
+{type:WriteWords|question:Jau vi mangiar pasta dapi il zercladur|answer:[I have been wanting to eat pasta since June][I have wanted to eat pasta since june]|answerviewable:L|special:[e]|id:KWRqVLa4Q0UR}
+{type:PickMissingWord|question:Set dis ______ matg|options:[schaner][zercladur][october][il]|answer:il|id:tzcLYHa9mkKf}
+{type:Match|question:Select the matching words|options:[november:November][favrer:Febuary][october:October][december:December]|id:tvZ8hJesduFY}
+{type:PickOne|question:avrigl|options:[December][August][April]|answer:April|id:4kSkxBPqTHrc}
+{type:WriteWords|question:September and August|answer:Settember e avust|id:2hD0yO5RHa27}
+{type:Match|question:Select the matching words|options:[december:December][avrigl:April][october:October][settember:September]|id:hkdPkcrp8yvg}
+{type:PickMissingWord|question:October, november, ______|options:[perquai][e][december][però]|answer:december|id:0GwZVPS1HmyI}
+{type:WriteWords|question:I have been wanting to eat pasta since June|answer:Jau vi mangiar pasta dapi il zercladur|id:EWzvK8yhilzo}
+{type:WriteWords|question:October, november, december|answer:October, november, december|id:duWmIwg0UY8G}
+</lesson>
+<lesson:7|id:Ku6DnsHM6YRd>
+{type:WriteWords|question:L'avust, el è bain|answer:In August, he is well|id:qvJ0i01JFKYl}
+{type:WriteWords|question:A peach wants to be a cherry in March|answer:In persic vul esser ina tscharescha il mars|id:DkDI58lirWev}
+{type:Match|question:Select the matching words|options:[avrigl:April][mars:March][favrer:Febuary][fanadur:July]|id:16ysfeVsPIAX}
+{type:WriteWords|question:L'avrigl e il matg|answer:In April and in May|id:qPvzdxKc3k7D}
+{type:WriteWords|question:Nus vegnin ad ir il settember|answer:We will go in September|id:5sbiSvZVpBGo}
+{type:WriteWords|question:Set dis il matg|answer:Seven days in May|id:fE5ujTDSmsqN}
+{type:Match|question:Select the matching words|options:[fanadur:July][october:October][zercladur:June][matg:May]|id:cQBLZ2T0rSV4}
+{type:PickMissingWord|question:______ vi mangiar pasta dapi il zercladur|options:[Jau][settember][Glindesdi][Mardi]|answer:Jau|id:P0RcvRiAifFQ}
+{type:WriteWords|question:We will go in September|answer:Nus vegnin ad ir il settember|id:iFVY0aBr7TdT}
+{type:PickMissingWord|question:Settember ______ avust|options:[Mesemna][Glindesdi][e][november]|answer:e|id:6XfE0EzKU7rE}
+{type:PickOne|question:avust|options:[October][Febuary][August]|answer:August|id:YlJmDsSEBV5k}
+{type:WriteWords|question:June or July?|answer:Zercladur u fanadur?|id:Ns0AmvQvyeGy}
+{type:WriteWords|question:They have been eating since november|answer:Els mangian dapi il november|answerviewable:L|special:[il]|id:6wsusG8EtCrk}
+</lesson>
+<lesson:8|id:0o29eThw6QBz>
+{type:WriteWords|question:Jau vegn ad ir  norvegia il schaner|answer:I will go to Norway in january|id:GWpi94UYamfK}
+{type:WriteWords|question:October, november, december|answer:October, november, december|id:2oZevX1w5Rpw}
+{type:WriteWords|question:In February, he eats an apple and a raspberry|answer:Il favrer, el mangia in mail e in'ampuauna|id:VXhBfMYdeHoK}
+{type:WriteWords|question:In October, do you want to eat the strawberry?|answer:L'october, vuls ti mangiar la fraja?|id:r3ZxTQ6L9bgE}
+{type:WriteWords|question:Settember e avust|answer:September and August|id:tpvfg2cMKVUP}
+{type:PickMissingWord|question:Vus essas qua dapi il ______|options:[december][Mesemna][matg][mars]|answer:december|id:oMOcBDWJas5p}
+{type:Match|question:Select the matching words|options:[december:December][schaner:January][settember:September][avust:August]|id:Dj9b45XfJyHb}
+{type:WriteWords|question:In January, he makes pasta|answer:Il schaner, el fa pasta|id:bS9l6AS8N9dx}
+{type:Match|question:Select the matching words|options:[settember:September][schaner:January][zercladur:June][avrigl:April]|id:LOKj5t2hYgWo}
+{type:PickOne|question:matg|options:[May][July][March]|answer:May|id:YbIMvphb9h2n}
+{type:WriteWords|question:Il schaner, el fa pasta|answer:In January, he makes pasta|id:CY30YsDKTdM6}
+{type:PickMissingWord|question:L'october, vuls ti ______ la fraja?|options:[avust][schaner][mangiar][Venderdi]|answer:mangiar|id:QqK4cS5xDN50}
+{type:WriteWords|question:Sis uras l'avrigl|answer:Six hours in April|id:cpbvAFSIoQiY}
+</lesson>
+<lesson:9|id:qOVKeWsqojKk>
+{type:WriteWords|question:I have been wanting to eat pasta since June|answer:Jau vi mangiar pasta dapi il zercladur|id:972idQdGlyC1}
+{type:WriteWords|question:In February, he eats an apple and a raspberry|answer:Il favrer, el mangia in mail e in'ampuauna|id:0IFAiz9mRs2N}
+{type:WriteWords|question:Els mangian dapi il november|answer:They have been eating since november|id:sjdfmz83TEE1}
+{type:WriteWords|question:Zercladur u fanadur?|answer:June or July?|id:EBiPgbMIYTtu}
+{type:WriteWords|question:Favrer e mars|answer:February and march|id:bCyvPy7vBgnp}
+{type:PickOne|question:favrer|options:[February][December][March]|answer:February|id:FpwScwexanJj}
+{type:WriteWords|question:Il fanadur, nus giain ad ina garascha|answer:In July, we go to a garage|id:0gvtVdm1qnFq}
+{type:WriteWords|question:In October, do you want to eat the strawberry?|answer:L'october, vuls ti mangiar la fraja?|id:WOiVEGs1aruj}
+{type:PickMissingWord|question:Il favrer, el mangia in ______ e in'ampuauna|options:[Mesemna][december][mail][october]|answer:mail|id:TSmEY5xqiXep}
+{type:PickMissingWord|question:______ schaner, el fa pasta|options:[Il][favrer][matg][december]|answer:Il|id:3aUtW6sGzG2Z}
+{type:Match|question:Select the matching words|options:[avust:August][december:December][avrigl:April][mars:March]|id:RZpOlMCiZ2xl}
+{type:Match|question:Select the matching words|options:[schaner:January][matg:May][fanadur:July][zercladur:June]|id:i8SjXHRKhBY7}
+{type:WriteWords|question:Favrer e mars|answer:February and march|id:Nh8muQ9AoNMY}
+{type:WriteWords|question:October, november, december|answer:October, november, december|id:mgM5Zgwh43cn}
+{type:WriteWords|question:Seven days in May|answer:Set dis il matg|id:BHR1RDY1X8UU}
+</lesson>
+<lesson:10|id:KGgXc694t8he>
+{type:WriteWords|question:In April and in May|answer:L'avrigl e il matg|id:eP8Ver3zB2Ks}
+{type:PickOne|question:settember|options:[May][November][September]|answer:September|id:VLqD5FEnwShd}
+{type:WriteWords|question:L'october, vuls ti mangiar la fraja?|answer:In October, do you want to eat the strawberry?|id:R5Y1IKqZs4hi}
+{type:WriteWords|question:Sis uras l'avrigl|answer:Six hours in April|id:Bmh1HwPbwQ7L}
+{type:Match|question:Select the matching words|options:[avust:August][zercladur:June][november:November][december:December]|id:8TXje2NOopRz}
+{type:Match|question:Select the matching words|options:[schaner:January][fanadur:July][settember:September][zercladur:June]|id:KnTzaT09zLYT}
+{type:PickMissingWord|question:Favrer e ______|options:[matg][avust][Mardi][mars]|answer:mars|id:BwOnsEDcyUxb}
+{type:PickMissingWord|question:In persic vul esser ina ______ il mars|options:[tscharescha][Mesemna][Glindesdi][settember]|answer:tscharescha|id:BemM1Wl97BkJ}
+{type:WriteWords|question:In persic vul esser ina tscharescha il mars|answer:A peach wants to be a cherry in March|id:5nFwBI39Yokd}
+{type:WriteWords|question:Sis uras l'avrigl|answer:Six hours in April|id:gUZ2kwuhCl6S}
+{type:WriteWords|question:Favrer e mars|answer:February and march|id:PSEjuTdIk9QG}
+{type:WriteWords|question:In August, he is well|answer:L'avust, el è bain|id:IZLLOSpkYbtl}
+{type:WriteWords|question:We will go in September|answer:Nus vegnin ad ir il settember|id:VssahyQC39hJ}
+{type:WriteWords|question:You (pl) have been here since December|answer:Vus essas qua dapi il december|id:SjX9lNqbHrdi}
+{type:WriteWords|question:We will go in September|answer:Nus vegnin ad ir il settember|id:gKdtsR8695Ho}
+</lesson>
+</skill>
+<skill:Plural|image:Launchpad_2048x2048|lessonsperlevel:3|strokecolor:128,216,255|fillcolor:1,87,155|position:7|description:Learn the plural for some nouns|id:0Zfj7HTVE9qX>
+<lesson:1|id:rFLEnBV9bMvI>
+{type:FlashCard|front:Brothers|back:Frars|id:bsdiSsj1wtNw}
+{type:PickOne|question:Umens|options:[Men][September][December]|answer:Men|id:3Vqe8zRU9FMN}
+{type:PickOne|question:Chasas|options:[Houses][March][Febuary]|answer:Houses|id:Y5OG4aCDll2l}
+{type:PickOne|question:Oranschas|options:[September][Oranges][August]|answer:Oranges|id:R7oeOHFLZ1SO}
+{type:FlashCard|front:Giattas|back:Cats (female)|id:k9Ewu3WhnExF}
+{type:FlashCard|front:Soras|back:Sisters|id:avfldejE3ZQq}
+{type:PickOne|question:Giattas|options:[August][Cats (female)][September]|answer:Cats (female)|id:fI3cytNyUasi}
+{type:PickOne|question:Giats|options:[Cats (female)][Cheese][Houses]|answer:Cats (female)|id:lwlWNxeXr2M6}
+{type:Match|question:Match the singular to its plural|options:[Tartuffel:Tartuffels][Sora:Soras][Frar:Frars][Abitaziun:Appartaments]|id:eE3Pg7cHGGzc}
+</lesson>
+<lesson:2|id:k7CCB4rerb5b>
+{type:FlashCard|front:Banks|back:Bancas|id:ZIzceju9UgTO}
+{type:PickOne|question:Frars|options:[Brothers][October][Febuary]|answer:Brothers|id:QPzzmgkLnPOw}
+{type:PickOne|question:Tartuffels|options:[Potatos][September][March]|answer:Potatos|id:JJARnGVIWlMJ}
+{type:FlashCard|front:Umens|back:Men|id:BY98Ta0LyhkO}
+{type:FlashCard|front:Brothers|back:Frars|id:EKKXr4ysOGYR}
+{type:PickOne|question:Frars|options:[Brothers][June][April]|answer:Brothers|id:8BGwdjAqG8DN}
+{type:PickOne|question:Tomatas|options:[July][Tomatos][May]|answer:Tomatos|id:mwRwFQIitNfn}
+{type:SpellingPick|text:Frars|options:[Frars][Umens][Pizzas][Chasas]|answer:Frars|id:tanahQMsBh36}
+{type:PickOne|question:Apricots|options:[Apricosas][Oranschas][Maila]|answer:Apricosas|id:vOMvvIV1tsuY}
+{type:PickOne|question:Sisters|options:[Soras][Frars][Els]|answer:Soras|id:8BxW3ZTNSPeF}
+{type:PickOne|question:Uffants|options:[Children][Boys][Men]|answer:Children|id:2mihw5qUTYEb}
+{type:PickOne|question:Guinea pigs|options:[Portget da mar][Giattas][Chauns]|answer:Portget da mar|id:3IiunBrLCwwu}
+{type:PickOne|question:Oranges|options:[Oranschas][Apricosas][Tomatas]|answer:Oranschas|id:Jnwd4cvnfNhg}
+</lesson>
+<lesson:3|id:xBK1xDNT6vm9>
+{type:FlashCard|front:Apartments|back:Appartaments|id:Sd6d4sMA2r9Y}
+{type:FlashCard|front:Dunnas|back:Women|id:ofCZfYe6x7Az}
+{type:PickOne|question:Portget da mar|options:[March][Guinea pigs][June]|answer:Guinea pigs|id:vO4UEiQGWqg7}
+{type:FlashCard|front:Women|back:Dunnas|id:Qzu4qSUAJhoQ}
+{type:PickOne|question:Dunnas|options:[Women][Febuary][September]|answer:Women|id:d5J1r70pDlhL}
+{type:PickOne|question:Bancas|options:[Banks][June][January]|answer:Banks|id:Wrlx1qVrY7kl}
+{type:PickOne|question:Dunnas|options:[July][Women][May]|answer:Women|id:kCFCeRYCaGCl}
+{type:PickOne|question:Cats (female)|options:[Giattas][Giats][Portget da mar]|answer:Giattas|id:fC8ljWIwSSvB}
+{type:PickOne|question:Apples|options:[Maila][Chasas][Babs]|answer:Maila|id:kpjheXAh5eBa}
+{type:PickOne|question:Tomatos|options:[Tomatas][Carottas][Persic]|answer:Tomatas|id:RFKVs4tESMyU}
+{type:PickOne|question:Cats (male)|options:[Giats][Giattas][Chasas]|answer:Giats|id:E7E4yfWvYaCT}
+{type:PickOne|question:Apricots|options:[Apricosas][Gea][Na]|answer:Apricosas|id:vdGvxJtNQCJr}
+{type:PickOne|question:Fathers|options:[Babs][Mammas][Soras]|answer:Babs|id:xNMdcZc0tSIs}
+</lesson>
+<lesson:4|id:bWwJlVKTYOuN>
+{type:PickWords|question:The tomato, the tomatos|options:[La][tomata][las][tomatas][mars][fanadur][oranschas]|answer:La tomata las tomatas|answerviewable:K|id:6HnCZxqOREmC}
+{type:PickWords|question:Mattas e mats|options:[Girls][and][boys][women]|answer:Girls and boys|answerviewable:K|id:3nFuaU6L31in}
+{type:PickWords|question:Girls and boys|options:[Mattas][e][mats][però]|answer:Mattas e mats|answerviewable:K|id:Gs1t8GEDaVT7}
+{type:Match|question:Select the matching words|options:[Tomatas:Tomatos][Giats:Cats (male)][Frars:Brothers][Chauns:Dogs]|id:VyslK7J7fs9P}
+{type:PickWords|question:One child, two children|options:[In][uffant][otg][uffants]|answer:In uffant otg uffants|answerviewable:K|id:HxutoDXQNCDZ}
+{type:PickWords|question:Ina dunna, set dunnas|options:[A][woman][seven][women][january][december]|answer:A woman seven women|answerviewable:K|id:7V2YdMUQBwCd}
+{type:PickMissingWord|question:In mail, nov ______|options:[Uffants][Carottas][maila][Appartaments]|answer:maila|id:3tamVrO4G1Wo}
+{type:PickMissingWord|question:Ina dunna, ______ dunnas|options:[Umens][Chauns][Chasas][set]|answer:set|id:aRiGVurhQsMV}
+{type:PickWords|question:The man, the men|options:[L'um][ils][umens]|answer:L'um ils umens|answerviewable:K|id:qEzRQCQ55VR8}
+{type:PickWords|question:Las bancas e las vias|options:[The][banks][and][the][roads][January][September]|answer:The banks and the roads|answerviewable:K|id:nLU3gAOdMWkX}
+{type:PickOne|question:Tartuffels|options:[Potatos][Carrots][Girls]|answer:Potatos|id:Kya4H9CtfzV7}
+{type:Match|question:Select the matching words|options:[Dunnas:Women][Maila:Apples][Umens:Men][Ampuaunas:Raspberries]|id:3WMTaeD5SEbB}
+{type:Match|question:Select the matching words|options:[Dunnas:Women][avust:August][fanadur:July][settember:September]|id:7ozT3CEo2Sql}
+</lesson>
+<lesson:5|id:YYCjMFGaQXyF>
+{type:PickWords|question:La tomata, las tomatas|options:[The][tomato][the][tomatos][October]|answer:The tomato the tomatos|answerviewable:K|id:hNwdgPGXuD1x}
+{type:PickMissingWord|question:______ dunna, set dunnas|options:[Famiglias][avust][Ina][Babs]|answer:Ina|id:UeUfWYZVSnbI}
+{type:PickMissingWord|question:Ils giats e las ______|options:[schaner][zercladur][mars][giattas]|answer:giattas|id:lJrmGEFbOs7P}
+{type:Match|question:Select the matching words|options:[Pizzas:Pizzas][Giattas:Cats (female)][Mattas:Girls][Maila:Apples]|id:5oRoAuqnKOnt}
+{type:PickWords|question:Five apartments and six houses|options:[Tschintg][appartaments][e][sis][chasas]|answer:Tschintg appartaments e sis chasas|answerviewable:K|id:nQaJ81LI6zvc}
+{type:PickOne|question:Mattas|options:[Roads][Girls][Carrots]|answer:Girls|id:rRVFB15p6VGg}
+{type:Match|question:Select the matching words|options:[Mammas:Mothers][Famiglias:Families][Vias:Roads][Umens:Men]|id:NA28ccJSl8QS}
+{type:PickWords|question:I like to eat the pizzas|options:[Jau][mangel][gugent][las][pizzas][matg]|answer:Jau mangel gugent las pizzas|answerviewable:K|id:sXznhiVzd7Rp}
+{type:PickWords|question:Tschintg appartaments e sis chasas|options:[Five][apartments][and][six][houses]|answer:Five apartments and six houses|answerviewable:K|id:qnQInAFSBnFA}
+{type:PickWords|question:Mattas e mats|options:[Girls][and][boys]|answer:Girls and boys|answerviewable:K|id:hPjPQhXrO1ye}
+{type:Match|question:Select the matching words|options:[matg:May][avrigl:April][favrer:Febuary][Tartuffels:Potatos]|id:NHbo8jZscrJv}
+</lesson>
+<lesson:6|id:VvQGDIaGHUq1>
+{type:Match|question:Select the matching words|options:[Frars:Brothers][Giattas:Cats (female)][Umens:Men][Chasas:Houses]|id:5k74y94B0n4z}
+{type:PickMissingWord|question:In tartuffel, ______ tartuffels|options:[december][schaner][duas][Portget da mar]|answer:duas|id:h7pqfbGdHW1t}
+{type:PickMissingWord|question:______ e ampuaunas|options:[Vias][avrigl][settember][Apricosas]|answer:Apricosas|id:MMlfYnvTt1B8}
+{type:Match|question:Select the matching words|options:[Portget da mar:Guinea pigs][Giats:Cats (male)][Frars:Brothers][Mats:Boys]|id:taO5YJlsCAyA}
+{type:Match|question:Select the matching words|options:[november:November][Babs:Fathers][mars:March][zercladur:June]|id:WY1jw2KwC9Z1}
+{type:PickOne|question:Uffants|options:[Children][Banks][Cats (female)]|answer:Children|id:US28KV9VWbDr}
+{type:PickWords|question:Ina carotta però trais carottas|options:[One][carrot][but][three][carrots]|answer:Onecarrotbutthreecarrots|answerviewable:K|id:TRzMXIEQ62Zl}
+{type:PickWords|question:Mias soras èn qua|options:[My][sisters][are][here]|answer:Mysistersarehere|answerviewable:K|id:yTA7sBq4phGk}
+{type:PickWords|question:One child, eight children|options:[In][uffant][otg][uffants]|answer:Inuffant,otguffants|answerviewable:K|id:CR1X7OloM2tm}
+</lesson>
+<lesson:7|id:izEwhM6ZiWM6>
+{type:WriteWords|question:Tschintg appartaments e sis chasas|answer:Five apartments and six houses|id:whwYw1kxBxYK}
+{type:PickWords|question:In tartuffel, duas tartuffels|options:[One][potato][two][potatos]|answer:Onepotato,twopotatos|answerviewable:K|id:mS1jyqWhfp1S}
+{type:Match|question:Select the matching words|options:[Giats:Cats (male)][Portget da mar:Guinea pigs][Bancas:Banks][Maila:Apples]|id:bnYVUee6WwDa}
+{type:PickMissingWord|question:Las famiglias èn ______|options:[là][Pizzas][avrigl][zercladur]|answer:là|id:JvgLkawyc0BE}
+{type:PickMissingWord|question:Jau ______ quatter chauns|options:[october][vi][Appartaments][Mats]|answer:vi|id:xsmESRLHO8VI}
+{type:Match|question:Select the matching words|options:[Frars:Brothers][Dunnas:Women][Uffants:Children][Chauns:Dogs]|id:LcN9n3b8e069}
+{type:WriteWords|question:One child, eight children|answer:In uffant, otg uffants|answerviewable:K|special:[uffant]|id:l0i8UHAqdY1l}
+{type:PickOne|question:Chasas|options:[Pizzas][Houses][Cats (female)]|answer:Houses|id:aPTPG0TgqQVr}
+{type:WriteWords|question:One carrot but three carrots|answer:Ina carotta però trais carottas|id:MN1PluniK8vE}
+{type:WriteWords|question:Mias soras èn qua|answer:My sisters are here|id:7GiVzmxvbXBg}
+{type:WriteWords|question:The banks and the roads|answer:Las bancas e las vias|answerviewable:K|special:[a]|id:X0jJaMEw7zf8}
+{type:WriteWords|question:In uffant, duas uffants|answer:One child, two children|answerviewable:K|special:[i]|id:9S8tljsPyQS7}
+{type:PickMissingWord|question:Jau ______ quatter chauns|options:[matg][Tartuffels][vi][Ampuaunas]|answer:vi|id:ht7yiRvPI2rC}
+{type:WriteWords|question:One carrot but three carrots|answer:Ina carotta però trais carottas|id:Gi5P7TYCJjRy}
+</lesson>
+<lesson:8|id:uSdst1Vtd3ju>
+{type:PickMissingWord|question:Tschintg appartaments e ______ chasas|options:[sis][Mammas][Babs][Carottas]|answer:sis|id:7JBu0xIoDYuJ}
+{type:PickMissingWord|question:Mattas ______ mats|options:[e][Tomatas][Appartaments][Vias]|answer:e|id:sKzZ1Kv4WTM9}
+{type:PickMissingWord|question:______ carotta però trais carottas|options:[Oranschas][avust][Mats][Ina]|answer:Ina|id:b0HXkBVw276I}
+{type:WriteWords|question:L'um, ils umens|answer:The man, the men|id:qBDizEYxTA9e}
+{type:WriteWords|question:The (male) cats and the (female) cats|answer:Ils giats e las giattas|id:dbVc45AeI5cI}
+{type:Match|question:Select the matching words|options:[Uffants:Children][Giats:Cats (male)][Soras:Sisters][Apricosas:Apricots]|id:TTsOgPnoiMIz}
+{type:WriteWords|question:A woman, seven women|answer:Ina dunna, set dunnas|id:cGz5y6kss5FT}
+{type:WriteWords|question:Mias soras èn qua|answer:My sisters are here|id:T12EoQIspsdc}
+{type:WriteWords|question:Nua èn ils portget da mar?|answer:Where are the guinea pigs?|id:RzBlJF0uNCYN}
+{type:PickOne|question:Umens|options:[Families][Sisters][Men]|answer:Men|id:E3FvlZW4ls4Q}
+{type:WriteWords|question:A woman, seven women|answer:Ina dunna, set dunnas|id:hqkhuQKAGHix}
+{type:Match|question:Select the matching words|options:[Uffants:Children][Dunnas:Women][Oranschas:Oranges][Mattas:Girls]|id:WduaYkqlFdb5}
+</lesson>
+<lesson:9|id:OjZehjgXrNDn>
+{type:WriteWords|question:Ina carotta però trais carottas|answer:One carrot but three carrots|id:R47pscIyaDRM}
+{type:Match|question:Select the matching words|options:[Frars:Brothers][Vias:Roads][Appartaments:Apartments][Mammas:Mothers]|id:S2LO8V8DpjHX}
+{type:PickOne|question:Dunnas|options:[Tomatos][Women][Mothers]|answer:Women|id:pqulWASfCdgO}
+{type:PickMissingWord|question:______ famiglias èn là|options:[fanadur][Las][november][Famiglias]|answer:Las|id:b8TooMMXrl7u}
+{type:WriteWords|question:The banks and the roads|answer:Las bancas e las vias|id:mSQwDDLFNRQ2}
+{type:PickMissingWord|question:Nua èn ______ portget da mar?|options:[Portget da mar][ils][Oranschas][Pizzas]|answer:ils|id:ZzOc6AuMXL0U}
+{type:WriteWords|question:A woman, seven women|answer:Ina dunna, set dunnas|id:eSXmrzLMxdXY}
+{type:Match|question:Select the matching words|options:[Famiglias:Families][Giats:Cats (male)][Tartuffels:Potatos][Frars:Brothers]|id:ie0WT4onPOYD}
+{type:WriteWords|question:Ina carotta però trais carottas|answer:One carrot but three carrots|id:OEdEmDsciEcD}
+{type:WriteWords|question:Ina dunna, set dunnas|answer:A woman, seven women|id:i3o3yoeCgLcT}
+{type:WriteWords|question:An apple, nine apples|answer:In mail, nov maila|answerviewable:K|special:[mail]|id:QqB2X7A8Xuva}
+{type:PickMissingWord|question:Ina carotta però ______ carottas|options:[Giattas][Frars][trais][zercladur]|answer:trais|id:ccRaDe1zGHB2}
+</lesson>
+<lesson:10|id:bTGSC2pPyCaq>
+{type:Match|question:Select the matching words|options:[Tartuffels:Potatos][Umens:Men][Bancas:Banks][Portget da mar:Guinea pigs]|id:2CqsoZobHHWi}
+{type:PickOne|question:Frars|options:[Brothers][Apartments][Cats (male)]|answer:Brothers|id:NVpHLVoPOKP3}
+{type:WriteWords|question:Where are the guinea pigs?|answer:Nua èn ils portget da mar?|id:l21j69CNpGad}
+{type:WriteWords|question:The man, the men|answer:[L'um, ils umens][Il um, ils umens]|answerviewable:K|special:[um]|id:5XhhFp6mSJgG}
+{type:WriteWords|question:In uffant, otg uffants|answer:One child, eight children|answerviewable:K|special:[child]|id:c6Gqe00tnBT0}
+{type:WriteWords|question:Jau vi quatter chauns|answer:I want four dogs|id:JtzTS1IBDKcb}
+{type:PickMissingWord|question:Las ______ èn là|options:[Ampuaunas][famiglias][Mammas][Bancas]|answer:famiglias|id:QlZKaOjmGvZk}
+{type:WriteWords|question:I want four dogs|answer:Jau vi quatter chauns|id:bZqAst1olWFV}
+{type:PickMissingWord|question:In uffant, ______ uffants|options:[Chasas][Tartuffels][otg][Giats]|answer:otg|id:xODPu7GxdcGK}
+{type:Match|question:Select the matching words|options:[Maila:Apples][Oranschas:Oranges][Giats:Cats (male)][Umens:Men]|id:kY8Pqr1xKSBK}
+{type:WriteWords|question:Jau mangel gugent las pizzas|answer:[I like to eat the pizzas][I like eating the pizzas]|answerviewable:K|special:[pizzas]|id:dFJqXPM8ME0L}
+{type:WriteWords|question:Ina carotta però trais carottas|answer:[One carrot but three carrots][A carrot but three carrots]|answerviewable:K|special:[carrot]|id:eZMPYGVr8rl5}
+{type:WriteWords|question:Brothers and mothers with fathers|answer:Frars e mammas cun babs|id:lutdhuiezkQ4}
+</lesson>
+<lesson:11|id:PsGYSiaiScb7>
+{type:Match|question:Select the matching words|options:[Ampuaunas:Raspberries][Bancas:Banks][Giats:Cats (male)][Umens:Men]|id:6iRz69MYP95m}
+{type:WriteWords|question:I like to eat the pizzas|answer:Jau mangel gugent las pizzas|id:xGcpJRYybuDR}
+{type:PickMissingWord|question:______, ils umens|options:[Pizzas][matg][L'um][Soras]|answer:L'um|id:Vxo6R1OcMzeR}
+{type:WriteWords|question:The (male) cats and the (female) cats|answer:Ils giats e las giattas|id:iuBBuZBq87DG}
+{type:PickMissingWord|question:______ e mammas cun babs|options:[Appartaments][Maila][Frars][avust]|answer:Frars|id:CMVwwLC9dzmq}
+{type:WriteWords|question:Five apartments and six houses|answer:Tschintg appartaments e sis chasas|id:k2SFxLYyvhUX}
+{type:WriteWords|question:Ina dunna, set dunnas|answer:A woman, seven women|id:mnIU9rHCzRyz}
+{type:Match|question:Select the matching words|options:[Vias:Roads][Maila:Apples][Mattas:Girls][Apricosas:Apricots]|id:OSajEEHG9wrt}
+{type:WriteWords|question:Mattas e mats|answer:Girls and boys|id:ffmJL2wrHJRY}
+{type:WriteWords|question:Girls and boys|answer:Mattas e mats|id:ODWr7cUnCEB9}
+{type:WriteWords|question:La tomata, las tomatas|answer:The tomato, the tomatos|id:2NPDg5iwWYqN}
+{type:PickOne|question:Giats|options:[Houses][Families][Cats (male)]|answer:Cats (male)|id:sBdang03n4xQ}
+</lesson>
+<lesson:12|id:yy7sXZPs7Nfu>
+{type:PickMissingWord|question:In ______, duas tartuffels|options:[mars][Carottas][december][tartuffel]|answer:tartuffel|id:7WXsDrAmI8NB}
+{type:WriteWords|question:Where are the guinea pigs?|answer:Nua èn ils portget da mar?|id:RFvJzYLNtjOG}
+{type:PickOne|question:Mattas|options:[Fathers][Girls][Banks]|answer:Girls|id:9GtkeubkoBgy}
+{type:WriteWords|question:Las bancas e las vias|answer:The banks and the roads|id:1JSZgyxir3IC}
+{type:Match|question:Select the matching words|options:[Dunnas:Women][Maila:Apples][Carottas:Carrots][Tomatas:Tomatos]|id:rOpqBeranCoh}
+{type:WriteWords|question:The (male) cats and the (female) cats|answer:Ils giats e las giattas|id:JfZyYPMQfFVd}
+{type:Match|question:Select the matching words|options:[Apricosas:Apricots][Dunnas:Women][Tomatas:Tomatos][Mats:Boys]|id:HOAN6cvJUOgz}
+{type:WriteWords|question:Ina dunna, set dunnas|answer:A woman, seven women|id:ezY3gsD5Zvgz}
+{type:WriteWords|question:An apple, nine apples|answer:In mail, nov mailas|id:RwNj5EGavUVr}
+{type:WriteWords|question:Tschintg appartaments e sis chasas|answer:Five apartments and six houses|id:VdewfQr030Tb}
+{type:PickMissingWord|question:Ina carotta però trais ______|options:[october][carottas][Famiglias][Dunnas]|answer:carottas|id:tgKggJaAbr9y}
+{type:WriteWords|question:Las famiglias èn là|answer:The families are there|id:vwJ34g9yOJ7f}
+{type:WriteWords|question:The banks and the roads|answer:Las bancas e las vias|id:nCkOIK687VLW}
+</lesson>
+<lesson:13|id:81diFA8Nogy2>
+{type:WriteWords|question:I like to eat the pizzas|answer:Jau mangel gugent las pizzas|id:pNyTQ0YBObew}
+{type:WriteWords|question:Las bancas e las vias|answer:The banks and the roads|id:ORSmYnriK9KE}
+{type:WriteWords|question:Ina dunna, set dunnas|answer:A woman, seven women|id:qh0ErxbW5x8Z}
+{type:WriteWords|question:One child, eight children|answer:In uffant, otg uffants|answerviewable:K|special:[uffant]|id:eleOttNaroR5}
+{type:WriteWords|question:L'um, ils umens|answer:The man, the men|id:RBc6T7g8djL2}
+{type:Match|question:Select the matching words|options:[Frars:Brothers][Chauns:Dogs][Chasas:Houses][Vias:Roads]|id:piMFsQ5vku6H}
+{type:WriteWords|question:In mail, nov maila|answer:An apple, nine apples|answerviewable:K|special:[apple]|id:3wabbwPXlUaM}
+{type:WriteWords|question:In tartuffel, duas tartuffels|answer:One potato, two potatos|id:84nqzKGgspvN}
+{type:Match|question:Select the matching words|options:[Frars:Brothers][Vias:Roads][Tartuffels:Potatos][Tomatas:Tomatos]|id:ADJIToMNli04}
+{type:WriteWords|question:A woman, seven women|answer:Ina dunna, set dunnas|id:DFn9FFcCZSR8}
+{type:PickOne|question:Soras|options:[Sisters][Oranges][Roads]|answer:Sisters|id:VdcGl2FyzQ6o}
+{type:PickMissingWord|question:Mattas e ______|options:[avrigl][mats][Tomatas][Bancas]|answer:mats|id:JUbxgiMydprk}
+{type:WriteWords|question:The (male) cats and the (female) cats|answer:Ils giats e las giattas|id:hwgUyjHCaILL}
+{type:WriteWords|question:Brothers and mothers with fathers|answer:Frars e mammas cun babs|id:xicnbZMN7b1F}
+{type:PickMissingWord|question:La tomata, ______ tomatas|options:[avrigl][las][Chasas][Appartaments]|answer:las|id:FdvO2RjZqZ4w}
+</lesson>
+<lesson:14|id:0NhLE3Q8jVLR>
+{type:WriteWords|question:The tomato, the tomatos|answer:La tomata, las tomatas|id:9XNEyBnS3Pqj}
+{type:WriteWords|question:Mattas e mats|answer:Girls and boys|id:oKgAbEYLzxHU}
+{type:WriteWords|question:L'um, ils umens|answer:The man, the men|id:FaawmLn1xafe}
+{type:WriteWords|question:Apricots and raspberries|answer:Apricosas e ampuaunas|id:WhwSoznSv91z}
+{type:WriteWords|question:In mail, nov maila|answer:An apple, nine apples|answerviewable:K|special:[apple]|id:mrXCBHTlelI3}
+{type:WriteWords|question:Apricots and raspberries|answer:Apricosas e ampuaunas|id:dbjndGbVxv2g}
+{type:WriteWords|question:Apricosas e ampuaunas|answer:Apricots and raspberries|id:gKOTadCM9A9x}
+{type:Match|question:Select the matching words|options:[Famiglias:Families][Ampuaunas:Raspberries][Umens:Men][Tomatas:Tomatos]|id:iM0AJGbENK38}
+{type:PickMissingWord|question:______ famiglias èn là|options:[Carottas][december][avust][Las]|answer:Las|id:P2M9By3YaU26}
+{type:Match|question:Select the matching words|options:[Vias:Roads][Giattas:Cats (female)][Mats:Boys][Apricosas:Apricots]|id:ouUImhW1Jbyw}
+{type:WriteWords|question:I like to eat the pizzas|answer:Jau mangel gugent las pizzas|id:OM4NAsn1WbtJ}
+{type:PickOne|question:Giats|options:[Roads][Cats (male)][Men]|answer:Cats (male)|id:Jkfe8voyS6G5}
+{type:WriteWords|question:In uffant, otg uffants|answer:One child, two children|id:SeebL6igKr6M}
+{type:WriteWords|question:The man, the men|answer:L'um, ils umens|id:g9xG9EbF2kpV}
+{type:PickMissingWord|question:Jau vi quatter ______|options:[Oranschas][Bancas][chauns][Mats]|answer:chauns|id:0vUS2fCDTu8E}
+</lesson>
+<lesson:15|id:66nIUSUyTXKf>
+{type:WriteWords|question:Mattas e mats|answer:Girls and boys|id:0cCkMBTpZsHa}
+{type:WriteWords|question:Girls and boys|answer:Mattas e mats|id:eluFhkajlTCL}
+{type:WriteWords|question:In tartuffel, duas tartuffels|answer:One potato, two potatos|id:R5PsfbQ5XNxC}
+{type:PickMissingWord|question:L'um, ______ umens|options:[november][matg][Vias][ils]|answer:ils|id:G5wLzH6d04Mm}
+{type:Match|question:Select the matching words|options:[Chauns:Dogs][Dunnas:Women][Ampuaunas:Raspberries][Umens:Men]|id:vZJFUveMJkwI}
+{type:WriteWords|question:I like to eat the pizzas|answer:Jau mangel gugent las pizzas|id:045eYPEmFZnY}
+{type:WriteWords|question:In mail, nov mailas|answer:An apple, nine apples|id:8xhodOkZs6qB}
+{type:WriteWords|question:In mail, nov mailas|answer:An apple, nine apples|id:CPaM8WJ77Kgt}
+{type:WriteWords|question:Where are the guinea pigs?|answer:Nua èn ils portget da mar?|id:kQrju3ecTims}
+{type:WriteWords|question:Girls and boys|answer:Mattas e mats|id:RCbrDs969GrA}
+{type:Match|question:Select the matching words|options:[Tartuffels:Potatos][Frars:Brothers][Babs:Fathers][Uffants:Children]|id:hydiTEVjmvIj}
+{type:PickMissingWord|question:Nua ______ ils portget da mar?|options:[Chauns][Frars][èn][schaner]|answer:èn|id:AwVWFyIXjsou}
+{type:WriteWords|question:Apricots and raspberries|answer:Apricosas e ampuaunas|id:l5jNYHqHLWlk}
+{type:WriteWords|question:Ina carotta però trais carottas|answer:One carrot but three carrots|id:qDtCUfgSHFvz}
+{type:PickOne|question:Carottas|options:[Apartments][Carrots][Fathers]|answer:Carrots|id:XzAurqLHPR3j}
+</lesson>
+</skill>
+<skill:More numbers|image:numbers|lessonsperlevel:2|strokecolor:128,216,255|fillcolor:1,87,155|position:7|description:Learn how to form numbers from 10-99|id:ipUjud9LLgC0>
+<lesson:1|id:BWLmdZTpzRaN>
+{type:PickOne|question:Quattordesch|options:[Fourteen][Potatos][Sisters]|answer:Fourteen|id:cd8SyCTtCM32}
+{type:FlashCard|front:Quattordesch|back:Fourteen|id:5bAqwB1Nq9Ef}
+{type:FlashCard|front:Quindesch|back:Fifteen|id:92If78OKPde7}
+{type:PickOne|question:Trenta|options:[Oranges][Raspberries][Thirty]|answer:Thirty|id:DMNbBha7v21Y}
+{type:PickOne|question:Quattordesch|options:[Families][Fourteen][Apartments]|answer:Fourteen|id:0g0nPkIUIEsn}
+{type:PickOne|question:Quindesch|options:[Fifteen][Sisters][Oranges]|answer:Fifteen|id:EwCnV33ZPJ24}
+{type:FlashCard|front:Otganta|back:Eighty|id:eu82O19yPOXg}
+</lesson>
+<lesson:2|id:8JytBURzJ1Z6>
+{type:PickOne|question:Dudesch|options:[Twelve][Tomatos][Brothers]|answer:Twelve|id:kshzPTYMHM94}
+{type:FlashCard|front:Thirteen|back:Tredesch|id:JfVMehgpvH59}
+{type:FlashCard|front:Ventgin|back:Twenty-one|id:qvWKZdZbwv4r}
+{type:FlashCard|front:Fifty|back:Tschuncanta|id:pIqJKIhQglYF}
+{type:PickOne|question:Sessanta|options:[Cats (female)][Houses][Sixty]|answer:Sixty|id:DLYmMvivgJzi}
+{type:PickOne|question:Quindesch|options:[Girls][Fifteen][Guinea pigs]|answer:Fifteen|id:NRh7KH50ufHn}
+{type:PickOne|question:Indesch|options:[Banks][Cats (male)][Eleven]|answer:Eleven|id:fGY6OlXH7Itm}
+</lesson>
+<lesson:3|id:vxyt3wtBAEFb>
+{type:Match|question:Select the matching words|options:[Chasas:Houses][Deschset:Seventeen][Ampuaunas:Raspberries][Portget da mar:Guinea pigs]|id:69fFB5ei3jWJ}
+{type:PickWords|question:The dogs want to have fourteen guinea pigs|options:[Ils][chauns][vulan][avair][quattordesch][portget da mar]|answer:Ilschaunsvulanavairquattordeschportgetdamar|answerviewable:K|id:Tr4fICobUjXL}
+{type:PickWords|question:Ella vul deschset soras|options:[She][wants][seventeen][sisters]|answer:Shewantsseventeensisters|answerviewable:K|id:XIRLCW6xDmMF}
+{type:PickMissingWord|question:Ventgin ______ èn babs|options:[umens][Mamma][Quaranta][abitaziun]|answer:umens|id:VoseBcXT3SqS}
+{type:Match|question:Select the matching words|options:[Ventgotg:Twenty-eight][Quindesch:Fifteen][Quaranta:Fourty][Tschuncanta:Fifty]|id:SnftRol5UoKA}
+{type:PickMissingWord|question:Novantanov ______ èn uffants|options:[Tartuffel][mats][Ventgin][Dudesch]|answer:mats|id:4Y1j1IbmW8ZS}
+{type:PickWords|question:Deschotg mammas han deschnov frars|options:[Eighteen][mothers][have][nineteen][brothers]|answer:Eighteenmothershavenineteenbrothers|answerviewable:K|id:yPSEGLHUVNJs}
+{type:PickOne|question:Quaranta|options:[Fourteen][Twenty-one][Fourty]|answer:Fourty|id:FAndlezvPtJj}
+{type:PickWords|question:Fourteen (male) cats and fifteen (female) cats|options:[Quaranta][giats][e][quindesch][giattas]|answer:Quattordeschgiatsequindeschgiattas|answerviewable:K|id:5sGDIP8HVuk2}
+{type:Match|question:Select the matching words|options:[Trenta:Thirty][Ventgin:Twenty-one][Dudesch:Twelve][Quindesch:Fifteen]|id:QwEVma3jjLFM}
+{type:PickWords|question:Jau vom a ventg bancas sin ventgadus vias|options:[I][go][to][twenty][banks][on][twenty-two][roads]|answer:Igototwentybanksontwenty-tworoads|answerviewable:K|id:HFGm572jFZEJ}
+{type:PickWords|question:Eighteen mothers have nineteen brothers|options:[Deschdotg][frars][han][deschnov][mammas]|answer:Deschdotgmammashandeschnovfrars|answerviewable:K|id:i1ioEP1dFuXA}
+{type:PickWords|question:Twelve tomatos and eleven potatos|options:[Dudesch][tomatas][e][indesch][tartuffels]|answer:Dudeschtomataseindeschtartuffels|answerviewable:K|id:OMHaTN1GdGJR}
+</lesson>
+<lesson:4|id:XusxtIIgIDC5>
+{type:PickWords|question:Twelve dogs and thirteen carrots|options:[Dudesch][chauns][e][tredesch][carottas]|answer:Dudeschchaunsetredeschcarottas|answerviewable:K|id:3BsZ6zcDcGM2}
+{type:PickWords|question:Twenty-three girls will be women|options:[Ventgatrais][mattas][vegnan][ad][esser][dunnas]|answer:Ventgatraismattasvegnanadesserdunnas|answerviewable:K|id:3lzWU44zSBHD}
+{type:Match|question:Select the matching words|options:[Deschset:Seventeen][Sedesch:Sixteen][Deschdotg:Eighteen][Tredesch:Thirteen]|id:EGpaRfrLQeJV}
+{type:PickWords|question:Jau vi sessantotg pizzas|options:[I][want][sixty-eight][pizzas]|answer:Iwantsixty-eightpizzas|answerviewable:K|id:qvFnDdgxFCpM}
+{type:Match|question:Select the matching words|options:[Trenta:Thirty][Quattordesch:Fourteen][Ventgin:Twenty-one][Tredesch:Thirteen]|id:Eue8aIqGhQQt}
+{type:PickWords|question:Twenty-one men are fathers|options:[Ventgin][umens][èn][babs]|answer:Ventginumensènbabs|answerviewable:K|id:py9P8mEm72hc}
+{type:PickMissingWord|question:Ils mats mangiar quarantaquatter ______|options:[Apricosa][oranschas][Otganta][Mats]|answer:oranschas|id:7S6yhLPwhnuj}
+{type:PickOne|question:Deschnov|options:[Nineteen][Twenty-eight][Thirteen]|answer:Nineteen|id:1D5QDLCLRteD}
+{type:Match|question:Select the matching words|options:[Pizzas:Pizzas][Famiglias:Families][Sedesch:Sixteen][Apricosas:Apricots]|id:J55bOVnTsBZb}
+{type:PickWords|question:Ils mats mangian quarantaquatter oranschas|options:[The][boys][eat][fourty-four][oranges]|answer:Theboyseatfourty-fouroranges|answerviewable:K|id:q7GDi2dQ6wVS}
+{type:PickMissingWord|question:Quattordesch ______ e quindesch giattas|options:[Deschdotg][Sora][giats][Sessanta]|answer:giats|id:96CVVgOBnOPZ}
+{type:PickWords|question:Do you have eleven houses?|options:[Has][ti][indesch][chasas]|answer:Hastiindeschchasas?|answerviewable:K|id:LJt6RCP7wk2G}
+{type:PickWords|question:Has ti indesch chasas?|options:[Do][you][have][eleven][houses]|answer:Doyouhaveelevenhouses?|answerviewable:K|id:MpDdLEzIjiPc}
+</lesson>
+<lesson:5|id:8e25t67uObpM>
+{type:WriteWords|question:Dudesch tomatas e indesch tartuffels|answer:Twelve tomatos and eleven potatos|id:Nf3IWFPTare0}
+{type:PickMissingWord|question:Ils mats mangian ______ oranschas|options:[quarantaquatter][Tomatas][Portget da mar][Bancas]|answer:quarantaquatter|id:IfspEfkOzUTZ}
+{type:WriteWords|question:Novantanov mats èn uffants|answer:Ninety-nine boys are children|id:F2q1QMpnUwti}
+{type:Match|question:Select the matching words|options:[Ventg:Twenty][Tredesch:Thirteen][Dudesch:Twelve][Sessanta:Sixty]|id:5YpXaaYDirZe}
+{type:PickWords|question:Twenty-three girls will be women|options:[Ventgatrais][mattas][vegnan][ad][esser][dunnas]|answer:Ventgatraismattasvegnanadesserdunnas|answerviewable:K|id:fUqslxE0Uopk}
+{type:WriteWords|question:Ventgin umens èn babs|answer:Twenty-one men are fathers|id:kYLCfHtTPeiF}
+{type:Match|question:Select the matching words|options:[Ventgin:Twenty-one][Otganta:Eighty][Deschnov:Nineteen][Ventg:Twenty]|id:gWE50SVjR8KY}
+{type:PickOne|question:Sessanta|options:[Sixty][Seventeen][Twenty]|answer:Sixty|id:GFRj6n9zC5uV}
+{type:PickWords|question:Las famiglias han sedesch appartaments|options:[The][families][have][sixteen][apartments]|answer:Thefamilieshavesixteenapartments|answerviewable:K|id:8r9b404KWeyE}
+{type:WriteWords|question:Twelve tomatos and eleven potatos|answer:Dudesch tomatas e indesch tartuffels|id:BHLJBjxC55nC}
+{type:WriteWords|question:Twelve tomatos and eleven potatos|answer:Dudesch tomatas e indesch tartuffels|id:k2M0k2430fcm}
+{type:PickMissingWord|question:Novantanov ______ èn uffants|options:[Frars][mats][Maila][Ventgin]|answer:mats|id:ioLJ59EKRws2}
+{type:PickMissingWord|question:Novantanov mats ______ uffants|options:[Uffants][Giattas][èn][Maila]|answer:èn|id:8lDN9OygKfKP}
+{type:WriteWords|question:Twelve dogs and thirteen carrots|answer:Dudesch chauns e tredesch carottas|id:4qL2PXW6aLQH}
+{type:PickWords|question:Eighty-seven chips with the pizza|options:[Otgantaset][pommes][frites][cun][la][pizza][il]|answer:Otgantasetpommesfritescunlapizza|answerviewable:K|id:0GPDxdHpSfdd}
+</lesson>
+<lesson:6|id:ZwlgMT7nD5Rd>
+{type:Match|question:Select the matching words|options:[Sessanta:Sixty][Deschdotg:Eighteen][Ventgotg:Twenty-eight][Quattordesch:Fourteen]|id:SRhvpVqr2W6w}
+{type:WriteWords|question:Deschdotg mammas han deschnov frars|answer:Eighteen mothers have nineteen brothers|answerviewable:K|special:[teen]|id:6O5H8dMOwgvS}
+{type:WriteWords|question:The fifty-six raspberries want to be in a post office|answer:Tschuncantasis ampuaunas vul esser in ina posta|id:6rpemFvTIBLb}
+{type:PickOne|question:Ventgin|options:[Sixty][Twenty-one][Twenty]|answer:Twenty-one|id:e5sFxclAxmB2}
+{type:PickMissingWord|question:______ famiglias han sedesch appartaments|options:[Las][Settanta][Ventgin][Mammas]|answer:Las|id:hf1zXJdFQCdN}
+{type:PickWords|question:Do you have eleven houses?|options:[Has][ti][indesch][chasas]|answer:Hastiindeschchasas?|answerviewable:K|id:Nfp7hHfaIXSU}
+{type:WriteWords|question:Jau vi sessantaset pizzas|answer:I want sixty-seven pizzas|answerviewable:K|special:[i]|id:q0XIEGMPCZVm}
+{type:WriteWords|question:Ninety-nine boys are children|answer:Novantanov mats èn uffants|id:ucDCKugyF4PF}
+{type:PickWords|question:Tschuncantasis ampuaunas vulan esser in ina posta|options:[Fifty-six][raspberries][want][to][be][in][a][post][office]|answer:fifty-sixraspberrieswanttobeinapostoffice|answerviewable:K|id:7H66Jz9ivaJ8}
+{type:Match|question:Select the matching words|options:[Tredesch:Thirteen][Quaranta:Fourty][Sessanta:Sixty][Ventg:Twenty]|id:nb6P4wo4iSd6}
+{type:WriteWords|question:Do you have eleven houses?|answer:Has ti indesch chasas?|id:rLMJQVNoQsUE}
+{type:PickMissingWord|question:Deschdotg mammas han ______ frars|options:[Novanta][Vias][deschnov][Tartuffels]|answer:deschnov|id:MISDLdlL1DpU}
+{type:WriteWords|question:Ventgatrais mattas vegnan ad esser dunnas|answer:Twenty-three girls will be women|id:bqPUd6gUW3wL}
+{type:PickMissingWord|question:Ils chauns vul avair quattordesch portget ______ mar|options:[da][Indesch][Tredesch][Settanta]|answer:da|id:5aNJHYtJhBbJ}
+</lesson>
+<lesson:7|id:0147JE973IT1>
+{type:WriteWords|question:Las famiglias han sedesch appartaments|answer:The families have sixteen apartments|id:9e7ZQ447cQI8}
+{type:PickMissingWord|question:Novantanov mats ______ uffants|options:[Ventgotg][èn][Maila][Oranschas]|answer:èn|id:plrtRmBL9su4}
+{type:WriteWords|question:Dudesch chauns e tredesch carottas|answer:Twelve dogs and thirteen carrots|id:wyCLagJXnEix}
+{type:WriteWords|question:Fifty-six raspberries want to be in a post office|answer:Tschuncantasis ampuaunas vul esser in ina posta|answerviewable:K|special:[a]|id:i4s8DZWdLjpP}
+{type:WriteWords|question:Eighteen mothers have nineteen brothers|answer:Deschdotg mammas han deschnov frars|answerviewable:K|special:[a]|id:jo7ofSCIYjm7}
+{type:WriteWords|question:Eighty-seven chips with the pizza|answer:Otgantaset pommes frites cun la piza|id:PijFx2mOjceV}
+{type:PickMissingWord|question:Dudesch tomatas ______ indesch tartuffels|options:[e][Quattordesch][Pizzas][Ventg]|answer:e|id:bRzsCTWQqIuK}
+{type:WriteWords|question:I want sixty-eight pizzas|answer:Jau vi sessantotg pizzas|id:jXqVoeajYnTO}
+{type:Match|question:Select the matching words|options:[Ventgin:Twenty-one][Trenta:Thirty][Dudesch:Twelve][Indesch:Eleven]|id:5Jkt4gzUJqOp}
+{type:WriteWords|question:Dudesch chauns e tredesch carottas|answer:Twelve dogs and thirteen carrots|id:qfdePUnISOoV}
+{type:Match|question:Select the matching words|options:[Trenta:Thirty][Dudesch:Twelve][Quaranta:Fourty][Tschuncanta:Fifty]|id:EgkAUjzCZ3IK}
+{type:PickOne|question:Ventgin|options:[Twenty-one][Fifty][Ninety]|answer:Twenty-one|id:dxfbYdFZObVH}
+</lesson>
+<lesson:8|id:p3caijFR6O0i>
+{type:WriteWords|question:Otgantaset pommes frites cun la piza|answer:Eighty-seven chips with the pizza|id:8c4KMN17wkhd}
+{type:WriteWords|question:The children are not thirty-five apricots|answer:Ils uffants n'èn betg trentatschintg apricosas|id:AqqfuTXgJRJB}
+{type:Match|question:Select the matching words|options:[Deschdotg:Eighteen][Quattordesch:Fourteen][Otganta:Eighty][Deschnov:Nineteen]|id:TuMX4DcWDx1O}
+{type:WriteWords|question:Ventgin umens èn babs|answer:Twenty-one men are fathers|id:fPMMO3R50gG8}
+{type:WriteWords|question:The dogs want to have fourteen guinea pigs|answer:Ils chauns vulan avair quattordesch portget da mar|answerviewable:K|special:[a]|id:ANxKMxuYRK7x}
+{type:PickOne|question:Ventgotg|options:[Twenty-eight][Fifty][Ninety]|answer:Twenty-eight|id:fjFZECcI2g8H}
+{type:Match|question:Select the matching words|options:[Ventgotg:Twenty-eight][Trenta:Thirty][Sedesch:Sixteen][Quattordesch:Fourteen]|id:wiqUcU2R0D2d}
+{type:WriteWords|question:She wants seventeen sisters|answer:Ella vul deschset soras|id:68mt7B9BlJKJ}
+{type:WriteWords|question:Fourteen (male) cats and fifteen (female) cats|answer:Quattordesch giats e quindesch giattas|id:5FVHiAvRWteW}
+{type:WriteWords|question:Jau vi sessantotg pizzas|answer:I want sixty-eight pizzas|id:saoqM54tLu0P}
+{type:PickMissingWord|question:Ventgatrais mattas vegnan ______ esser dunnas|options:[ad][Novanta][Apricosas][Maila]|answer:ad|id:PBx3zCTBjimv}
+{type:WriteWords|question:Dudesch tomatas e indesch tartuffels|answer:Twelve tomatos and eleven potatos|id:QasoT4JeBifP}
+{type:PickMissingWord|question:Has ti ______ chasas?|options:[indesch][Pizzas][Deschdotg][Bancas]|answer:indesch|id:wjAQyToNu6kI}
+</lesson>
+<lesson:9|id:JR9Wozmv8dQw>
+{type:PickMissingWord|question:Ella vul deschset ______|options:[Babs][Ventgotg][Mammas][soras]|answer:soras|id:Ap0IbVSF4Yup}
+{type:WriteWords|question:The boys eat fourty-four oranges|answer:Ils mats mangiar quarantaquatter oranschas|id:TZuRTleSXbM2}
+{type:WriteWords|question:Eighty-seven chips with the pizza|answer:Otgantaset pommes frites cun la piza|id:BC0t7Rw3m6CV}
+{type:WriteWords|question:Ils uffants n'èn betg trentatschintg apricosas|answer:The children are not thirty-five apricots|id:XVvpFooKgqA3}
+{type:WriteWords|question:Las famiglias han sedesch appartaments|answer:The families have sixteen apartments|id:OOR68MwRSOME}
+{type:WriteWords|question:Otgantaset pommes frites cun la piza|answer:Eighty-seven chips with the pizza|id:j1wk703MB5yD}
+{type:PickMissingWord|question:______ mammas han deschnov frars|options:[Indesch][Tomatas][Deschdotg][Sessanta]|answer:Deschdotg|id:2OkCnNfNLjZn}
+{type:Match|question:Select the matching words|options:[Tschuncanta:Fifty][Indesch:Eleven][Deschdotg:Eighteen][Dudesch:Twelve]|id:AqkeJZ7qP1rY}
+{type:Match|question:Select the matching words|options:[Settanta:Seventy][Novanta:Ninety][Sedesch:Sixteen][Tschuncanta:Fifty]|id:UwXS3uQUbOyz}
+{type:WriteWords|question:Twenty-three girls will be women|answer:Ventgatrais mattas vegnan ad esser dunnas|id:wPS3vRKdNRqb}
+{type:PickOne|question:Dudesch|options:[Twelve][Seventeen][Twenty-one]|answer:Twelve|id:MssMZyeptq89}
+{type:WriteWords|question:The families have sixteen apartments|answer:Las famiglias han sedesch appartaments|id:DnHKSCcnxAY9}
+{type:WriteWords|question:Dudesch chauns e tredesch carottas|answer:Twelve dogs and thirteen carrots|id:NLJH3sAcTsOn}
+{type:WriteWords|question:She wants seventeen sisters|answer:Ella vul deschset soras|id:rRh9RnyEi2IC}
+{type:WriteWords|question:Has ti indesch chasas?|answer:Do you have eleven houses?|id:5uULxIwTSQMi}
+</lesson>
+<lesson:10|id:GHRnTWeBmX20>
+{type:PickOne|question:Trenta|options:[Eighty][Fourteen][Thirty]|answer:Thirty|id:179k0H9LXeWo}
+{type:WriteWords|question:Dudesch chauns e tredesch carottas|answer:Twelve dogs and thirteen carrots|id:iPWMA7ZzuLi1}
+{type:WriteWords|question:Ventgatrais mattas vegnan ad esser dunnas|answer:Twenty-three girls will be women|id:GwD01kOxRJLL}
+{type:PickMissingWord|question:______ chauns e tredesch carottas|options:[Quaranta][Trenta][Dudesch][Umens]|answer:Dudesch|id:RXRA239aDKW8}
+{type:WriteWords|question:Otgantaset pommes frites cun la piza|answer:Eighty-seven chips with the pizza|id:2sqI9f4arLBj}
+{type:WriteWords|question:The families have sixteen apartments|answer:Las famiglias han sedesch appartaments|id:qmjKudBktQoE}
+{type:WriteWords|question:Deschdotg mammas han deschnov frars|answer:Eighteen mothers have nineteen brothers|answerviewable:K|special:[e]|id:WVBtXyje8Td8}
+{type:WriteWords|question:Ninety-nine boys are children|answer:Novantanov mats èn uffants|id:LEiPZtBLDUny}
+{type:Match|question:Select the matching words|options:[Indesch:Eleven][Sessanta:Sixty][Quattordesch:Fourteen][Otganta:Eighty]|id:rErqdUpsVVc0}
+{type:WriteWords|question:The dogs want to have fourteen guinea pigs|answer:Ils chauns vul avair quattordesch portget da mar|id:h9cp32GUYYKb}
+{type:PickMissingWord|question:Ils chauns ______ avair quattordesch portget da mar|options:[Famiglias][vul][Portget da mar][Frars]|answer:vul|id:NwgW5ymmb2VP}
+{type:WriteWords|question:Fifty-six raspberries want to be in a post office|answer:Tschuncantasis ampuaunas vulan esser in ina posta|answerviewable:K|special:[a]|id:Hcvb3GeCGJUI}
+{type:Match|question:Select the matching words|options:[Trenta:Thirty][Deschnov:Nineteen][Settanta:Seventy][Deschset:Seventeen]|id:K0S00Z9t4xGG}
+{type:WriteWords|question:Twenty-three girls will be women|answer:Ventgatrais mattas vegnan ad esser dunnas|id:0vVoUJXVVQRy}
+</lesson>
+</skill>
+<skill:Sport|image:football|lessonsperlevel:2|strokecolor:128,216,255|fillcolor:1,87,155|position:9|description:Learn how to describe what sports you play on Romansh|id:g2iSxGSamiwO>
+<lesson:1|id:q9G3czYdi9ZK>
+{type:Match|question:Select the matching words|options:[Tredesch:Thirteen][Rugby:Rugby][Settanta:Seventy][Trenta:Thirty]|id:ml1JRlOqnxoR}
+{type:Match|question:Select the matching words|options:[Vus dain:You (pl) play][Ballape:Football][Ella dat:She plays][Hockey:Hockey]|id:AaLMAkTemJps}
+{type:PickOne|question:Ballape|options:[Football][Twenty-eight][Seventeen]|answer:Football|id:PstRpDhNZLu7}
+{type:FlashCard|front:Baseball|back:Baseball|id:hBIBz1Olfc1Y}
+{type:PickOne|question:Rugby|options:[Sixteen][Rugby][Fifty]|answer:Rugby|id:v4jIkxhitjks}
+{type:FlashCard|front:Els dattan|back:They play|id:BEiEUQx8TQ7u}
+{type:Match|question:Select the matching words|options:[Tredesch:Thirteen][Lungurus:Boring][Quattordesch:Fourteen][Dudesch:Twelve]|id:4AnLDJjBSAXy}
+{type:Match|question:Select the matching words|options:[Excitant:Exciting][Ella dat:She plays][Vus dain:You (pl) play][Els dattan:They play]|id:KFrms0hbwVIZ}
+{type:PickOne|question:Els dattan|options:[Fifteen][Sixty][They play]|answer:They play|id:fjSHe18dZCDJ}
+{type:FlashCard|front:Hockey|back:Hockey|id:yZmZuMJ6SZLy}
+{type:Match|question:Select the matching words|options:[Baseball:Baseball][Ti das:You play][Hockey:Hockey][Dar:To play]|id:wfcekI6LRsFc}
+{type:Match|question:Select the matching words|options:[Tschuncanta:Fifty][Settanta:Seventy][Baseball:Baseball][Deschdotg:Eighteen]|id:goVYomjkeSHE}
+{type:PickOne|question:Ballape|options:[Seventeen][Football][Fifty]|answer:Football|id:YTIMrfl0NiUZ}
+{type:FlashCard|front:Ballape|back:Football|id:ZquJLUtWe7pw}
+{type:FlashCard|front:Football|back:Ballape|id:YoExtYvFwmdb}
+{type:FlashCard|front:Hockey|back:Hockey|id:73ew4wlxhk7M}
+</lesson>
+<lesson:2|id:Dy0soWvfcWM9>
+{type:Match|question:Select the matching words|options:[Deschnov:Nineteen][Quattordesch:Fourteen][Ella dat:She plays][Ventg:Twenty]|id:zJ5a4aKCBmsG}
+{type:FlashCard|front:Exciting|back:Excitant|id:cqmpsM9aHXlG}
+{type:Match|question:Select the matching words|options:[Otganta:Eighty][Quattordesch:Fourteen][Indesch:Eleven][Divertent:Enjoyable]|id:qHgRuDr76pOH}
+{type:FlashCard|front:Dar|back:To play|id:LV9jX3O0mvAa}
+{type:Match|question:Select the matching words|options:[Rugby:Rugby][Nus dain:We play][Baseball:Baseball][Hockey:Hockey]|id:o1idTxM0X8qT}
+{type:FlashCard|front:We play|back:Nus dain|id:LDm9OFVun6j8}
+{type:FlashCard|front:They play|back:Els dattan|id:TiMQxR8epDjL}
+{type:PickOne|question:Hockey|options:[Hockey][Twenty-eight][Twenty]|answer:Hockey|id:SD8UWFM38r7R}
+{type:PickOne|question:Excitant|options:[Exciting][Eleven][Sixty]|answer:Exciting|id:4C9A4tFGMpKW}
+{type:PickOne|question:Excitant|options:[Sixty][Fifty][Exciting]|answer:Exciting|id:pAGCR63ZRfax}
+{type:FlashCard|front:You play|back:Ti das|id:BdA7gezlaZ3u}
+{type:Match|question:Select the matching words|options:[Ventgotg:Twenty-eight][Jau dun:I  play][Deschset:Seventeen][Indesch:Eleven]|id:F68FpcpIOnKO}
+{type:Match|question:Select the matching words|options:[Cricket:Cricket][Lungurus:Boring][Els dattan:They play][Vus dain:You (pl) play]|id:dSVQPWGLvE4D}
+{type:Match|question:Select the matching words|options:[Vus dain:You (pl) play][Nus dain:We play][Baseball:Baseball][Els dattan:They play]|id:g9UpJzGd4TEm}
+{type:FlashCard|front:El dat|back:He plays|id:iXcK8cDVyF5U}
+{type:PickOne|question:Cricket|options:[Cricket][Eleven][Twenty]|answer:Cricket|id:xrhxCbGaCEUT}
+</lesson>
+<lesson:3|id:NgjnoSEUnNPO>
+{type:FlashCard|front:Lungurus|back:Boring|id:iqJpzPuv8y0B}
+{type:PickMissingWord|question:Els ______ ballape da mesanotg|options:[dattan][Deschdotg][Tschuncanta][Novanta]|answer:dattan|id:o0jQnUCRbkYO}
+{type:PickWords|question:I don't like to play football or rugby because they are boring|options:[Jau][na][dun][betg][gugent][ballape][u][rugby][perquai][che][els][èn][lungurus]|answer:Jaunadunbetggugentballapeurugbyperquaicheelsènlungirus|answerviewable:K|id:M1QYmSpd6uHO}
+{type:PickOne|question:Jau dun|options:[Cricket][You (pl) play][I  play]|answer:I  play|id:ppxotOWJb70z}
+{type:PickWords|question:Nus dain hockey en nova zelanda|options:[We][play][hockey][in][New][Zealand]|answer:WeplayhockeyinNewZealand|answerviewable:K|id:eUbTDEbXmPxI}
+{type:FlashCard|front:Cricket|back:Cricket|id:snC7OfweIpOz}
+{type:Match|question:Select the matching words|options:[Ballape:Football][Cricket:Cricket][Ti das:You play][A ... bat:In bastun da ...]|id:M8muZxnsk1uP}
+{type:PickOne|question:Jau dun|options:[Eleven][Fifteen][I  play]|answer:I  play|id:HbHdexOLE7Pi}
+{type:FlashCard|front:Cricket|back:Cricket|id:r1ob3bkyKZKN}
+{type:Match|question:Select the matching words|options:[Otganta:Eighty][Divertent:Enjoyable][Tschuncanta:Fifty][Deschset:Seventeen]|id:LshJ9uZAz7JU}
+{type:Match|question:Select the matching words|options:[Gieu:A game][Vus dain:You (pl) play][Lungurus:Boring][Divertent:Enjoyable]|id:v21eAf3hhPD8}
+{type:PickWords|question:Baseball isn't excting and enjoyable|options:[Baseball][n'è][betg][excitant][e][divertent]|answer:Baseballn'èbetgexcitantedivertent|answerviewable:K|id:6bZTAcWYqK6s}
+{type:PickMissingWord|question:El dat ______ in bastun da hockey|options:[A ... bat][Deschnov][Deschdotg][cun]|answer:cun|id:91kz5koKGYAM}
+{type:PickOne|question:El dat|options:[Fourty][Twelve][He plays]|answer:He plays|id:RPM2R5EDaz0J}
+{type:PickWords|question:Ella dat cricket qua|options:[She][plays][cricket][here]|answer:Sheplayscrickethere|answerviewable:K|id:yA1mwyD4EUgd}
+</lesson>
+<lesson:4|id:QXzldtjAGnR7>
+{type:PickWords|question:They play football at midnight|options:[Els][dattan][ballape][da][mesanotg]|answer:Elsdattanballapedamesanotg|answerviewable:K|id:4t28JKAu7bhD}
+{type:PickWords|question:Do you play cricket or football?|options:[Das][ti][cricket][u][ballape]|answer:Dasticricketuballape?|answerviewable:K|id:rHkUkUPAkSYi}
+{type:Match|question:Select the matching words|options:[El dat:He plays][Ti das:You play][In giieu:A game][Cricket:Cricket]|id:kmx6LNVQj0qK}
+{type:PickMissingWord|question:Nus ______ dar in gieu là damaun|options:[Els dattan][Trenta][vulain][Ventgin]|answer:vulain|id:fZD9yZTkqmlQ}
+{type:FlashCard|front:You (pl) play|back:Vus dais|id:yavWvjk23oqP}
+{type:PickOne|question:Ti das|options:[Fifteen][You play][Seventy]|answer:You play|id:XiZNzThbFoiZ}
+{type:PickWords|question:Nus dain hockey en nova zelanda|options:[We][play][hockey][in][New][Zealand]|answer:WeplayhockeyinNewZealand|answerviewable:K|id:jw1pn1PqOcW2}
+{type:PickOne|question:El dat|options:[Eighteen][Fifteen][He plays]|answer:He plays|id:5Eo0X7VCGkWo}
+{type:PickWords|question:Nus vulain dar in gieu là damaun|options:[We][want][to][play][a][game][there][tomorrow]|answer:Wewanttoplayagametheretomorrow|answerviewable:K|id:14T8tc0aDwxu}
+{type:PickMissingWord|question:Els dattan ______ da mesanotg|options:[ballape][Tredesch][Gieu][Cricket]|answer:ballape|id:b5JuLQGTvMpX}
+{type:PickWords|question:He plays with a hockey stick|options:[El][dat][cun][in][bastun][da][hockey]|answer:Eldatcuninbastundahockey|answerviewable:K|id:2rw7FveWmfFz}
+{type:Match|question:Select the matching words|options:[Quindesch:Fifteen][Sedesch:Sixteen][Trenta:Thirty][Els dattan:They play]|id:awdzO0uuexhh}
+{type:FlashCard|front:Ti das|back:You play|id:lIucP2dfiuec}
+{type:PickOne|question:Ti das|options:[You play][To play][I  play]|answer:You play|id:7BAnQGFWebuy}
+{type:PickWords|question:Els dattan ballape da mesanotg|options:[They][play][football][at][midnight]|answer:Theyplayfootballatmidnight|answerviewable:K|id:SnIH9tOAnhw2}
+{type:Match|question:Select the matching words|options:[Rugby:Rugby][Els dattan:They play][Gieu:A game][Vus dain:You (pl) play]|id:EQuqYk60KbZd}
+{type:FlashCard|front:Hockey|back:Hockey|id:seiHGbAARQkW}
+</lesson>
+<lesson:5|id:FQRv29lnUYr5>
+{type:WriteWords|question:She plays crocket here|answer:Ella dat cricket qua|id:ZdHrxrtYqLGZ}
+{type:PickMissingWord|question:______ dat cun in bastun da hockey|options:[El][Dar][Settanta][Baseball]|answer:El|id:5TgxLtETzRDL}
+{type:WriteWords|question:Jau na dun betg gugent ballape u rugby perquai che els èn lungirus|answer:I don't like to play football or rugby because they are boring|answerviewable:K|special:[o]|id:GDqXio7QS75V}
+{type:PickOne|question:Jau dun|options:[Nineteen][Fifty][I  play]|answer:I  play|id:cYEIeoLK9Jj2}
+{type:WriteWords|question:Nus dain hockey en nova zelanda|answer:We play hockey in New Zealand|id:uB4su5FCK34a}
+{type:PickWords|question:El dat cun in bastun da hockey|options:[He][plays][with][a][hockey][stick]|answer:Heplayswithahockeystick|answerviewable:K|id:gHIDkvMy4Oxu}
+{type:Match|question:Select the matching words|options:[Els dattan:They play][A ... bat:In bastun da ...][Lungurus:Boring][Gieu:A game]|id:WpkDcesHZcXB}
+{type:WriteWords|question:Nus vulain dar in gieu là damaun|answer:We want to play a game there tomorrow|id:Io939JjEhzKr}
+{type:PickOne|question:Jau dun|options:[Eighteen][Thirty][I  play]|answer:I  play|id:2i1Y4JntFpiy}
+{type:PickWords|question:She will play rugby|options:[Ella][vegn][a][dar][rugby]|answer:Ellavegnadarrugby|answerviewable:K|id:PPEFGMuzA7vP}
+{type:PickMissingWord|question:Ella ______ cricket qua|options:[Ventg][dat][Ti das][Trenta]|answer:dat|id:qcVXgSqn42K5}
+{type:WriteWords|question:Baseball isn't excting and enjoyable|answer:Baseball n'è betg excitant e divertent|id:LmHXlFpsjhba}
+{type:Match|question:Select the matching words|options:[Cricket:Cricket][Baseball:Baseball][Els dattan:They play][Jau dun:I  play]|id:4z2gGgO6Bs1i}
+{type:PickOne|question:Vus dais|options:[Seventeen][You (pl) play][Thirteen]|answer:You (pl) play|id:Mo0gVUBGh2LT}
+{type:PickOne|question:Excitant|options:[She plays][Enjoyable][Exciting]|answer:Exciting|id:jq5L33sy9lKH}
+{type:WriteWords|question:Do you play cricket or football?|answer:Das ti cricket u ballape?|id:5TlR31Pa1Ibv}
+{type:PickMissingWord|question:Ella vegn a dar ______|options:[Ballape][Lungurus][Gieu][rugby]|answer:rugby|id:GwyixgnPQ4bN}
+</lesson>
+<lesson:6|id:KlIKqsa12GH3>
+{type:PickOne|question:Nus dain|options:[We play][You (pl) play][Rugby]|answer:We play|id:bDXbrf7A6OfC}
+{type:PickWords|question:Ella dat cricket qua|options:[She][plays][cricket][here]|answer:Sheplayscrickethere|answerviewable:K|id:TFR7t6sqUJ2u}
+{type:WriteWords|question:They play football at midnight|answer:Els dattan ballape da mesanotg|id:qKWCdf5Zuxrw}
+{type:PickOne|question:Ti das|options:[Thirty][Eighteen][You play]|answer:You play|id:BOgyz480GokK}
+{type:PickMissingWord|question:Nus ______ dar in gieu là damaun|options:[Deschdotg][Ventg][vulain][Nus dain]|answer:vulain|id:NXj33tGNeWoo}
+{type:WriteWords|question:Ella dat cricket qua|answer:She plays cricket here|answerviewable:K|special:[e]|id:4ynV0qJLHwbC}
+{type:WriteWords|question:Baseball isn't excting and enjoyable|answer:Baseball n'è betg excitant e divertent|id:XhDblAu5YQaz}
+{type:WriteWords|question:Das ti cricket u ballape?|answer:Do you play cricket or football?|id:mKmYbP9kR2qw}
+{type:WriteWords|question:Ella dat cricket qua|answer:She plays cricket here|answerviewable:K|special:[e]|id:qqx4whZkS4Te}
+{type:PickOne|question:Dar|options:[Thirteen][To play][Sixty]|answer:To play|id:oOZN2qn0AGBH}
+{type:PickMissingWord|question:______ dat cricket qua|options:[Ballape][Settanta][Ella][Deschdotg]|answer:Ella|id:zPDdF8y4PqgE}
+{type:PickMissingWord|question:Nus dain hockey en ______ zelanda|options:[nova][Otganta][Cricket][Sessanta]|answer:nova|id:1wxyWS4MWyN0}
+{type:WriteWords|question:He plays with a hockey stick|answer:El dat cun in bastun da hockey|id:iCkaSs8j3Sq9}
+{type:Match|question:Select the matching words|options:[A ... bat:In bastun da ...][Divertent:Enjoyable][Nus dain:We play][Els dattan:They play]|id:8bY3CBPgLssh}
+{type:PickOne|question:Lungurus|options:[Seventeen][Seventy][Boring]|answer:Boring|id:ZMTZP38QZvAC}
+{type:PickWords|question:She plays crocket here|options:[Ella][dat][cricket][qua]|answer:Elladatcricketqua|answerviewable:K|id:QDYwbGhp5V6E}
+{type:Match|question:Select the matching words|options:[Els dattan:They play][A ... bat:In bastun da ...][Excitant:Exciting][Lungurus:Boring]|id:FocODwovaYyZ}
+</lesson>
+<lesson:7|id:0O6eZB9ZfV5d>
+{type:WriteWords|question:She plays cricket here|answer:Ella dat cricket qua|answerviewable:K|special:[a]|id:U4yqzO35MZkm}
+{type:ImagePick|question:Boring|options:[Divertent:happy-face][Excitant:excited][Lungurus:boring][Ballape:football]|answer:Lungurus|id:gCj3zpt0o6an}
+{type:WriteWords|question:I don't like to play football or rugby because they are boring|answer:Jau na dun betg gugent ballape u rugby perquai che els èn lungirus|answerviewable:K|special:[e]|id:POc8KySzxHQS}
+{type:FlashCard|front:Rugby|back:Rugby|id:d8Z2pMnULV7S}
+{type:Match|question:Select the matching words|options:[Dar:To play][Els dattan:They play][Cricket:Cricket][Ella dat:She plays]|id:1GPIMI7gGbWd}
+{type:WriteWords|question:He plays with a hockey stick|answer:El dat cun in bastun da hockey|id:VgEHubMQV8ZV}
+{type:PickMissingWord|question:Nus dain hockey ______ nova zelanda|options:[Gieu][en][Dar][El dat]|answer:en|id:1heLZn09Hvnm}
+{type:PickOne|question:Jau dun|options:[Baseball][Rugby][I play]|answer:I play|id:B6msEbVBhlu2}
+{type:WriteWords|question:Ella dat cricket qua|answer:She plays cricket here|answerviewable:L|special:[e]|id:zEbXBbT4z8kX}
+{type:WriteWords|question:Els dattan ballape da mesanotg|answer:They play football at midnight|answerviewable:K|special:[t]|id:bZBAoXsUDHk2}
+{type:Match|question:Select the matching words|options:[Gieu:A game][Vus dain:You (pl) play][Baseball:Baseball][El dat:He plays]|id:VL5XFlRES1ux}
+{type:PickMissingWord|question:Baseball n'è betg excitant ______ divertent|options:[Divertent][e][Deschdotg][Baseball]|answer:e|id:7NDHcXBOrI1w}
+{type:WriteWords|question:Baseball n'è betg excitant e divertent|answer:Baseball isn't excting and enjoyable|id:XTBqTCJS2yIU}
+{type:WriteWords|question:Jau na dun betg gugent ballape u rugby perquai che els èn lungirus|answer:I don't like to play football or rugby because they are boring|answerviewable:K|special:[o]|id:WDSFrcnWuulL}
+{type:PickWords|question:Das ti cricket u ballape?|options:[Do][you][play][cricket][or][football]|answer:Doyouplaycricketorfootball?|answerviewable:K|id:VF2lHSFym6n8}
+{type:WriteWords|question:I don't like to play football or rugby because they are boring|answer:Jau na dun betg gugent ballape u rugby perquai che els èn lungirus|answerviewable:K|special:[a]|id:WjqWGR9VDHRZ}
+{type:FlashCard|front:Boring|back:Lungurus|id:ZUgVxxEEoKTZ}
+{type:PickMissingWord|question:Jau na dun betg gent ballape u rugby perquai che els èn ______|options:[Gieu][lungurus][Deschdotg][Ballape]|answer:lungurus|id:rI1EnvloUcKk}
+</lesson>
+<lesson:8|id:23kRcKw07vjK>
+{type:Match|question:Select the matching words|options:[Ballape:Football][Jau dun:I  play][Ella dat:She plays][Nus dain:We play]|id:RsIsUG0HAHnS}
+{type:PickMissingWord|question:______ dat cun in bastun da hockey|options:[Ventg][Excitant][El][Ventgotg]|answer:El|id:LeBNIZTRCzhn}
+{type:WriteWords|question:Baseball isn't excting and enjoyable|answer:Baseball n'è betg excitant e divertent|id:K9GREeYIc1aW}
+{type:WriteWords|question:He plays with a hockey stick|answer:El dat cun in bastun da hockey|id:oIS2QkCmsG2i}
+{type:PickMissingWord|question:El dat cun in ______ da hockey|options:[Otganta][bastun][Ventgotg][Ventg]|answer:bastun|id:tk8sC5m6f8Oc}
+{type:PickMissingWord|question:El dat cun in ______ da hockey|options:[Trenta][Ventgin][Cricket][bastun]|answer:bastun|id:Glurxgk7M1Ti}
+{type:WriteWords|question:We play hockey in New Zealand|answer:Nus dain hockey en nova zelanda|id:gd90LC8vxQXM}
+{type:FlashCard|front:She plays|back:Ella dat|id:GFMwcIGE8Dii}
+{type:Match|question:Select the matching words|options:[Cricket:Cricket][Hockey:Hockey][Divertent:Enjoyable][Ella dat:She plays]|id:YEeeGmA5C5sn}
+{type:PickWords|question:They play football at midnight|options:[Els][dattan][ballape][da][mesanotg]|answer:Elsdattanballapedamesanotg|answerviewable:L|id:JfcjLnqNyQDR}
+{type:PickOne|question:Ti das|options:[Enjoyable][In bastun da ...][You play]|answer:You play|id:E0AKuYnbhBew}
+{type:WriteWords|question:Jau na dun betg gugent ballape u rugby perquai che els èn lungurus|answer:I don't like to play football or rugby because they are boring|answerviewable:K|special:[o]|id:8l5Z3TeEdrj6}
+{type:WriteWords|question:Nus dain hockey en nova zelanda|answer:We play hockey in New Zealand|id:iIB040mJBP9o}
+{type:WriteWords|question:I don't like to play football or rugby because they are boring|answer:Jau na dun betg gugent ballape u rugby perquai che els èn lungirus|answerviewable:K|special:[a]|id:BYDZrHXzLEa1}
+{type:FlashCard|front:El dat|back:He plays|id:Rx3a7RUSYGqb}
+{type:WriteWords|question:El dat cun in bastun da hockey|answer:He plays with a hockey stick|id:QILcb3xnwVYg}
+{type:WriteWords|question:Els dattan ballape da mesanotg|answer:They play football at midnight|id:WknI2iqcoKko}
+</lesson>
+<lesson:9|id:MrTMNG4marpw>
+{type:WriteWords|question:I don't like to play football or rugby because they are boring|answer:Jau na dun betg gent ballape u rugby perquai che els èn lungirus|id:WroTZh4nDHE8}
+{type:PickWords|question:I don't like to play football or rugby because they are boring|options:[dun][che][na][èn][lungirus][betg][ballape][rugby][gent][Jau][u][perquai][els]|answer:Jaunadunbetggentballapeurugbyperquaicheelsènlungirus|answerviewable:Jaunadunbetggentballapeurugbyperquaicheelsènlungirus|id:Z19qC33vcQwZ}
+{type:FlashCard|front:Vus dain|back:You (pl) play|id:Okttf4p6lATR}
+{type:PickOne|question:Ti das|options:[Twelve][Eighteen][You play]|answer:You play|id:2EqRdIryyeB7}
+{type:WriteWords|question:I don't like to play football or rugby because they are boring|answer:Jau na dun betg gent ballape u rugby perquai che els èn lungirus|id:eYrHCND9zcO0}
+{type:FlashCard|front:Enjoyable|back:Divertent|id:EZDd5RqmDdle}
+{type:Match|question:Select the matching words|options:[A ... bat:In bastun da ...][Hockey:Hockey][El dat:He plays][Gieu:A game]|id:VuCRN1lNVwbG}
+{type:PickOne|question:Ballape|options:[Football][Boring][Exciting]|answer:Football|id:PYdBy3yb8wF0}
+{type:WriteWords|question:Das ti cricket u ballape?|answer:Do you play cricket or football?|id:6eOvklAqB78Z}
+{type:WriteWords|question:He plays with a hockey stick|answer:El dat cun in bastun da hockey|id:zLC56VDj7zZO}
+{type:PickMissingWord|question:Baseball ______ betg excitant e divertent|options:[Deschset][Cricket][Deschdotg][n'è]|answer:n'è|id:UabsoWCRnP57}
+{type:WriteWords|question:Nus vulain dar in gieu là damaun|answer:We want to play a game there tomorrow|id:I6bNHFKqM9wi}
+{type:WriteWords|question:Jau na dun betg gent ballape u rugby perquai che els èn lungirus|answer:I don't like to play football or rugby because they are boring|id:YyGuavWyQWNx}
+{type:WriteWords|question:Els dattan ballape da mesanotg|answer:They play football at midnight|id:FJXleiURJMAu}
+{type:WriteWords|question:I don't like to play football or rugby because they are boring|answer:Jau na dun betg gent ballape u rugby perquai che els èn lungirus|id:4vMqQ0CjyJ5D}
+{type:PickWords|question:Do you play cricket or football?|options:[Das][ballape][ti][cricket][u]|answer:Dasticricketuballape?|answerviewable:Dasticricketuballape?|id:zIi0Y3vASifR}
+{type:PickMissingWord|question:Jau na dun betg gent ballape ______ rugby perquai che els èn lungirus|options:[Tredesch][Trenta][u][A ... bat]|answer:u|id:OJOO7gACKOPf}
+{type:PickWords|question:Vus dais in gieu cun mes tartuffels|options:[Thirteen][pl][play][You][Ninety][Eleven][Fourty][potatoes][Twenty-eight][with][my]|answer:You(pl)playwithmypotatoes|answerviewable:You(pl)playwithmypotatoes|id:dUxQokyPAuaK}
+{type:WriteWords|question:You (pl) play with my potatoes|answer:Vus dais in gieu cun mes tartuffels|id:WTcbWydPWcqO}
+{type:PickOne|question:Dar|options:[To play][Rugby][She plays]|answer:To play|id:c4CvCVWhpUUm}
+{type:WriteWords|question:Ella vegn a dar rugby|answer:She will play rugby|id:mCM9bjXRZb2N}
+{type:Match|question:Select the matching words|options:[Jau dun:I  play][Ti das:You play][Excitant:Exciting][Lungurus:Boring]|id:ttZUTXX3B5LK}
+{type:PickWords|question:We play hockey in New Zealand|options:[en][Nus][Sessanta][hockey][dain][nova][zelanda]|answer:Nusdainhockeyennovazelanda|answerviewable:Nusdainhockeyennovazelanda|id:yLUGgEXcbvIU}
+</lesson>
+<lesson:10|id:qzyk41xGFEUN>
+{type:PickWords|question:You (pl) play with my potatoes|options:[gieu][Vus][tartuffels][dais][Deschnov][mes][in][cun][Sessanta]|answer:Vusdaisingieucunmestartuffels|answerviewable:Vusdaisingieucunmestartuffels|id:ufsAAkQS9Js5}
+{type:WriteWords|question:I don't like to play football or rugby because they are boring|answer:Jau na dun betg gent ballape u rugby perquai che els èn lungirus|id:ud38uyTpyQt7}
+{type:Match|question:Select the matching words|options:[Baseball:Baseball][Divertent:Enjoyable][Els dattan:They play][Ti das:You play]|id:qHw6WYsEng7v}
+{type:WriteWords|question:Das ti cricket u ballape?|answer:Do you play cricket or football?|id:XsaxTR8g1gxJ}
+{type:WriteWords|question:He plays with a hockey stick|answer:El dat cun in bastun da hockey|id:NxNvTnJWYFZm}
+{type:PickOne|question:A ... bat|options:[We play][In bastun da ...][You (pl) play]|answer:In bastun da ...|id:jiOlcqLZQuZS}
+{type:PickMissingWord|question:Baseball n'è ______ excitant e divertent|options:[betg][El dat][Nus dain][Excitant]|answer:betg|id:pSZv2TD8M72q}
+{type:PickOne|question:Excitant|options:[Exciting][Cricket][She plays]|answer:Exciting|id:CSGANxRxPrDk}
+{type:Match|question:Select the matching words|options:[Lungurus:Boring][Divertent:Enjoyable][Ballape:Football][Dar:To play]|id:xTvQ8dX7hDHK}
+{type:PickMissingWord|question:Ella dat cricket ______|options:[qua][Quattordesch][Divertent][A ... bat]|answer:qua|id:3yb51ux9av12}
+{type:WriteWords|question:They play football at midnight|answer:Els dattan ballape da mesanotg|id:EKrL2ZKrphvA}
+{type:WriteWords|question:Ella vegn a dar rugby|answer:She will play rugby|id:ksCH7yEOve8v}
+{type:WriteWords|question:We play hockey in New Zealand|answer:Nus dain hockey en nova zelanda|id:p0u2Bh0hMBlj}
+{type:PickWords|question:Nus vulain dar in gieu là damaun|options:[a][play][game][tomorrow][We][there][to][want]|answer:Wewanttoplayagametheretomorrow|answerviewable:Wewanttoplayagametheretomorrow|id:lPmxz0n1pjbz}
+{type:PickWords|question:She plays crocket here|options:[dat][cricket][Ella][qua]|answer:Elladatcricketqua|answerviewable:Elladatcricketqua|id:tUucpREkBqrJ}
+{type:WriteWords|question:She will play rugby|answer:Ella vegn a dar rugby|id:HE5moDLp71XJ}
+{type:WriteWords|question:Jau na dun betg gent ballape u rugby perquai che els èn lungirus|answer:I don't like to play football or rugby because they are boring|id:82n4lk1YDtYs}
+{type:PickWords|question:Baseball isn't excting and enjoyable|options:[Baseball][e][excitant][divertent][n'è][betg]|answer:Baseballn'èbetgexcitantedivertent|answerviewable:Baseballn'èbetgexcitantedivertent|id:FFxUBQJgT0Pz}
+{type:FlashCard|front:Baseball|back:Baseball|id:wQmFaz8Tgtqr}
+{type:WriteWords|question:Jau na dun betg gent ballape u rugby perquai che els èn lungirus|answer:I don't like to play football or rugby because they are boring|id:XFYQy4bavdr4}
+{type:FlashCard|front:Cricket|back:Cricket|id:2h2aj7mzSPQj}
+{type:PickOne|question:Lungurus|options:[Boring][Twenty][Eighty]|answer:Boring|id:97yAmelQe7jk}
+{type:WriteWords|question:Nus dain hockey en nova zelanda|answer:We play hockey in New Zealand|id:1F0j2bEDDfpX}
+</lesson>
+</skill>
+<skill:Birthdays|image:birthday-cake|lessonsperlevel:3|strokecolor:128,216,255|fillcolor:1,87,155|position:10|description:Learn how to describe when your birthday is in romansh|id:CoJ1LwDGxuSV>
+<lesson:1|id:NZQNmAmPyfRe>
+{type:FlashCard|front:Year|back:Onn|id:Hbca4YkiFszR}
+{type:PickOneMeaning|question:The speaker is saying:|speech:Gieu|options:[Years][A game][They play]|answer:A game|id:leBW2NMhiUrw}
+{type:FlashCard|front:Month(s)|back:Mais|id:vRbasm5Dayrj}
+{type:FlashCard|front:Years|back:Onns|id:ueBb1z3jTcfe}
+{type:PickOneMeaning|question:The speaker is saying:|speech:Ti das|options:[You play][Enjoyable][Third]|answer:You play|id:DVYSaMMAmj8d}
+{type:FlashCard|front:Month(s)|back:Mais|id:os8CmtoAG2RN}
+{type:FlashCard|front:Years|back:Onns|id:4zJegKwvZvRx}
+{type:PickOneMeaning|question:The speaker is saying:|speech:Terz|options:[Exciting][Third][Rugby]|answer:Third|id:XOlJklh9tnIO}
+{type:PickOneMeaning|question:The speaker is saying:|speech:Emprim|options:[Birthday][Seventh][First]|answer:First|id:izHugFsDr1O2}
+{type:PickOneMeaning|question:The speaker is saying:|speech:Els dattan|options:[They play][Baseball][Next year]|answer:They play|id:UrjPQEe3gwJ6}
+{type:FlashCard|front:Month(s)|back:Mais|id:OFDj7XNHIfND}
+</lesson>
+<lesson:2|id:XGCiVcf16N3m>
+{type:FlashCard|front:Years|back:Onns|id:gTgNtojxVCxl}
+{type:PickOneMeaning|question:The speaker is saying:|speech:Excitant|options:[Exciting][You play][Birthday]|answer:Exciting|id:Id0NyzhrB0R5}
+{type:PickOneMeaning|question:The speaker is saying:|speech:Nus dain|options:[We play][Month(s)][Seventh]|answer:We play|id:2pSV9HmU15Zm}
+{type:FlashCard|front:Next week|back:L'emna proxima|id:SD9eFvHzX1L6}
+{type:FlashCard|front:Next year|back:L'onn proxim|id:uIbROk5SJdK0}
+{type:PickOneMeaning|question:The speaker is saying:|speech:L'onn proxim|options:[Next year][Year][In bastun da ...]|answer:Next year|id:NNzFkW05ZFqP}
+{type:PickOneMeaning|question:The speaker is saying:|speech:Emprim|options:[Second][In bastun da ...][First]|answer:First|id:kmawoQg36az3}
+{type:FlashCard|front:First|back:Emprim|id:SzrekcI1n3el}
+{type:PickOneMeaning|question:The speaker is saying:|speech:Anniversari|options:[Boring][Year][Birthday]|answer:Birthday|id:m5GOnEGkwl5A}
+{type:FlashCard|front:Fourth|back:Quart|id:cscdbEEPH2a5}
+{type:FlashCard|front:Second|back:Segund|id:gxuy7xedSAsp}
+</lesson>
+<lesson:3|id:HpjnOpFD3bWE>
+{type:PickOneMeaning|question:The speaker is saying:|speech:Ballape|options:[Football][Next year][Thirtieth]|answer:Football|id:gnexM1PC3HGE}
+{type:FlashCard|front:Fourth|back:Quart|id:MQrCbMfgucs1}
+{type:FlashCard|front:Year|back:Onn|id:CuQs8xGuAf0z}
+{type:FlashCard|front:Second|back:Segund|id:GXoUbvrd5HWv}
+{type:FlashCard|front:Fourth|back:Quart|id:Bjg3A17K3HAy}
+{type:PickOneMeaning|question:The speaker is saying:|speech:Ti das|options:[Years][You play][She plays]|answer:You play|id:FAS83T2SbvlA}
+{type:FlashCard|front:Next week|back:L'emna proxima|id:msoglYXV1R0I}
+{type:FlashCard|front:Next week|back:L'emna proxima|id:V356YoYPHkD5}
+{type:PickOneMeaning|question:The speaker is saying:|speech:Lungurus|options:[We play][Year][Boring]|answer:Boring|id:vHoxR01sg1k7}
+{type:PickOneMeaning|question:The speaker is saying:|speech:Jau dun|options:[I  play][He plays][Baseball]|answer:I  play|id:Rs4OTv7EuF5L}
+{type:PickOneMeaning|question:The speaker is saying:|speech:Hockey|options:[Thirtieth][He plays][Hockey]|answer:Hockey|id:xXXGia3mo7Tv}
+</lesson>
+<lesson:4|id:0BocoMgS9Kmx>
+{type:PickOne|question:Anniversari|options:[Birthday][Soon][First]|answer:Birthday|id:28To3KRAZd4R}
+{type:PickWords|question:I am twelve years old|options:[hai][dat][onns][betg][bastun][dudesch][Jau][tartuffels]|answer:Jauhaidudeschonns|answerviewable:Jau hai dudesch onns|id:qHtx5w84GjOS}
+{type:PickWords|question:Today I am turning five years old|options:[onns][oz][tschintg][anniversari][è][hai][Mes][Jau]|answer:Jauhaioztschintgonns|answerviewable:Jau hai oz tschintg onns|id:Av2C9siDivXK}
+{type:PickMissingWord|question:Vegns ti ad esser ___qua___ bainbaud?|options:[Hockey][Segund][qua][Emprim]|answer:qua|id:6r8pFQa2YEuT}
+{type:PickOneMeaning|question:The speaker is saying:|speech:Terz|options:[Third][She plays][Soon]|answer:Third|id:WgeQkuIrbCUy}
+{type:PickWords|question:The twenty-sixth of July|options:[vi][da][ventgasisavel][favrer][fanadur][Il][Mes]|answer:Ilventgasisaveldafanadur|answerviewable:Il ventgasisavel da fanadur|id:3E1GE4upO0sJ}
+{type:PickWords|question:Jau hai ventg onns l'onn proxim|options:[will][the][I][be][next][years][twenty][in][old][now][year][of]|answer:Iwillbetwentyyearsoldnextyear|answerviewable:I will be twenty years old next year|id:TKdgMX7dD0T7}
+{type:Match|question:Select the matching words|options:[Jau dun:I  play][Dar:To play][Ti das:You play][L'onn proxim:Next year]|id:cdWgurAgZkXt}
+{type:PickWords|question:The eighteenth of February|options:[l'emprim][da][betg][deschdotgavel][Il][anniversari][favrer]|answer:Ildeschdotgaveldafavrer|answerviewable:Il deschdotgavel da favrer|id:ltMryHxXzAiW}
+{type:Match|question:Select the matching words|options:[Settavel:Seventh][Quart:Fourth][Bainbaud:Soon][L'emna proxima:Next week]|id:XRxQnZ9qwmGI}
+{type:PickMissingWord|question:Il ___quindeschavel___ da schaner|options:[Bainbaud][quindeschavel][L'onn proxim][Mais]|answer:quindeschavel|id:YQVhl9x5UWoD}
+{type:PickWords|question:Il ventgasisavel da fanadur|options:[birthday][August][July][twenty-sixth][The][of][My]|answer:Thetwenty-sixthofJuly|answerviewable:The twenty-sixth of July|id:uMfTjCEAc8qO}
+{type:PickOneMeaning|question:The speaker is saying:|speech:Els dattan|options:[They play][Next year][Boring]|answer:They play|id:h0Ce7ssIPF6P}
+{type:PickOneMeaning|question:The speaker is saying:|speech:Dar|options:[Fourth][They play][To play]|answer:To play|id:n83mqGSiNpDp}
+{type:PickWords|question:Oz è il terz da matg|options:[third][the][is][hockey][May][there][Today][of][stick][they]|answer:TodayisthethirdofMay|answerviewable:Today is the third of May|id:FCz1CDQ18lry}
+{type:Match|question:Select the matching words|options:[Settavel:Seventh][Onn:Year][Anniversari:Birthday][Trentavel:Thirtieth]|id:74jq5mULcyfN}
+</lesson>
+<lesson:5|id:pOP8DWLV6Pc3>
+{type:PickWords|question:Jau hai tredesch onns en in onn|options:[thirteen][Today][years][year][my][will][a][be][December][old][July][I][in][soon]|answer:Iwillbethirteenyearsoldinayear|answerviewable:I will be thirteen years old in a year|id:fvqCXYpJRm7H}
+{type:PickMissingWord|question:Il ___ventgasisavel___ da fanadur|options:[Divertent][Lungurus][ventgasisavel][Segund]|answer:ventgasisavel|id:ZQnVTlrtgybU}
+{type:PickWords|question:Mes anniversari è l'emprim da schaner|options:[the][with][is][My][birthday][January][of][isn't][first][play][here]|answer:MybirthdayisthefirstofJanuary|answerviewable:My birthday is the first of January|id:5E4Czig0AWBN}
+{type:PickMissingWord|question:Il quattordesch da ___avrigl___|options:[Emprim][avrigl][Trentavel][Els dattan]|answer:avrigl|id:QcOjDRpcaY2V}
+{type:PickOneMeaning|question:The speaker is saying:|speech:Segund|options:[Second][Years][She plays]|answer:Second|id:7p3I6Us4SHuX}
+{type:PickOneMeaning|question:The speaker is saying:|speech:Onn|options:[Rugby][Year][Thirtieth]|answer:Year|id:ujvHiScxMBqp}
+{type:PickWords|question:Tomorrow is the first of February|options:[Damaun][l'emprim][da][proxima][è][mars][segund][favrer][settavel]|answer:Damaunèl'emprimdafavrer|answerviewable:Damaun è l'emprim da favrer|id:Nt0iiEplYULB}
+{type:PickWords|question:Vegns ti ad esser qua bainbaud?|options:[of][you][soon][third][Will][birthday][be][here]|answer:Willyoubeheresoon?|answerviewable:Will you be here soon?|id:BoIywaXCdTh4}
+{type:PickWords|question:The thirtieth of July next year|options:[in][proxima][l'onn][els][Il][trentavel][fanadur][da][gieu][perquai]|answer:Iltrentaveldafanadurl'onnproxima|answerviewable:Il trentavel da fanadur l'onn proxima|id:THcOn1PbuNwC}
+{type:PickOneMeaning|question:The speaker is saying:|speech:Trentavel|options:[He plays][Thirtieth][Next year]|answer:Thirtieth|id:JgE5zeVLG7zT}
+{type:PickWords|question:My birthday is not the thirtieth of August|options:[trentavel][il][esser][anniversari][Jau][Mes][vegn][onns][betg][avust][n'è][da]|answer:Mesanniversarin'èbetgiltrentaveldaavust|answerviewable:Mes anniversari n'è betg il trentavel da avust|id:9BRIWbV9oKUi}
+{type:Match|question:Select the matching words|options:[Settavel:Seventh][Emprim:First][Mais:Month(s)][Terz:Third]|id:SZyLHfTyvDH9}
+{type:Match|question:Select the matching words|options:[Anniversari:Birthday][Trentavel:Thirtieth][Mais:Month(s)][Emprim:First]|id:6aU1Y5fmBBqL}
+{type:Match|question:Select the matching words|options:[Jau dun:I  play][Anniversari:Birthday][El dat:He plays][Lungurus:Boring]|id:qaMNZgeZy5gR}
+{type:PickWords|question:The second of March is my birthday|options:[anniversari][è][mars][da][Jau][mes][Il][ad][segund]|answer:Ilsegunddamarsèmesanniversari|answerviewable:Il segund da mars è mes anniversari|id:FD1ZTLQ34Upe}
+{type:PickOne|question:Onns|options:[Fourth][Month(s)][Years]|answer:Years|id:obL9Q3pCiXyY}
+</lesson>
+<lesson:6|id:REBHOkCOg3YV>
+{type:Match|question:Select the matching words|options:[Settavel:Seventh][Trentavel:Thirtieth][Segund:Second][Onns:Years]|id:fqx7BMatTyZO}
+{type:PickWords|question:Today is the third of May|options:[Vus][e][terz][matg][da][Oz][in][il][Baseball][è]|answer:Ozèilterzdamatg|answerviewable:Oz è il terz da matg|id:Ro3o4XuAsZPW}
+{type:Match|question:Select the matching words|options:[Onn:Year][Ella dat:She plays][Excitant:Exciting][El dat:He plays]|id:pIHCh0zKTSOM}
+{type:PickOneMeaning|question:The speaker is saying:|speech:Ti das|options:[Exciting][I  play][You play]|answer:You play|id:4zVvYvzhOJg2}
+{type:PickWords|question:Damaun è l'emprim da favrer|options:[February][the][is][of][Tomorrow][first]|answer:TomorrowisthefirstofFebruary|answerviewable:Tomorrow is the first of February|id:7Kl7I8lpvmb2}
+{type:PickWords|question:The twenty-sixth of July|options:[fanadur][ventgasisavel][da][Il]|answer:Ilventgasisaveldafanadur|answerviewable:Il ventgasisavel da fanadur|id:iqb3qFkyowTH}
+{type:PickOne|question:Terz|options:[Next year][Third][First]|answer:Third|id:NfgvL78RPRX9}
+{type:PickWords|question:The thirtieth of July next year|options:[trentavel][proxima][anniversari][Il][da][l'onn][prixima][vegn][n'è][fanadur]|answer:Iltrentaveldafanadurl'onnproxima|answerviewable:Il trentavel da fanadur l'onn proxima|id:KoIprqXc1H0A}
+{type:PickWords|question:Mes anniversari è ussa|options:[now][February][week][is][years][twenty-second][birthday][My]|answer:Mybirthdayisnow|answerviewable:My birthday is now|id:71kPuQcrD7zA}
+{type:PickMissingWord|question:Damaun è l'emprim ___da___ favrer|options:[A ... bat][da][Trentavel][Emprim]|answer:da|id:sQTkJzHrbOA0}
+{type:PickOneMeaning|question:The speaker is saying:|speech:Excitant|options:[Football][Exciting][You (pl) play]|answer:Exciting|id:XT0mDEJWAcaw}
+{type:Match|question:Select the matching words|options:[Bainbaud:Soon][Anniversari:Birthday][L'emna proxima:Next week][Emprim:First]|id:4jaXOReSB35b}
+{type:PickWords|question:Mes anniversari è l'emna prixima|options:[at][next][excting][stick][My][week][birthday][is][because]|answer:Mybirthdayisnextweek|answerviewable:My birthday is next week|id:N7nM5aLQn7rF}
+{type:PickOneMeaning|question:The speaker is saying:|speech:Ballape|options:[Football][Years][In bastun da ...]|answer:Football|id:4IlCBmPX2p9T}
+{type:PickWords|question:My birthday is in two months|options:[mais][anniversari][eMes][n][il][mars][duas][è][Mes][da]|answer:MesanniversarièeMesnduasmais|answerviewable:Mes anniversari è eMes n duas mais|id:eaWyCGgjtOSJ}
+{type:PickMissingWord|question:Mes ___anniversari___ è l'emprim da schaner|options:[Mais][anniversari][Emprim][Vus dain]|answer:anniversari|id:tQ6Dz8Jo47WO}
+</lesson>
+<lesson:7|id:oSV0Vx1Ll4BE>
+{type:PickOne|question:Onn|options:[Thirtieth][Year][First]|answer:Year|id:7fQkiiU2d1XM}
+{type:Match|question:Select the matching words|options:[Onn:Year][Bainbaud:Soon][Settavel:Seventh][L'emna proxima:Next week]|id:fTIfK9Vj8Rtw}
+{type:WriteWords|question:Jau hai tredesch onns en in onn|answer:I will be thirteen years old in a year|answerviewable:I will be thirteen years old in a year|special:[I][will][be][thirteen][years][old][in][a][year]|id:5eZBDdCWI2jC}
+{type:WriteWords|question:Il ventgadusavel da matg|answer:The twenty-second of May|answerviewable:The twenty-second of May|special:[The][twenty-second][of][May]|id:v1V6ZPWKhBdy}
+{type:PickWords|question:Tomorrow is the first of February|options:[Damaun][da][l'emprim][è][favrer]|answer:Damaunèl'emprimdafavrer|answerviewable:Damaun è l'emprim da favrer|id:w2qdBxcS33Eu}
+{type:PickMissingWord|question:___Il___ quindeschavel da schaner|options:[Mais][Els dattan][Settavel][Il]|answer:Il|id:DcuL4mFdEWms}
+{type:PickOneMeaning|question:The speaker is saying:|speech:Emprim|options:[First][Birthday][He plays]|answer:First|id:2NuNdw7ma7CO}
+{type:PickOneMeaning|question:The speaker is saying:|speech:Els dattan|options:[Fourth][They play][Baseball]|answer:They play|id:cxvGXVMgyp7u}
+{type:PickWords|question:Mes anniversari è eMes n duas mais|options:[months][two][My][birthday][of][is][be][in]|answer:Mybirthdayisintwomonths|answerviewable:My birthday is in two months|id:2kjWWw33mxJE}
+{type:PickWords|question:Il ventgotgavel da settember|options:[of][soon][Th][Septemeber][twenty-eighth]|answer:Thtwenty-eighthofSeptemeber|answerviewable:Th twenty-eighth of Septemeber|id:S17JP6TQJxPV}
+{type:PickWords|question:The twenty-sixth of July|options:[da][onn][ventgasisavel][Il][onns][fanadur][schaner][ussa]|answer:Ilventgasisaveldafanadur|answerviewable:Il ventgasisavel da fanadur|id:xug8ryy1QR32}
+{type:PickMissingWord|question:Jau vi trais ___onns___|options:[Mais][Els dattan][Anniversari][onns]|answer:onns|id:W6A67J557ySN}
+{type:WriteWords|question:Jau hai oz tschintg onns|answer:Today I am turning five years old|answerviewable:Today I am turning five years old|special:[Today][I][am][turning][five][years][old]|id:gjUVZ0jVWH4C}
+{type:PickMissingWord|question:___Il___ deschdotgavel da favrer|options:[Bainbaud][Il][Cricket][Segund]|answer:Il|id:6uvrLIITVmxU}
+{type:Match|question:Select the matching words|options:[Mais:Month(s)][Terz:Third][Trentavel:Thirtieth][Quart:Fourth]|id:RgLzdn69hhq2}
+{type:WriteWords|question:The sixth of September|answer:Il sisavel da settember|answerviewable:Il sisavel da settember|special:[Il][sisavel][da][settember]|id:orQotLudSYvi}
+{type:WriteWords|question:My birthday is in two months|answer:Mes anniversari è eMes n duas mais|answerviewable:Mes anniversari è eMes n duas mais|special:[Mes][anniversari][è][eMes][n][duas][mais]|id:l76HyjcVyQWK}
+{type:WriteWords|question:Will you be here soon?|answer:Vegns ti ad esser qua bainbaud?|answerviewable:Vegns ti ad esser qua bainbaud?|special:[Vegns][ti][ad][esser][qua][bainbaud?]|id:TlixaBIrLTJ3}
+</lesson>
+<lesson:8|id:0EF9NJ1oF1KJ>
+{type:PickMissingWord|question:Jau ___vi___ trais onns|options:[L'emna proxima][vi][Els dattan][Hockey]|answer:vi|id:LrKQ4WLtiyC5}
+{type:WriteWords|question:My birthday is next week|answer:Mes anniversari è l'emna prixima|answerviewable:Mes anniversari è l'emna prixima|special:[Mes][anniversari][è][l'emna][prixima]|id:9hTtdDZ7JmX7}
+{type:Match|question:Select the matching words|options:[Onn:Year][Onns:Years][Segund:Second][Bainbaud:Soon]|id:leV4Bt8vOkrC}
+{type:WriteWords|question:Il segund da mars è mes anniversari|answer:The second of March is my birthday|answerviewable:The second of March is my birthday|special:[The][second][of][March][is][my][birthday]|id:dcy3kOZeNMHk}
+{type:PickOneMeaning|question:The speaker is saying:|speech:Rugby|options:[Next year][Rugby][Football]|answer:Rugby|id:uyQBdA75zwyQ}
+{type:PickWords|question:Il segund da mars è mes anniversari|options:[is][March][August][birthday][of][The][my][second]|answer:ThesecondofMarchismybirthday|answerviewable:The second of March is my birthday|id:mlnXRVA72XtO}
+{type:PickWords|question:My birthday is soon|options:[Il][Mes][anniversari][è][da][bainbaud][hai]|answer:Mesanniversarièbainbaud|answerviewable:Mes anniversari è bainbaud|id:oRxe5izjecEj}
+{type:PickMissingWord|question:___Jau___ vi trais onns|options:[Excitant][Anniversari][Settavel][Jau]|answer:Jau|id:n76C79pRGYI5}
+{type:WriteWords|question:I will be twenty years old next year|answer:Jau hai ventg onns l'onn proxim|answerviewable:Jau hai ventg onns l'onn proxim|special:[Jau][hai][ventg][onns][l'onn][proxim]|id:68D08b1GjOJx}
+{type:WriteWords|question:Mes anniversari è ussa|answer:My birthday is now|answerviewable:My birthday is now|special:[My][birthday][is][now]|id:dwnrt07HKSPU}
+{type:PickWords|question:The thirtieth of July next year|options:[trentavel][da][l'onn][fanadur][onns][di][proxima][Il][è]|answer:Iltrentaveldafanadurl'onnproxima|answerviewable:Il trentavel da fanadur l'onn proxima|id:tPI8Gp4yaUsd}
+{type:PickWords|question:Mes anniversari è l'emna prixima|options:[birthday][next][twenty-second][is][Th][week][My][now][January][thirtieth]|answer:Mybirthdayisnextweek|answerviewable:My birthday is next week|id:hn4EB3rdoYOS}
+{type:WriteWords|question:Mes anniversari è eMes n duas mais|answer:My birthday is in two months|answerviewable:My birthday is in two months|special:[My][birthday][is][in][two][months]|id:1LPtKcPUXlzp}
+{type:Match|question:Select the matching words|options:[Bainbaud:Soon][Emprim:First][Mais:Month(s)][Onn:Year]|id:jnE5JFPPmxWH}
+{type:WriteWords|question:The sixth of September|answer:Il sisavel da settember|answerviewable:Il sisavel da settember|special:[Il][sisavel][da][settember]|id:ipSxWuCAdyWn}
+{type:PickOneMeaning|question:The speaker is saying:|speech:Quart|options:[In bastun da ...][Fourth][He plays]|answer:Fourth|id:r6P4LR1hzNWq}
+{type:PickMissingWord|question:___Il___ terz dad avrigl|options:[Il][Ella dat][Els dattan][Quart]|answer:Il|id:hq75lNmjEo8S}
+{type:PickOne|question:Segund|options:[Next week][Birthday][Second]|answer:Second|id:rSnoVDzgxfWV}
+</lesson>
+<lesson:9|id:kfW424pcdK1J>
+{type:WriteWords|question:Today I am turning five years old|answer:Jau hai oz tschintg onns|answerviewable:Jau hai oz tschintg onns|special:[Jau][hai][oz][tschintg][onns]|id:KSopHvKLQLjP}
+{type:PickMissingWord|question:Oz ___è___ il terz da matg|options:[Segund][Ballape][è][El dat]|answer:è|id:Pzbxrdy7vZK3}
+{type:PickOneMeaning|question:The speaker is saying:|speech:Onns|options:[Cricket][Hockey][Years]|answer:Years|id:o1FLut2RrtSc}
+{type:WriteWords|question:Jau hai dudesch onns|answer:I am twelve years old|answerviewable:I am twelve years old|special:[I][am][twelve][years][old]|id:eKbR7D2h1o8f}
+{type:PickMissingWord|question:___Il___ ventgasisavel da fanadur|options:[A ... bat][Onns][Baseball][Il]|answer:Il|id:WMUnkhezW72I}
+{type:PickOneMeaning|question:The speaker is saying:|speech:Anniversari|options:[You (pl) play][He plays][Birthday]|answer:Birthday|id:VgIYZkNpE34K}
+{type:PickWords|question:Il sisavel da settember|options:[The][now][sixth][here][birthday][of][September][Tomorrow][I]|answer:ThesixthofSeptember|answerviewable:The sixth of September|id:kOdlNSwdUBN4}
+{type:WriteWords|question:Il di segund|answer:The second day|answerviewable:The second day|special:[The][second][day]|id:DByA2az38h7s}
+{type:PickWords|question:The seventh of June|options:[hai][zercladur][ventgotgavel][deschdotgavel][Mes][Il][da][settavel][onns]|answer:Ilsettaveldazercladur|answerviewable:Il settavel da zercladur|id:JwXsc3OXMC0W}
+{type:PickWords|question:The second of March is my birthday|options:[Il][da][è][segund][mars][Damaun][quindeschavel][anniversari][mes]|answer:Ilsegunddamarsèmesanniversari|answerviewable:Il segund da mars è mes anniversari|id:d33pynqYIYZl}
+{type:Match|question:Select the matching words|options:[Quart:Fourth][L'onn proxim:Next year][Bainbaud:Soon][Terz:Third]|id:POVuSAqoNLsE}
+{type:WriteWords|question:Mes anniversari n'è betg il trentavel da avust|answer:My birthday is not the thirtieth of August|answerviewable:My birthday is not the thirtieth of August|special:[My][birthday][is][not][the][thirtieth][of][August]|id:cyorTeQGGyp9}
+{type:Match|question:Select the matching words|options:[Segund:Second][Onns:Years][Bainbaud:Soon][L'emna proxima:Next week]|id:MqiETWKCBgUg}
+{type:PickMissingWord|question:Il ___segund___ da mars è mes anniversari|options:[segund][El dat][Ballape][Settavel]|answer:segund|id:q0ZNR9ONvz2A}
+{type:PickWords|question:Damaun è l'emprim da favrer|options:[first][the][February][will][is][Tomorrow][of][August]|answer:TomorrowisthefirstofFebruary|answerviewable:Tomorrow is the first of February|id:VAgpYFRh2aPx}
+{type:PickOne|question:L'onn proxim|options:[Next year][Birthday][Next week]|answer:Next year|id:ZRzIjNla1SyJ}
+{type:WriteWords|question:The second of March is my birthday|answer:Il segund da mars è mes anniversari|answerviewable:Il segund da mars è mes anniversari|special:[Il][segund][da][mars][è][mes][anniversari]|id:5XSL0I4iMXLZ}
+{type:WriteWords|question:I am twelve years old|answer:Jau hai dudesch onns|answerviewable:Jau hai dudesch onns|special:[Jau][hai][dudesch][onns]|id:4PLceER7dRRL}
+</lesson>
+<lesson:10|id:nwAJn1ic7OGs>
+{type:WriteWords|question:Il trentinavel da november|answer:The thirty-first of November|answerviewable:The thirty-first of November|special:[The][thirty-first][of][November]|id:mCvV3Wkh9WkQ}
+{type:WriteWords|question:The seventh of June|answer:Il settavel da zercladur|answerviewable:Il settavel da zercladur|special:[Il][settavel][da][zercladur]|id:Y2dpLzGqBRqm}
+{type:Match|question:Select the matching words|options:[Settavel:Seventh][Onn:Year][Segund:Second][Onns:Years]|id:a95RbaDJgHPP}
+{type:WriteWords|question:Il tschintgavel da december|answer:The fifth of December|answerviewable:The fifth of December|special:[The][fifth][of][December]|id:odGHXU8IZjXK}
+{type:PickWords|question:I am twelve years old|options:[Jau][dudesch][hai][onns][Mes]|answer:Jauhaidudeschonns|answerviewable:Jau hai dudesch onns|id:Ox4R9qrMgqwg}
+{type:PickOneMeaning|question:The speaker is saying:|speech:Divertent|options:[I  play][Enjoyable][Third]|answer:Enjoyable|id:NGPf7fDsh3RR}
+{type:PickMissingWord|question:Il di ___segund___|options:[Bainbaud][Ella dat][L'onn proxim][segund]|answer:segund|id:2KjOqAbp90a3}
+{type:WriteWords|question:Vegns ti ad esser qua bainbaud?|answer:Will you be here soon?|answerviewable:Will you be here soon?|special:[Will][you][be][here][soon?]|id:RgPPy8Sue2TJ}
+{type:WriteWords|question:The eighteenth of February|answer:Il deschdotgavel da favrer|answerviewable:Il deschdotgavel da favrer|special:[Il][deschdotgavel][da][favrer]|id:rpiy6XCV0TXV}
+{type:PickMissingWord|question:___Jau___ vi trais onns|options:[Jau][Lungurus][Nus dain][Excitant]|answer:Jau|id:27VVASjZp1mi}
+{type:PickOne|question:Onns|options:[Years][Second][Soon]|answer:Years|id:viVZnQE2YzDR}
+{type:WriteWords|question:My birthday is not the thirtieth of August|answer:Mes anniversari n'è betg il trentavel da avust|answerviewable:Mes anniversari n'è betg il trentavel da avust|special:[Mes][anniversari][n'è][betg][il][trentavel][da][avust]|id:fTUu6OA4nwTf}
+{type:Match|question:Select the matching words|options:[Anniversari:Birthday][Trentavel:Thirtieth][Segund:Second][Onn:Year]|id:xRckBlALEcGq}
+{type:PickWords|question:Il ventgotgavel da settember|options:[Th][of][I][twenty-eighth][Septemeber]|answer:Thtwenty-eighthofSeptemeber|answerviewable:Th twenty-eighth of Septemeber|id:eXtIywvs0LZ4}
+{type:WriteWords|question:The thirty-first of November|answer:Il trentinavel da november|answerviewable:Il trentinavel da november|special:[Il][trentinavel][da][november]|id:loNBkLdK4DVx}
+{type:WriteWords|question:Il terz dad avrigl|answer:The third of April|answerviewable:The third of April|special:[The][third][of][April]|id:KwMKNh3jfdHR}
+</lesson>
+<lesson:11|id:E6rhMZE4otF8>
+{type:WriteWords|question:Will you be here soon?|answer:Vegns ti ad esser qua bainbaud?|answerviewable:Vegns ti ad esser qua bainbaud?|special:[Vegns][ti][ad][esser][qua][bainbaud?]|id:1sBUdXOr1M5k}
+{type:PickOneMeaning|question:The speaker is saying:|speech:Cricket|options:[Cricket][Month(s)][To play]|answer:Cricket|id:BvwVrQMr8nF7}
+{type:PickMissingWord|question:Mes anniversari n'è betg il ___trentavel___ da avust|options:[trentavel][Baseball][Hockey][Ballape]|answer:trentavel|id:b50kK6YYL1S0}
+{type:WriteWords|question:Jau hai dudesch onns|answer:I am twelve years old|answerviewable:I am twelve years old|special:[I][am][twelve][years][old]|id:V2xyi4ndi9ig}
+{type:Match|question:Select the matching words|options:[Terz:Third][Segund:Second][L'onn proxim:Next year][Mais:Month(s)]|id:1ReL0Mp42bGV}
+{type:WriteWords|question:The twenty-second of May|answer:Il ventgadusavel da matg|answerviewable:Il ventgadusavel da matg|special:[Il][ventgadusavel][da][matg]|id:AD4QjNx9Sq47}
+{type:WriteWords|question:Il trentavel da fanadur l'onn proxima|answer:The thirtieth of July next year|answerviewable:The thirtieth of July next year|special:[The][thirtieth][of][July][next][year]|id:eVxr1OruFCSw}
+{type:WriteWords|question:Il settavel da zercladur|answer:The seventh of June|answerviewable:The seventh of June|special:[The][seventh][of][June]|id:mXyctnI57VU4}
+{type:Match|question:Select the matching words|options:[Segund:Second][L'emna proxima:Next week][Onns:Years][Settavel:Seventh]|id:l4qvMJv0wabL}
+{type:PickMissingWord|question:Jau vi trais ___onns___|options:[Lungurus][El dat][Settavel][onns]|answer:onns|id:K0HzwlgKsJWI}
+{type:PickWords|question:My birthday is not the thirtieth of August|options:[anniversari][betg][il][trentavel][avust][ir][hai][Mes][onns][là][n'è][da][avrigl]|answer:Mesanniversarin'èbetgiltrentaveldaavust|answerviewable:Mes anniversari n'è betg il trentavel da avust|id:peunCQiaq0FO}
+{type:PickOne|question:Segund|options:[Fourth][Birthday][Second]|answer:Second|id:UYNfk3q13fro}
+{type:WriteWords|question:Oz è il terz da matg|answer:Today is the third of May|answerviewable:Today is the third of May|special:[Today][is][the][third][of][May]|id:12u6QzblY0xd}
+{type:WriteWords|question:Th twenty-eighth of Septemeber|answer:Il ventgotgavel da settember|answerviewable:Il ventgotgavel da settember|special:[Il][ventgotgavel][da][settember]|id:BKcNZ2VMkU50}
+{type:PickWords|question:Il deschdotgavel da favrer|options:[of][February][eighteenth][soon][My][twenty-second][next][The]|answer:TheeighteenthofFebruary|answerviewable:The eighteenth of February|id:QhITd0zFkQYB}
+{type:WriteWords|question:I will be thirteen years old in a year|answer:Jau hai tredesch onns en in onn|answerviewable:Jau hai tredesch onns en in onn|special:[Jau][hai][tredesch][onns][en][in][onn]|id:0Jxeb0YR9jFr}
+</lesson>
+<lesson:12|id:GDDDOVSdFZ66>
+{type:PickOne|question:Segund|options:[Next year][Second][Third]|answer:Second|id:olNzHcBLZQoD}
+{type:PickWords|question:Il segund da mars è mes anniversari|options:[March][of][second][my][January][birthday][thirtieth][The][is]|answer:ThesecondofMarchismybirthday|answerviewable:The second of March is my birthday|id:X1hDsFYMBh4E}
+{type:WriteWords|question:Il deschdotgavel da favrer|answer:The eighteenth of February|answerviewable:The eighteenth of February|special:[The][eighteenth][of][February]|id:aDxEB5uduIzm}
+{type:PickOneMeaning|question:The speaker is saying:|speech:Lungurus|options:[Month(s)][Boring][I  play]|answer:Boring|id:jmPgoztk7KMw}
+{type:PickWords|question:The thirty-first of November|options:[da][Il][là][november][trentinavel][fanadur][l'onn]|answer:Iltrentinaveldanovember|answerviewable:Il trentinavel da november|id:6c9a7wPSbsQS}
+{type:WriteWords|question:The fifteenth of January|answer:Il quindeschavel da schaner|answerviewable:Il quindeschavel da schaner|special:[Il][quindeschavel][da][schaner]|id:VQYV8QWxt6y9}
+{type:WriteWords|question:Mes anniversari è il settavel|answer:My birthday is the seventh|answerviewable:My birthday is the seventh|special:[My][birthday][is][the][seventh]|id:OrxdVa8I0d19}
+{type:Match|question:Select the matching words|options:[Emprim:First][Segund:Second][Trentavel:Thirtieth][Bainbaud:Soon]|id:8jxntx9g0LD0}
+{type:WriteWords|question:Th twenty-eighth of Septemeber|answer:Il ventgotgavel da settember|answerviewable:Il ventgotgavel da settember|special:[Il][ventgotgavel][da][settember]|id:x05D27AuBzXz}
+{type:WriteWords|question:Jau vegn ad ir là l'emnsa proxima|answer:I will go there next week|answerviewable:I will go there next week|special:[I][will][go][there][next][week]|id:rEDUbCqZRcpJ}
+{type:Match|question:Select the matching words|options:[Quart:Fourth][Trentavel:Thirtieth][Terz:Third][Emprim:First]|id:tPscQJd9cKwd}
+{type:PickMissingWord|question:Mes anniversari è il ___settavel___|options:[settavel][Els dattan][A ... bat][Segund]|answer:settavel|id:qN0q4lIppkBO}
+{type:WriteWords|question:Il deschdotgavel da favrer|answer:The eighteenth of February|answerviewable:The eighteenth of February|special:[The][eighteenth][of][February]|id:jZLTvwTjMawu}
+{type:WriteWords|question:I want three years|answer:Jau vi trais onns|answerviewable:Jau vi trais onns|special:[Jau][vi][trais][onns]|id:d1MBRiA9V7gq}
+{type:PickMissingWord|question:Il ___deschdotgavel___ da favrer|options:[Trentavel][deschdotgavel][Ti das][Quart]|answer:deschdotgavel|id:VsvBkODBKwYo}
+{type:WriteWords|question:I will be thirteen years old in a year|answer:Jau hai tredesch onns en in onn|answerviewable:Jau hai tredesch onns en in onn|special:[Jau][hai][tredesch][onns][en][in][onn]|id:xW6Ypz4LA5We}
+</lesson>
+<lesson:13|id:L16gf4VMXItp>
+{type:WriteWords|question:Il quattordesch da avrigl|answer:Th fourteenth of April|answerviewable:Th fourteenth of April|special:[Th][fourteenth][of][April]|id:8QjqhL2u1QPz}
+{type:PickWords|question:Il quindeschavel da schaner|options:[June][is][fourteenth][January][fifteenth][of][The][will]|answer:ThefifteenthofJanuary|answerviewable:The fifteenth of January|id:yICCYTI0Z2A2}
+{type:WriteWords|question:I will be thirteen years old in a year|answer:Jau hai tredesch onns en in onn|answerviewable:Jau hai tredesch onns en in onn|special:[Jau][hai][tredesch][onns][en][in][onn]|id:5BG2dE3xjiZ1}
+{type:PickOne|question:Emprim|options:[Years][Year][First]|answer:First|id:oqLh6Sa9SnMO}
+{type:WriteWords|question:Mes anniversari è ussa|answer:My birthday is now|answerviewable:My birthday is now|special:[My][birthday][is][now]|id:N0GPaJakaLJQ}
+{type:PickWords|question:The eighteenth of February|options:[onns][favrer][hai][oz][vegn][deschdotgavel][schaner][Il][da]|answer:Ildeschdotgaveldafavrer|answerviewable:Il deschdotgavel da favrer|id:2P02zfh6PrO3}
+{type:Match|question:Select the matching words|options:[L'emna proxima:Next week][Quart:Fourth][Segund:Second][L'onn proxim:Next year]|id:fzVBBDWUubW5}
+{type:WriteWords|question:Mes anniversari è ussa|answer:My birthday is now|answerviewable:My birthday is now|special:[My][birthday][is][now]|id:owCUbEd9j9Iq}
+{type:WriteWords|question:The eighteenth of February|answer:Il deschdotgavel da favrer|answerviewable:Il deschdotgavel da favrer|special:[Il][deschdotgavel][da][favrer]|id:3cjf2y34uMAJ}
+{type:PickOneMeaning|question:The speaker is saying:|speech:Onn|options:[Year][Enjoyable][Thirtieth]|answer:Year|id:Hl1caP858Iqy}
+{type:WriteWords|question:The thirty-first of November|answer:Il trentinavel da november|answerviewable:Il trentinavel da november|special:[Il][trentinavel][da][november]|id:dOLXb47KSQHP}
+{type:WriteWords|question:The second of March is my birthday|answer:Il segund da mars è mes anniversari|answerviewable:Il segund da mars è mes anniversari|special:[Il][segund][da][mars][è][mes][anniversari]|id:zMeRjoKbnMEr}
+{type:WriteWords|question:Jau hai ventg onns l'onn proxim|answer:I will be twenty years old next year|answerviewable:I will be twenty years old next year|special:[I][will][be][twenty][years][old][next][year]|id:NhabJNlo5ZYE}
+{type:WriteWords|question:Will you be here soon?|answer:Vegns ti ad esser qua bainbaud?|answerviewable:Vegns ti ad esser qua bainbaud?|special:[Vegns][ti][ad][esser][qua][bainbaud?]|id:vnp9f6UvcEb2}
+{type:PickMissingWord|question:___Il___ quattordesch da avrigl|options:[Il][Onn][Baseball][El dat]|answer:Il|id:9Wpb0J70x7Lu}
+{type:WriteWords|question:Il trentinavel da november|answer:The thirty-first of November|answerviewable:The thirty-first of November|special:[The][thirty-first][of][November]|id:Tm57HAusAYTJ}
+{type:PickMissingWord|question:Il deschdotgavel da ___favrer___|options:[Ella dat][Ballape][L'emna proxima][favrer]|answer:favrer|id:s0e3OKGaffNN}
+{type:Match|question:Select the matching words|options:[Settavel:Seventh][Onn:Year][Emprim:First][L'onn proxim:Next year]|id:oVEuJifXCPhG}
+</lesson>
+<lesson:14|id:EUz5fMfUA59G>
+{type:PickOneMeaning|question:The speaker is saying:|speech:Jau dun|options:[I  play][They play][In bastun da ...]|answer:I  play|id:bROhzuHWed8W}
+{type:WriteWords|question:Il ventginavel da october|answer:The twenty-first of October|answerviewable:The twenty-first of October|special:[The][twenty-first][of][October]|id:p10Zv8BgQUti}
+{type:Match|question:Select the matching words|options:[Settavel:Seventh][L'onn proxim:Next year][L'emna proxima:Next week][Emprim:First]|id:UUDQj0sFCsac}
+{type:Match|question:Select the matching words|options:[Terz:Third][Mais:Month(s)][Quart:Fourth][Onn:Year]|id:COZYcpWtV27o}
+{type:PickOne|question:Settavel|options:[Soon][Next week][Seventh]|answer:Seventh|id:qM8zNouukVk9}
+{type:WriteWords|question:Il segund da mars è mes anniversari|answer:The second of March is my birthday|answerviewable:The second of March is my birthday|special:[The][second][of][March][is][my][birthday]|id:HaeDQsNEw0tb}
+{type:PickWords|question:Jau vegn ad ir là l'emns proxima|options:[go][there][eighteenth][will][July][week][The][I][Th][next]|answer:Iwillgotherenextweek|answerviewable:I will go there next week|id:UpCmdMpkfDe2}
+{type:WriteWords|question:The second of March is my birthday|answer:Il segund da mars è mes anniversari|answerviewable:Il segund da mars è mes anniversari|special:[Il][segund][da][mars][è][mes][anniversari]|id:BcnD19qP11sJ}
+{type:WriteWords|question:The thirty-first of November|answer:Il trentinavel da november|answerviewable:Il trentinavel da november|special:[Il][trentinavel][da][november]|id:RS37Bo8ORMIl}
+{type:WriteWords|question:I want three years|answer:Jau vi trais onns|answerviewable:Jau vi trais onns|special:[Jau][vi][trais][onns]|id:6edIkO6uClwl}
+{type:WriteWords|question:The eighteenth of February|answer:Il deschdotgavel da favrer|answerviewable:Il deschdotgavel da favrer|special:[Il][deschdotgavel][da][favrer]|id:KTaGGq5Ifthv}
+{type:WriteWords|question:Il terz dad avrigl|answer:The third of April|answerviewable:The third of April|special:[The][third][of][April]|id:MvkQbxTAvvtb}
+{type:WriteWords|question:Il quindeschavel da schaner|answer:The fifteenth of January|answerviewable:The fifteenth of January|special:[The][fifteenth][of][January]|id:Ug4Ajxg8zZzM}
+{type:WriteWords|question:Mes anniversari n'è betg il trentavel da avust|answer:My birthday is not the thirtieth of August|answerviewable:My birthday is not the thirtieth of August|special:[My][birthday][is][not][the][thirtieth][of][August]|id:5KRCCIaSMov9}
+{type:WriteWords|question:The fifth of December|answer:Il tschintgavel da december|answerviewable:Il tschintgavel da december|special:[Il][tschintgavel][da][december]|id:LfBKuWtReHtA}
+{type:PickMissingWord|question:___Il___ quattordesch da avrigl|options:[Emprim][Il][Vus dain][Onns]|answer:Il|id:XCEInRkxCGAt}
+{type:PickMissingWord|question:Jau hai ___dudesch___ onns|options:[Onn][A ... bat][dudesch][Bainbaud]|answer:dudesch|id:NlOsfMmCXZyV}
+{type:PickWords|question:The thirty-first of November|options:[Il][proxima][da][november][trentinavel]|answer:Iltrentinaveldanovember|answerviewable:Il trentinavel da november|id:qxk60vNjydVA}
+</lesson>
+<lesson:15|id:hBZ8jo4Ytutk>
+{type:PickOne|question:Settavel|options:[Thirtieth][Seventh][Second]|answer:Seventh|id:0YdwNpYgxpXT}
+{type:WriteWords|question:My birthday is next week|answer:Mes anniversari è l'emna prixima|answerviewable:Mes anniversari è l'emna prixima|special:[Mes][anniversari][è][l'emna][prixima]|id:itOYNeyfHfSR}
+{type:WriteWords|question:Il sisavel da settember|answer:The sixth of September|answerviewable:The sixth of September|special:[The][sixth][of][September]|id:ZJwHMXxK7ddT}
+{type:WriteWords|question:The thirty-first of November|answer:Il trentinavel da november|answerviewable:Il trentinavel da november|special:[Il][trentinavel][da][november]|id:m9Er0eAGYw73}
+{type:WriteWords|question:My birthday is now|answer:Mes anniversari è ussa|answerviewable:Mes anniversari è ussa|special:[Mes][anniversari][è][ussa]|id:qf740aGGMUep}
+{type:PickMissingWord|question:Jau vi ___trais___ onns|options:[Ballape][Onn][Mais][trais]|answer:trais|id:wI0LD1D2HR3X}
+{type:WriteWords|question:Il settavel da zercladur|answer:The seventh of June|answerviewable:The seventh of June|special:[The][seventh][of][June]|id:IV5I3nD68Yn5}
+{type:Match|question:Select the matching words|options:[Onns:Years][Anniversari:Birthday][Quart:Fourth][Mais:Month(s)]|id:EcfiftiZAbY8}
+{type:PickWords|question:Mes anniversari n'è betg il trentavel da avust|options:[is][in][My][not][August][thirtieth][birthday][of][the]|answer:MybirthdayisnotthethirtiethofAugust|answerviewable:My birthday is not the thirtieth of August|id:5DavTJ7DxoZg}
+{type:PickOneMeaning|question:The speaker is saying:|speech:L'emna proxima|options:[A game][Birthday][Next week]|answer:Next week|id:rS6WxhJccqph}
+{type:WriteWords|question:The sixth of September|answer:Il sisavel da settember|answerviewable:Il sisavel da settember|special:[Il][sisavel][da][settember]|id:vs7dEwmmReeK}
+{type:WriteWords|question:Il quindeschavel da schaner|answer:The fifteenth of January|answerviewable:The fifteenth of January|special:[The][fifteenth][of][January]|id:FbYBA0AuiWda}
+{type:PickMissingWord|question:Mes anniversari ___è___ ussa|options:[è][Baseball][Bainbaud][Onn]|answer:è|id:0vizLsXEsZ0g}
+{type:WriteWords|question:Th twenty-eighth of Septemeber|answer:Il ventgotgavel da settember|answerviewable:Il ventgotgavel da settember|special:[Il][ventgotgavel][da][settember]|id:BRGNlmPvm0Pu}
+{type:WriteWords|question:Il trentinavel da november|answer:The thirty-first of November|answerviewable:The thirty-first of November|special:[The][thirty-first][of][November]|id:IdmWCGvQUmpi}
+{type:PickWords|question:My birthday is the first of January|options:[anniversari][prixima][è][Mes][l'emprim][da][avust][schaner]|answer:Mesanniversarièl'emprimdaschaner|answerviewable:Mes anniversari è l'emprim da schaner|id:dsJkvt7yOwc5}
+{type:Match|question:Select the matching words|options:[Settavel:Seventh][L'emna proxima:Next week][Segund:Second][Quart:Fourth]|id:SHBUoZDcx7Of}
+{type:WriteWords|question:Il settavel da zercladur|answer:The seventh of June|answerviewable:The seventh of June|special:[The][seventh][of][June]|id:0bnAysnel6B5}
+</lesson>
+</skill>
+</unit>

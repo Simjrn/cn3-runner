@@ -1,0 +1,1314 @@
+<unit:4>
+<skill:Body parts|image:strong_muscle|lessonsperlevel:3|strokecolor:244,67,54|fillcolor:0,0,0|position:1a|description:Learn about different parts of the body in Romansh|id:mHgMTI7kzbvo>
+<lesson:1|id:Kc52W6gO3DUF>
+{type:PickOneMeaning|question:The speaker is saying:|speech:in culiez|options:[a neck][a hand][The dressing]|answer:a neck|id:lm1zjYGhNQHQ}
+{type:FlashCard|front:a knee|back:in schanugl|id:NZba0SFNFoiO}
+{type:PickOne|question:ina survantscheglia|options:[an eyebrow][The sausage][The plate]|answer:an eyebrow|id:47qNaWMbkjor}
+{type:ImagePick|question:a head|options:[in chau:head][in egl:eye][in maun:hand_wave][ina bucca:mouth]|answer:in chau|id:6BpJwxYXLJOm}
+{type:FlashCard|front:a hand|back:in maun|id:wsM4veaLK1Rm}
+{type:FlashCard|front:a head|back:in chau|id:o1e74bHP1L29}
+{type:PickOneMeaning|question:The speaker is saying:|speech:in culiez|options:[a neck][a fingernail][The sausage]|answer:a neck|id:JxLUGR6HVCBb}
+{type:PickOneMeaning|question:The speaker is saying:|speech:La salata|options:[a nose][The salad][an eye]|answer:The salad|id:5qgFjVJwru6T}
+{type:PickOne|question:mo|options:[The tip][only][The fork]|answer:only|id:bnYfmmKDvwmF}
+{type:PickOne|question:in'ungla|options:[The cup][a fingernail][The veal]|answer:a fingernail|id:ckPvS4z1kjUX}
+{type:FlashCard|front:a mouth|back:ina bucca|id:Fbop3R3BVbcd}
+{type:PickOne|question:in chau|options:[A herb][a head][The veal]|answer:a head|id:TVJhDlqGR9lv}
+{type:FlashCard|front:a leg|back:ina chomma|id:n6iWNXHzqbf7}
+</lesson>
+<lesson:2|id:Yiz6r2e26hAz>
+{type:FlashCard|front:a knee|back:in schanugl|id:ufZv4neWYDxy}
+{type:PickOne|question:in schanugl|options:[a knee][The salad][The nut]|answer:a knee|id:V0YNzK0Dq8du}
+{type:PickOneMeaning|question:The speaker is saying:|speech:ina survantscheglia|options:[The nut][an eyebrow][The fork]|answer:an eyebrow|id:YEsqXYjSYBNy}
+{type:PickOne|question:in maun|options:[The fork][a hand][The plate]|answer:a hand|id:BOKm8hGVmG7Q}
+{type:PickOneMeaning|question:The speaker is saying:|speech:in schanugl|options:[a knee][The tip][a head]|answer:a knee|id:0zMumUrV8rqi}
+{type:PickOneMeaning|question:The speaker is saying:|speech:in chau|options:[a head][a hand][a mouth]|answer:a head|id:4aC0AbeZtWuW}
+{type:FlashCard|front:a leg|back:ina chomma|id:CBjBcqToT3JZ}
+{type:PickOne|question:in culiez|options:[a neck][The dressing][The veal]|answer:a neck|id:n0Pc61MsDTGf}
+{type:FlashCard|front:a fingernail|back:in'ungla|id:nW18R3VuSTNA}
+{type:FlashCard|front:a nose|back:in nas|id:t7RXdzWvYAIJ}
+{type:FlashCard|front:a mouth|back:ina bucca|id:n14egFg5Bkgl}
+{type:PickOne|question:in egl|options:[an eye][The dressing][The tip]|answer:an eye|id:9L2uoGSbt8Ie}
+</lesson>
+<lesson:3|id:19U63IYL1X4R>
+{type:FlashCard|front:a head|back:in chau|id:javvMWpqdLY3}
+{type:PickOne|question:in egl|options:[The knife][The glass][an eye]|answer:an eye|id:2K97N3wpLXr8}
+{type:FlashCard|front:a mouth|back:ina bucca|id:kC3GAgurfK3R}
+{type:FlashCard|front:a leg|back:ina chomma|id:Pu6Uj3u92Wph}
+{type:PickOneMeaning|question:The speaker is saying:|speech:in nas|options:[a nose][A herb][a knee]|answer:a nose|id:YhLY7jlMG5li}
+{type:PickOneMeaning|question:The speaker is saying:|speech:mo|options:[only][a hand][The cup]|answer:only|id:9TRkXHEmqlyM}
+{type:PickOneMeaning|question:The speaker is saying:|speech:in'ungla|options:[a fingernail][The veal][The nut]|answer:a fingernail|id:b8SkKqQw5eFh}
+{type:FlashCard|front:a finger|back:in det|id:I3E4wWQXjRXl}
+{type:PickOne|question:in culiez|options:[A herb][The nut][a neck]|answer:a neck|id:GBI0lw6rd5bM}
+{type:PickOne|question:in schanugl|options:[The veal][a knee][The knife]|answer:a knee|id:s7pZqI1B5rc2}
+{type:FlashCard|front:a neck|back:in culiez|id:h1dbXnc5i1yd}
+{type:PickOne|question:in ravel|options:[The cup][an ankle][The dressing]|answer:an ankle|id:naXHufuwdDBX}
+</lesson>
+<lesson:4|id:U3MlUQChapQt>
+{type:FlashCard|front:a fingernail|back:in'ungla|id:etnBWhqHegiH}
+{type:FlashCard|front:a knee|back:in schanugl|id:WZskn67XRFtN}
+{type:FlashCard|front:only|back:mo|id:tQpwgeprffxi}
+{type:PickOne|question:in det|options:[A herb][The glass][a finger]|answer:a finger|id:P6WJHscyzpqW}
+{type:PickOneMeaning|question:The speaker is saying:|speech:in det|options:[a finger][an eye][only]|answer:a finger|id:zYrMJ1p9XI0F}
+{type:PickOne|question:in det|options:[The plate][The sausage][a finger]|answer:a finger|id:3CsdjIGDjdqH}
+{type:FlashCard|front:an eye|back:in egl|id:HpJodEttP03a}
+{type:PickOneMeaning|question:The speaker is saying:|speech:La bunamana|options:[The tip][an ankle][The fork]|answer:The tip|id:1yeElX9cP2ED}
+{type:FlashCard|front:a neck|back:in culiez|id:PQmF5pEXm7X5}
+{type:PickOne|question:in nas|options:[a nose][The sausage][The plate]|answer:a nose|id:AQh7QIC0cTN2}
+{type:PickOne|question:in schanugl|options:[The dressing][The sausage][a knee]|answer:a knee|id:FRun0OyKA6EP}
+{type:PickOneMeaning|question:The speaker is saying:|speech:Il cunti|options:[The knife][The nut][a fingernail]|answer:The knife|id:E66qgNCowvF2}
+</lesson>
+<lesson:5|id:ZzpRhuAWDnqs>
+{type:PickWords|question:Jau hai om ina survantscheglia|options:[eyebrow][or][only][one][My][is][a][knee][I][have]|answer:Ionlyhaveoneeyebrow|answerviewable:I only have one eyebrow|id:OoXQdATScKNO}
+{type:PickOneMeaning|question:The speaker is saying:|speech:La ligiongia|options:[The veal][The sausage][The glass]|answer:The sausage|id:uBL7rqXYVToZ}
+{type:Match|question:Select the matching words|options:[in det:a finger][in maun:a hand][mo:only][in'ungla:a fingernail]|id:AczwmPxGOZpd}
+{type:PickWords|question:My finger is not here|options:[det][betg][qua][n'è][Mes]|answer:Mesdetn'èbetgqua|answerviewable:Mes det n'è betg qua|id:YI9L1VQChLjr}
+{type:PickOneMeaning|question:The speaker is saying:|speech:ina bucca|options:[a mouth][The cup][The salad]|answer:a mouth|id:jzuJbD9XVzMQ}
+{type:Match|question:Select the matching words|options:[in culiez:a neck][La scadiola:The cup][La salata:The salad][La savetscha:The fork]|id:54jEjVMJ2A6i}
+{type:PickWords|question:A knee, a neck|options:[schagnul][è][cunti][tschaina][da][culiez][in][In]|answer:Inschagnul,inculiez|answerviewable:In schagnul, in culiez|id:ruA8mB1y0AHI}
+{type:PickWords|question:Jau hai in egl blau|options:[eye][blue][I][have][a]|answer:Ihaveablueeye|answerviewable:I have a blue eye|id:r2lfmz4O3vJs}
+{type:PickOneMeaning|question:The speaker is saying:|speech:ina bucca|options:[a mouth][a nose][A herb]|answer:a mouth|id:yArPz5nJ2FpB}
+{type:PickMissingWord|question:Bainbaud, jau ___vegn___ ad avair ina survantscheglia|options:[La nusch][in culiez][Il cunti][vegn]|answer:vegn|id:JAtBA2QbaA2l}
+{type:PickMissingWord|question:Nua è ___tes___ maun?|options:[tes][ina bucca][La salata][Il cunti]|answer:tes|id:uMqKfP99d3pu}
+{type:PickWords|question:My leg is not purple, it is green|options:[verd][chomma][avair][ella][è][om][n'è][betg][violetta][Jau][Mia][in]|answer:Miachomman'èbetgvioletta,ellaèverd|answerviewable:Mia chomma n'è betg violetta, ella è verd|id:OSdF95zvXZby}
+{type:PickOne|question:in ravel|options:[an ankle][a neck][a leg]|answer:an ankle|id:revPuvZMehqY}
+{type:PickOne|question:in schanugl|options:[The dressing][a knee][The veal]|answer:a knee|id:iGJkfDquSY8V}
+{type:PickWords|question:In ravel u in'ungla?|options:[dinner][fingernail][herb][An][or][the][We][a][ankle]|answer:Anankleorafingernail?|answerviewable:An ankle or a fingernail?|id:FNvbnB0Ff31k}
+{type:PickOne|question:in nas|options:[The veal][The tip][a nose]|answer:a nose|id:x9qIMfQ0ckLu}
+{type:FlashCard|front:an eyebrow|back:ina survantscheglia|id:ctkUsTqzweuZ}
+{type:FlashCard|front:a leg|back:ina chomma|id:8fNOE4UJgUrQ}
+{type:PickWords|question:My hand is very big|options:[grond][maun][è][fitg][det][in][Mes]|answer:Mesmaunèfitggrond|answerviewable:Mes maun è fitg grond|id:wPhe5DOKeRLL}
+{type:Match|question:Select the matching words|options:[in chau:a head][in'ungla:a fingernail][ina bucca:a mouth][ina survantscheglia:an eyebrow]|id:L8XTx0vlK2xp}
+</lesson>
+<lesson:6|id:OYjFNJ1Zugn5>
+{type:PickWords|question:I have a big eyebrow|options:[survantscheglia][Jau][hai][maun][gronda][è][In][Mes][ina]|answer:Jauhaiinasurvantschegliagronda|answerviewable:Jau hai ina survantscheglia gronda|id:1Oo0fh3JGVCu}
+{type:PickOneMeaning|question:The speaker is saying:|speech:ina survantscheglia|options:[The fork][a finger][an eyebrow]|answer:an eyebrow|id:APfF0nsWLBlL}
+{type:PickOneMeaning|question:The speaker is saying:|speech:in ravel|options:[The dressing][The nut][an ankle]|answer:an ankle|id:4bZicLzsyIoH}
+{type:PickWords|question:Ha el in chau u in det?|options:[fingernail][have][a][finger][a][head][he][or][Does]|answer:Doeshehaveaheadorafinger?|answerviewable:Does he have a head or a finger?|id:78RkVAgga56h}
+{type:PickOne|question:ina survantscheglia|options:[an eyebrow][The glass][The knife]|answer:an eyebrow|id:qNYphyeYliLO}
+{type:FlashCard|front:a leg|back:ina chomma|id:LMhassFFOy9h}
+{type:Match|question:Select the matching words|options:[ina bucca:a mouth][ina survantscheglia:an eyebrow][in ravel:an ankle][in nas:a nose]|id:y9TejqoMFl5O}
+{type:PickWords|question:I have two noses, but I only have one eye|options:[sin][det][Mes][in][nas][n'è][n'hai][egl][dus][hai][mo][però][jau][Jau][hai]|answer:Jauhaidusnas,peròjauhaimoinegl|answerviewable:Jau hai dus nas, però jau hai mo in egl|id:d4Q2ZA8zJplk}
+{type:PickMissingWord|question:Nua è tes ___maun___?|options:[La charn vadi][maun][Il taglier][in maun]|answer:maun|id:fvnQKbxewXlI}
+{type:PickWords|question:Mia ungla è fitg gronda|options:[very][dressing][Did][big][fingernail][is][My][knife][wine]|answer:Myfingernailisverybig|answerviewable:My fingernail is very big|id:gmuOY5mzaSey}
+{type:FlashCard|front:a fingernail|back:in'ungla|id:K4omh5FV6nEi}
+{type:Match|question:Select the matching words|options:[La savetscha:The fork][In'erva:A herb][ina bucca:a mouth][La charn vadi:The veal]|id:Sl2bjIe1hhcx}
+{type:PickOne|question:ina survantscheglia|options:[an eyebrow][a nose][only]|answer:an eyebrow|id:wkGK1g6954Sc}
+{type:PickWords|question:Do you have a hand?|options:[maun][charn-vadi][Has][tschaina][in][ti][mangeva][ina]|answer:Hastiinmaun?|answerviewable:Has ti in maun?|id:qo5TxzYiJFz3}
+{type:PickOneMeaning|question:The speaker is saying:|speech:La salata|options:[The sausage][The salad][an eyebrow]|answer:The salad|id:lO1OXI4D2scd}
+{type:PickWords|question:Bainbaud, jau vegn ad avair ina survantscheglia|options:[fingernail][neck][A][I][red][an][don't][Soon][will][have][eyebrow]|answer:Soon,Iwillhaveaneyebrow|answerviewable:Soon, I will have an eyebrow|id:zbVG3PCMlSrz}
+{type:PickWords|question:My leg is small|options:[Mia][in'ungla][Mes][è][pitschna][grond][chomma]|answer:Miachommaèpitschna|answerviewable:Mia chomma è pitschna|id:OXx2N7jqjWf1}
+{type:Match|question:Select the matching words|options:[in det:a finger][in'ungla:a fingernail][in egl:an eye][mo:only]|id:2aA9Hjvl98ch}
+{type:PickMissingWord|question:Ha el in ___chau___ u in det?|options:[In'erva][chau][mo][in'ungla]|answer:chau|id:CFwr3tpxHAAX}
+{type:PickOne|question:in nas|options:[The veal][The fork][a nose]|answer:a nose|id:IsWiBNRM6OZq}
+</lesson>
+<lesson:7|id:5AhhyeiYWhfK>
+{type:Match|question:Select the matching words|options:[La charn vadi:The veal][in det:a finger][Il migiel:The glass][Il taglier:The plate]|id:WwQRFZeCXNHX}
+{type:PickOne|question:in nas|options:[The knife][a nose][The nut]|answer:a nose|id:MBSZM4uu5NeT}
+{type:PickMissingWord|question:Mia ungla è ___fitg___ gronda|options:[in nas][Il cunti][fitg][La salata]|answer:fitg|id:A2RLYd9M9kms}
+{type:Match|question:Select the matching words|options:[in maun:a hand][in ravel:an ankle][in egl:an eye][ina survantscheglia:an eyebrow]|id:Eu5yUbSRdhLL}
+{type:PickWords|question:Jau hai om in ravel|options:[ankle][one][head][I][have][only][My]|answer:Ionlyhaveoneankle|answerviewable:I only have one ankle|id:P29SS93PvPKk}
+{type:PickWords|question:Mia bucca n'è betg gronda|options:[the][My][is][not][dinner][mouth][big][tip][I]|answer:Mymouthisnotbig|answerviewable:My mouth is not big|id:NPwLcVtFzWdw}
+{type:PickWords|question:I don't have a knee|options:[schagnul][n'hai][in][betg][Jau]|answer:Jaun'haibetginschagnul|answerviewable:Jau n'hai betg in schagnul|id:ni82bbci58c5}
+{type:PickOneMeaning|question:The speaker is saying:|speech:ina bucca|options:[a mouth][a leg][The cup]|answer:a mouth|id:tI6ORCzkMsJd}
+{type:PickWords|question:My fingernail is very big|options:[gronda][Mia][dus][fitg][maun][ungla][è][Ha][in'ungla]|answer:Miaunglaèfitggronda|answerviewable:Mia ungla è fitg gronda|id:qaNZQ8MHlNB9}
+{type:PickOne|question:in det|options:[The dressing][a finger][The veal]|answer:a finger|id:CLsB2PdlGBZM}
+{type:PickOne|question:ina chomma|options:[an eyebrow][a knee][a leg]|answer:a leg|id:S3f1207ttBx7}
+{type:PickWords|question:In schagnul, in culiez|options:[knee][here][a][but][A][neck]|answer:Aknee,aneck|answerviewable:A knee, a neck|id:rPGnaXmkB9vE}
+{type:FlashCard|front:an eye|back:in egl|id:aYM7NAbFjh0V}
+{type:PickMissingWord|question:Mia ___bucca___ n'è betg gronda|options:[bucca][La nusch][In'erva][La savetscha]|answer:bucca|id:4VO6CX959YuM}
+{type:PickWords|question:Soon, I will have an eyebrow|options:[jau][Has][Bainbaud][ina][vegn][avair][ad][survantscheglia]|answer:Bainbaud,jauvegnadavairinasurvantscheglia|answerviewable:Bainbaud, jau vegn ad avair ina survantscheglia|id:yFKQ8FhC3Yrd}
+{type:PickOneMeaning|question:The speaker is saying:|speech:La salata|options:[The salad][a hand][an ankle]|answer:The salad|id:DROXOaY6VjzN}
+{type:PickOneMeaning|question:The speaker is saying:|speech:ina bucca|options:[a nose][The nut][a mouth]|answer:a mouth|id:VONxxU33Lrtp}
+{type:PickWords|question:My mouth is on your knee|options:[Mia][betg][è][sin][bucca][tes][nusch][schanugl][salata][ligiongia]|answer:Miabuccaèsintesschanugl|answerviewable:Mia bucca è sin tes schanugl|id:STFzWp5eLeuE}
+{type:FlashCard|front:a neck|back:in culiez|id:P8IWfdo4dPp8}
+{type:Match|question:Select the matching words|options:[in egl:an eye][ina bucca:a mouth][in chau:a head][in maun:a hand]|id:PtpNtvam1Rg8}
+</lesson>
+<lesson:8|id:e3vxP7bo5uut>
+{type:PickWords|question:My mouth is on your knee|options:[bucca][tes][mo][è][schanugl][Jau][Mia][sin]|answer:Miabuccaèsintesschanugl|answerviewable:Mia bucca è sin tes schanugl|id:NyH2HD2CWxPf}
+{type:PickOneMeaning|question:The speaker is saying:|speech:In'erva|options:[A herb][a hand][only]|answer:A herb|id:qdXt9amjC9H7}
+{type:PickOneMeaning|question:The speaker is saying:|speech:in nas|options:[a leg][a nose][an ankle]|answer:a nose|id:X3OoeHHjD7Oy}
+{type:PickOneMeaning|question:The speaker is saying:|speech:Il cunti|options:[an eyebrow][an eye][The knife]|answer:The knife|id:jD7eVI8O7tYd}
+{type:PickWords|question:Has ti in maun?|options:[or][have][a][fingernail][Do][you][hand][your][leg][Where]|answer:Doyouhaveahand?|answerviewable:Do you have a hand?|id:CNdqvCpkm8Kr}
+{type:FlashCard|front:an eyebrow|back:ina survantscheglia|id:a28U1T0pz7w2}
+{type:PickMissingWord|question:Jau ___hai___ om ina survantscheglia|options:[La nusch][in det][hai][in chau]|answer:hai|id:cGkf6qz42Ou1}
+{type:FlashCard|front:a knee|back:in schanugl|id:XGdmK0rrzOjH}
+{type:PickWords|question:Mia bucca è sin tes schanugl|options:[is][on][My][Where][mouth][knee][your]|answer:Mymouthisonyourknee|answerviewable:My mouth is on your knee|id:e83vAT7I2q6o}
+{type:Match|question:Select the matching words|options:[in nas:a nose][in'ungla:a fingernail][in schanugl:a knee][ina bucca:a mouth]|id:TMlP6LCA8elO}
+{type:PickWords|question:I don't have a knee|options:[Jau][in][betg][schagnul][n'hai][ungla]|answer:Jaun'haibetginschagnul|answerviewable:Jau n'hai betg in schagnul|id:RBzEKOnHE05u}
+{type:PickOne|question:mo|options:[The fork][only][A herb]|answer:only|id:34Dlw8529djI}
+{type:Match|question:Select the matching words|options:[La savetscha:The fork][in schanugl:a knee][La ligiongia:The sausage][Il cunti:The knife]|id:9aUyfg0ktkrx}
+{type:PickWords|question:Soon, I will have an eyebrow|options:[vegn][ad][ina][Mia][avair][e][survantscheglia][Bainbaud][Mes][n'hai][jau][ravel]|answer:Bainbaud,jauvegnadavairinasurvantscheglia|answerviewable:Bainbaud, jau vegn ad avair ina survantscheglia|id:j7HtDsMDBl1w}
+{type:PickMissingWord|question:___Nua___ è tes maun?|options:[in'ungla][Nua][ina survantscheglia][in nas]|answer:Nua|id:a9OdCkh2oBLP}
+{type:PickWords|question:In ravel u in'ungla?|options:[the][veal][fingernail][ankle][An][tip][or][dinner][a]|answer:Anankleorafingernail?|answerviewable:An ankle or a fingernail?|id:NM0Al2NJ1uA9}
+{type:PickOne|question:in maun|options:[an ankle][an eyebrow][a hand]|answer:a hand|id:1nAbNMmEf46d}
+{type:Match|question:Select the matching words|options:[mo:only][ina survantscheglia:an eyebrow][in chau:a head][in det:a finger]|id:hy5fjRCHduxi}
+{type:PickWords|question:My mouth is not big|options:[è][betg][cun][gronda][vi][n'è][bucca][faschevan][Mia]|answer:Miabuccan'èbetggronda|answerviewable:Mia bucca n'è betg gronda|id:CLUnmX1yFy9S}
+{type:PickOne|question:in nas|options:[The sausage][The cup][a nose]|answer:a nose|id:R8KL7oY7GpE8}
+</lesson>
+<lesson:9|id:2I70L6WmaHZw>
+{type:Match|question:Select the matching words|options:[in nas:a nose][ina chomma:a leg][in det:a finger][mo:only]|id:P6R4YUmOpyBK}
+{type:PickOne|question:in chau|options:[a head][a neck][a leg]|answer:a head|id:aaS4pJzbfUct}
+{type:WriteWords|question:I only have one eye|answer:[Jau hai mo in egl]|answerviewable:Jau hai mo in egl|special:[Jau][hai][mo][in][egl]|id:8EZOCrQD7tHF}
+{type:WriteWords|question:Jau n'hai betg in schagnul|answer:[I don't have a knee]|answerviewable:I don't have a knee|special:[I][don't][have][a][knee]|id:oTEbGWX5lhly}
+{type:PickOneMeaning|question:The speaker is saying:|speech:La bunamana|options:[a leg][The tip][The fork]|answer:The tip|id:OiuImxAvTkFi}
+{type:PickMissingWord|question:___È___ mia ungla rosa?|options:[ina bucca][È][In'erva][in det]|answer:È|id:dMXd8Di9MHpU}
+{type:PickWords|question:A nose and a mouth|options:[e][nas][bucca][In][ina]|answer:Innaseinabucca|answerviewable:In nas e ina bucca|id:sMBV8egQWNI7}
+{type:WriteWords|question:Jau hai mo in egl|answer:[I only have one eye]|answerviewable:I only have one eye|special:[I][only][have][one][eye]|id:ThlvLXpI2Sbv}
+{type:PickMissingWord|question:___In___ ravel u in'ungla?|options:[ina chomma][Il taglier][in chau][In]|answer:In|id:xa78ZCckE7vp}
+{type:PickWords|question:I have two noses, but I only have one eye|options:[det][mo][mia][jau][nas][egl][hai][dus][però][in][Jau][maun][hai]|answer:Jauhaidusnas,peròjauhaimoinegl|answerviewable:Jau hai dus nas, però jau hai mo in egl|id:FbekQw35qpbv}
+{type:PickMissingWord|question:___Jau___ hai om in ravel|options:[Il taglier][in egl][Jau][in ravel]|answer:Jau|id:aRTgC5zqTvot}
+{type:WriteWords|question:In schagnul, in culiez|answer:[A knee, a neck]|answerviewable:A knee, a neck|special:[A][knee,][a][neck]|id:vKay5VjGMMzU}
+{type:WriteWords|question:I only have one eyebrow|answer:[Jau hai om ina survantscheglia]|answerviewable:Jau hai om ina survantscheglia|special:[Jau][hai][om][ina][survantscheglia]|id:QBnnSSqK0n2n}
+{type:PickWords|question:Jau hai in culiez pitschen|options:[neck][little][big][Is][have][two][I][My][a]|answer:Ihavealittleneck|answerviewable:I have a little neck|id:2oKEQUXcgBl2}
+{type:Match|question:Select the matching words|options:[ina survantscheglia:an eyebrow][in'ungla:a fingernail][in chau:a head][in maun:a hand]|id:G3sY4L1YEZXE}
+{type:WriteWords|question:I have a blue eye|answer:[Jau hai in egl blau]|answerviewable:Jau hai in egl blau|special:[Jau][hai][in][egl][blau]|id:SbOfiMuQRlfz}
+</lesson>
+<lesson:10|id:1Nj5uAB64Usq>
+{type:WriteWords|question:A nose and a mouth|answer:[In nas e ina bucca]|answerviewable:In nas e ina bucca|special:[In][nas][e][ina][bucca]|id:6NS2pvBl3ciA}
+{type:PickMissingWord|question:Has ___ti___ in'ungla?|options:[La sosa da salata][ti][in culiez][in nas]|answer:ti|id:dREEOLE53rnZ}
+{type:Match|question:Select the matching words|options:[ina chomma:a leg][in'ungla:a fingernail][in det:a finger][in chau:a head]|id:5SNY2YO7Rcth}
+{type:PickWords|question:Is my nose red?|options:[mes][È][nas][cotschen]|answer:Èmesnascotschen?|answerviewable:È mes nas cotschen?|id:bPAQLfGeQDKl}
+{type:PickWords|question:Do you have a fingernail?|options:[Has][in'ungla][hai][ti]|answer:Hastiin'ungla?|answerviewable:Has ti in'ungla?|id:aFqD25clZerb}
+{type:WriteWords|question:Nua è tes chau?|answer:[Where is your head?]|answerviewable:Where is your head?|special:[Where][is][your][head?]|id:8CMhDVbRYRVf}
+{type:PickMissingWord|question:Mia chomma ___è___ pitschna|options:[In'erva][è][La scadiola][in det]|answer:è|id:jDbQpRpATfwR}
+{type:PickOne|question:in schanugl|options:[a finger][a knee][an eyebrow]|answer:a knee|id:vjNcKS0fhhsu}
+{type:WriteWords|question:Soon, I will have an eyebrow|answer:[Bainbaud, jau vegn ad avair ina survantscheglia]|answerviewable:Bainbaud, jau vegn ad avair ina survantscheglia|special:[Bainbaud,][jau][vegn][ad][avair][ina][survantscheglia]|id:D9Clowopskts}
+{type:WriteWords|question:Ha el in chau u in det?|answer:[Does he have a head or a finger?]|answerviewable:Does he have a head or a finger?|special:[Does][he][have][a][head][or][a][finger?]|id:daVzFW2A4w7Y}
+{type:WriteWords|question:I only have one eye|answer:[Jau hai mo in egl]|answerviewable:Jau hai mo in egl|special:[Jau][hai][mo][in][egl]|id:uMrEsJLlLrev}
+{type:Match|question:Select the matching words|options:[in det:a finger][in culiez:a neck][in ravel:an ankle][in egl:an eye]|id:BvcfLsgNvmwi}
+{type:PickMissingWord|question:Jau hai om ___in___ ravel|options:[mo][in][La savetscha][ina survantscheglia]|answer:in|id:4zBNl5ItZfBa}
+{type:WriteWords|question:Jau hai ina chomma e in chau|answer:[I have a leg and a head]|answerviewable:I have a leg and a head|special:[I][have][a][leg][and][a][head]|id:hHcGHh3Indye}
+{type:PickWords|question:Jau hai om ina survantscheglia|options:[one][eyebrow][I][a][finger][have][only]|answer:Ionlyhaveoneeyebrow|answerviewable:I only have one eyebrow|id:5uWq0pCsUDlV}
+{type:PickOneMeaning|question:The speaker is saying:|speech:La bunamana|options:[an eye][The tip][a knee]|answer:The tip|id:2482gZHvPxSW}
+</lesson>
+<lesson:11|id:EAwig3m6SjxN>
+{type:PickMissingWord|question:Mes culiez ___n'è___ betg verd|options:[in chau][n'è][mo][ina bucca]|answer:n'è|id:9lXLZ64GTsri}
+{type:WriteWords|question:In schagnul, in culiez|answer:[A knee, a neck]|answerviewable:A knee, a neck|special:[A][knee,][a][neck]|id:b74ZcZqvt0gu}
+{type:PickMissingWord|question:Has ti ___in___ maun?|options:[in chau][Il taglier][La charn vadi][in]|answer:in|id:ZkdR2rq2flzF}
+{type:PickOneMeaning|question:The speaker is saying:|speech:in maun|options:[an eyebrow][a hand][a finger]|answer:a hand|id:Adtm9Bji96Rr}
+{type:PickWords|question:An ankle or a fingernail?|options:[In][n'è][in'ungla][chomma][u][qua][ravel]|answer:Inraveluin'ungla?|answerviewable:In ravel u in'ungla?|id:TdVyHW710oMD}
+{type:WriteWords|question:I only have one eye|answer:[Jau hai mo in egl]|answerviewable:Jau hai mo in egl|special:[Jau][hai][mo][in][egl]|id:Byf91ibVY7Hu}
+{type:PickMissingWord|question:Jau hai in egl ___blau___|options:[blau][in schanugl][La savetscha][La nusch]|answer:blau|id:sFBYOxoB3zLt}
+{type:WriteWords|question:I only have one ankle|answer:[Jau hai om in ravel]|answerviewable:Jau hai om in ravel|special:[Jau][hai][om][in][ravel]|id:e0I0OZOqIXsB}
+{type:WriteWords|question:Jau hai in culiez pitschen|answer:[I have a little neck]|answerviewable:I have a little neck|special:[I][have][a][little][neck]|id:Mhrh9ehWCJRq}
+{type:Match|question:Select the matching words|options:[in'ungla:a fingernail][mo:only][in det:a finger][in nas:a nose]|id:tqQkHnrHVY0R}
+{type:PickWords|question:Does she have a finger?|options:[Ha][det][culiez][in][ella]|answer:Haellaindet?|answerviewable:Ha ella in det?|id:30aQBSdEgM5G}
+{type:Match|question:Select the matching words|options:[ina bucca:a mouth][mo:only][in maun:a hand][in chau:a head]|id:L4n5yli8nOhj}
+{type:PickOne|question:in schanugl|options:[an ankle][a leg][a knee]|answer:a knee|id:dV5JVu6F4USh}
+{type:WriteWords|question:Ha el in chau u in det?|answer:[Does he have a head or a finger?]|answerviewable:Does he have a head or a finger?|special:[Does][he][have][a][head][or][a][finger?]|id:8UPYJML51jyp}
+{type:PickWords|question:In schagnul, in culiez|options:[a][knee][neck][A]|answer:Aknee,aneck|answerviewable:A knee, a neck|id:NYutH7fDTR2C}
+{type:WriteWords|question:My hand is very big|answer:[Mes maun è fitg grond]|answerviewable:Mes maun è fitg grond|special:[Mes][maun][è][fitg][grond]|id:uuCixvNyhuTR}
+</lesson>
+<lesson:12|id:ixNYTXNfdIud>
+{type:PickWords|question:An ankle or a fingernail?|options:[In][in'ungla][betg][gronda][è][ravel][u][avair]|answer:Inraveluin'ungla?|answerviewable:In ravel u in'ungla?|id:3fnTAzgvzIvn}
+{type:WriteWords|question:Is my fingernail pink?|answer:[È mia ungla rosa?]|answerviewable:È mia ungla rosa?|special:[È][mia][ungla][rosa?]|id:z3ohVjKsp9jW}
+{type:PickMissingWord|question:Jau hai ___ina___ chomma e in chau|options:[in ravel][in det][La sosa da salata][ina]|answer:ina|id:6CxLaoh85RrN}
+{type:WriteWords|question:Mes det n'è betg qua|answer:[My finger is not here]|answerviewable:My finger is not here|special:[My][finger][is][not][here]|id:disf0cU2rJ5s}
+{type:PickWords|question:Mia chomma n'è betg violetta, ella è verd|options:[not][purple][is][leg][it][green][is][My]|answer:Mylegisnotpurple,itisgreen|answerviewable:My leg is not purple, it is green|id:ivFRj9MHW2pr}
+{type:PickOneMeaning|question:The speaker is saying:|speech:La bunamana|options:[The glass][The tip][a finger]|answer:The tip|id:fy2gqGK24Ds6}
+{type:WriteWords|question:I have a big eyebrow|answer:[Jau hai ina survantscheglia gronda]|answerviewable:Jau hai ina survantscheglia gronda|special:[Jau][hai][ina][survantscheglia][gronda]|id:3sOGFVn7SgSF}
+{type:WriteWords|question:Jau hai ina survantscheglia gronda|answer:[I have a big eyebrow]|answerviewable:I have a big eyebrow|special:[I][have][a][big][eyebrow]|id:V4mYqPE2NR9j}
+{type:Match|question:Select the matching words|options:[ina bucca:a mouth][in schanugl:a knee][in chau:a head][in ravel:an ankle]|id:5ElOLN6bJTCB}
+{type:WriteWords|question:An ankle or a fingernail?|answer:[In ravel u in'ungla?]|answerviewable:In ravel u in'ungla?|special:[In][ravel][u][in'ungla?]|id:AJlbiGWjHmf6}
+{type:PickMissingWord|question:Mes ravel n'è betg ___fitg___ grond|options:[fitg][ina survantscheglia][La bunamana][in det]|answer:fitg|id:AlKBU5QGuCBk}
+{type:PickMissingWord|question:___Mia___ bucca è sin tes schanugl|options:[ina survantscheglia][La scadiola][Mia][La nusch]|answer:Mia|id:Z5ressd6N8Lw}
+{type:PickOne|question:in nas|options:[an ankle][a finger][a nose]|answer:a nose|id:ss9Fmyl5CGgz}
+{type:Match|question:Select the matching words|options:[in ravel:an ankle][ina chomma:a leg][ina survantscheglia:an eyebrow][in culiez:a neck]|id:NXkVnM3F6e6K}
+{type:WriteWords|question:Jau hai om in ravel|answer:[I only have one ankle]|answerviewable:I only have one ankle|special:[I][only][have][one][ankle]|id:7NNlBNJM6s3p}
+{type:PickWords|question:I have a leg and a head|options:[e][hai][Ha][chau][chomma][ina][Jau][survantscheglia][in]|answer:Jauhaiinachommaeinchau|answerviewable:Jau hai ina chomma e in chau|id:wghQluUglVqe}
+</lesson>
+<lesson:13|id:aYLuAFP38eVL>
+{type:WriteWords|question:Mes det n'è betg qua|answer:[My finger is not here]|answerviewable:My finger is not here|special:[My][finger][is][not][here]|id:JOlmyAy0EkOT}
+{type:WriteWords|question:Is my nose red?|answer:[È mes nas cotschen?]|answerviewable:È mes nas cotschen?|special:[È][mes][nas][cotschen?]|id:DZwxWPkUPujU}
+{type:PickOneMeaning|question:The speaker is saying:|speech:in culiez|options:[a neck][The glass][only]|answer:a neck|id:IahA3OcO7M3r}
+{type:WriteWords|question:Jau hai in culiez pitschen|answer:[I have a little neck]|answerviewable:I have a little neck|special:[I][have][a][little][neck]|id:L0T5Fe0Ha4gS}
+{type:WriteWords|question:Mia bucca è sin tes schanugl|answer:[My mouth is on your knee]|answerviewable:My mouth is on your knee|special:[My][mouth][is][on][your][knee]|id:fO38zyxjLpbB}
+{type:WriteWords|question:Do you have a hand?|answer:[Has ti in maun?][Avais vus in maun?]|answerviewable:Has ti in maun?|special:[maun]|id:YyTsPyNfu7yc}
+{type:PickWords|question:Is my fingernail pink?|options:[tes][È][hai][mia][ungla][survantscheglia][rosa]|answer:Èmiaunglarosa?|answerviewable:È mia ungla rosa?|id:UDwzpQxYxTwl}
+{type:WriteWords|question:In nas e ina bucca|answer:[A nose and a mouth]|answerviewable:A nose and a mouth|special:[A][nose][and][a][mouth]|id:6RJVEYuqYQqa}
+{type:WriteWords|question:A knee, a neck|answer:[In schagnul, in culiez]|answerviewable:In schagnul, in culiez|special:[In][schagnul,][in][culiez]|id:xv5bAErabqLx}
+{type:PickMissingWord|question:Jau hai mo ___in___ egl|options:[La sosa da salata][La scadiola][in maun][in]|answer:in|id:y9TxJ9lSN1iB}
+{type:PickWords|question:Has ti in maun?|options:[have][very][you][hand][Do][a][mouth][is]|answer:Doyouhaveahand?|answerviewable:Do you have a hand?|id:6INs23cr9r4w}
+{type:PickMissingWord|question:___È___ mes nas cotschen?|options:[In'erva][È][La salata][ina chomma]|answer:È|id:5KJxQRbERRgV}
+{type:Match|question:Select the matching words|options:[in chau:a head][ina chomma:a leg][in schanugl:a knee][in ravel:an ankle]|id:y1nz7wP0oS6W}
+{type:PickOne|question:in nas|options:[a hand][a nose][only]|answer:a nose|id:9DAe0OYohozq}
+{type:Match|question:Select the matching words|options:[in egl:an eye][in chau:a head][in schanugl:a knee][in ravel:an ankle]|id:4vceQYneUfGo}
+{type:WriteWords|question:I have a little neck|answer:[Jau hai in culiez pitschen]|answerviewable:Jau hai in culiez pitschen|special:[Jau][hai][in][culiez][pitschen]|id:K8oH91H7LQcX}
+</lesson>
+<lesson:14|id:Isqj7IqEbFTH>
+{type:Match|question:Select the matching words|options:[in det:a finger][in chau:a head][in maun:a hand][in'ungla:a fingernail]|id:hC1GYVqsSE3E}
+{type:WriteWords|question:Do you have a fingernail?|answer:[Has ti in'ungla?][Avais vus in'ungla?]|answerviewable:Has ti in'ungla?|special:[ungla?]|id:Pce8wFZgOiS3}
+{type:PickWords|question:My ankle is not very big|options:[grond][n'è][ravel][fitg][betg][è][in][dus][bucca][Mes]|answer:Mesraveln'èbetgfitggrond|answerviewable:Mes ravel n'è betg fitg grond|id:0E0G9bHchlNs}
+{type:PickWords|question:Jau hai om in ravel|options:[only][one][ankle][I][have]|answer:Ionlyhaveoneankle|answerviewable:I only have one ankle|id:dmEocgitiDTk}
+{type:PickMissingWord|question:È mes nas ___cotschen___?|options:[La bunamana][cotschen][La nusch][in chau]|answer:cotschen|id:AKz2PWK2u68V}
+{type:WriteWords|question:Where is your head?|answer:[Nua è tes chau?][Nua è voss chau?]|answerviewable:Nua è tes chau?|special:[chau]|id:fWu7b9lMZ9et}
+{type:PickMissingWord|question:___Mia___ chomma è pitschna|options:[ina bucca][Il migiel][La savetscha][Mia]|answer:Mia|id:yzmnaj0vbVCM}
+{type:WriteWords|question:Jau hai in culiez pitschen|answer:[I have a little neck]|answerviewable:I have a little neck|special:[I][have][a][little][neck]|id:twXvgkfJwVHa}
+{type:PickOneMeaning|question:The speaker is saying:|speech:in ravel|options:[The tip][a leg][an ankle]|answer:an ankle|id:bMuCwE9lEiUE}
+{type:WriteWords|question:Mes det n'è betg qua|answer:[My finger is not here]|answerviewable:My finger is not here|special:[My][finger][is][not][here]|id:gQed5h6ONfBq}
+{type:WriteWords|question:My leg is not purple, it is green|answer:[Mia chomma n'è betg violetta, ella è verd]|answerviewable:Mia chomma n'è betg violetta, ella è verd|special:[Mia][chomma][n'è][betg][violetta,][ella][è][verd]|id:z37bGM2aAu4u}
+{type:Match|question:Select the matching words|options:[in chau:a head][in egl:an eye][in ravel:an ankle][mo:only]|id:OtGXEZaVvmWt}
+{type:WriteWords|question:Has ti in'ungla?|answer:[Do you have a fingernail?]|answerviewable:Do you have a fingernail?|special:[Do][you][have][a][fingernail?]|id:j04WsG7cCtgB}
+{type:PickOne|question:in culiez|options:[a neck][an eyebrow][a nose]|answer:a neck|id:TqMMQ5B00mqc}
+{type:WriteWords|question:Do you have a hand?|answer:[Has ti in maun?][Avais vus in maun?]|answerviewable:Has ti in maun?|special:[maun]|id:2qSpWFgGlPwV}
+{type:WriteWords|question:È mia ungla rosa?|answer:[Is my fingernail pink?]|answerviewable:Is my fingernail pink?|special:[Is][my][fingernail][pink?]|id:s3otsL6izXnL}
+</lesson>
+<lesson:15|id:hl95IcJo5Qfy>
+{type:PickOneMeaning|question:The speaker is saying:|speech:La bunamana|options:[The dressing][a leg][The tip]|answer:The tip|id:JBh65V3wMINl}
+{type:WriteWords|question:Mia bucca è sin tes schanugl|answer:[My mouth is on your knee]|answerviewable:My mouth is on your knee|special:[My][mouth][is][on][your][knee]|id:W5B3fX9tLuZp}
+{type:Match|question:Select the matching words|options:[in nas:a nose][in schanugl:a knee][mo:only][ina bucca:a mouth]|id:F2nDZSRlxPa8}
+{type:WriteWords|question:Mes ravel n'è betg fitg grond|answer:[My ankle is not very big]|answerviewable:My ankle is not very big|special:[My][ankle][is][not][very][big]|id:hN2Sq7kW42y3}
+{type:WriteWords|question:Jau hai om in ravel|answer:[I only have one ankle]|answerviewable:I only have one ankle|special:[I][only][have][one][ankle]|id:FyhA3p8unjFS}
+{type:PickWords|question:I don't have a knee|options:[bucca][chau][betg][n'hai][schagnul][in][Jau][è]|answer:Jaun'haibetginschagnul|answerviewable:Jau n'hai betg in schagnul|id:jd2cHlAnuDGA}
+{type:PickOne|question:in nas|options:[only][a nose][a knee]|answer:a nose|id:ldJiNxXSK3gu}
+{type:PickMissingWord|question:Jau hai in ___culiez___ pitschen|options:[in maun][ina survantscheglia][Il migiel][culiez]|answer:culiez|id:YqAfEzT1tFSb}
+{type:WriteWords|question:Mia bucca è sin tes schanugl|answer:[My mouth is on your knee]|answerviewable:My mouth is on your knee|special:[My][mouth][is][on][your][knee]|id:G0KLxZazBpXS}
+{type:WriteWords|question:I have a little neck|answer:[Jau hai in culiez pitschen]|answerviewable:Jau hai in culiez pitschen|special:[Jau][hai][in][culiez][pitschen]|id:V6aAhcLDlccl}
+{type:PickMissingWord|question:___Jau___ hai dus nas, però jau hai mo in egl|options:[in'ungla][in egl][In'erva][jau]|answer:jau|id:cAVprd1dEARJ}
+{type:WriteWords|question:My leg is not purple, it is green|answer:[Mia chomma n'è betg violetta, ella è verd]|answerviewable:Mia chomma n'è betg violetta, ella è verd|special:[Mia][chomma][n'è][betg][violetta,][ella][è][verd]|id:vQLc3ojSmA5m}
+{type:PickWords|question:Jau hai ina survantscheglia gronda|options:[and][I][a][eyebrow][big][have][two]|answer:Ihaveabigeyebrow|answerviewable:I have a big eyebrow|id:rmz5Nv046LEd}
+{type:WriteWords|question:My mouth is not big|answer:[Mia bucca n'è betg gronda]|answerviewable:Mia bucca n'è betg gronda|special:[Mia][bucca][n'è][betg][gronda]|id:TZs32iyqRxu5}
+{type:WriteWords|question:I don't have a knee|answer:[Jau n'hai betg in schagnul]|answerviewable:Jau n'hai betg in schagnul|special:[Jau][n'hai][betg][in][schagnul]|id:fiNFsE0jEINK}
+{type:Match|question:Select the matching words|options:[ina survantscheglia:an eyebrow][in det:a finger][in'ungla:a fingernail][in nas:a nose]|id:SRB7ugfeO2be}
+</lesson>
+<lesson:16|id:n6T0Z0cLkMAV>
+{type:PickWords|question:My leg is not purple, it is green|options:[Jau][in][n'è][chomma][Mia][betg][rosa][è][ella][violetta][verd]|answer:Miachomman'èbetgvioletta,ellaèverd|answerviewable:Mia chomma n'è betg violetta, ella è verd|id:u8O7cScpRpuI}
+{type:PickMissingWord|question:Jau hai dus nas, però jau hai mo in ___egl___|options:[Il migiel][mo][egl][in schanugl]|answer:egl|id:wJtIISXamzVw}
+{type:WriteWords|question:È mes nas cotschen?|answer:[Is my nose red?]|answerviewable:Is my nose red?|special:[Is][my][nose][red?]|id:d4r5qKvN3u3O}
+{type:WriteWords|question:My fingernail is very big|answer:[Mia ungla è fitg gronda]|answerviewable:Mia ungla è fitg gronda|special:[Mia][ungla][è][fitg][gronda]|id:kNymaiDeX7pc}
+{type:PickMissingWord|question:___Bainbaud___, jau vegn ad avair ina survantscheglia|options:[in egl][in culiez][Bainbaud][in nas]|answer:Bainbaud|id:UZJ6a4aacdQO}
+{type:WriteWords|question:Mes det n'è betg qua|answer:[My finger is not here]|answerviewable:My finger is not here|special:[My][finger][is][not][here]|id:D80hFSx1AS98}
+{type:WriteWords|question:I have a little neck|answer:[Jau hai in culiez pitschen]|answerviewable:Jau hai in culiez pitschen|special:[Jau][hai][in][culiez][pitschen]|id:2qCXlAFM662n}
+{type:WriteWords|question:Jau hai om in ravel|answer:[I only have one ankle]|answerviewable:I only have one ankle|special:[I][only][have][one][ankle]|id:OGfuqJDpGkmu}
+{type:WriteWords|question:An ankle or a fingernail?|answer:[In ravel u in'ungla?]|answerviewable:In ravel u in'ungla?|special:[In][ravel][u][in'ungla?]|id:bbXvd5nhmm7Z}
+{type:PickWords|question:Has ti in maun?|options:[leg][you][a][I][hand][have][Do][is][neck]|answer:Doyouhaveahand?|answerviewable:Do you have a hand?|id:UeXYF05fJwD8}
+{type:PickOne|question:in'ungla|options:[a mouth][a fingernail][an ankle]|answer:a fingernail|id:GjhUkWyX84rA}
+{type:PickOneMeaning|question:The speaker is saying:|speech:in chau|options:[a neck][a head][a hand]|answer:a head|id:zOtUygS03rbb}
+{type:Match|question:Select the matching words|options:[in ravel:an ankle][in det:a finger][ina chomma:a leg][in chau:a head]|id:x1XLywcCcuo3}
+{type:Match|question:Select the matching words|options:[in schanugl:a knee][in nas:a nose][ina bucca:a mouth][in egl:an eye]|id:XfyDO6jQZxoW}
+{type:WriteWords|question:A knee, a neck|answer:[In schagnul, in culiez]|answerviewable:In schagnul, in culiez|special:[In][schagnul,][in][culiez]|id:O5723cjqqA2e}
+{type:WriteWords|question:In nas e ina bucca|answer:[A nose and a mouth]|answerviewable:A nose and a mouth|special:[A][nose][and][a][mouth]|id:n7zLjkp3jbHR}
+</lesson>
+<lesson:17|id:9wqldBGoSztR>
+{type:PickWords|question:Do you have a fingernail?|options:[in'ungla][Has][ti]|answer:Hastiin'ungla?|answerviewable:Has ti in'ungla?|id:40ppldhRlWuy}
+{type:PickMissingWord|question:Bainbaud, jau vegn ad avair ina ___survantscheglia___|options:[in nas][survantscheglia][in det][La scadiola]|answer:survantscheglia|id:1X0gmkYTRQ1u}
+{type:WriteWords|question:Does she have a finger?|answer:[Ha ella in det?]|answerviewable:Ha ella in det?|special:[Ha][ella][in][det?]|id:9MWhrthVF1Yj}
+{type:WriteWords|question:Jau hai in culiez pitschen|answer:[I have a little neck]|answerviewable:I have a little neck|special:[I][have][a][little][neck]|id:UDkB911xPcGI}
+{type:Match|question:Select the matching words|options:[in chau:a head][in schanugl:a knee][in culiez:a neck][ina bucca:a mouth]|id:4rUWyAqTQ1GJ}
+{type:WriteWords|question:Jau hai in egl blau|answer:[I have a blue eye]|answerviewable:I have a blue eye|special:[I][have][a][blue][eye]|id:GQR8VQlUBSLB}
+{type:PickWords|question:Mia ungla è fitg gronda|options:[very][big][My][is][fingernail]|answer:Myfingernailisverybig|answerviewable:My fingernail is very big|id:QJGjSLpomhdD}
+{type:WriteWords|question:Do you have a fingernail?|answer:[Has ti in'ungla?][Avais vus in'ungla?]|answerviewable:Has ti in'ungla?|special:[ungla]|id:nvJCQjvAXXJG}
+{type:WriteWords|question:Where is your head?|answer:[Nua è tes chau?][Nua è voss chau?]|answerviewable:Nua è tes chau?|special:[chau]|id:hCfgApMDEp96}
+{type:WriteWords|question:Mia bucca n'è betg gronda|answer:[My mouth is not big]|answerviewable:My mouth is not big|special:[My][mouth][is][not][big]|id:JgwkWbLYiShD}
+{type:WriteWords|question:Does she have a finger?|answer:[Ha ella in det?]|answerviewable:Ha ella in det?|special:[Ha][ella][in][det?]|id:uc9avT2lozdz}
+{type:WriteWords|question:Jau n'hai betg in schagnul|answer:[I don't have a knee]|answerviewable:I don't have a knee|special:[I][don't][have][a][knee]|id:pGv74Ric8BKQ}
+{type:WriteWords|question:I have two noses, but I only have one eye|answer:[Jau hai dus nas, però jau hai mo in egl]|answerviewable:Jau hai dus nas, però jau hai mo in egl|special:[Jau][hai][dus][nas,][però][jau][hai][mo][in][egl]|id:vN0XeLj5pC0q}
+{type:Match|question:Select the matching words|options:[in egl:an eye][in nas:a nose][in maun:a hand][mo:only]|id:RbYogiWQTCnx}
+{type:PickOneMeaning|question:The speaker is saying:|speech:La scadiola|options:[The cup][The plate][a finger]|answer:The cup|id:hvlN28Tj0U6i}
+{type:PickMissingWord|question:Mia bucca ___n'è___ betg gronda|options:[n'è][in nas][Il taglier][La nusch]|answer:n'è|id:uaYMuyHlojBR}
+{type:WriteWords|question:Has ti in'ungla?|answer:[Do you have a fingernail?]|answerviewable:Do you have a fingernail?|special:[Do][you][have][a][fingernail?]|id:5XeGoxkVrzAZ}
+{type:PickOne|question:mo|options:[a fingernail][an eye][only]|answer:only|id:QdxfMTh57SWU}
+</lesson>
+<lesson:18|id:08b1GYKMYnCa>
+{type:WriteWords|question:Bainbaud, jau vegn ad avair ina survantscheglia|answer:[Soon, I will have an eyebrow]|answerviewable:Soon, I will have an eyebrow|special:[Soon,][I][will][have][an][eyebrow]|id:OJydEdP1FNNU}
+{type:Match|question:Select the matching words|options:[in culiez:a neck][ina chomma:a leg][in'ungla:a fingernail][in maun:a hand]|id:HKOMYiNEroEE}
+{type:WriteWords|question:I only have one ankle|answer:[Jau hai om in ravel]|answerviewable:Jau hai om in ravel|special:[Jau][hai][om][in][ravel]|id:jf8CCyYzuvjl}
+{type:PickOne|question:in nas|options:[an ankle][an eye][a nose]|answer:a nose|id:w7p40pSOXBkB}
+{type:WriteWords|question:Jau hai om ina survantscheglia|answer:[I only have one eyebrow]|answerviewable:I only have one eyebrow|special:[I][only][have][one][eyebrow]|id:99oK865Ci0iF}
+{type:WriteWords|question:Soon, I will have an eyebrow|answer:[Bainbaud, jau vegn ad avair ina survantscheglia]|answerviewable:Bainbaud, jau vegn ad avair ina survantscheglia|special:[Bainbaud,][jau][vegn][ad][avair][ina][survantscheglia]|id:FyfZgkatyFUl}
+{type:Match|question:Select the matching words|options:[ina survantscheglia:an eyebrow][mo:only][in schanugl:a knee][in culiez:a neck]|id:Fw7LiiqFBWqx}
+{type:WriteWords|question:Ha ella in det?|answer:[Does she have a finger?]|answerviewable:Does she have a finger?|special:[Does][she][have][a][finger?]|id:ouLfK3yIKkeg}
+{type:WriteWords|question:Mia ungla è fitg gronda|answer:[My fingernail is very big]|answerviewable:My fingernail is very big|special:[My][fingernail][is][very][big]|id:7JYzOQ46B8U5}
+{type:WriteWords|question:I have two noses, but I only have one eye|answer:[Jau hai dus nas, però jau hai mo in egl]|answerviewable:Jau hai dus nas, però jau hai mo in egl|special:[Jau][hai][dus][nas,][però][jau][hai][mo][in][egl]|id:B2qHpYNhnha2}
+{type:PickWords|question:È mia ungla rosa?|options:[I][ankle][pink][my][knee][Is][fingernail][noses][only]|answer:Ismyfingernailpink?|answerviewable:Is my fingernail pink?|id:TCy053jKhfH9}
+{type:WriteWords|question:My ankle is not very big|answer:[Mes ravel n'è betg fitg grond]|answerviewable:Mes ravel n'è betg fitg grond|special:[Mes][ravel][n'è][betg][fitg][grond]|id:2yoji6Q4Qg94}
+{type:WriteWords|question:My leg is not purple, it is green|answer:[Mia chomma n'è betg violetta, ella è verd]|answerviewable:Mia chomma n'è betg violetta, ella è verd|special:[Mia][chomma][n'è][betg][violetta,][ella][è][verd]|id:NV1uuZCQBhEz}
+{type:PickOneMeaning|question:The speaker is saying:|speech:ina bucca|options:[a hand][a mouth][A herb]|answer:a mouth|id:ZQji2P7b8AbT}
+{type:PickWords|question:My ankle is not very big|options:[Mes][ravel][grond][fitg][hai][betg][n'è][tes]|answer:Mesraveln'èbetgfitggrond|answerviewable:Mes ravel n'è betg fitg grond|id:gdaxl8sGbV6G}
+{type:WriteWords|question:Mes maun è fitg grond|answer:[My hand is very big]|answerviewable:My hand is very big|special:[My][hand][is][very][big]|id:nQwPjxasd8mj}
+{type:PickMissingWord|question:Mia bucca è ___sin___ tes schanugl|options:[in ravel][sin][La bunamana][La scadiola]|answer:sin|id:ouNjychCuRCc}
+{type:PickMissingWord|question:___Mia___ ungla è fitg gronda|options:[ina chomma][La nusch][Mia][Il migiel]|answer:Mia|id:Wv7QRAAADGVw}
+</lesson>
+<lesson:19|id:AXyTwOE7PgC6>
+{type:WriteWords|question:Jau hai om ina survantscheglia|answer:[I only have one eyebrow]|answerviewable:I only have one eyebrow|special:[I][only][have][one][eyebrow]|id:KrlbyPGqDnDs}
+{type:WriteWords|question:I only have one eye|answer:[Jau hai mo in egl]|answerviewable:Jau hai mo in egl|special:[Jau][hai][mo][in][egl]|id:XLc44WTLnEgt}
+{type:WriteWords|question:My leg is small|answer:[Mia chomma è pitschna]|answerviewable:Mia chomma è pitschna|special:[Mia][chomma][è][pitschna]|id:kqwZ444bMW4g}
+{type:Match|question:Select the matching words|options:[mo:only][in maun:a hand][in det:a finger][ina chomma:a leg]|id:KGd0OImQuHDz}
+{type:WriteWords|question:My leg is small|answer:[Mia chomma è pitschna]|answerviewable:Mia chomma è pitschna|special:[Mia][chomma][è][pitschna]|id:wI6DwTMRDy9F}
+{type:Match|question:Select the matching words|options:[mo:only][ina survantscheglia:an eyebrow][in culiez:a neck][in egl:an eye]|id:2BvzosnbnnE2}
+{type:WriteWords|question:I only have one ankle|answer:[Jau hai om in ravel]|answerviewable:Jau hai om in ravel|special:[Jau][hai][om][in][ravel]|id:lnY5HXBo4T3l}
+{type:PickMissingWord|question:Mia ___chomma___ n'è betg violetta, ella è verd|options:[in schanugl][chomma][in chau][ina chomma]|answer:chomma|id:uF28BEEAGnG2}
+{type:WriteWords|question:Mia bucca è sin tes schanugl|answer:[My mouth is on your knee]|answerviewable:My mouth is on your knee|special:[My][mouth][is][on][your][knee]|id:FKBjPco0myPc}
+{type:WriteWords|question:In nas e ina bucca|answer:[A nose and a mouth]|answerviewable:A nose and a mouth|special:[A][nose][and][a][mouth]|id:lM9byWM5EDdg}
+{type:WriteWords|question:Soon, I will have an eyebrow|answer:[Bainbaud, jau vegn ad avair ina survantscheglia]|answerviewable:Bainbaud, jau vegn ad avair ina survantscheglia|special:[Bainbaud,][jau][vegn][ad][avair][ina][survantscheglia]|id:btHyPO4FTqEv}
+{type:WriteWords|question:In nas e ina bucca|answer:[A nose and a mouth]|answerviewable:A nose and a mouth|special:[A][nose][and][a][mouth]|id:J8GCNUHydXOo}
+{type:WriteWords|question:Jau hai om ina survantscheglia|answer:[I only have one eyebrow]|answerviewable:I only have one eyebrow|special:[I][only][have][one][eyebrow]|id:bckVScsLpjY9}
+{type:PickOneMeaning|question:The speaker is saying:|speech:ina chomma|options:[a leg][a neck][A herb]|answer:a leg|id:EMsDUfy5c4VN}
+{type:PickWords|question:Nua è tes maun?|options:[is][Where][have][don't][your][hand][Do]|answer:Whereisyourhand?|answerviewable:Where is your hand?|id:uGzyFTtnK2dA}
+{type:PickWords|question:I don't have a knee|options:[nas][n'è][verd][betg][Jau][chau][schagnul][in][n'hai]|answer:Jaun'haibetginschagnul|answerviewable:Jau n'hai betg in schagnul|id:tTjeSyQmaToK}
+{type:PickMissingWord|question:Mia chomma n'è betg violetta, ella ___è___ verd|options:[In'erva][è][La sosa da salata][in schanugl]|answer:è|id:h1QZwaZF30LI}
+{type:PickOne|question:in schanugl|options:[an ankle][an eye][a knee]|answer:a knee|id:JUXZHgKxK111}
+</lesson>
+<lesson:20|id:lnFGfBkmhcpS>
+{type:WriteWords|question:My leg is small|answer:[Mia chomma è pitschna]|answerviewable:Mia chomma è pitschna|special:[Mia][chomma][è][pitschna]|id:NI9lTmQ00vJx}
+{type:PickOneMeaning|question:The speaker is saying:|speech:La nusch|options:[A herb][a knee][The nut]|answer:The nut|id:SEMNX4IzzCte}
+{type:PickMissingWord|question:Nua è ___tes___ chau?|options:[La sosa da salata][ina bucca][tes][mo]|answer:tes|id:eULAwvq1bgZR}
+{type:PickOne|question:in nas|options:[a nose][a neck][a knee]|answer:a nose|id:nH6iOlfiFka0}
+{type:PickMissingWord|question:Bainbaud, jau ___vegn___ ad avair ina survantscheglia|options:[La savetscha][in maun][vegn][in nas]|answer:vegn|id:eOaoBq4N1TSn}
+{type:WriteWords|question:My leg is small|answer:[Mia chomma è pitschna]|answerviewable:Mia chomma è pitschna|special:[Mia][chomma][è][pitschna]|id:RV47OoMWRcbX}
+{type:Match|question:Select the matching words|options:[in schanugl:a knee][ina bucca:a mouth][in maun:a hand][ina chomma:a leg]|id:unLbf3WB21Cy}
+{type:Match|question:Select the matching words|options:[in'ungla:a fingernail][mo:only][in ravel:an ankle][in maun:a hand]|id:nSxIlBkun0jk}
+{type:WriteWords|question:Soon, I will have an eyebrow|answer:[Bainbaud, jau vegn ad avair ina survantscheglia]|answerviewable:Bainbaud, jau vegn ad avair ina survantscheglia|special:[Bainbaud,][jau][vegn][ad][avair][ina][survantscheglia]|id:AWi6TKdpFBv3}
+{type:PickWords|question:An ankle or a fingernail?|options:[u][in'ungla][chomma][ravel][In][n'è]|answer:Inraveluin'ungla?|answerviewable:In ravel u in'ungla?|id:kkHq0elP8UYI}
+{type:WriteWords|question:Has ti in'ungla?|answer:[Do you have a fingernail?]|answerviewable:Do you have a fingernail?|special:[Do][you][have][a][fingernail?]|id:b6xiy3WbxBfY}
+{type:WriteWords|question:Jau hai mo in egl|answer:[I only have one eye]|answerviewable:I only have one eye|special:[I][only][have][one][eye]|id:lAmN7d7Hs4jV}
+{type:WriteWords|question:Mia chomma n'è betg violetta, ella è verd|answer:[My leg is not purple, it is green]|answerviewable:My leg is not purple, it is green|special:[My][leg][is][not][purple,][it][is][green]|id:ElicbBmbwupo}
+{type:WriteWords|question:I have a big eyebrow|answer:[Jau hai ina survantscheglia gronda]|answerviewable:Jau hai ina survantscheglia gronda|special:[Jau][hai][ina][survantscheglia][gronda]|id:yQTgyWlzGljh}
+{type:WriteWords|question:Mes ravel n'è betg fitg grond|answer:[My ankle is not very big]|answerviewable:My ankle is not very big|special:[My][ankle][is][not][very][big]|id:6i41kjLf1e5Z}
+{type:WriteWords|question:Is my fingernail pink?|answer:[È mia ungla rosa?]|answerviewable:È mia ungla rosa?|special:[È][mia][ungla][rosa?]|id:yxf9agPtwKOl}
+{type:WriteWords|question:Mia bucca n'è betg gronda|answer:[My mouth is not big]|answerviewable:My mouth is not big|special:[My][mouth][is][not][big]|id:FX0Rcekw8uCp}
+{type:PickWords|question:Mia chomma è pitschna|options:[small][is][My][hand][leg][fingernail]|answer:Mylegissmall|answerviewable:My leg is small|id:NNVyOueQz6BN}
+</lesson>
+</skill>
+<skill:In the supermarket|image:supermarket|lessonsperlevel:3|strokecolor:244,67,54|fillcolor:0,0,0|position:2b|description:Learn how to shop for food in the supermarket|id:tMzWejvrJcQX>
+<lesson:1|id:iabgJnN07Nrl>
+{type:PickOne|question:ella dovra|options:[a head][only][she needs]|answer:she needs|id:ogdPGnFfBerL}
+{type:PickOneMeaning|question:The speaker is saying:|speech:in culiez|options:[an eye][a neck][a head]|answer:a neck|id:UVbN5xl3mV1f}
+{type:PickOneMeaning|question:The speaker is saying:|speech:in maun|options:[a hand][excuse me][The supermarket]|answer:a hand|id:HZTdaAHLMk65}
+{type:FlashCard|front:Is/Are there|back:Ha igl?|id:cmemXl5WZOhn}
+{type:FlashCard|front:we need|back:nus duvrain|id:Q2DdszO10VmI}
+{type:PickOneMeaning|question:The speaker is saying:|speech:in nas|options:[an eyebrow][excuse me][a nose]|answer:a nose|id:XhgIxz5aKamc}
+{type:FlashCard|front:To find|back:Chattar|id:ZDGE2ahPOiBt}
+{type:FlashCard|front:they need|back:els dovran|id:0R1o8BFCwLnZ}
+{type:ImagePick|question:There is/are|options:[vus duvrais:need_want][Terribla:sad-face][Igl ha:info][Il tgaret da cumischungs:shopping-bag]|answer:Igl ha|id:j5OqxNVhVujM}
+{type:PickOneMeaning|question:The speaker is saying:|speech:in maun|options:[a hand][The exit][A discount]|answer:a hand|id:ZmjPk8s4OUDx}
+{type:PickOne|question:Terribel|options:[a head][a hand][Terrible (m)]|answer:Terrible (m)|id:ptMGdOyLIFj6}
+{type:PickOne|question:nus duvrain|options:[a knee][a neck][we need]|answer:we need|id:O9Q1Qi7Rth4y}
+{type:PickOne|question:perdunai|options:[a knee][excuse me][a mouth]|answer:excuse me|id:iLnhQOI2G9WE}
+{type:FlashCard|front:you need|back:ti dovras|id:83O2O8HEltn9}
+</lesson>
+<lesson:2|id:SKZESFlMCJP1>
+{type:FlashCard|front:we need|back:nus duvrain|id:nTUYfQ4gR6w2}
+{type:PickOneMeaning|question:The speaker is saying:|speech:Ina reducziun|options:[The shopping trolley][she needs][A discount]|answer:A discount|id:vXQ2tWHeOcPH}
+{type:PickOneMeaning|question:The speaker is saying:|speech:in ravel|options:[an ankle][To find][The exit]|answer:an ankle|id:g4FIDSQ8DQvt}
+{type:PickOneMeaning|question:The speaker is saying:|speech:in det|options:[they need][a finger][only]|answer:a finger|id:MzxW3bFBdqVT}
+{type:PickOne|question:ti dovras|options:[a finger][you need][a mouth]|answer:you need|id:HBYNXlTnlEbF}
+{type:FlashCard|front:excuse me|back:perdunai|id:qoRvEgEXK5Na}
+{type:PickOneMeaning|question:The speaker is saying:|speech:els dovran|options:[you (pl) need][A discount][they need]|answer:they need|id:CjibtM2MSOQ1}
+{type:PickOne|question:vus duvrais|options:[you (pl) need][a leg][a nose]|answer:you (pl) need|id:vQEWA2I15J6d}
+{type:PickOne|question:Il supermartgà|options:[a finger][The supermarket][a neck]|answer:The supermarket|id:bDqnOxISWEGa}
+{type:PickOne|question:el dovra|options:[he needs][an ankle][an eye]|answer:he needs|id:SQntiJC2e7lV}
+{type:ImagePick|question:Terrible (f)|options:[perdunai:sorry][Terribla:sad-face][La sortida:leave][Il tgaret da cumischungs:shopping-bag]|answer:Terribla|id:rjN5kIttbpZq}
+{type:FlashCard|front:you need|back:ti dovras|id:iZi3hYyLpAw7}
+{type:FlashCard|front:The supermarket|back:Il supermartgà|id:vdzsl4pnE2U5}
+{type:FlashCard|front:Terrible (m)|back:Terribel|id:zkgZ6gQtyy0U}
+</lesson>
+<lesson:3|id:8i4AEbuQzxol>
+{type:FlashCard|front:To find|back:Chattar|id:11Vx8DR7bnPk}
+{type:FlashCard|front:to find|back:duvrar|id:j9DNloauUw4D}
+{type:FlashCard|front:excuse me|back:perdunai|id:IGLdKsUXjWyS}
+{type:PickOneMeaning|question:The speaker is saying:|speech:perdunai|options:[The shopping trolley][excuse me][The supermarket]|answer:excuse me|id:ZpRhrKZuRtzz}
+{type:PickOne|question:Il supermartgà|options:[The supermarket][a mouth][a hand]|answer:The supermarket|id:90cR2flyZqtQ}
+{type:FlashCard|front:Is/Are there|back:Ha igl?|id:PmNPElqTI9D2}
+{type:PickOne|question:vus duvrais|options:[you (pl) need][an eyebrow][a neck]|answer:you (pl) need|id:xareBGCGipKT}
+{type:PickOneMeaning|question:The speaker is saying:|speech:ina survantscheglia|options:[they need][an eyebrow][The exit]|answer:an eyebrow|id:rVJpLHeq8f9B}
+{type:PickOneMeaning|question:The speaker is saying:|speech:La sortida|options:[you (pl) need][The exit][a hand]|answer:The exit|id:ahjkJjpYudNf}
+{type:ImagePick|question:they need|options:[els dovran:need_want][Igl ha:info][Il supermartgà:supermarket][ella dovra:need_want]|answer:els dovran|id:dmSgRNJbZesi}
+{type:FlashCard|front:you (pl) need|back:vus duvrais|id:o4K8HlQvfWZN}
+{type:PickOne|question:Igl ha|options:[only][There is/are][a fingernail]|answer:There is/are|id:ZnT0FShYbdYj}
+{type:PickOneMeaning|question:The speaker is saying:|speech:in'ungla|options:[a fingernail][an ankle][to find]|answer:a fingernail|id:34UOujHdDxWb}
+{type:PickOne|question:Chattar|options:[a head][To find][an eyebrow]|answer:To find|id:sIM1SjflM3Yw}
+</lesson>
+<lesson:4|id:5pE3boUE1wui>
+{type:FlashCard|front:we need|back:nus duvrain|id:DBmYbQWg2rXv}
+{type:PickOne|question:Terribla|options:[Terrible (f)][a leg][a knee]|answer:Terrible (f)|id:7NhzbKVosnD1}
+{type:FlashCard|front:The shopping trolley|back:Il tgaret da cumischungs|id:1pGv4sSZfgIB}
+{type:PickOne|question:Ina reducziun|options:[A discount][an eyebrow][only]|answer:A discount|id:FzXOw8Fd12qb}
+{type:PickOneMeaning|question:The speaker is saying:|speech:Chattar|options:[a fingernail][only][To find]|answer:To find|id:agyOmV2uWlCy}
+{type:FlashCard|front:The shopping trolley|back:Il tgaret da cumischungs|id:yf8RNgHntKEA}
+{type:PickOne|question:ti dovras|options:[you need][a leg][a fingernail]|answer:you need|id:QcLMZ1SDZ7pC}
+{type:PickOneMeaning|question:The speaker is saying:|speech:in ravel|options:[they need][an eyebrow][an ankle]|answer:an ankle|id:LYDHaHvALVcz}
+{type:FlashCard|front:A discount|back:Ina reducziun|id:WCIPHTr8whCS}
+{type:PickOne|question:Il tgaret da cumischungs|options:[The shopping trolley][only][a head]|answer:The shopping trolley|id:E0R8gL36uyxl}
+{type:PickOneMeaning|question:The speaker is saying:|speech:vus duvrais|options:[Is/Are there][a mouth][you (pl) need]|answer:you (pl) need|id:pa7HQYwJGs83}
+{type:PickOneMeaning|question:The speaker is saying:|speech:ina chomma|options:[a leg][he needs][Terrible (m)]|answer:a leg|id:zZWcdWW9mbl7}
+{type:FlashCard|front:you need|back:ti dovras|id:04XmeuYwwUn7}
+{type:ImagePick|question:Terrible (m)|options:[Terribel:sad-face][Chattar:Launchpad_2048x2048][duvrar:Launchpad_2048x2048][Ina reducziun:low_loss]|answer:Terribel|id:bFTlqrHRgROG}
+</lesson>
+<lesson:5|id:hcmoNoHS2ORd>
+{type:FlashCard|front:Is/Are there|back:Ha igl?|id:EGnJJMH8tECo}
+{type:PickOneMeaning|question:The speaker is saying:|speech:ina bucca|options:[a mouth][you (pl) need][A discount]|answer:a mouth|id:ax79iww7KATi}
+{type:FlashCard|front:I need|back:jau dovr|id:fRuwLf5ujg8D}
+{type:PickOne|question:perdunai|options:[a knee][an eye][excuse me]|answer:excuse me|id:oOwELMpMcM53}
+{type:PickOne|question:vus duvrais|options:[you (pl) need][a nose][a head]|answer:you (pl) need|id:yrLOBe8rIDID}
+{type:FlashCard|front:To find|back:Chattar|id:FeiITuUa1xzk}
+{type:ImagePick|question:he needs|options:[jau dovr:need_want][Terribla:sad-face][el dovra:need_want][Igl ha:info]|answer:el dovra|id:6FqANYQHAQC4}
+{type:FlashCard|front:A discount|back:Ina reducziun|id:8Qaaw1lsKblw}
+{type:FlashCard|front:The supermarket|back:Il supermartgà|id:dlIUrBqh4kDy}
+{type:PickOne|question:nus duvrain|options:[a nose][only][we need]|answer:we need|id:SYHp8sFPVtki}
+{type:PickOneMeaning|question:The speaker is saying:|speech:in nas|options:[to find][an eyebrow][a nose]|answer:a nose|id:rzHjiIJksH01}
+{type:PickOneMeaning|question:The speaker is saying:|speech:in culiez|options:[a neck][a leg][excuse me]|answer:a neck|id:zV2a4MRFMtd7}
+{type:PickOneMeaning|question:The speaker is saying:|speech:Ha igl?|options:[Is/Are there][only][Terrible (m)]|answer:Is/Are there|id:zjsjpfAVB5GZ}
+{type:PickOne|question:La sortida|options:[The exit][a head][a mouth]|answer:The exit|id:ON0mZftbpNd6}
+</lesson>
+<lesson:6|id:rifrXMvhJIrf>
+{type:PickMissingWord|question:___Dovr___ jau in tgaret da cumischungs?|options:[in culiez][ina bucca][ti dovras][Dovr]|answer:Dovr|id:9A9EmdLuExAs}
+{type:PickOneMeaning|question:The speaker is saying:|speech:in ravel|options:[a finger][a mouth][an ankle]|answer:an ankle|id:gZwKYJicBdtz}
+{type:Match|question:Select the matching words|options:[Igl ha:There is/are][Il supermartgà:The supermarket][La sortida:The exit][nus duvrain:we need]|id:kveLHjV0E14M}
+{type:PickWords|question:He needs, she needs|options:[dovra][dovra][vi][cumischungs][è][ella][dovran][mangiar][El]|answer:Eldovra,elladovra|answerviewable:El dovra, ella dovra|id:Nrelc4K25KsX}
+{type:PickWords|question:I need, we need|options:[Jau][dovr][Ha][na][nus][duvrain][el][dovra]|answer:Jaudovr,nusduvrain|answerviewable:Jau dovr, nus duvrain|id:LZPsbsCSZMh0}
+{type:PickOne|question:Ha igl?|options:[excuse me][Is/Are there][The exit]|answer:Is/Are there|id:CxYh4JY9CJJ8}
+{type:PickWords|question:You need to find the exit (sg)|options:[chattar][maun][egl][Mia][dovras][Ti][sortida][la][Nua]|answer:Tidovraschattarlasortida|answerviewable:Ti dovras chattar la sortida|id:LOVVgNFxIaED}
+{type:PickOneMeaning|question:The speaker is saying:|speech:mo|options:[only][The supermarket][a mouth]|answer:only|id:n04eanUhPwni}
+{type:Match|question:Select the matching words|options:[Il supermartgà:The supermarket][Il tgaret da cumischungs:The shopping trolley][nus duvrain:we need][Ha igl?:Is/Are there]|id:M6ReglWbbT8L}
+{type:PickWords|question:You do not need the pasta now|options:[duvrais][ussa][betg][Vus][na][pasta][la]|answer:Vusnaduvraisbetglapastaussa|answerviewable:Vus na duvrais betg la pasta ussa|id:HYVNuMSgMnOE}
+{type:PickOne|question:els dovran|options:[a knee][a fingernail][they need]|answer:they need|id:dYy55ZIVEkYq}
+{type:PickOneMeaning|question:The speaker is saying:|speech:ina chomma|options:[you need][a leg][a nose]|answer:a leg|id:kK9rnSecL95T}
+{type:PickOne|question:Il tgaret da cumischungs|options:[The shopping trolley][a finger][only]|answer:The shopping trolley|id:hCgrTtvZ08G8}
+{type:PickMissingWord|question:Els dovran chattar ___la___ sortida|options:[Il supermartgà][la][in schanugl][perdunai]|answer:la|id:90WUv4Wx8JfB}
+{type:PickWords|question:They do not need the banana|options:[dovran][Els][na][betg][la][banana]|answer:Elsnadovranbetglabanana|answerviewable:Els na dovran betg la banana|id:nVDOhsg8HiZi}
+{type:PickWords|question:You do not need the pasta now|options:[pasta][e][jau][ussa][Vus][duvrais][na][betg][la][hai][Mia]|answer:Vusnaduvraisbetglapastaussa|answerviewable:Vus na duvrais betg la pasta ussa|id:OiJXqnVfH4Vs}
+{type:Match|question:Select the matching words|options:[ina survantscheglia:an eyebrow][in chau:a head][mo:only][els dovran:they need]|id:XDzduNtjnQWU}
+</lesson>
+<lesson:7|id:Hat1zYT0CW8S>
+{type:PickOne|question:Terribla|options:[Terrible (f)][The shopping trolley][to find]|answer:Terrible (f)|id:ZP8AE3XYUba4}
+{type:PickMissingWord|question:___Ha___ igl in tgaret da cumischungs?|options:[jau dovr][in culiez][Ha][Il tgaret da cumischungs]|answer:Ha|id:vzXf4Bzdrk23}
+{type:PickOneMeaning|question:The speaker is saying:|speech:in det|options:[a finger][an eyebrow][excuse me]|answer:a finger|id:DBZDMAe35clv}
+{type:Match|question:Select the matching words|options:[in egl:an eye][mo:only][in schanugl:a knee][perdunai:excuse me]|id:s0qP5CM5YWDq}
+{type:PickWords|question:You do not need the pasta now|options:[ina][pasta][violetta][na][mo][duvrais][dus][Vus][betg][ussa][la]|answer:Vusnaduvraisbetglapastaussa|answerviewable:Vus na duvrais betg la pasta ussa|id:Ubvzrkt7Wz6T}
+{type:PickMissingWord|question:Questa ___fraja___ è terribla|options:[fraja][ti dovras][La sortida][in det]|answer:fraja|id:ytAqUBrjYAxo}
+{type:PickOneMeaning|question:The speaker is saying:|speech:in schanugl|options:[I need][a knee][Is/Are there]|answer:a knee|id:HWrGtbnY3rZN}
+{type:PickOne|question:Igl ha|options:[a nose][a mouth][There is/are]|answer:There is/are|id:vLE2dfiNnCYe}
+{type:PickWords|question:You do not need the pasta now|options:[duvrais][la][Vus][ussa][en][pasta][na][tgaret][betg]|answer:Vusnaduvraisbetglapastaussa|answerviewable:Vus na duvrais betg la pasta ussa|id:QOrjSYLzNnrR}
+{type:Match|question:Select the matching words|options:[ella dovra:she needs][Il supermartgà:The supermarket][vus duvrais:you (pl) need][ti dovras:you need]|id:q6fHkcGS5l4s}
+{type:PickWords|question:We need to go now|options:[duvrain][dovran][citrona][ir][Nus][ussa]|answer:Nusduvrainirussa|answerviewable:Nus duvrain ir ussa|id:rIBTWgsSYCoq}
+{type:PickWords|question:I want a 10% discount|options:[Jau][10%][da][ina][Il][vi][citrona][el][betg][reducziun]|answer:Jauviinareducziunda10%|answerviewable:Jau vi ina reducziun da 10%|id:FbhwXul3doRz}
+{type:PickWords|question:You need to find the exit (sg)|options:[dovras][la][cumishungs][chattar][sortida][Ti]|answer:Tidovraschattarlasortida|answerviewable:Ti dovras chattar la sortida|id:Zh4s9Rh48HGt}
+{type:PickOneMeaning|question:The speaker is saying:|speech:La sortida|options:[a knee][The exit][you need]|answer:The exit|id:qIDxE4v3D4UN}
+{type:PickOne|question:perdunai|options:[excuse me][only][a nose]|answer:excuse me|id:2lYXB7zidaY8}
+{type:PickWords|question:Is that potato terrible?|options:[n'hai][È][terribel][tartuffel][chau][mo][quel][ina]|answer:Èqueltartuffelterribel?|answerviewable:È quel tartuffel terribel?|id:GXTK5deLSYBU}
+{type:Match|question:Select the matching words|options:[Ha igl?:Is/Are there][La sortida:The exit][Ina reducziun:A discount][Terribel:Terrible (m)]|id:jllPrXkJYpkN}
+</lesson>
+<lesson:8|id:PvEAXxoqhlY8>
+{type:PickOne|question:ella dovra|options:[an ankle][only][she needs]|answer:she needs|id:62b0YnnC8ra3}
+{type:Match|question:Select the matching words|options:[Ina reducziun:A discount][Igl ha:There is/are][duvrar:to find][Terribla:Terrible (f)]|id:K19LkWI6IMZd}
+{type:PickWords|question:You do not need to go (sg)|options:[Ti][Vegn][oz][da][dovras][betg][na][ir]|answer:Tinadovrasbetgiroz|answerviewable:Ti na dovras betg ir oz|id:NDY9hYFf77WE}
+{type:PickOne|question:els dovran|options:[To find][they need][you need]|answer:they need|id:YZ87vtXWHZuU}
+{type:PickOneMeaning|question:The speaker is saying:|speech:Il tgaret da cumischungs|options:[only][The shopping trolley][a nose]|answer:The shopping trolley|id:D1fwOEuPzFW8}
+{type:PickWords|question:Is that potato terrible?|options:[È][10%][quel][dus][tartuffel][el][terribel][chattar]|answer:Èqueltartuffelterribel?|answerviewable:È quel tartuffel terribel?|id:EZuZXgZfSytB}
+{type:PickMissingWord|question:Questa fraja è ___terribla___|options:[ina chomma][terribla][Ha igl?][nus duvrain]|answer:terribla|id:mlwiXWBCW1VJ}
+{type:PickWords|question:Does she want a shopping trolley?|options:[ella][in][Vul][Nus][Jau][la][tgaret][Nua][cumischungs][da]|answer:Vulellaintgaretdacumischungs?|answerviewable:Vul ella in tgaret da cumischungs?|id:v7hVE0WG5EW9}
+{type:PickWords|question:Excuse me is your hand big?|options:[chau][e][Perdunai][è][maun][grond][Jau][tes][pitschna]|answer:Perdunai,ètesmaungrond?|answerviewable:Perdunai, è tes maun grond?|id:qBO3pueMk4tb}
+{type:Match|question:Select the matching words|options:[in culiez:a neck][vus duvrais:you (pl) need][in maun:a hand][ina chomma:a leg]|id:7XsCoxgLOh9e}
+{type:PickMissingWord|question:Jau vi ___chattar___ il supermartgà|options:[Ina reducziun][perdunai][Igl ha][chattar]|answer:chattar|id:BTjlYVmATxbi}
+{type:PickOneMeaning|question:The speaker is saying:|speech:duvrar|options:[you need][to find][a leg]|answer:to find|id:CAwWVXaRYkfo}
+{type:PickOneMeaning|question:The speaker is saying:|speech:Il supermartgà|options:[he needs][an eyebrow][The supermarket]|answer:The supermarket|id:3Wl4xRYjFrSq}
+{type:Match|question:Select the matching words|options:[Il tgaret da cumischungs:The shopping trolley][Terribla:Terrible (f)][duvrar:to find][nus duvrain:we need]|id:s6hAGRAYeOXF}
+{type:PickWords|question:Is there a shopping trolley?|options:[la][igl][ina][chattar][in][Ha][tgaret][da][cumischungs]|answer:Haiglintgaretdacumischungs?|answerviewable:Ha igl in tgaret da cumischungs?|id:dgpmlGLdDCoN}
+{type:PickOne|question:nus duvrain|options:[a leg][we need][an ankle]|answer:we need|id:NfP4V8p21VFB}
+{type:PickWords|question:This strawberry is terrible|options:[Mes][survantscheglia][è][Questa][terribla][mo][chomma][fraja]|answer:Questafrajaèterribla|answerviewable:Questa fraja è terribla|id:QyzqsQkWY3Ns}
+</lesson>
+<lesson:9|id:FSt9ByzjdSSc>
+{type:PickOne|question:vus duvrais|options:[an eye][you (pl) need][an eyebrow]|answer:you (pl) need|id:SGBvAuxgvHdR}
+{type:PickOneMeaning|question:The speaker is saying:|speech:in egl|options:[an eye][The shopping trolley][Terrible (f)]|answer:an eye|id:3VqR9tytzk6o}
+{type:PickOneMeaning|question:The speaker is saying:|speech:Terribel|options:[to find][Terrible (m)][The shopping trolley]|answer:Terrible (m)|id:ZtxpWTInckrl}
+{type:PickWords|question:They need to find the exit|options:[ti][jau][verd][sortida][la][maun][dovran][Els][chattar]|answer:Elsdovranchattarlasortida|answerviewable:Els dovran chattar la sortida|id:GKquMMQpddsH}
+{type:PickWords|question:There are two noses|options:[da][dus][sortida][nas][Igl][ha]|answer:Iglhadusnas|answerviewable:Igl ha dus nas|id:mYNe1c5l6YVf}
+{type:PickOne|question:Ha igl?|options:[Is/Are there][to find][Terrible (f)]|answer:Is/Are there|id:RUMuUnyiGnMw}
+{type:PickWords|question:I have a shopping trolley|options:[in][da][Jau][cumischungs][tgaret][hai]|answer:Jauhaiintgaretdacumischungs|answerviewable:Jau hai in tgaret da cumischungs|id:iOIvqrliTI9G}
+{type:PickWords|question:We need to go now|options:[ir][Nus][ussa][pasta][duvrain]|answer:Nusduvrainirussa|answerviewable:Nus duvrain ir ussa|id:0diBFgdxnpJg}
+{type:Match|question:Select the matching words|options:[ina chomma:a leg][in ravel:an ankle][Chattar:To find][in maun:a hand]|id:LSEWnnreHaMh}
+{type:PickMissingWord|question:___Ha___ igl in tgaret da cumischungs?|options:[ella dovra][in'ungla][Ha][in ravel]|answer:Ha|id:cITWMBVWZHTb}
+{type:PickOne|question:Terribel|options:[a mouth][Terrible (m)][a leg]|answer:Terrible (m)|id:EnhJGAD1vRca}
+{type:Match|question:Select the matching words|options:[Il supermartgà:The supermarket][Terribla:Terrible (f)][els dovran:they need][Igl ha:There is/are]|id:B2EJtslCO2Ip}
+{type:PickWords|question:They need to find the exit|options:[dovran][dus][tes][sortida][è][la][maun][Els][chattar]|answer:Elsdovranchattarlasortida|answerviewable:Els dovran chattar la sortida|id:oGj4nYN6eu25}
+{type:PickMissingWord|question:Perdunai, jau ___vegn___ a duvrar chattar la sortida|options:[in maun][in det][vegn][vus duvrais]|answer:vegn|id:zSONYBkG0Uua}
+{type:Match|question:Select the matching words|options:[Ha igl?:Is/Are there][el dovra:he needs][ella dovra:she needs][els dovran:they need]|id:eWAPMsb2p14l}
+{type:PickOneMeaning|question:The speaker is saying:|speech:Terribla|options:[Terrible (f)][a finger][There is/are]|answer:Terrible (f)|id:9iAm3iNN8FOa}
+{type:PickWords|question:I want to find a shopping trolley|options:[tgaret][chattar][da][vi][cumischungs][Jau][ha][in][betg][la][Igl][Els]|answer:Jauvichattarintgaretdacumischungs|answerviewable:Jau vi chattar in tgaret da cumischungs|id:Sh1mRQQ34Bbx}
+</lesson>
+<lesson:10|id:FJDt4kvIi8tf>
+{type:PickOne|question:Ina reducziun|options:[a mouth][an ankle][A discount]|answer:A discount|id:Rn32dg8dvrYm}
+{type:PickOneMeaning|question:The speaker is saying:|speech:in chau|options:[you need][a head][There is/are]|answer:a head|id:aJtBGGrBeQDD}
+{type:PickOneMeaning|question:The speaker is saying:|speech:in egl|options:[to find][an eye][a head]|answer:an eye|id:mRN1SK4KU5DX}
+{type:PickWords|question:He needs, she needs|options:[dovra][schagnul][pitschen][dovra][hai][ella][chau][El]|answer:Eldovra,elladovra|answerviewable:El dovra, ella dovra|id:BVVUBV7gCIxj}
+{type:PickWords|question:You need to find the exit (sg)|options:[Els][dovras][chattar][terribla][El][tgaret][la][Ti][Vegn][sortida]|answer:Tidovraschattarlasortida|answerviewable:Ti dovras chattar la sortida|id:oOLidj05hhlZ}
+{type:PickWords|question:The chair is terrible|options:[terribla][sutga][chattar][La][sortida][è]|answer:Lasutgaèterribla|answerviewable:La sutga è terribla|id:5RgOI9DR2RCg}
+{type:PickOne|question:La sortida|options:[an eye][The exit][a head]|answer:The exit|id:ZviMMnAKHZhU}
+{type:Match|question:Select the matching words|options:[Ina reducziun:A discount][duvrar:to find][nus duvrain:we need][La sortida:The exit]|id:qdcwTyrd5jaE}
+{type:Match|question:Select the matching words|options:[vus duvrais:you (pl) need][in culiez:a neck][in chau:a head][in maun:a hand]|id:dctiEfcowJqV}
+{type:PickMissingWord|question:Igl ha ina reducziun da 15% en ___quest___ supermartgà|options:[ina chomma][Ina reducziun][quest][in culiez]|answer:quest|id:sAhuiAbS9TMb}
+{type:PickWords|question:We need to go now|options:[ussa][blau][Nus][in'ungla][in][verd][ir][duvrain]|answer:Nusduvrainirussa|answerviewable:Nus duvrain ir ussa|id:HJt0iGjGgnEX}
+{type:PickWords|question:Excuse, I will need to find the exit|options:[qua][jau][a][Perdunai][duvrar][la][dovran][sortida][vegn][è][chattar]|answer:Perdunai,jauvegnaduvrarchattarlasortida|answerviewable:Perdunai, jau vegn a duvrar chattar la sortida|id:vodfjHIzpjDN}
+{type:PickOneMeaning|question:The speaker is saying:|speech:jau dovr|options:[I need][To find][we need]|answer:I need|id:RQVmWRZJE2nr}
+{type:Match|question:Select the matching words|options:[Il supermartgà:The supermarket][vus duvrais:you (pl) need][Ha igl?:Is/Are there][jau dovr:I need]|id:fC39OwVBNyYo}
+{type:PickMissingWord|question:Jau ___vi___ chattar in tgaret da cumischungs|options:[el dovra][vi][in egl][in culiez]|answer:vi|id:0TaLVZbOaeJb}
+{type:PickWords|question:I want to find the exit|options:[chattar][sortida][reducziun][Jau][la][vi]|answer:Jauvichattarlasortida|answerviewable:Jau vi chattar la sortida|id:GaWNkjLI2Y1J}
+{type:PickOne|question:vus duvrais|options:[you (pl) need][Terrible (m)][Terrible (f)]|answer:you (pl) need|id:bXAV90uAjVT7}
+</lesson>
+<lesson:11|id:g4sB77mHoPzC>
+{type:WriteWords|question:I have a shopping trolley|answer:[Jau hai in tgaret da cumischungs]|answerviewable:Jau hai in tgaret da cumischungs|special:[Jau][hai][in][tgaret][da][cumischungs]|id:ENXeijUUyeVu}
+{type:PickOneMeaning|question:The speaker is saying:|speech:Il supermartgà|options:[a nose][The supermarket][a finger]|answer:The supermarket|id:QiLP9umDWogr}
+{type:PickMissingWord|question:Jau vi ___chattar___ il supermartgà|options:[chattar][jau dovr][Terribla][La sortida]|answer:chattar|id:XYE2j8M5GXN8}
+{type:WriteWords|question:I want to find a shopping trolley|answer:[Jau vi chattar in tgaret da cumischungs]|answerviewable:Jau vi chattar in tgaret da cumischungs|special:[Jau][vi][chattar][in][tgaret][da][cumischungs]|id:WkVJbfaQEcZu}
+{type:WriteWords|question:I need, we need|answer:[Jau dovr, nus duvrain]|answerviewable:Jau dovr, nus duvrain|special:[Jau][dovr,][nus][duvrain]|id:BI26Xil02b4g}
+{type:WriteWords|question:He needs a discount|answer:[El dovra ina reducziun]|answerviewable:El dovra ina reducziun|special:[El][dovra][ina][reducziun]|id:9lhNbgU8urAr}
+{type:Match|question:Select the matching words|options:[La sortida:The exit][ella dovra:she needs][nus duvrain:we need][Chattar:To find]|id:6Qhb6cT0ur6H}
+{type:PickWords|question:They do not need the banana|options:[banana][la][dovran][na][betg][Els]|answer:Elsnadovranbetglabanana|answerviewable:Els na dovran betg la banana|id:NryenLLhjtj5}
+{type:WriteWords|question:Excuse me, is the exit here?|answer:[Perdunai, è la sortida qua?]|answerviewable:Perdunai, è la sortida qua?|special:[Perdunai,][è][la][sortida][qua?]|id:aXVdrrwTXFM6}
+{type:PickWords|question:You do not need the pasta now|options:[na][betg][pasta][ha][ussa][la][supermartgà][in][oz][Vus][reducziun][duvrais]|answer:Vusnaduvraisbetglapastaussa|answerviewable:Vus na duvrais betg la pasta ussa|id:gbRtDs8CmbNM}
+{type:PickMissingWord|question:Nua ___è___ il supermartgà?|options:[Il supermartgà][è][in maun][in egl]|answer:è|id:ASVgTr5EMQII}
+{type:PickWords|question:I need, we need|options:[Perdunai][Jau][nus][sortida][duvrain][El][dovr]|answer:Jaudovr,nusduvrain|answerviewable:Jau dovr, nus duvrain|id:fXFHXoED6yHb}
+{type:PickOne|question:Terribel|options:[Terrible (m)][we need][The supermarket]|answer:Terrible (m)|id:3gGrt2TjxtxI}
+{type:WriteWords|question:I need to find the lemon|answer:[Jau dovr chatta la citrona]|answerviewable:Jau dovr chatta la citrona|special:[Jau][dovr][chatta][la][citrona]|id:6lmh60xohMkn}
+{type:PickMissingWord|question:Perdunai, è ___tes___ maun grond?|options:[tes][in'ungla][in culiez][duvrar]|answer:tes|id:pYeOQ25XZELY}
+{type:Match|question:Select the matching words|options:[duvrar:to find][Il tgaret da cumischungs:The shopping trolley][ella dovra:she needs][jau dovr:I need]|id:iu9ajRPYNvGF}
+</lesson>
+<lesson:12|id:XQ5Wf4z5jduf>
+{type:Match|question:Select the matching words|options:[duvrar:to find][jau dovr:I need][Terribla:Terrible (f)][perdunai:excuse me]|id:PvWU3RQKKnH1}
+{type:PickWords|question:Where is the supermarket?|options:[maun][il][Jau][supermartgà][qua][in][Nua][è][25%]|answer:Nuaèilsupermartgà?|answerviewable:Nua è il supermartgà?|id:SAWtvU9a5KOa}
+{type:PickMissingWord|question:Jau ___dovr___ chatta la citrona|options:[in'ungla][dovr][Chattar][ina bucca]|answer:dovr|id:X9eGuBf3PMH7}
+{type:WriteWords|question:She needs a shopping trolley|answer:[Ella dovra in tgaret da cumishungs]|answerviewable:Ella dovra in tgaret da cumishungs|special:[Ella][dovra][in][tgaret][da][cumishungs]|id:aIDYwHPkfazo}
+{type:WriteWords|question:I want to find a shopping trolley|answer:[Jau vi chattar in tgaret da cumischungs]|answerviewable:Jau vi chattar in tgaret da cumischungs|special:[Jau][vi][chattar][in][tgaret][da][cumischungs]|id:H7I711buE6Tu}
+{type:PickWords|question:Excuse me is your hand big?|options:[ha][tes][Nua][maun][è][reducziun][Jau][grond][tgaret][Perdunai]|answer:Perdunai,ètesmaungrond?|answerviewable:Perdunai, è tes maun grond?|id:wL5ahncG6Q36}
+{type:Match|question:Select the matching words|options:[Ha igl?:Is/Are there][nus duvrain:we need][ella dovra:she needs][el dovra:he needs]|id:xpBHXXCMxA7A}
+{type:WriteWords|question:There is a terrible supermarket there|answer:[Igl ha in supermartgà terribel là]|answerviewable:Igl ha in supermartgà terribel là|special:[Igl][ha][in][supermartgà][terribel][là]|id:tAD0KXEQVBZw}
+{type:WriteWords|question:Excuse me, is the exit here?|answer:[Perdunai, è la sortida qua?]|answerviewable:Perdunai, è la sortida qua?|special:[Perdunai,][è][la][sortida][qua?]|id:1MuX2VYK0f6G}
+{type:PickMissingWord|question:Ella dovra ___in___ tgaret da cumishungs|options:[ina chomma][in][duvrar][in egl]|answer:in|id:HfnoIHQnDqvm}
+{type:PickWords|question:Excuse me is your hand big?|options:[tes][Perdunai][grond][ussa][è][maun]|answer:Perdunai,ètesmaungrond?|answerviewable:Perdunai, è tes maun grond?|id:bE1Rojikkyzz}
+{type:PickOne|question:Terribel|options:[he needs][Terrible (m)][we need]|answer:Terrible (m)|id:5oj3jTTCL01K}
+{type:PickMissingWord|question:___Nua___ è la sortida?|options:[el dovra][Nua][in culiez][ina survantscheglia]|answer:Nua|id:gRupRVLqvDHp}
+{type:WriteWords|question:She does not need to go there|answer:[Ella na dovra betg ir là]|answerviewable:Ella na dovra betg ir là|special:[Ella][na][dovra][betg][ir][là]|id:Fu81W5q0xu7P}
+{type:WriteWords|question:Excuse me, do they need a 25% discount|answer:[Perdunai, dovran els ina reducziun da 25%]|answerviewable:Perdunai, dovran els ina reducziun da 25%|special:[Perdunai,][dovran][els][ina][reducziun][da][25%]|id:2PHhWUMr5ach}
+{type:PickOneMeaning|question:The speaker is saying:|speech:Terribel|options:[they need][she needs][Terrible (m)]|answer:Terrible (m)|id:amh7m1QlWiUn}
+</lesson>
+<lesson:13|id:GKBumZIcFZHb>
+{type:PickWords|question:Is that potato terrible?|options:[quel][tartuffel][terribel][Quest][È][duvrain]|answer:Èqueltartuffelterribel?|answerviewable:È quel tartuffel terribel?|id:vvTHi1BVCnLM}
+{type:WriteWords|question:Excuse, I will need to find the exit|answer:[Perdunai, jau vegn a duvrar chattar la sortida]|answerviewable:Perdunai, jau vegn a duvrar chattar la sortida|special:[Perdunai,][jau][vegn][a][duvrar][chattar][la][sortida]|id:Y53nZyqWmCee}
+{type:PickWords|question:Do you need to drink? (sg)|options:[baiver][ti][Igl][Dovras][maun][il]|answer:Dovrastibaiver?|answerviewable:Dovras ti baiver?|id:w3nYERFKJJx2}
+{type:WriteWords|question:I need to find the lemon|answer:[Jau dovr chatta la citrona]|answerviewable:Jau dovr chatta la citrona|special:[Jau][dovr][chatta][la][citrona]|id:MIroxkXkAJQC}
+{type:WriteWords|question:This strawberry is terrible|answer:[Questa fraja è terribla]|answerviewable:Questa fraja è terribla|special:[Questa][fraja][è][terribla]|id:ScE3gKpgDPiL}
+{type:PickMissingWord|question:La sutga ___è___ terribla|options:[Terribla][in chau][duvrar][è]|answer:è|id:vr051PvrpHsy}
+{type:PickWords|question:I want a 10% discount|options:[cumischungs][ina][reducziun][dovra][duvrar][10%][da][vi][Jau][dovras]|answer:Jauviinareducziunda10%|answerviewable:Jau vi ina reducziun da 10%|id:qEiWAl0mESP6}
+{type:PickMissingWord|question:Jau hai ___in___ tgaret da cumischungs|options:[perdunai][in][jau dovr][La sortida]|answer:in|id:RNGGnhQRIYuP}
+{type:WriteWords|question:He needs a discount|answer:[El dovra ina reducziun]|answerviewable:El dovra ina reducziun|special:[El][dovra][ina][reducziun]|id:S9FgEGfxswiM}
+{type:PickOneMeaning|question:The speaker is saying:|speech:Il supermartgà|options:[To find][The supermarket][only]|answer:The supermarket|id:HDL3XmtHH9Zp}
+{type:Match|question:Select the matching words|options:[Chattar:To find][els dovran:they need][ti dovras:you need][vus duvrais:you (pl) need]|id:WmTZlaN1FoVB}
+{type:WriteWords|question:Do you need the pasta? (pl)|answer:[Duvrais vus la pasta?]|answerviewable:Duvrais vus la pasta?|special:[Duvrais][vus][la][pasta?]|id:Hl893ZyzTTcM}
+{type:Match|question:Select the matching words|options:[Terribla:Terrible (f)][duvrar:to find][Igl ha:There is/are][el dovra:he needs]|id:FI1ty5HUKmzp}
+{type:PickOne|question:La sortida|options:[The shopping trolley][To find][The exit]|answer:The exit|id:7iNoShhiJN47}
+{type:PickMissingWord|question:Vegn el a ___duvrar___ ina fraja?|options:[in schanugl][duvrar][ella dovra][in'ungla]|answer:duvrar|id:69DpvoWLjBSP}
+{type:WriteWords|question:I want a 10% discount|answer:[Jau vi ina reducziun da 10%]|answerviewable:Jau vi ina reducziun da 10%|special:[Jau][vi][ina][reducziun][da][10%]|id:LTiKJtNM1sVt}
+</lesson>
+<lesson:14|id:mgbbmQuCpZut>
+{type:PickMissingWord|question:Jau ___dovr___, nus duvrain|options:[ella dovra][in culiez][dovr][Ha igl?]|answer:dovr|id:umtbDtWT93wF}
+{type:PickWords|question:He needs, she needs|options:[ella][dovra][El][dovra]|answer:Eldovra,elladovra|answerviewable:El dovra, ella dovra|id:qKgmoHdkXZTX}
+{type:Match|question:Select the matching words|options:[Il tgaret da cumischungs:The shopping trolley][jau dovr:I need][perdunai:excuse me][Ha igl?:Is/Are there]|id:ANASSFwQVs0x}
+{type:WriteWords|question:Does he need to find the supermarket?|answer:[Dovra el chattar il supermartgà?]|answerviewable:Dovra el chattar il supermartgà?|special:[Dovra][el][chattar][il][supermartgà?]|id:T2b5jel1vjP5}
+{type:PickOneMeaning|question:The speaker is saying:|speech:in ravel|options:[we need][The exit][an ankle]|answer:an ankle|id:9huwGbM50tuL}
+{type:WriteWords|question:Does he need to find the supermarket?|answer:[Dovra el chattar il supermartgà?]|answerviewable:Dovra el chattar il supermartgà?|special:[Dovra][el][chattar][il][supermartgà?]|id:Uk3rpRZcUGRE}
+{type:WriteWords|question:Where is the supermarket?|answer:[Nua è il supermartgà?]|answerviewable:Nua è il supermartgà?|special:[Nua][è][il][supermartgà?]|id:HQBOoWAnpFHT}
+{type:WriteWords|question:You do not need to go (sg)|answer:[Ti na dovras betg ir oz]|answerviewable:Ti na dovras betg ir oz|special:[Ti][na][dovras][betg][ir][oz]|id:siJuBh4iXN3O}
+{type:PickWords|question:Do you need the pasta? (pl)|options:[da][Duvrais][la][pasta][vus]|answer:Duvraisvuslapasta?|answerviewable:Duvrais vus la pasta?|id:zi7ZCV0TbuLh}
+{type:WriteWords|question:He needs a discount|answer:[El dovra ina reducziun]|answerviewable:El dovra ina reducziun|special:[El][dovra][ina][reducziun]|id:QcPDC8e3JR0m}
+{type:PickMissingWord|question:Jau vi ina ___reducziun___ da 10%|options:[ella dovra][Il supermartgà][Terribla][reducziun]|answer:reducziun|id:0sQvHOzPc8ij}
+{type:Match|question:Select the matching words|options:[vus duvrais:you (pl) need][Terribel:Terrible (m)][Il tgaret da cumischungs:The shopping trolley][Ha igl?:Is/Are there]|id:0UHsMFER119p}
+{type:PickMissingWord|question:Ti ___na___ dovras betg ir oz|options:[na][ella dovra][nus duvrain][Chattar]|answer:na|id:glaGJTkOeNKS}
+{type:WriteWords|question:She needs a shopping trolley|answer:[Ella dovra in tgaret da cumishungs]|answerviewable:Ella dovra in tgaret da cumishungs|special:[Ella][dovra][in][tgaret][da][cumishungs]|id:tjcx2vqjkR66}
+{type:PickOne|question:Il tgaret da cumischungs|options:[you need][The shopping trolley][The exit]|answer:The shopping trolley|id:X4rcebuQaggg}
+{type:PickWords|question:I want a 10% discount|options:[vi][reducziun][da][10%][Jau][è][ina]|answer:Jauviinareducziunda10%|answerviewable:Jau vi ina reducziun da 10%|id:zJHrse76fjFa}
+</lesson>
+<lesson:15|id:dSX1AZhLMNMM>
+{type:PickMissingWord|question:Perdunai, è tes maun ___grond___?|options:[in det][in'ungla][grond][ina survantscheglia]|answer:grond|id:IgCtuCqoU1or}
+{type:Match|question:Select the matching words|options:[els dovran:they need][La sortida:The exit][nus duvrain:we need][duvrar:to find]|id:A3JTiZBcj4ho}
+{type:PickMissingWord|question:Dovr jau in tgaret da ___cumischungs___?|options:[Terribla][La sortida][in culiez][cumischungs]|answer:cumischungs|id:T6jcanVqElQj}
+{type:PickOneMeaning|question:The speaker is saying:|speech:ina chomma|options:[you need][a hand][a leg]|answer:a leg|id:sssU5Oj2T9Qw}
+{type:WriteWords|question:They do not need the banana|answer:[Els na dovran betg la banana]|answerviewable:Els na dovran betg la banana|special:[Els][na][dovran][betg][la][banana]|id:CXHh46ik7xjA}
+{type:WriteWords|question:You do not need to go (sg)|answer:[Ti na dovras betg ir oz]|answerviewable:Ti na dovras betg ir oz|special:[Ti][na][dovras][betg][ir][oz]|id:8TLspvZTelld}
+{type:PickWords|question:She does not need to go there|options:[è][là][na][dovra][in][betg][ir][Ella][nus][duvrain]|answer:Ellanadovrabetgirlà|answerviewable:Ella na dovra betg ir là|id:eUF9t5ZGXz9t}
+{type:WriteWords|question:I need to find the lemon|answer:[Jau dovr chatta la citrona]|answerviewable:Jau dovr chatta la citrona|special:[Jau][dovr][chatta][la][citrona]|id:oxIhc9wdmqFQ}
+{type:WriteWords|question:There are two noses|answer:[Igl ha dus nas]|answerviewable:Igl ha dus nas|special:[Igl][ha][dus][nas]|id:91S2cI00LHYm}
+{type:Match|question:Select the matching words|options:[perdunai:excuse me][Il tgaret da cumischungs:The shopping trolley][ella dovra:she needs][ti dovras:you need]|id:eKweGg1mMIrx}
+{type:WriteWords|question:Where is the exit?|answer:[Nua è la sortida?]|answerviewable:Nua è la sortida?|special:[Nua][è][la][sortida?]|id:dsUaylobJP2c}
+{type:PickMissingWord|question:Jau ___vi___ chattar il supermartgà|options:[Igl ha][vi][jau dovr][ina survantscheglia]|answer:vi|id:lCd6P2NosOGR}
+{type:PickOne|question:Ina reducziun|options:[they need][A discount][to find]|answer:A discount|id:BymlEMZlutWa}
+{type:PickWords|question:Does he need to find the supermarket?|options:[Dovra][na][il][Els][in][ir][ha][supermartgà][chattar][el]|answer:Dovraelchattarilsupermartgà?|answerviewable:Dovra el chattar il supermartgà?|id:N6LFJ66GGEmX}
+{type:PickWords|question:The chair is terrible|options:[è][La][igl][terribla][tgaret][sutga]|answer:Lasutgaèterribla|answerviewable:La sutga è terribla|id:47uDCGy2RBB8}
+{type:WriteWords|question:He needs a discount|answer:[El dovra ina reducziun]|answerviewable:El dovra ina reducziun|special:[El][dovra][ina][reducziun]|id:nlzuSer9X4tL}
+</lesson>
+<lesson:16|id:JHETsCb0Kl2t>
+{type:WriteWords|question:There is a 15% discount in this supermarket|answer:[Igl ha ina reducziun da 15% en quest supermartgà]|answerviewable:Igl ha ina reducziun da 15% en quest supermartgà|special:[Igl][ha][ina][reducziun][da][15%][en][quest][supermartgà]|id:vLc39tcXlAwS}
+{type:PickMissingWord|question:Igl ha ina reducziun da 15% ___en___ quest supermartgà|options:[en][in schanugl][Terribel][Ha igl?]|answer:en|id:hEJUsjICCzab}
+{type:PickOneMeaning|question:The speaker is saying:|speech:Il supermartgà|options:[The supermarket][There is/are][The shopping trolley]|answer:The supermarket|id:a7Z5ee0mtMF0}
+{type:WriteWords|question:She does not need to go there|answer:[Ella na dovra betg ir là]|answerviewable:Ella na dovra betg ir là|special:[Ella][na][dovra][betg][ir][là]|id:gk2W74t05Ksv}
+{type:WriteWords|question:Where is the exit?|answer:[Nua è la sortida?]|answerviewable:Nua è la sortida?|special:[Nua][è][la][sortida?]|id:ANPq0x87mgLN}
+{type:WriteWords|question:I want to find a shopping trolley|answer:[Jau vi chattar in tgaret da cumischungs]|answerviewable:Jau vi chattar in tgaret da cumischungs|special:[Jau][vi][chattar][in][tgaret][da][cumischungs]|id:NzDIU20FCAay}
+{type:Match|question:Select the matching words|options:[perdunai:excuse me][Il supermartgà:The supermarket][Terribel:Terrible (m)][Igl ha:There is/are]|id:wtSDP4scmCAZ}
+{type:Match|question:Select the matching words|options:[perdunai:excuse me][Igl ha:There is/are][jau dovr:I need][Terribel:Terrible (m)]|id:u0ky4b7EJza3}
+{type:PickWords|question:Does he need to find the supermarket?|options:[il][chattar][tgaret][Dovra][el][supermartgà]|answer:Dovraelchattarilsupermartgà?|answerviewable:Dovra el chattar il supermartgà?|id:1rbcYnNzgFeE}
+{type:WriteWords|question:He needs a discount|answer:[El dovra ina reducziun]|answerviewable:El dovra ina reducziun|special:[El][dovra][ina][reducziun]|id:GLpiA5V2VfIH}
+{type:WriteWords|question:I need, we need|answer:[Jau dovr, nus duvrain]|answerviewable:Jau dovr, nus duvrain|special:[Jau][dovr,][nus][duvrain]|id:yA39WHksY2cT}
+{type:PickOne|question:Terribel|options:[excuse me][The exit][Terrible (m)]|answer:Terrible (m)|id:UGfZuX7JSjfA}
+{type:WriteWords|question:We need to go now|answer:[Nus duvrain ir ussa]|answerviewable:Nus duvrain ir ussa|special:[Nus][duvrain][ir][ussa]|id:820H38LezQFE}
+{type:WriteWords|question:They do not need the banana|answer:[Els na dovran betg la banana]|answerviewable:Els na dovran betg la banana|special:[Els][na][dovran][betg][la][banana]|id:h6sP1MHMycyK}
+{type:PickMissingWord|question:Dovras ___ti___ baiver?|options:[Il tgaret da cumischungs][el dovra][La sortida][ti]|answer:ti|id:X4XBuKe08PXB}
+{type:PickWords|question:Is there a shopping trolley?|options:[la][terribla][Ha][igl][in][tgaret][cumischungs][il][da][chattar]|answer:Haiglintgaretdacumischungs?|answerviewable:Ha igl in tgaret da cumischungs?|id:Nqm5mqu2Ad9n}
+</lesson>
+<lesson:17|id:kilnRxbhbWxo>
+{type:Match|question:Select the matching words|options:[perdunai:excuse me][Terribla:Terrible (f)][La sortida:The exit][els dovran:they need]|id:OgLN8APn9kSA}
+{type:WriteWords|question:You do not need the pasta now|answer:[Vus na duvrais betg la pasta ussa]|answerviewable:Vus na duvrais betg la pasta ussa|special:[Vus][na][duvrais][betg][la][pasta][ussa]|id:jFi2MxNyZaqu}
+{type:WriteWords|question:Is there a shopping trolley?|answer:[Ha igl in tgaret da cumischungs?]|answerviewable:Ha igl in tgaret da cumischungs?|special:[Ha][igl][in][tgaret][da][cumischungs?]|id:CcKF3nx4OdK9}
+{type:PickOne|question:nus duvrain|options:[we need][A discount][he needs]|answer:we need|id:ner7Gz2WYioP}
+{type:PickOneMeaning|question:The speaker is saying:|speech:duvrar|options:[to find][a hand][you need]|answer:to find|id:Bfi6stzwN1iN}
+{type:PickMissingWord|question:Dovras ti ___baiver___?|options:[ina chomma][baiver][in schanugl][in maun]|answer:baiver|id:TOy8OZJStnrp}
+{type:WriteWords|question:I want to find a shopping trolley|answer:[Jau vi chattar in tgaret da cumischungs]|answerviewable:Jau vi chattar in tgaret da cumischungs|special:[Jau][vi][chattar][in][tgaret][da][cumischungs]|id:WM598RcdzyD4}
+{type:WriteWords|question:Does she want a shopping trolley?|answer:[Vul ella in tgaret da cumischungs?]|answerviewable:Vul ella in tgaret da cumischungs?|special:[Vul][ella][in][tgaret][da][cumischungs?]|id:7mFHlO6iTPqP}
+{type:WriteWords|question:Excuse me, do they need a 25% discount|answer:[Perdunai, dovran els ina reducziun da 25%]|answerviewable:Perdunai, dovran els ina reducziun da 25%|special:[Perdunai,][dovran][els][ina][reducziun][da][25%]|id:GqPGEGPwTaWf}
+{type:PickMissingWord|question:Quest supermartgà ___è___ fitg grond|options:[Ha igl?][in chau][Terribla][è]|answer:è|id:Sm6BqaukybAH}
+{type:WriteWords|question:Is that potato terrible?|answer:[È quel tartuffel terribel?]|answerviewable:È quel tartuffel terribel?|special:[È][quel][tartuffel][terribel?]|id:FYrpZF48t3It}
+{type:PickWords|question:Does he need to find the supermarket?|options:[il][Dovra][ella][la][supermartgà][el][chattar][betg][dovran][è]|answer:Dovraelchattarilsupermartgà?|answerviewable:Dovra el chattar il supermartgà?|id:uJ7pNQSHoY97}
+{type:PickWords|question:Where is the supermarket?|options:[supermartgà][è][il][Nua]|answer:Nuaèilsupermartgà?|answerviewable:Nua è il supermartgà?|id:AwDplyS5up1O}
+{type:WriteWords|question:Do you need the pasta? (pl)|answer:[Duvrais vus la pasta?]|answerviewable:Duvrais vus la pasta?|special:[Duvrais][vus][la][pasta?]|id:wVCIzRlc0Qt3}
+{type:Match|question:Select the matching words|options:[Terribla:Terrible (f)][vus duvrais:you (pl) need][Il supermartgà:The supermarket][duvrar:to find]|id:asUYPu1OcgdV}
+{type:WriteWords|question:He needs, she needs|answer:[El dovra, ella dovra]|answerviewable:El dovra, ella dovra|special:[El][dovra,][ella][dovra]|id:GiPNiHfFHsD9}
+</lesson>
+<lesson:18|id:kxl4KfYqLZ3r>
+{type:PickOneMeaning|question:The speaker is saying:|speech:La sortida|options:[excuse me][The exit][he needs]|answer:The exit|id:PGTyvLhInh1A}
+{type:Match|question:Select the matching words|options:[Igl ha:There is/are][Terribel:Terrible (m)][Il supermartgà:The supermarket][Terribla:Terrible (f)]|id:Dia1ZqPZ8g9I}
+{type:WriteWords|question:Where is the exit?|answer:[Nua è la sortida?]|answerviewable:Nua è la sortida?|special:[Nua][è][la][sortida?]|id:4mXOumkuphB3}
+{type:PickOne|question:Terribla|options:[The exit][Terrible (f)][A discount]|answer:Terrible (f)|id:s8CnXC1mVmBa}
+{type:WriteWords|question:She does not need to go there|answer:[Ella na dovra betg ir là]|answerviewable:Ella na dovra betg ir là|special:[Ella][na][dovra][betg][ir][là]|id:atNC2Mactynk}
+{type:WriteWords|question:There are two noses|answer:[Igl ha dus nas]|answerviewable:Igl ha dus nas|special:[Igl][ha][dus][nas]|id:FirsEdsW10Uj}
+{type:PickWords|question:There are two noses|options:[ha][Igl][dus][nas][fraja][la][Vul][dovr][Perdunai]|answer:Iglhadusnas|answerviewable:Igl ha dus nas|id:7tDdRQqHyS5V}
+{type:WriteWords|question:Does she want a shopping trolley?|answer:[Vul ella in tgaret da cumischungs?]|answerviewable:Vul ella in tgaret da cumischungs?|special:[Vul][ella][in][tgaret][da][cumischungs?]|id:VyaIu4LpmeZO}
+{type:WriteWords|question:The shopping trolley is not in the supermarket|answer:[Il tgaret da cumischungs n'è betg en il supermartgà]|answerviewable:Il tgaret da cumischungs n'è betg en il supermartgà|special:[Il][tgaret][da][cumischungs][n'è][betg][en][il][supermartgà]|id:qHsKCuDTs53H}
+{type:WriteWords|question:Is that potato terrible?|answer:[È quel tartuffel terribel?]|answerviewable:È quel tartuffel terribel?|special:[È][quel][tartuffel][terribel?]|id:DHtcxdfI0wrl}
+{type:PickMissingWord|question:Duvrais ___vus___ la pasta?|options:[Il tgaret da cumischungs][vus duvrais][ina bucca][vus]|answer:vus|id:TltCmYHaoEwz}
+{type:Match|question:Select the matching words|options:[Terribel:Terrible (m)][jau dovr:I need][La sortida:The exit][Il tgaret da cumischungs:The shopping trolley]|id:g3t1H6DUVr6O}
+{type:PickMissingWord|question:Perdunai, dovran ___els___ ina reducziun da 25%|options:[ina chomma][els][in schanugl][duvrar]|answer:els|id:IEnrthEWLYT6}
+{type:WriteWords|question:The terrible shopping trolley is here|answer:[Il tgaret da cumischungs terribel è qua]|answerviewable:Il tgaret da cumischungs terribel è qua|special:[Il][tgaret][da][cumischungs][terribel][è][qua]|id:aODN9KXsFfPc}
+{type:PickWords|question:He needs a discount|options:[Perdunai][ina][reducziun][Ella][vi][El][dovra][da]|answer:Eldovrainareducziun|answerviewable:El dovra ina reducziun|id:5hoDPiqqQJLj}
+{type:WriteWords|question:This strawberry is terrible|answer:[Questa fraja è terribla]|answerviewable:Questa fraja è terribla|special:[Questa][fraja][è][terribla]|id:DgrIsrrJr3H6}
+</lesson>
+<lesson:19|id:QeuwEfOERxWr>
+{type:WriteWords|question:She needs a shopping trolley|answer:[Ella dovra in tgaret da cumishungs]|answerviewable:Ella dovra in tgaret da cumishungs|special:[Ella][dovra][in][tgaret][da][cumishungs]|id:wsUOag5JmHxw}
+{type:PickOne|question:Il supermartgà|options:[The supermarket][A discount][he needs]|answer:The supermarket|id:T3yWfVfgThWR}
+{type:PickMissingWord|question:Nus duvrain ___ir___ ussa|options:[ir][in nas][Igl ha][in det]|answer:ir|id:4pWGdBlvt2lP}
+{type:WriteWords|question:I want to find the exit|answer:[Jau vi chattar la sortida]|answerviewable:Jau vi chattar la sortida|special:[Jau][vi][chattar][la][sortida]|id:j2w6pMrypbSB}
+{type:WriteWords|question:I want to find the exit|answer:[Jau vi chattar la sortida]|answerviewable:Jau vi chattar la sortida|special:[Jau][vi][chattar][la][sortida]|id:XLlHvlvfmmrj}
+{type:PickOneMeaning|question:The speaker is saying:|speech:ina bucca|options:[a mouth][a finger][they need]|answer:a mouth|id:QtjV8JhNQJvV}
+{type:WriteWords|question:Excuse me, is the exit here?|answer:[Perdunai, è la sortida qua?]|answerviewable:Perdunai, è la sortida qua?|special:[Perdunai,][è][la][sortida][qua?]|id:oU0mqZD0j8Vv}
+{type:WriteWords|question:I want a 10% discount|answer:[Jau vi ina reducziun da 10%]|answerviewable:Jau vi ina reducziun da 10%|special:[Jau][vi][ina][reducziun][da][10%]|id:VFSZGwqBnPKY}
+{type:Match|question:Select the matching words|options:[els dovran:they need][Il tgaret da cumischungs:The shopping trolley][ti dovras:you need][jau dovr:I need]|id:KZwQwloT3VEh}
+{type:PickWords|question:The terrible shopping trolley is here|options:[qua][da][Jau][Il][terribel][Els][ti][tgaret][cumischungs][è]|answer:Iltgaretdacumischungsterribelèqua|answerviewable:Il tgaret da cumischungs terribel è qua|id:jcDYIk3kD6lH}
+{type:Match|question:Select the matching words|options:[Ina reducziun:A discount][Terribla:Terrible (f)][Ha igl?:Is/Are there][Il tgaret da cumischungs:The shopping trolley]|id:7vjUVvuy8gg3}
+{type:WriteWords|question:Do you need to drink? (sg)|answer:[Dovras ti baiver?]|answerviewable:Dovras ti baiver?|special:[Dovras][ti][baiver?]|id:5dU3SCT2MKmo}
+{type:PickMissingWord|question:Jau hai in tgaret da ___cumischungs___|options:[cumischungs][ina survantscheglia][nus duvrain][in egl]|answer:cumischungs|id:VX44WKKBkNqd}
+{type:PickWords|question:Do you need the pasta? (pl)|options:[la][ina][pasta][vus][Duvrais]|answer:Duvraisvuslapasta?|answerviewable:Duvrais vus la pasta?|id:oM9zvMb7ezcR}
+{type:WriteWords|question:Excuse, I will need to find the exit|answer:[Perdunai, jau vegn a duvrar chattar la sortida]|answerviewable:Perdunai, jau vegn a duvrar chattar la sortida|special:[Perdunai,][jau][vegn][a][duvrar][chattar][la][sortida]|id:cDWbPX3gNIsP}
+{type:WriteWords|question:You need a stawberry (pl)|answer:[Vus duvrais ina fraja]|answerviewable:Vus duvrais ina fraja|special:[Vus][duvrais][ina][fraja]|id:U1OkEIZBeCKu}
+</lesson>
+<lesson:20|id:MDuT6i1FDaCm>
+{type:WriteWords|question:Do you need the pasta? (pl)|answer:[Duvrais vus la pasta?]|answerviewable:Duvrais vus la pasta?|special:[Duvrais][vus][la][pasta?]|id:9vVuJYaKcIWe}
+{type:PickOneMeaning|question:The speaker is saying:|speech:ella dovra|options:[she needs][The shopping trolley][a knee]|answer:she needs|id:mVAjgdKOpsej}
+{type:PickWords|question:This strawberry is terrible|options:[fraja][tgaret][è][Jau][terribla][Questa]|answer:Questafrajaèterribla|answerviewable:Questa fraja è terribla|id:9UDEjUjPicEq}
+{type:WriteWords|question:Do I need a shopping trolley?|answer:[Dovr jau in tgaret da cumischungs?]|answerviewable:Dovr jau in tgaret da cumischungs?|special:[Dovr][jau][in][tgaret][da][cumischungs?]|id:xWBYpS4BnSlX}
+{type:WriteWords|question:She does not need to go there|answer:[Ella na dovra betg ir là]|answerviewable:Ella na dovra betg ir là|special:[Ella][na][dovra][betg][ir][là]|id:p0IkvXzQNTyX}
+{type:WriteWords|question:Is there a shopping trolley?|answer:[Ha igl in tgaret da cumischungs?]|answerviewable:Ha igl in tgaret da cumischungs?|special:[Ha][igl][in][tgaret][da][cumischungs?]|id:w6qIrE0XAlSO}
+{type:PickMissingWord|question:Questa fraja è ___terribla___|options:[perdunai][in nas][terribla][Ha igl?]|answer:terribla|id:i2id0HSibFcp}
+{type:WriteWords|question:I want to find the exit|answer:[Jau vi chattar la sortida]|answerviewable:Jau vi chattar la sortida|special:[Jau][vi][chattar][la][sortida]|id:f3iVWdVqKtD7}
+{type:WriteWords|question:Is there a discount?|answer:[Ha igl ina reducziun?]|answerviewable:Ha igl ina reducziun?|special:[Ha][igl][ina][reducziun?]|id:gKomhG30paON}
+{type:PickOne|question:Ha igl?|options:[Is/Are there][There is/are][you (pl) need]|answer:Is/Are there|id:SCnsbyq9xBzF}
+{type:WriteWords|question:He needs, she needs|answer:[El dovra, ella dovra]|answerviewable:El dovra, ella dovra|special:[El][dovra,][ella][dovra]|id:P9IcmOAzK0PZ}
+{type:WriteWords|question:This supermarket is very big|answer:[Quest supermartgà è fitg grond]|answerviewable:Quest supermartgà è fitg grond|special:[Quest][supermartgà][è][fitg][grond]|id:O5OxjFKjGn0F}
+{type:PickMissingWord|question:Ti dovras ___chattar___ la sortida|options:[Il supermartgà][in det][chattar][in culiez]|answer:chattar|id:WqswJwWVszu9}
+{type:PickWords|question:Is there a shopping trolley?|options:[da][supermartgà][in][15%][la][cumischungs][tgaret][terribel][igl][Ha]|answer:Haiglintgaretdacumischungs?|answerviewable:Ha igl in tgaret da cumischungs?|id:esN0NFaJqsVC}
+{type:Match|question:Select the matching words|options:[Il tgaret da cumischungs:The shopping trolley][Terribla:Terrible (f)][jau dovr:I need][vus duvrais:you (pl) need]|id:ibg4iIQdPFSu}
+{type:Match|question:Select the matching words|options:[ella dovra:she needs][Il supermartgà:The supermarket][Terribla:Terrible (f)][perdunai:excuse me]|id:mQsTL4lQfaop}
+</lesson>
+<lesson:21|id:SJPiDGx1jv77>
+{type:PickMissingWord|question:___Jau___ vi chattar il supermartgà|options:[Il tgaret da cumischungs][els dovran][Jau][in egl]|answer:Jau|id:hQb5TqgnaRcr}
+{type:WriteWords|question:Excuse me, is the exit here?|answer:[Perdunai, è la sortida qua?]|answerviewable:Perdunai, è la sortida qua?|special:[Perdunai,][è][la][sortida][qua?]|id:jbk9BMmAGuit}
+{type:PickMissingWord|question:El ___dovra___, ella dovra|options:[in maun][in chau][in'ungla][dovra]|answer:dovra|id:68MkMpGo1pc1}
+{type:WriteWords|question:We need to be allowed to eat pasta|answer:[Nus duvrain dastgar mangiar pasta]|answerviewable:Nus duvrain dastgar mangiar pasta|special:[Nus][duvrain][dastgar][mangiar][pasta]|id:N5c7xD2Oqbby}
+{type:WriteWords|question:Do I need a shopping trolley?|answer:[Dovr jau in tgaret da cumischungs?]|answerviewable:Dovr jau in tgaret da cumischungs?|special:[Dovr][jau][in][tgaret][da][cumischungs?]|id:PhWI7LsU2es4}
+{type:WriteWords|question:You do not need the pasta now|answer:[Vus na duvrais betg la pasta ussa]|answerviewable:Vus na duvrais betg la pasta ussa|special:[Vus][na][duvrais][betg][la][pasta][ussa]|id:OLyJo6moDC95}
+{type:WriteWords|question:She needs a shopping trolley|answer:[Ella dovra in tgaret da cumishungs]|answerviewable:Ella dovra in tgaret da cumishungs|special:[Ella][dovra][in][tgaret][da][cumishungs]|id:KTfuubP9QSm3}
+{type:Match|question:Select the matching words|options:[Chattar:To find][Ha igl?:Is/Are there][La sortida:The exit][duvrar:to find]|id:B5EEl1W4lCKt}
+{type:PickOne|question:La sortida|options:[The exit][The supermarket][you need]|answer:The exit|id:f1tZk8asS1D8}
+{type:WriteWords|question:Does she want a shopping trolley?|answer:[Vul ella in tgaret da cumischungs?]|answerviewable:Vul ella in tgaret da cumischungs?|special:[Vul][ella][in][tgaret][da][cumischungs?]|id:tQKOF2cqFvz7}
+{type:WriteWords|question:The chair is terrible|answer:[La sutga è terribla]|answerviewable:La sutga è terribla|special:[La][sutga][è][terribla]|id:P2wTLhKTHaNU}
+{type:PickWords|question:Is that potato terrible?|options:[quel][cumischungs][È][tartuffel][vi][terribel][Ti]|answer:Èqueltartuffelterribel?|answerviewable:È quel tartuffel terribel?|id:plF4Ta3UDMN9}
+{type:PickOneMeaning|question:The speaker is saying:|speech:ina chomma|options:[a leg][a nose][There is/are]|answer:a leg|id:qeE5OL7PMOAg}
+{type:PickWords|question:She does not need to go there|options:[Ella][là][è][na][supermartgà][sortida][reducziun][betg][duvrais][ir][dovra]|answer:Ellanadovrabetgirlà|answerviewable:Ella na dovra betg ir là|id:ud6A6i9A1QC3}
+{type:WriteWords|question:There is a terrible supermarket there|answer:[Igl ha in supermartgà terribel là]|answerviewable:Igl ha in supermartgà terribel là|special:[Igl][ha][in][supermartgà][terribel][là]|id:RrUjFlqXhsgI}
+{type:Match|question:Select the matching words|options:[Ha igl?:Is/Are there][els dovran:they need][Terribla:Terrible (f)][Il tgaret da cumischungs:The shopping trolley]|id:t4YGnZNkgiSZ}
+{type:WriteWords|question:Is that potato terrible?|answer:[È quel tartuffel terribel?]|answerviewable:È quel tartuffel terribel?|special:[È][quel][tartuffel][terribel?]|id:hCpv3A3QCzqx}
+{type:WriteWords|question:I want to find the exit|answer:[Jau vi chattar la sortida]|answerviewable:Jau vi chattar la sortida|special:[Jau][vi][chattar][la][sortida]|id:8ckJNXJjuCIo}
+</lesson>
+<lesson:22|id:pWA339PaUqXJ>
+{type:WriteWords|question:The chair is terrible|answer:[La sutga è terribla]|answerviewable:La sutga è terribla|special:[La][sutga][è][terribla]|id:cm6hEFLjDvp5}
+{type:PickMissingWord|question:Ti na dovras betg ir ___oz___|options:[oz][ina chomma][Ha igl?][in maun]|answer:oz|id:FNwXwJNSfL86}
+{type:PickWords|question:He needs, she needs|options:[El][tgaret][tartuffel][dovra][ella][dovra]|answer:Eldovra,elladovra|answerviewable:El dovra, ella dovra|id:9ZU0sEXSII8P}
+{type:WriteWords|question:Excuse me, is the exit here?|answer:[Perdunai, è la sortida qua?]|answerviewable:Perdunai, è la sortida qua?|special:[Perdunai,][è][la][sortida][qua?]|id:zH3dDdxikW0h}
+{type:WriteWords|question:I need, we need|answer:[Jau dovr, nus duvrain]|answerviewable:Jau dovr, nus duvrain|special:[Jau][dovr,][nus][duvrain]|id:QjQ3xr0Ln30o}
+{type:PickWords|question:Is there a shopping trolley?|options:[in][da][tgaret][Ha][cumischungs][Ti][igl]|answer:Haiglintgaretdacumischungs?|answerviewable:Ha igl in tgaret da cumischungs?|id:10nayprMCHsG}
+{type:WriteWords|question:I need, we need|answer:[Jau dovr, nus duvrain]|answerviewable:Jau dovr, nus duvrain|special:[Jau][dovr,][nus][duvrain]|id:F6fEPiUWZert}
+{type:WriteWords|question:Do I need a shopping trolley?|answer:[Dovr jau in tgaret da cumischungs?]|answerviewable:Dovr jau in tgaret da cumischungs?|special:[Dovr][jau][in][tgaret][da][cumischungs?]|id:1hnD835YTClj}
+{type:PickOne|question:jau dovr|options:[I need][The supermarket][to find]|answer:I need|id:Iu0pleIWyAKo}
+{type:Match|question:Select the matching words|options:[el dovra:he needs][Il tgaret da cumischungs:The shopping trolley][ella dovra:she needs][els dovran:they need]|id:hz6iVG5wKehI}
+{type:PickMissingWord|question:Nus duvrain ___ir___ ussa|options:[Ina reducziun][Terribel][ir][in chau]|answer:ir|id:QPHDKDVXkWP1}
+{type:WriteWords|question:This strawberry is terrible|answer:[Questa fraja è terribla]|answerviewable:Questa fraja è terribla|special:[Questa][fraja][è][terribla]|id:0u4hmaNREwHd}
+{type:WriteWords|question:Where is the supermarket?|answer:[Nua è il supermartgà?]|answerviewable:Nua è il supermartgà?|special:[Nua][è][il][supermartgà?]|id:1HtLaAFivCPJ}
+{type:WriteWords|question:Will he need a strawberry?|answer:[Vegn el a duvrar ina fraja?]|answerviewable:Vegn el a duvrar ina fraja?|special:[Vegn][el][a][duvrar][ina][fraja?]|id:HwS5oQGBXZnT}
+{type:WriteWords|question:This supermarket is very big|answer:[Quest supermartgà è fitg grond]|answerviewable:Quest supermartgà è fitg grond|special:[Quest][supermartgà][è][fitg][grond]|id:Ynkz5bIi2ajh}
+{type:WriteWords|question:I need to find the lemon|answer:[Jau dovr chatta la citrona]|answerviewable:Jau dovr chatta la citrona|special:[Jau][dovr][chatta][la][citrona]|id:5NDNxXhFwoD1}
+{type:Match|question:Select the matching words|options:[nus duvrain:we need][els dovran:they need][ella dovra:she needs][duvrar:to find]|id:OBBlrlgWpE8I}
+{type:PickOneMeaning|question:The speaker is saying:|speech:mo|options:[I need][only][excuse me]|answer:only|id:oJogveVU0BFs}
+</lesson>
+<lesson:23|id:jJK0lUzynzuZ>
+{type:WriteWords|question:There is a terrible supermarket there|answer:[Igl ha in supermartgà terribel là]|answerviewable:Igl ha in supermartgà terribel là|special:[Igl][ha][in][supermartgà][terribel][là]|id:6IvdgalUnR2Y}
+{type:WriteWords|question:They need to find the exit|answer:[Els dovran chattar la sortida]|answerviewable:Els dovran chattar la sortida|special:[Els][dovran][chattar][la][sortida]|id:QeTtfmdElPzb}
+{type:WriteWords|question:You do not need the pasta now|answer:[Vus na duvrais betg la pasta ussa]|answerviewable:Vus na duvrais betg la pasta ussa|special:[Vus][na][duvrais][betg][la][pasta][ussa]|id:lN64UCSXyNjA}
+{type:WriteWords|question:Will he need a strawberry?|answer:[Vegn el a duvrar ina fraja?]|answerviewable:Vegn el a duvrar ina fraja?|special:[Vegn][el][a][duvrar][ina][fraja?]|id:d4ttuYHA2MAE}
+{type:PickWords|question:Where is the supermarket?|options:[il][Nua][supermartgà][è][in][la]|answer:Nuaèilsupermartgà?|answerviewable:Nua è il supermartgà?|id:CfQlf5dDOkPd}
+{type:PickOne|question:Il tgaret da cumischungs|options:[you need][A discount][The shopping trolley]|answer:The shopping trolley|id:wzWWk4JAdCOb}
+{type:WriteWords|question:She does not need to go there|answer:[Ella na dovra betg ir là]|answerviewable:Ella na dovra betg ir là|special:[Ella][na][dovra][betg][ir][là]|id:U7NBO6VwZ13m}
+{type:WriteWords|question:Is there a shopping trolley?|answer:[Ha igl in tgaret da cumischungs?]|answerviewable:Ha igl in tgaret da cumischungs?|special:[Ha][igl][in][tgaret][da][cumischungs?]|id:znX0nzBa2xan}
+{type:PickMissingWord|question:Jau vi ___chattar___ il supermartgà|options:[nus duvrain][jau dovr][el dovra][chattar]|answer:chattar|id:GxmCRFXMr9V4}
+{type:Match|question:Select the matching words|options:[Ha igl?:Is/Are there][el dovra:he needs][Ina reducziun:A discount][Igl ha:There is/are]|id:Tx72je5Ac3hg}
+{type:WriteWords|question:We need to be allowed to eat pasta|answer:[Nus duvrain dastgar mangiar pasta]|answerviewable:Nus duvrain dastgar mangiar pasta|special:[Nus][duvrain][dastgar][mangiar][pasta]|id:5qFM0aFVmGyF}
+{type:WriteWords|question:There are two noses|answer:[Igl ha dus nas]|answerviewable:Igl ha dus nas|special:[Igl][ha][dus][nas]|id:lb8BDxoKRC9Y}
+{type:PickWords|question:She needs a shopping trolley|options:[da][Ella][in][tgaret][dovra][ina][cumishungs][là][duvrais]|answer:Elladovraintgaretdacumishungs|answerviewable:Ella dovra in tgaret da cumishungs|id:Qv6hvou36Fks}
+{type:WriteWords|question:I want to find the supermarket|answer:[Jau vi chattar il supermartgà]|answerviewable:Jau vi chattar il supermartgà|special:[Jau][vi][chattar][il][supermartgà]|id:wMAJbMNC1cke}
+{type:PickMissingWord|question:Igl ha ina reducziun da 15% en ___quest___ supermartgà|options:[ina chomma][quest][in schanugl][in egl]|answer:quest|id:XwD0R1va9rYt}
+{type:Match|question:Select the matching words|options:[duvrar:to find][Chattar:To find][els dovran:they need][jau dovr:I need]|id:4fIQL0fdSKms}
+{type:WriteWords|question:There is a 15% discount in this supermarket|answer:[Igl ha ina reducziun da 15% en quest supermartgà]|answerviewable:Igl ha ina reducziun da 15% en quest supermartgà|special:[Igl][ha][ina][reducziun][da][15%][en][quest][supermartgà]|id:jmHZf5tD79C3}
+{type:PickOneMeaning|question:The speaker is saying:|speech:in egl|options:[a head][an eye][a hand]|answer:an eye|id:vl2S7Tcrqxb6}
+</lesson>
+<lesson:24|id:xiNnOvEXTqEq>
+{type:PickMissingWord|question:Nua è la ___sortida___?|options:[in'ungla][perdunai][duvrar][sortida]|answer:sortida|id:4vrakgPsf19O}
+{type:WriteWords|question:The shopping trolley is not in the supermarket|answer:[Il tgaret da cumischungs n'è betg en il supermartgà]|answerviewable:Il tgaret da cumischungs n'è betg en il supermartgà|special:[Il][tgaret][da][cumischungs][n'è][betg][en][il][supermartgà]|id:ronRZGJv6ImW}
+{type:PickWords|question:Does she want a shopping trolley?|options:[da][terribla][dus][cumischungs][Perdunai][Vul][ella][tgaret][è][betg][in]|answer:Vulellaintgaretdacumischungs?|answerviewable:Vul ella in tgaret da cumischungs?|id:5cifNEbpa3Sq}
+{type:WriteWords|question:There is a terrible supermarket there|answer:[Igl ha in supermartgà terribel là]|answerviewable:Igl ha in supermartgà terribel là|special:[Igl][ha][in][supermartgà][terribel][là]|id:9WpPS4qAgvQY}
+{type:WriteWords|question:There is a terrible supermarket there|answer:[Igl ha in supermartgà terribel là]|answerviewable:Igl ha in supermartgà terribel là|special:[Igl][ha][in][supermartgà][terribel][là]|id:5sItV9poHASP}
+{type:PickOneMeaning|question:The speaker is saying:|speech:Terribel|options:[Terrible (m)][The shopping trolley][you (pl) need]|answer:Terrible (m)|id:ANeC4jwXcE8X}
+{type:WriteWords|question:You do not need to go (sg)|answer:[Ti na dovras betg ir oz]|answerviewable:Ti na dovras betg ir oz|special:[Ti][na][dovras][betg][ir][oz]|id:57mbNBhSQSgY}
+{type:WriteWords|question:This strawberry is terrible|answer:[Questa fraja è terribla]|answerviewable:Questa fraja è terribla|special:[Questa][fraja][è][terribla]|id:jVLHQOHsOmfn}
+{type:Match|question:Select the matching words|options:[jau dovr:I need][Ina reducziun:A discount][perdunai:excuse me][el dovra:he needs]|id:W3Z9C0Qyvfvh}
+{type:PickOne|question:duvrar|options:[she needs][to find][Is/Are there]|answer:to find|id:iEjIQaSPCkgC}
+{type:WriteWords|question:Does he need to find the supermarket?|answer:[Dovra el chattar il supermartgà?]|answerviewable:Dovra el chattar il supermartgà?|special:[Dovra][el][chattar][il][supermartgà?]|id:6jgv0MljiUZm}
+{type:WriteWords|question:I need to find the lemon|answer:[Jau dovr chatta la citrona]|answerviewable:Jau dovr chatta la citrona|special:[Jau][dovr][chatta][la][citrona]|id:unbbQGypB5gJ}
+{type:PickMissingWord|question:Perdunai, è tes maun ___grond___?|options:[grond][in nas][Terribel][Ina reducziun]|answer:grond|id:W9vCGLSfLMb1}
+{type:WriteWords|question:I want to find the exit|answer:[Jau vi chattar la sortida]|answerviewable:Jau vi chattar la sortida|special:[Jau][vi][chattar][la][sortida]|id:PJynBgU6KNXi}
+{type:PickWords|question:You need a stawberry (pl)|options:[duvrais][Vus][fraja][ina]|answer:Vusduvraisinafraja|answerviewable:Vus duvrais ina fraja|id:TU5zLu9XCMou}
+{type:WriteWords|question:I have a shopping trolley|answer:[Jau hai in tgaret da cumischungs]|answerviewable:Jau hai in tgaret da cumischungs|special:[Jau][hai][in][tgaret][da][cumischungs]|id:wPuNaoLHXZDx}
+{type:Match|question:Select the matching words|options:[els dovran:they need][Terribel:Terrible (m)][ti dovras:you need][duvrar:to find]|id:u9Z97jZOmUbz}
+{type:WriteWords|question:Does he need to find the supermarket?|answer:[Dovra el chattar il supermartgà?]|answerviewable:Dovra el chattar il supermartgà?|special:[Dovra][el][chattar][il][supermartgà?]|id:LWWEP6WZxkK1}
+</lesson>
+<lesson:25|id:ML1BdKD2T0O5>
+{type:PickWords|question:This supermarket is very big|options:[Quest][ina][fitg][grond][supermartgà][è]|answer:Questsupermartgàèfitggrond|answerviewable:Quest supermartgà è fitg grond|id:cWmYvbG5vv37}
+{type:WriteWords|question:There is a terrible supermarket there|answer:[Igl ha in supermartgà terribel là]|answerviewable:Igl ha in supermartgà terribel là|special:[Igl][ha][in][supermartgà][terribel][là]|id:izJqLDWUxyhd}
+{type:PickMissingWord|question:Vegn el a duvrar ___ina___ fraja?|options:[ina][in culiez][Chattar][perdunai]|answer:ina|id:bntK9h8LF5qL}
+{type:PickOne|question:nus duvrain|options:[we need][A discount][The exit]|answer:we need|id:clgzVQtJfRL5}
+{type:WriteWords|question:You need a stawberry (pl)|answer:[Vus duvrais ina fraja]|answerviewable:Vus duvrais ina fraja|special:[Vus][duvrais][ina][fraja]|id:39kCcCcKVoeo}
+{type:WriteWords|question:You do not need to go today (sg)|answer:[Ti na dovras betg ir oz]|answerviewable:Ti na dovras betg ir oz|special:[Ti][na][dovras][betg][ir][oz]|id:XffM3Lubgl9N}
+{type:WriteWords|question:You need a stawberry (pl)|answer:[Vus duvrais ina fraja]|answerviewable:Vus duvrais ina fraja|special:[Vus][duvrais][ina][fraja]|id:nNQsKRgOp77X}
+{type:WriteWords|question:Excuse me, do they need a 25% discount|answer:[Perdunai, dovran els ina reducziun da 25%]|answerviewable:Perdunai, dovran els ina reducziun da 25%|special:[Perdunai,][dovran][els][ina][reducziun][da][25%]|id:FDTzKUZ1DGA6}
+{type:WriteWords|question:Do you need the pasta? (pl)|answer:[Duvrais vus la pasta?]|answerviewable:Duvrais vus la pasta?|special:[Duvrais][vus][la][pasta?]|id:rzx33kkAOctu}
+{type:PickMissingWord|question:Dovr jau in ___tgaret___ da cumischungs?|options:[tgaret][in det][in chau][Il tgaret da cumischungs]|answer:tgaret|id:0Uup27LYb2aS}
+{type:WriteWords|question:Does she want a shopping trolley?|answer:[Vul ella in tgaret da cumischungs?]|answerviewable:Vul ella in tgaret da cumischungs?|special:[Vul][ella][in][tgaret][da][cumischungs?]|id:YhTtwQS4zURD}
+{type:WriteWords|question:We need to go now|answer:[Nus duvrain ir ussa]|answerviewable:Nus duvrain ir ussa|special:[Nus][duvrain][ir][ussa]|id:LoL46lCPNJC5}
+{type:WriteWords|question:The chair is terrible|answer:[La sutga è terribla]|answerviewable:La sutga è terribla|special:[La][sutga][è][terribla]|id:C7Oec2MyapXX}
+{type:Match|question:Select the matching words|options:[Chattar:To find][el dovra:he needs][duvrar:to find][Terribla:Terrible (f)]|id:RDZWE2VcRJrA}
+{type:WriteWords|question:This strawberry is terrible|answer:[Questa fraja è terribla]|answerviewable:Questa fraja è terribla|special:[Questa][fraja][è][terribla]|id:glAajf1UVRQ2}
+{type:PickWords|question:You need a stawberry (pl)|options:[dovran][duvrais][fraja][Vus][ina][la][da][tartuffel]|answer:Vusduvraisinafraja|answerviewable:Vus duvrais ina fraja|id:Ztb8AIQupwTK}
+{type:Match|question:Select the matching words|options:[Il tgaret da cumischungs:The shopping trolley][Chattar:To find][els dovran:they need][ti dovras:you need]|id:I6Ar1NbDJL6O}
+{type:PickOneMeaning|question:The speaker is saying:|speech:Igl ha|options:[To find][a leg][There is/are]|answer:There is/are|id:wI1geHH74Hxa}
+</lesson>
+</skill>
+<skill:Imperative|image:nautilus|lessonsperlevel:3|strokecolor:244,67,54|fillcolor:0,0,0|position:2a|description:Learn how to order people in Romansh|id:EhbPefsmbOTH>
+<lesson:1|id:a5aK41mEFHVi>
+{type:PickOneMeaning|question:The speaker is saying:|speech:Dorma!|options:[Sleep! (pl)][The salad][Sleep! (sg)]|answer:Sleep! (sg)|id:3NDvP9jEJJzr}
+{type:PickOne|question:Mangiei!|options:[The cup][Eat! (pl)][A herb]|answer:Eat! (pl)|id:rvLiwuVoFSPm}
+{type:FlashCard|front:Make! (sg)|back:Fai!|id:zqoPOH4HrBcQ}
+{type:PickOneMeaning|question:The speaker is saying:|speech:La salata|options:[The glass][Sleep! (sg)][The salad]|answer:The salad|id:ukULiDAh61eq}
+{type:FlashCard|front:Sleep! (sg)|back:Dorma!|id:JRM2lRuIAvLx}
+{type:FlashCard|front:Go! (pl)|back:Mei!|id:GOjyV7yRKs7u}
+{type:FlashCard|front:Go! (sg)|back:Va!|id:8Q16GdaiXfSc}
+{type:PickOne|question:Durmi!|options:[The veal][Sleep! (pl)][The salad]|answer:Sleep! (pl)|id:TOQUyP3AXdio}
+{type:PickOneMeaning|question:The speaker is saying:|speech:Il cunti|options:[The knife][Play! (sg)][The veal]|answer:The knife|id:EZyJmSj6UsZ5}
+{type:PickOne|question:Mettai!|options:[The sausage][The knife][Put! (pl)]|answer:Put! (pl)|id:IqoOJrROaGtX}
+{type:PickOne|question:Dei!|options:[The cup][The fork][Play! (pl)]|answer:Play! (pl)|id:5oYEctArG4MM}
+{type:FlashCard|front:Put! (sg)|back:Metta!|id:xNIaBEFYruai}
+{type:PickOneMeaning|question:The speaker is saying:|speech:Mettai!|options:[The glass][Put! (pl)][Go! (sg)]|answer:Put! (pl)|id:MQYk2jy5Nxyy}
+{type:PickOneMeaning|question:The speaker is saying:|speech:La ligiongia|options:[The glass][The sausage][Play! (sg)]|answer:The sausage|id:7F2RfqHMEN6M}
+{type:FlashCard|front:Make! (sg)|back:Fai!|id:vylTuIWBowUr}
+{type:FlashCard|front:Go! (sg)|back:Va!|id:xxrQrFTCOKEY}
+</lesson>
+<lesson:2|id:PTGx29zloVSj>
+{type:FlashCard|front:Play! (sg)|back:Dai!|id:ZqOgxuI2X9RY}
+{type:FlashCard|front:Sleep! (pl)|back:Durmi!|id:u8D3C2vQVMmZ}
+{type:PickOne|question:Durmi!|options:[Sleep! (pl)][The veal][A herb]|answer:Sleep! (pl)|id:jES7ES611wzU}
+{type:PickOne|question:Sajas!|options:[The knife][The fork][Be!]|answer:Be!|id:fxviAVNMTnHl}
+{type:PickOne|question:Durmi!|options:[Sleep! (pl)][The cup][The knife]|answer:Sleep! (pl)|id:GoIT7LcxriLd}
+{type:PickOneMeaning|question:The speaker is saying:|speech:La nusch|options:[Go! (sg)][The nut][The glass]|answer:The nut|id:UrcXwguFzOQ7}
+{type:FlashCard|front:Make! (sg)|back:Fai!|id:lDZFBRSzm8qR}
+{type:FlashCard|front:Put! (pl)|back:Mettai!|id:P0mZlJKTK4Ox}
+{type:PickOne|question:Dei!|options:[The sausage][Play! (pl)][The nut]|answer:Play! (pl)|id:R7aadSYzKI7d}
+{type:FlashCard|front:Make! (pl)|back:Faschai!|id:q2zWbMGV5a2e}
+{type:FlashCard|front:Put! (pl)|back:Mettai!|id:yecRbSjYlYPb}
+{type:PickOneMeaning|question:The speaker is saying:|speech:In'erva|options:[Sleep! (pl)][Make! (sg)][A herb]|answer:A herb|id:TPHHZ7RGwn97}
+{type:PickOneMeaning|question:The speaker is saying:|speech:La scadiola|options:[Go! (sg)][The cup][The nut]|answer:The cup|id:kGLKMOuNmpXA}
+{type:FlashCard|front:Go! (pl)|back:Mei!|id:atK6bKqJA1g1}
+{type:PickOneMeaning|question:The speaker is saying:|speech:La ligiongia|options:[The sausage][Make! (sg)][Eat! (sg)]|answer:The sausage|id:zduCcpr42fFq}
+{type:PickOneMeaning|question:The speaker is saying:|speech:La sosa da salata|options:[The salad][The dressing][The nut]|answer:The dressing|id:bd8SCQJs60PH}
+</lesson>
+<lesson:3|id:53SbOhMm3S1h>
+{type:PickOneMeaning|question:The speaker is saying:|speech:Hajas!|options:[Go! (pl)][The tip][Have!]|answer:Have!|id:EnEmOQVFjw7d}
+{type:PickOne|question:Mettai!|options:[Put! (pl)][A herb][The tip]|answer:Put! (pl)|id:nj8RBAxRz0IH}
+{type:FlashCard|front:Have!|back:Hajas!|id:wlK2pMCXnLRM}
+{type:FlashCard|front:Make! (pl)|back:Faschai!|id:12wlTrg4nz77}
+{type:PickOneMeaning|question:The speaker is saying:|speech:Va!|options:[Go! (sg)][Go! (pl)][The cup]|answer:Go! (sg)|id:VhaRvSAhHIE3}
+{type:PickOne|question:Mettai!|options:[Put! (pl)][The dressing][The cup]|answer:Put! (pl)|id:vasiy5hMR69X}
+{type:FlashCard|front:Go! (sg)|back:Va!|id:PBsRAQKlsxhj}
+{type:FlashCard|front:Play! (pl)|back:Dei!|id:cqRqkH6atPGJ}
+{type:FlashCard|front:Make! (pl)|back:Faschai!|id:MV7UuRYAZBiG}
+{type:PickOneMeaning|question:The speaker is saying:|speech:La bunamana|options:[Eat! (sg)][The tip][Go! (pl)]|answer:The tip|id:XP8N6Wr9rr0O}
+{type:PickOne|question:Sajas!|options:[The glass][The salad][Be!]|answer:Be!|id:nuiFhrVV4grD}
+{type:FlashCard|front:Be!|back:Sajas!|id:w6Nlap6FSouJ}
+{type:PickOneMeaning|question:The speaker is saying:|speech:Sajas!|options:[Sleep! (pl)][The tip][Be!]|answer:Be!|id:GXV2NRfe4TI4}
+{type:PickOneMeaning|question:The speaker is saying:|speech:Mangia!|options:[Eat! (sg)][The glass][Go! (pl)]|answer:Eat! (sg)|id:pa9u9KjZ2g6s}
+{type:PickOne|question:Mei!|options:[The plate][The knife][Go! (pl)]|answer:Go! (pl)|id:2ZJJ5OF7VdY8}
+{type:FlashCard|front:Eat! (pl)|back:Mangiei!|id:Q6Lv2SbmUIZj}
+</lesson>
+<lesson:4|id:gebmBYjvsENF>
+{type:PickOne|question:Sajas!|options:[The glass][Be!][The tip]|answer:Be!|id:a8SCXOxSqmkE}
+{type:PickOne|question:Mei!|options:[The plate][The salad][Go! (pl)]|answer:Go! (pl)|id:NPJUo93ucVWM}
+{type:PickOneMeaning|question:The speaker is saying:|speech:Durmi!|options:[The dressing][Sleep! (pl)][A herb]|answer:Sleep! (pl)|id:Z4Qw0phq9ru3}
+{type:PickOne|question:Sajas!|options:[Be!][The tip][The nut]|answer:Be!|id:IpCpdTEb8HAy}
+{type:FlashCard|front:Go! (sg)|back:Va!|id:KDDQd8itsHLV}
+{type:FlashCard|front:Make! (pl)|back:Faschai!|id:wEpRTxP6U1ZC}
+{type:PickOne|question:Durmi!|options:[Sleep! (pl)][A herb][The dressing]|answer:Sleep! (pl)|id:EdRC7c76FP8d}
+{type:PickOneMeaning|question:The speaker is saying:|speech:Hajas!|options:[Have!][The glass][Make! (sg)]|answer:Have!|id:DrCJgmm0bi22}
+{type:FlashCard|front:Put! (sg)|back:Metta!|id:SwoO4wONqwjn}
+{type:PickOneMeaning|question:The speaker is saying:|speech:La sosa da salata|options:[Eat! (pl)][Eat! (sg)][The dressing]|answer:The dressing|id:FPksNrmCbUvU}
+{type:PickOneMeaning|question:The speaker is saying:|speech:La charn vadi|options:[The nut][The veal][Play! (pl)]|answer:The veal|id:A0TPHvDAsQ8C}
+{type:FlashCard|front:Sleep! (sg)|back:Dorma!|id:TkAzaYwcVpNe}
+{type:PickOneMeaning|question:The speaker is saying:|speech:La scadiola|options:[Have!][The cup][A herb]|answer:The cup|id:18kOzhkaS1EL}
+{type:FlashCard|front:Sleep! (sg)|back:Dorma!|id:vA6XQ5FBCbnQ}
+{type:FlashCard|front:Play! (sg)|back:Dai!|id:gfTq6lHuIlOc}
+{type:FlashCard|front:Make! (pl)|back:Faschai!|id:rrsiXyYW9X4p}
+</lesson>
+<lesson:5|id:XzGoS2ULsrGh>
+{type:PickOneMeaning|question:The speaker is saying:|speech:Dei!|options:[Make! (sg)][The salad][Play! (pl)]|answer:Play! (pl)|id:OTB96RpWDCZi}
+{type:PickOneMeaning|question:The speaker is saying:|speech:La sosa da salata|options:[The dressing][Make! (sg)][The sausage]|answer:The dressing|id:oAUBPI0J0gZy}
+{type:PickOne|question:Sajas!|options:[Be!][A herb][The sausage]|answer:Be!|id:l9CljNeRXQQf}
+{type:FlashCard|front:Make! (sg)|back:Fai!|id:HvtZaSLnMI7o}
+{type:PickOne|question:Hajas!|options:[Have!][The salad][A herb]|answer:Have!|id:SOvzmDWo5V31}
+{type:PickOneMeaning|question:The speaker is saying:|speech:Mettai!|options:[Eat! (pl)][The sausage][Put! (pl)]|answer:Put! (pl)|id:WIlvMwkPWv9L}
+{type:FlashCard|front:Play! (sg)|back:Dai!|id:OSqgHZ2pRLpF}
+{type:PickOne|question:Faschai!|options:[The nut][The cup][Make! (pl)]|answer:Make! (pl)|id:QUgBEChs1w2L}
+{type:FlashCard|front:Have!|back:Hajas!|id:godvp9YsTKGi}
+{type:PickOneMeaning|question:The speaker is saying:|speech:Hajas!|options:[Have!][Eat! (sg)][The veal]|answer:Have!|id:dyfaUKDc122T}
+{type:PickOneMeaning|question:The speaker is saying:|speech:Sajas!|options:[Be!][Make! (pl)][Sleep! (pl)]|answer:Be!|id:zcEO5HlVPVZ0}
+{type:PickOne|question:Mangiei!|options:[Eat! (pl)][The nut][The sausage]|answer:Eat! (pl)|id:KtaxruUrLU7F}
+{type:FlashCard|front:Sleep! (pl)|back:Durmi!|id:03Ad2jdV3n7R}
+{type:FlashCard|front:Play! (sg)|back:Dai!|id:5ybNn7QoE34h}
+{type:FlashCard|front:Make! (sg)|back:Fai!|id:sTbdsmqy5ere}
+{type:FlashCard|front:Put! (sg)|back:Metta!|id:hygh5f7Cpaml}
+</lesson>
+<lesson:6|id:BALcJrJYjLjQ>
+{type:Match|question:Select the matching words|options:[Mangia!:Eat! (sg)][Fai!:Make! (sg)][Metta!:Put! (sg)][Mettai!:Put! (pl)]|id:kM5ba7C7hhuy}
+{type:PickWords|question:Make a house! (pl)|options:[chasa][ina][Faschai]|answer:Faschaiinachasa!|answerviewable:Faschai ina chasa!|id:wPpbrzYIC0Th}
+{type:PickWords|question:Be here at midnight!|options:[Sajas][La][ina][e][sin][qua][da][mesanotg]|answer:Sajasquadamesanotg!|answerviewable:Sajas qua da mesanotg!|id:72M2c7mhCja8}
+{type:PickOne|question:Durmi!|options:[Eat! (pl)][Sleep! (pl)][Make! (sg)]|answer:Sleep! (pl)|id:yq3g4yA6sFlc}
+{type:PickMissingWord|question:Metta ___la___ sutga sin il palantschieu!|options:[Durmi!][Dai!][la][Mangiei!]|answer:la|id:hAaevyZkWHxW}
+{type:FlashCard|front:Play! (sg)|back:Dai!|id:RHZXUbNECYKk}
+{type:PickWords|question:Go to Spain!|options:[ina][in'abitaziun][a][Spagna][Vai]|answer:VaiaSpagna!|answerviewable:Vai a Spagna!|id:EKHYxIAZU9u8}
+{type:FlashCard|front:Be!|back:Sajas!|id:7oOssBOs8t1Q}
+{type:Match|question:Select the matching words|options:[Dai!:Play! (sg)][Dorma!:Sleep! (sg)][Va!:Go! (sg)][Mei!:Go! (pl)]|id:DaPIAXDhIGh2}
+{type:PickWords|question:Put the bed there!|options:[Metta][letg][là][il][ina][la]|answer:Mettailletglà!|answerviewable:Metta il letg là!|id:SGWIWTqUvvz8}
+{type:PickOneMeaning|question:The speaker is saying:|speech:Dai!|options:[Eat! (sg)][The salad][Play! (sg)]|answer:Play! (sg)|id:palwqBPd4Iw8}
+{type:FlashCard|front:Eat! (pl)|back:Mangiei!|id:ICh2PbpbtdEF}
+{type:Match|question:Select the matching words|options:[Dei!:Play! (pl)][In'erva:A herb][La nusch:The nut][Il taglier:The plate]|id:bZzWzLxDywy0}
+{type:PickMissingWord|question:___Faschai___ ina chasa!|options:[Durmi!][In'erva][Faschai][Dai!]|answer:Faschai|id:wrhg9zuqONAt}
+{type:PickWords|question:Play rugby now!|options:[cornet][Dai][ussa][rugby][sin][Mei][suenter][la]|answer:Dairugbyussa!|answerviewable:Dai rugby ussa!|id:JE5kxj294MkT}
+{type:PickWords|question:Have a cupboard!|options:[ina][stgaffa][nusch][Jau][vi][Hajas][cunti]|answer:Hajasinastgaffa!|answerviewable:Hajas ina stgaffa!|id:gG0NYlYwlOw9}
+{type:PickWords|question:Eat my tomato! (pl)|options:[tomata][Mangiei][la][mia][ad][sutga]|answer:Mangieimiatomata!|answerviewable:Mangiei mia tomata!|id:XS8IkqCtAYq3}
+</lesson>
+<lesson:7|id:bqjVk1dPIn7P>
+{type:PickMissingWord|question:Mei a ___Giapun___!|options:[Mangiei!][Giapun][Fai!][Metta!]|answer:Giapun|id:CDapi2KHrUDA}
+{type:PickWords|question:Play football with my grandfather!|options:[tat][cornet][ballape][mes][cun][Dai]|answer:Daiballapecunmestat!|answerviewable:Dai ballape cun mes tat!|id:kCLS4F3efvvr}
+{type:PickWords|question:Make pasta for my brother!|options:[la][Metta][letg][pasta][frar][per][Fai][mes]|answer:Faipastapermesfrar!|answerviewable:Fai pasta per mes frar!|id:KTmVtnBc4U5Z}
+{type:Match|question:Select the matching words|options:[Dorma!:Sleep! (sg)][Mei!:Go! (pl)][Faschai!:Make! (pl)][Mangia!:Eat! (sg)]|id:bFWEjrfVnZJH}
+{type:PickMissingWord|question:Hajas ina ___stgaffa___!|options:[stgaffa][La bunamana][Dorma!][La ligiongia]|answer:stgaffa|id:xthQFU5IUt75}
+{type:PickOne|question:Dei!|options:[Have!][Make! (pl)][Play! (pl)]|answer:Play! (pl)|id:jFEj3oDFqEWF}
+{type:Match|question:Select the matching words|options:[Dai!:Play! (sg)][Mei!:Go! (pl)][Mettai!:Put! (pl)][Fai!:Make! (sg)]|id:JLzBs7hD9sOY}
+{type:FlashCard|front:Eat! (pl)|back:Mangiei!|id:LdDd0MlQ5C4A}
+{type:PickWords|question:Go to a post office! (pl)|options:[ina][Mei][ad][posta][oz]|answer:Meiadinaposta!|answerviewable:Mei ad ina posta!|id:6ARIfRlEqbtc}
+{type:PickWords|question:Make pasta for my brother!|options:[Fai][mes][Hajas][pasta][Giapun][per][frar]|answer:Faipastapermesfrar!|answerviewable:Fai pasta per mes frar!|id:uOOhU5ETiQiY}
+{type:PickWords|question:Go to a post office! (pl)|options:[posta][ina][in][da][ad][è][il][Mei]|answer:Meiadinaposta!|answerviewable:Mei ad ina posta!|id:AEIrZUKOBU1k}
+{type:FlashCard|front:Sleep! (sg)|back:Dorma!|id:H5nSWT0FJtlb}
+{type:PickOneMeaning|question:The speaker is saying:|speech:La scadiola|options:[The cup][Be!][Make! (pl)]|answer:The cup|id:oWU76CCELflo}
+{type:PickWords|question:Go to Japan! (pl)|options:[Dai][en][Dei][Mei][Mettai][Giapun][a][rugby]|answer:MeiaGiapun!|answerviewable:Mei a Giapun!|id:Vg1VNm1UTinF}
+{type:PickWords|question:Go to Japan! (pl)|options:[è][Mei][Giapun][cun][salata][a][in]|answer:MeiaGiapun!|answerviewable:Mei a Giapun!|id:Hve2f1Y4jfRB}
+{type:Match|question:Select the matching words|options:[Il cunti:The knife][Il migiel:The glass][In'erva:A herb][Dai!:Play! (sg)]|id:VcPcC1qhTK6k}
+{type:FlashCard|front:Make! (sg)|back:Fai!|id:hyYHmpfKdOXy}
+</lesson>
+<lesson:8|id:CjLoiHEyvp5A>
+{type:FlashCard|front:Put! (sg)|back:Metta!|id:6h3j9jlplOcf}
+{type:FlashCard|front:Be!|back:Sajas!|id:cWW8Zl9wsitX}
+{type:PickWords|question:Play rugby now!|options:[la][Dai][rugby][suenter][ussa][tat]|answer:Dairugbyussa!|answerviewable:Dai rugby ussa!|id:nTWbUl92MZQu}
+{type:FlashCard|front:Put! (sg)|back:Metta!|id:Euqu5Uw6Mp06}
+{type:Match|question:Select the matching words|options:[Dorma!:Sleep! (sg)][Mettai!:Put! (pl)][Metta!:Put! (sg)][Dei!:Play! (pl)]|id:LAVXcBwKx2Cb}
+{type:PickOne|question:Fai!|options:[Make! (sg)][Go! (pl)][Put! (sg)]|answer:Make! (sg)|id:04mtZULJPDo0}
+{type:PickOneMeaning|question:The speaker is saying:|speech:Durmi!|options:[The dressing][Play! (sg)][Sleep! (pl)]|answer:Sleep! (pl)|id:275L82FbLQwM}
+{type:PickMissingWord|question:Fai ___pasta___ per mes frar!|options:[Il migiel][pasta][Metta!][Mangia!]|answer:pasta|id:HD6QRVuLwFsm}
+{type:Match|question:Select the matching words|options:[Mangia!:Eat! (sg)][Metta!:Put! (sg)][Mettai!:Put! (pl)][Dei!:Play! (pl)]|id:YdPAqBoAzgjr}
+{type:PickWords|question:Go to a bakery!|options:[mes][Vai][Mangia][ina][ad][divertent][furnaria]|answer:Vaiadinafurnaria!|answerviewable:Vai ad ina furnaria!|id:CEZyWhWlucGa}
+{type:PickWords|question:Put the bed there!|options:[tschaina][ligiongia][letg][salata][là][Jau][Metta][il]|answer:Mettailletglà!|answerviewable:Metta il letg là!|id:IX2ZROiyc3dY}
+{type:PickWords|question:Have the chair later!|options:[Hajas][la][tat][posta][sutga][suenter][Mettai]|answer:Hajaslasutgasuenter!|answerviewable:Hajas la sutga suenter!|id:CnSVeEz8FDbO}
+{type:PickWords|question:Put the onion on the chair! (pl)|options:[Mettai][tschagula][la][tschaina][la][vadi][charn][sutga][ina][sin]|answer:Mettailatschagulasinlasutga!|answerviewable:Mettai la tschagula sin la sutga!|id:z43qWMUnlijB}
+{type:Match|question:Select the matching words|options:[La scadiola:The cup][Dorma!:Sleep! (sg)][La sosa da salata:The dressing][La salata:The salad]|id:hte8y6Fn0oUR}
+{type:PickWords|question:Make a croissant now!|options:[cornet][in][Mangiei][Fai][ussa]|answer:Faiincornetussa!|answerviewable:Fai in cornet ussa!|id:imuoKccShNhr}
+{type:PickMissingWord|question:Mettai la tschagula ___sin___ la sutga!|options:[La bunamana][sin][La savetscha][La charn vadi]|answer:sin|id:UfgifUClFcRf}
+{type:PickWords|question:Eat my potato!|options:[il][tartuffel][Mangia][mes]|answer:Mangiamestartuffel!|answerviewable:Mangia mes tartuffel!|id:4cpcgLHDpenX}
+</lesson>
+<lesson:9|id:e6hqCL7WTnlp>
+{type:FlashCard|front:Be!|back:Sajas!|id:TWLyXeEyEs0L}
+{type:PickMissingWord|question:Metta la ___sutga___ sin il palantschieu!|options:[sutga][Va!][Mangia!][Il cunti]|answer:sutga|id:f9r1YZpMuIuA}
+{type:PickWords|question:Have a cupboard!|options:[stgaffa][Hajas][in][café][Mangia][divertent][ina]|answer:Hajasinastgaffa!|answerviewable:Hajas ina stgaffa!|id:S8P7T6VxfDaX}
+{type:PickOneMeaning|question:The speaker is saying:|speech:Va!|options:[The cup][Go! (sg)][Make! (pl)]|answer:Go! (sg)|id:BM8zMc5gtp3q}
+{type:FlashCard|front:Eat! (sg)|back:Mangia!|id:MlzIuhHVWftP}
+{type:PickMissingWord|question:Dei ___cricket___ oz!|options:[cricket][La salata][Dai!][Dorma!]|answer:cricket|id:paVQxIEflsUE}
+{type:PickWords|question:Eat the croissant!|options:[Fai][il][cornet][Mangia][mes][pasta][furnaria][rugby]|answer:Mangiailcornet!|answerviewable:Mangia il cornet!|id:IUUso8wgfQW5}
+{type:PickWords|question:Put the chair on the floor!|options:[da][Jau][palantschieu][Metta][il][è][la][sutga][sin][sosa]|answer:Mettalasutgasinilpalantschieu!|answerviewable:Metta la sutga sin il palantschieu!|id:5CnuEIGMF03Y}
+{type:PickWords|question:Go to a bakery!|options:[furnaria][ad][Vai][ina]|answer:Vaiadinafurnaria!|answerviewable:Vai ad ina furnaria!|id:ll1LAz9NPr16}
+{type:PickOne|question:Dai!|options:[Play! (sg)][Go! (sg)][Put! (sg)]|answer:Play! (sg)|id:Q517AxmU8ffA}
+{type:PickWords|question:Eat the croissant!|options:[ussa][cornet][il][Mangia][palantschieu][tomata]|answer:Mangiailcornet!|answerviewable:Mangia il cornet!|id:6AijmEKmm9xG}
+{type:Match|question:Select the matching words|options:[Mangia!:Eat! (sg)][Mettai!:Put! (pl)][Mei!:Go! (pl)][Dorma!:Sleep! (sg)]|id:DZ9w8lTxZRDS}
+{type:Match|question:Select the matching words|options:[La ligiongia:The sausage][La salata:The salad][Dei!:Play! (pl)][La bunamana:The tip]|id:mpiRfmpnaNjV}
+{type:PickWords|question:Go to a post office! (pl)|options:[Vuls][posta][la][Mei][vuless][cun][ad][ina]|answer:Meiadinaposta!|answerviewable:Mei ad ina posta!|id:Fh44NsrCnxyr}
+{type:FlashCard|front:Eat! (pl)|back:Mangiei!|id:x0gRNyxg5Pjt}
+{type:Match|question:Select the matching words|options:[Dorma!:Sleep! (sg)][Mettai!:Put! (pl)][Faschai!:Make! (pl)][Metta!:Put! (sg)]|id:F8yu1jI8Li87}
+{type:PickWords|question:Put the chair on the floor!|options:[Hajas][tat][il][palantschieu][Giapun][pasta][sutga][la][Metta][ussa][sin]|answer:Mettalasutgasinilpalantschieu!|answerviewable:Metta la sutga sin il palantschieu!|id:EurIpIjZDr5F}
+</lesson>
+<lesson:10|id:Ed69hICkm2Zb>
+{type:FlashCard|front:Sleep! (pl)|back:Durmi!|id:W40FC9UfuUyN}
+{type:PickWords|question:Eat the croissant!|options:[il][Sajas][cornet][Mangia]|answer:Mangiailcornet!|answerviewable:Mangia il cornet!|id:Nt3u53sFf5dH}
+{type:PickWords|question:Go to a bakery!|options:[Vai][a][Sajas][frar][ad][furnaria][ina]|answer:Vaiadinafurnaria!|answerviewable:Vai ad ina furnaria!|id:qX2pwwCqG3X9}
+{type:Match|question:Select the matching words|options:[Hajas!:Have!][Fai!:Make! (sg)][Faschai!:Make! (pl)][Sajas!:Be!]|id:tVUxPDASHA30}
+{type:FlashCard|front:Be!|back:Sajas!|id:1hZ3U17c3Kzl}
+{type:PickOneMeaning|question:The speaker is saying:|speech:La sosa da salata|options:[The plate][The dressing][Put! (pl)]|answer:The dressing|id:Q7uFlRzfJpTh}
+{type:Match|question:Select the matching words|options:[Dei!:Play! (pl)][Dorma!:Sleep! (sg)][Mangiei!:Eat! (pl)][Fai!:Make! (sg)]|id:DOZFrjd3YcF6}
+{type:PickWords|question:Go to Spain!|options:[Spagna][Vai][a][cornet][oz]|answer:VaiaSpagna!|answerviewable:Vai a Spagna!|id:tDSt7J5Vvoxf}
+{type:PickWords|question:Go to a post office! (pl)|options:[ad][Dei][da][Mei][Dai][mes][posta][ina][sutga]|answer:Meiadinaposta!|answerviewable:Mei ad ina posta!|id:4z1bRkKxXAsc}
+{type:Match|question:Select the matching words|options:[La charn vadi:The veal][La sosa da salata:The dressing][Il cunti:The knife][Faschai!:Make! (pl)]|id:B1pow4l0UTfh}
+{type:PickWords|question:Eat my tomato! (pl)|options:[Mangiei][tomata][mia]|answer:Mangieimiatomata!|answerviewable:Mangiei mia tomata!|id:L6K7FQrIxK1l}
+{type:FlashCard|front:Make! (sg)|back:Fai!|id:8pX7d5n25LbE}
+{type:PickWords|question:Play rugby now!|options:[Dai][savetscha][rugby][ussa][ti][da][ligiongia]|answer:Dairugbyussa!|answerviewable:Dai rugby ussa!|id:Ham2R3iqa6p6}
+{type:PickWords|question:Go to a post office! (pl)|options:[Mei][tschaina][posta][vuless][nusch][Mangevas][ina][ad]|answer:Meiadinaposta!|answerviewable:Mei ad ina posta!|id:SmGRPja0IDcL}
+{type:PickOne|question:Dei!|options:[Eat! (pl)][Go! (pl)][Play! (pl)]|answer:Play! (pl)|id:YBmSGHw6rbeN}
+{type:PickMissingWord|question:___Mangiei___ la charn-bov!|options:[Mangiei][La charn vadi][La bunamana][Mei!]|answer:Mangiei|id:vGspwAXxkfK3}
+{type:PickMissingWord|question:___Mangiei___ mia tomata!|options:[Il cunti][Mangiei][La ligiongia][La savetscha]|answer:Mangiei|id:XNCBZLrhzkK3}
+</lesson>
+<lesson:11|id:QRcUqLO6RO1A>
+{type:PickMissingWord|question:Faschai ___mes___ café!|options:[La scadiola][mes][In'erva][La salata]|answer:mes|id:tmmwMCaxslyj}
+{type:PickOne|question:Dai!|options:[Eat! (sg)][Play! (sg)][Go! (pl)]|answer:Play! (sg)|id:hYQMxDFVK8UG}
+{type:Match|question:Select the matching words|options:[Dei!:Play! (pl)][Mei!:Go! (pl)][Durmi!:Sleep! (pl)][Mangiei!:Eat! (pl)]|id:Z6Wja8k3kFLS}
+{type:Match|question:Select the matching words|options:[Sajas!:Be!][Faschai!:Make! (pl)][Dai!:Play! (sg)][Metta!:Put! (sg)]|id:vikkXFJIqqpP}
+{type:WriteWords|question:Play rugby now!|answer:[Dai rugby ussa!]|answerviewable:Dai rugby ussa!|special:[Dai][rugby][ussa!]|id:iRHpyGhWAjyz}
+{type:WriteWords|question:Play an enjoyable game! (pl)|answer:[Dei in gieu divertent!]|answerviewable:Dei in gieu divertent!|special:[Dei][in][gieu][divertent!]|id:IMKiSjcie1Cy}
+{type:PickWords|question:Eat the beef! (pl)|options:[la][charn-bov][Dai][Metta][Mangiei]|answer:Mangieilacharn-bov!|answerviewable:Mangiei la charn-bov!|id:vTA4ptrOEwiM}
+{type:PickWords|question:Put the bed there!|options:[là][a][letg][il][Metta]|answer:Mettailletglà!|answerviewable:Metta il letg là!|id:BpioxhtxY9T2}
+{type:PickMissingWord|question:Mei ad ___ina___ posta!|options:[La sosa da salata][ina][Mei!][Durmi!]|answer:ina|id:TXgAISRHla49}
+{type:WriteWords|question:Be in an apartment!|answer:[Sajas en in'abitaziun!]|answerviewable:Sajas en in'abitaziun!|special:[Sajas][en][in'abitaziun!]|id:8JgliFRwUD3L}
+{type:WriteWords|question:Put the onion on the chair! (pl)|answer:[Mettai la tschagula sin la sutga!]|answerviewable:Mettai la tschagula sin la sutga!|special:[Mettai][la][tschagula][sin][la][sutga!]|id:zScn7kLCHXQU}
+{type:WriteWords|question:Put the chair on the floor!|answer:[Metta la sutga sin il palantschieu!]|answerviewable:Metta la sutga sin il palantschieu!|special:[Metta][la][sutga][sin][il][palantschieu!]|id:1YYXFRZJNbew}
+{type:PickMissingWord|question:Mettai la ___tschagula___ sin la sutga!|options:[La charn vadi][La sosa da salata][tschagula][Fai!]|answer:tschagula|id:KO7h90Ij546I}
+{type:WriteWords|question:Play an enjoyable game! (pl)|answer:[Dei in gieu divertent!]|answerviewable:Dei in gieu divertent!|special:[Dei][in][gieu][divertent!]|id:qq31sa1yGSKa}
+{type:PickOneMeaning|question:The speaker is saying:|speech:Mei!|options:[Go! (pl)][Eat! (sg)][The fork]|answer:Go! (pl)|id:mOLUvZLHQmK8}
+{type:PickWords|question:Put my potato here! (pl)|options:[cornet][Mettai][mes][qua][tartuffel]|answer:Mettaimestartuffelqua!|answerviewable:Mettai mes tartuffel qua!|id:RCdEvh3bZfzU}
+</lesson>
+<lesson:12|id:bmCZ3EIuIucB>
+{type:WriteWords|question:Eat my potato!|answer:[Mangia mes tartuffel!]|answerviewable:Mangia mes tartuffel!|special:[Mangia][mes][tartuffel!]|id:9to0Y6g4hsvj}
+{type:PickOne|question:Hajas!|options:[Sleep! (sg)][Have!][Play! (sg)]|answer:Have!|id:BShF4hqMDwL4}
+{type:WriteWords|question:Play an enjoyable game! (pl)|answer:[Dei in gieu divertent!]|answerviewable:Dei in gieu divertent!|special:[Dei][in][gieu][divertent!]|id:qgIebQvI93Sf}
+{type:PickWords|question:Go to a post office! (pl)|options:[cornet][Mei][la][furnaria][ina][posta][ad][il][Giapun]|answer:Meiadinaposta!|answerviewable:Mei ad ina posta!|id:TWIPaLPOE86Y}
+{type:WriteWords|question:Put the chair on the floor!|answer:[Metta la sutga sin il palantschieu!]|answerviewable:Metta la sutga sin il palantschieu!|special:[Metta][la][sutga][sin][il][palantschieu!]|id:4oVtfWli8mZv}
+{type:Match|question:Select the matching words|options:[Dei!:Play! (pl)][Dai!:Play! (sg)][Va!:Go! (sg)][Sajas!:Be!]|id:4toXtIXe36wm}
+{type:PickOneMeaning|question:The speaker is saying:|speech:Durmi!|options:[The salad][Have!][Sleep! (pl)]|answer:Sleep! (pl)|id:gXYzE7NnZVEi}
+{type:PickWords|question:Go to Japan! (pl)|options:[Mei][Hajas][Giapun][ad][a][Fai][mes]|answer:MeiaGiapun!|answerviewable:Mei a Giapun!|id:Gd6YH8hgvH1D}
+{type:PickMissingWord|question:Mettai ___la___ tschagula sin la sutga!|options:[la][Sajas!][Metta!][Faschai!]|answer:la|id:eoS98TvWT6Zo}
+{type:WriteWords|question:Put the chair on the floor!|answer:[Metta la sutga sin il palantschieu!]|answerviewable:Metta la sutga sin il palantschieu!|special:[Metta][la][sutga][sin][il][palantschieu!]|id:0GksZHnoYiYd}
+{type:PickMissingWord|question:Sajas ___en___ in'abitaziun!|options:[Dai!][La nusch][en][Hajas!]|answer:en|id:H5l9An0Kpuw0}
+{type:WriteWords|question:Go to Spain!|answer:[Vai a Spagna!]|answerviewable:Vai a Spagna!|special:[Vai][a][Spagna!]|id:ZUyUFOHYUMLB}
+{type:PickMissingWord|question:Hajas ___ina___ stgaffa!|options:[ina][La scadiola][Mangia!][Durmi!]|answer:ina|id:b4Y0aOZPoz9M}
+{type:WriteWords|question:Make pasta for my brother!|answer:[Fai pasta per mes frar!]|answerviewable:Fai pasta per mes frar!|special:[Fai][pasta][per][mes][frar!]|id:TE9GGn33TgpZ}
+{type:PickWords|question:Eat the beef! (pl)|options:[Dai][suenter][Fai][la][Mangiei][Hajas][charn-bov]|answer:Mangieilacharn-bov!|answerviewable:Mangiei la charn-bov!|id:EEELFNx31puR}
+{type:Match|question:Select the matching words|options:[Dai!:Play! (sg)][Va!:Go! (sg)][Sajas!:Be!][Mangiei!:Eat! (pl)]|id:GUh9DAa5XvbQ}
+</lesson>
+<lesson:13|id:4ot7HdOK9TMa>
+{type:PickWords|question:Put the chair on the floor!|options:[in][la][il][ad][palantschieu][sutga][Metta][sin]|answer:Mettalasutgasinilpalantschieu!|answerviewable:Metta la sutga sin il palantschieu!|id:iI4Lavh5i4Qr}
+{type:PickMissingWord|question:Dei in gieu ___divertent___!|options:[Metta!][La salata][La ligiongia][divertent]|answer:divertent|id:zfuPJsM2q16M}
+{type:PickOne|question:Fai!|options:[Go! (sg)][Play! (pl)][Make! (sg)]|answer:Make! (sg)|id:UKY8QXCqcFcK}
+{type:PickOneMeaning|question:The speaker is saying:|speech:Dorma!|options:[Make! (pl)][Sleep! (sg)][Eat! (pl)]|answer:Sleep! (sg)|id:aLs7wI2H8ct8}
+{type:Match|question:Select the matching words|options:[Fai!:Make! (sg)][Mettai!:Put! (pl)][Sajas!:Be!][Va!:Go! (sg)]|id:2zblMHhCNDJa}
+{type:WriteWords|question:Play football with my grandfather!|answer:[Dai ballape cun mes tat!]|answerviewable:Dai ballape cun mes tat!|special:[Dai][ballape][cun][mes][tat!]|id:YCacPiqdCbmk}
+{type:PickMissingWord|question:Metta il ___letg___ là!|options:[letg][Mettai!][Va!][La charn vadi]|answer:letg|id:Jp8iM9v1zjEk}
+{type:PickWords|question:Go to a post office! (pl)|options:[ad][posta][Mei][ina]|answer:Meiadinaposta!|answerviewable:Mei ad ina posta!|id:euORjNj0V1Em}
+{type:WriteWords|question:Eat the croissant!|answer:[Mangia il cornet!]|answerviewable:Mangia il cornet!|special:[Mangia][il][cornet!]|id:0tzw8xof7kPI}
+{type:WriteWords|question:Play football with my grandfather!|answer:[Dai ballape cun mes tat!]|answerviewable:Dai ballape cun mes tat!|special:[Dai][ballape][cun][mes][tat!]|id:sbSncaSbFC9Q}
+{type:PickWords|question:Put the onion on the chair! (pl)|options:[ina][a][tschagula][la][la][Mettai][sin][sutga][stgaffa][mes][furnaria]|answer:Mettailatschagulasinlasutga!|answerviewable:Mettai la tschagula sin la sutga!|id:ClKkjfg09svj}
+{type:PickMissingWord|question:Fai ___in___ cornet ussa!|options:[in][Mangia!][Il cunti][Va!]|answer:in|id:U37N9FXPeegn}
+{type:WriteWords|question:Be in an apartment!|answer:[Sajas en in'abitaziun!]|answerviewable:Sajas en in'abitaziun!|special:[Sajas][en][in'abitaziun!]|id:pSuMDcgAzSOn}
+{type:WriteWords|question:Make pasta for my brother!|answer:[Fai pasta per mes frar!]|answerviewable:Fai pasta per mes frar!|special:[Fai][pasta][per][mes][frar!]|id:WglJwEQwBYbc}
+{type:WriteWords|question:Eat the croissant!|answer:[Mangia il cornet!]|answerviewable:Mangia il cornet!|special:[Mangia][il][cornet!]|id:N9qFngS0dUdn}
+{type:Match|question:Select the matching words|options:[Mangiei!:Eat! (pl)][Durmi!:Sleep! (pl)][Hajas!:Have!][Dai!:Play! (sg)]|id:t5oP1XYINkH4}
+</lesson>
+<lesson:14|id:x6KbOBmbkq5b>
+{type:WriteWords|question:Make my coffee! (pl)|answer:[Faschai mes café!]|answerviewable:Faschai mes café!|special:[Faschai][mes][café!]|id:AXVWNJgbUkti}
+{type:PickOne|question:Mettai!|options:[Have!][Put! (pl)][Play! (sg)]|answer:Put! (pl)|id:71ssLBv5HE8L}
+{type:Match|question:Select the matching words|options:[Mei!:Go! (pl)][Sajas!:Be!][Dorma!:Sleep! (sg)][Dai!:Play! (sg)]|id:gJdClf1eQV8q}
+{type:WriteWords|question:Eat my tomato! (pl)|answer:[Mangiei mia tomata!]|answerviewable:Mangiei mia tomata!|special:[Mangiei][mia][tomata!]|id:I4jrCr77DUHS}
+{type:WriteWords|question:Have the chair later!|answer:[Hajas la sutga suenter!]|answerviewable:Hajas la sutga suenter!|special:[Hajas][la][sutga][suenter!]|id:X9d93Sypo9Sf}
+{type:PickMissingWord|question:Dai ballape ___cun___ mes tat!|options:[In'erva][La nusch][cun][La bunamana]|answer:cun|id:3KnvlVB0hFTj}
+{type:PickWords|question:Make pasta for my brother!|options:[mes][ina][Fai][pasta][per][la][frar]|answer:Faipastapermesfrar!|answerviewable:Fai pasta per mes frar!|id:DU98JsYjTBdE}
+{type:WriteWords|question:Make a croissant now!|answer:[Fai in cornet ussa!]|answerviewable:Fai in cornet ussa!|special:[Fai][in][cornet][ussa!]|id:emBPffbUbCrh}
+{type:PickOneMeaning|question:The speaker is saying:|speech:La salata|options:[The salad][Put! (pl)][The glass]|answer:The salad|id:SNc3rruhQceY}
+{type:PickWords|question:Play football with my grandfather!|options:[sin][tat][ina][qua][cun][mes][rugby][ballape][Dai][Sajas]|answer:Daiballapecunmestat!|answerviewable:Dai ballape cun mes tat!|id:y4B2KdZ7XVXx}
+{type:Match|question:Select the matching words|options:[Mei!:Go! (pl)][Dei!:Play! (pl)][Sajas!:Be!][Va!:Go! (sg)]|id:PLUjSi1Vfzpe}
+{type:WriteWords|question:Eat the croissant!|answer:[Mangia il cornet!]|answerviewable:Mangia il cornet!|special:[Mangia][il][cornet!]|id:ykQ1U8RFOYpJ}
+{type:WriteWords|question:Put the chair on the floor!|answer:[Metta la sutga sin il palantschieu!]|answerviewable:Metta la sutga sin il palantschieu!|special:[Metta][la][sutga][sin][il][palantschieu!]|id:7WKivuwCFb4B}
+{type:PickWords|question:Go to a post office! (pl)|options:[mes][ina][Dei][ad][tat][posta][Spagna][qua][Mei]|answer:Meiadinaposta!|answerviewable:Mei ad ina posta!|id:XjwMuao4GCUE}
+{type:PickMissingWord|question:Mangiei ___la___ charn-bov!|options:[la][Mangiei!][Durmi!][La sosa da salata]|answer:la|id:S1aanHiBYDzw}
+{type:PickMissingWord|question:Vai a ___Spagna___!|options:[Mangiei!][Metta!][Spagna][Fai!]|answer:Spagna|id:l6U2huUuRNO1}
+</lesson>
+<lesson:15|id:innB71OWzGxD>
+{type:WriteWords|question:Play rugby now!|answer:[Dai rugby ussa!]|answerviewable:Dai rugby ussa!|special:[Dai][rugby][ussa!]|id:btxBN1b42bpv}
+{type:WriteWords|question:Eat my tomato! (pl)|answer:[Mangiei mia tomata!]|answerviewable:Mangiei mia tomata!|special:[Mangiei][mia][tomata!]|id:tG2ofPTSkGgN}
+{type:WriteWords|question:Be in an apartment!|answer:[Sajas en in'abitaziun!]|answerviewable:Sajas en in'abitaziun!|special:[Sajas][en][in'abitaziun!]|id:ztYHJACImnr9}
+{type:PickMissingWord|question:Mangiei ___la___ charn-bov!|options:[Dai!][la][Mangiei!][La charn vadi]|answer:la|id:dIEWYniaUpX6}
+{type:WriteWords|question:Make my coffee! (pl)|answer:[Faschai mes café!]|answerviewable:Faschai mes café!|special:[Faschai][mes][café!]|id:hjTojoD5UCP5}
+{type:PickMissingWord|question:Hajas la ___sutga___ suenter!|options:[sutga][Mangia!][Mei!][La bunamana]|answer:sutga|id:b2PTPXzpkbbI}
+{type:PickOne|question:Sajas!|options:[Go! (pl)][Make! (pl)][Be!]|answer:Be!|id:YsROPEyLobMB}
+{type:WriteWords|question:Be here at midnight!|answer:[Sajas qua da mesanotg!]|answerviewable:Sajas qua da mesanotg!|special:[Sajas][qua][da][mesanotg!]|id:gTNLmJiKiPXI}
+{type:WriteWords|question:Be here at midnight!|answer:[Sajas qua da mesanotg!]|answerviewable:Sajas qua da mesanotg!|special:[Sajas][qua][da][mesanotg!]|id:lL2faeHnSdOB}
+{type:PickWords|question:Eat my tomato! (pl)|options:[Mangiei][posta][tomata][mia]|answer:Mangieimiatomata!|answerviewable:Mangiei mia tomata!|id:zIMDfCSRCidB}
+{type:PickWords|question:Go to Spain!|options:[Hajas][Spagna][Vai][tschagula][Mangia][a][ad]|answer:VaiaSpagna!|answerviewable:Vai a Spagna!|id:2XoSfsKqijP0}
+{type:Match|question:Select the matching words|options:[Sajas!:Be!][Faschai!:Make! (pl)][Mei!:Go! (pl)][Hajas!:Have!]|id:FQFfbpLpqgfK}
+{type:PickOneMeaning|question:The speaker is saying:|speech:Il cunti|options:[Sleep! (pl)][The sausage][The knife]|answer:The knife|id:Sdw6e6pi9ymY}
+{type:Match|question:Select the matching words|options:[Hajas!:Have!][Dorma!:Sleep! (sg)][Fai!:Make! (sg)][Faschai!:Make! (pl)]|id:daob0Bvfp9qE}
+{type:PickMissingWord|question:Mangiei ___la___ charn-bov!|options:[Mettai!][Il cunti][Dai!][la]|answer:la|id:ClMrEUc0RfJ5}
+{type:PickWords|question:Put my potato here! (pl)|options:[stgaffa][cornet][tartuffel][qua][Fai][Mettai][Dei][tat][mes]|answer:Mettaimestartuffelqua!|answerviewable:Mettai mes tartuffel qua!|id:HQGVrOvsGYWm}
+</lesson>
+<lesson:16|id:6LL6NRSaC9SA>
+{type:WriteWords|question:Play rugby now!|answer:[Dai rugby ussa!]|answerviewable:Dai rugby ussa!|special:[Dai][rugby][ussa!]|id:1qDEFxvH3fIp}
+{type:WriteWords|question:Play an enjoyable game! (pl)|answer:[Dei in gieu divertent!]|answerviewable:Dei in gieu divertent!|special:[Dei][in][gieu][divertent!]|id:Rz3IO2idOMkJ}
+{type:PickWords|question:Play rugby now!|options:[Mettai][ussa][ina][letg][rugby][suenter][Dai][la]|answer:Dairugbyussa!|answerviewable:Dai rugby ussa!|id:npHef3lNvYZK}
+{type:PickMissingWord|question:Mettai la tschagula sin la ___sutga___!|options:[Va!][Sajas!][Il migiel][sutga]|answer:sutga|id:PzvD3xcFnmRE}
+{type:Match|question:Select the matching words|options:[Metta!:Put! (sg)][Mangiei!:Eat! (pl)][Dai!:Play! (sg)][Mei!:Go! (pl)]|id:BWwap8ScgDV0}
+{type:WriteWords|question:Have a cupboard!|answer:[Hajas ina stgaffa!]|answerviewable:Hajas ina stgaffa!|special:[Hajas][ina][stgaffa!]|id:Cqvm9q0XIrU0}
+{type:WriteWords|question:Play an enjoyable game! (pl)|answer:[Dei in gieu divertent!]|answerviewable:Dei in gieu divertent!|special:[Dei][in][gieu][divertent!]|id:u1q1miibTApr}
+{type:WriteWords|question:Play an enjoyable game! (pl)|answer:[Dei in gieu divertent!]|answerviewable:Dei in gieu divertent!|special:[Dei][in][gieu][divertent!]|id:qZJxqyqSzMn5}
+{type:PickOne|question:Mei!|options:[Go! (pl)][Eat! (pl)][Have!]|answer:Go! (pl)|id:gsiTFZV9HbRo}
+{type:PickWords|question:Make a croissant now!|options:[ussa][cornet][in][Fai]|answer:Faiincornetussa!|answerviewable:Fai in cornet ussa!|id:iPFB2vWXXi91}
+{type:WriteWords|question:Play rugby now!|answer:[Dai rugby ussa!]|answerviewable:Dai rugby ussa!|special:[Dai][rugby][ussa!]|id:CucrjUJIf3Jk}
+{type:PickOneMeaning|question:The speaker is saying:|speech:La sosa da salata|options:[The dressing][The tip][Go! (sg)]|answer:The dressing|id:IRG7qdiMuL2Y}
+{type:Match|question:Select the matching words|options:[Dei!:Play! (pl)][Fai!:Make! (sg)][Faschai!:Make! (pl)][Sajas!:Be!]|id:5wP6bTV4hNne}
+{type:PickMissingWord|question:___Fai___ in cornet ussa!|options:[Va!][Sajas!][Fai][Dei!]|answer:Fai|id:avQx0Y7sTa8S}
+{type:WriteWords|question:Put the bed there!|answer:[Metta il letg là!]|answerviewable:Metta il letg là!|special:[Metta][il][letg][là!]|id:xdUDxAsYe63o}
+{type:WriteWords|question:Play rugby now!|answer:[Dai rugby ussa!]|answerviewable:Dai rugby ussa!|special:[Dai][rugby][ussa!]|id:EW1hbU33P7V9}
+</lesson>
+<lesson:17|id:FoPQypzcxLGZ>
+{type:Match|question:Select the matching words|options:[Mangia!:Eat! (sg)][Hajas!:Have!][Mangiei!:Eat! (pl)][Fai!:Make! (sg)]|id:YpfnszjxYaZ4}
+{type:WriteWords|question:Eat the croissant!|answer:[Mangia il cornet!]|answerviewable:Mangia il cornet!|special:[Mangia][il][cornet!]|id:wss7FMbP9doJ}
+{type:PickMissingWord|question:Metta la sutga sin il ___palantschieu___!|options:[palantschieu][Faschai!][La charn vadi][Fai!]|answer:palantschieu|id:eTXVl0N4GglM}
+{type:PickWords|question:Go to a post office! (pl)|options:[il][a][ina][posta][Mei][ad][ussa]|answer:Meiadinaposta!|answerviewable:Mei ad ina posta!|id:GqkLdahNjeq1}
+{type:WriteWords|question:Put the bed there!|answer:[Metta il letg là!]|answerviewable:Metta il letg là!|special:[Metta][il][letg][là!]|id:d8WuEZFKTK9W}
+{type:PickOne|question:Sajas!|options:[Go! (pl)][Sleep! (pl)][Be!]|answer:Be!|id:Ol4BYbxawqWN}
+{type:WriteWords|question:Have a cupboard!|answer:[Hajas ina stgaffa!]|answerviewable:Hajas ina stgaffa!|special:[Hajas][ina][stgaffa!]|id:ZTLkvltM7Eou}
+{type:WriteWords|question:Go to a post office! (pl)|answer:[Mei ad ina posta!]|answerviewable:Mei ad ina posta!|special:[Mei][ad][ina][posta!]|id:jooFaeWbGTBM}
+{type:WriteWords|question:Play an enjoyable game! (pl)|answer:[Dei in gieu divertent!]|answerviewable:Dei in gieu divertent!|special:[Dei][in][gieu][divertent!]|id:z2f5GVBEjSgc}
+{type:PickWords|question:Eat my tomato! (pl)|options:[Mangiei][mia][charn-bov][tomata]|answer:Mangieimiatomata!|answerviewable:Mangiei mia tomata!|id:WLRMMiku60Am}
+{type:Match|question:Select the matching words|options:[Va!:Go! (sg)][Mettai!:Put! (pl)][Hajas!:Have!][Sajas!:Be!]|id:ED7Eojoy5uVk}
+{type:PickOneMeaning|question:The speaker is saying:|speech:Hajas!|options:[The fork][The tip][Have!]|answer:Have!|id:DSyXhTe1GBbT}
+{type:WriteWords|question:Eat the beef! (pl)|answer:[Mangiei la charn-bov!]|answerviewable:Mangiei la charn-bov!|special:[Mangiei][la][charn-bov!]|id:cBjo5II8HZ3K}
+{type:WriteWords|question:Play rugby now!|answer:[Dai rugby ussa!]|answerviewable:Dai rugby ussa!|special:[Dai][rugby][ussa!]|id:GFikKutw8QLN}
+{type:WriteWords|question:Make a house! (pl)|answer:[Faschai ina chasa!]|answerviewable:Faschai ina chasa!|special:[Faschai][ina][chasa!]|id:fy7uU5sJQMJT}
+{type:PickMissingWord|question:___Mettai___ mes tartuffel qua!|options:[Mettai][Dorma!][Mei!][Durmi!]|answer:Mettai|id:qsec8r40ta5f}
+</lesson>
+<lesson:18|id:zCA1s3hWeBDN>
+{type:PickOneMeaning|question:The speaker is saying:|speech:La bunamana|options:[The nut][The knife][The tip]|answer:The tip|id:36QFD3Rd2pUa}
+{type:Match|question:Select the matching words|options:[Mangia!:Eat! (sg)][Mettai!:Put! (pl)][Faschai!:Make! (pl)][Va!:Go! (sg)]|id:GeCjzSf9Y7mq}
+{type:WriteWords|question:Make a house! (pl)|answer:[Faschai ina chasa!]|answerviewable:Faschai ina chasa!|special:[Faschai][ina][chasa!]|id:gUr5oOgD1k9q}
+{type:WriteWords|question:Have the chair later!|answer:[Hajas la sutga suenter!]|answerviewable:Hajas la sutga suenter!|special:[Hajas][la][sutga][suenter!]|id:IAiAxrM2kQz3}
+{type:WriteWords|question:Have a cupboard!|answer:[Hajas ina stgaffa!]|answerviewable:Hajas ina stgaffa!|special:[Hajas][ina][stgaffa!]|id:zP94kSneuzcY}
+{type:PickMissingWord|question:___Dei___ in gieu divertent!|options:[Dei!][Dorma!][La bunamana][Dei]|answer:Dei|id:xYzfc66SihHs}
+{type:PickWords|question:Make my coffee! (pl)|options:[chasa][gieu][ina][café][mes][Faschai][letg][da]|answer:Faschaimescafé!|answerviewable:Faschai mes café!|id:QlVkeKPOhans}
+{type:PickMissingWord|question:Mettai mes tartuffel ___qua___!|options:[qua][Dorma!][La savetscha][Hajas!]|answer:qua|id:yhbkiMcl9KjC}
+{type:WriteWords|question:Be in an apartment!|answer:[Sajas en in'abitaziun!]|answerviewable:Sajas en in'abitaziun!|special:[Sajas][en][in'abitaziun!]|id:jXGGFNyW6VmA}
+{type:Match|question:Select the matching words|options:[Fai!:Make! (sg)][Va!:Go! (sg)][Dorma!:Sleep! (sg)][Mettai!:Put! (pl)]|id:MH1EpNgGQxxL}
+{type:PickOne|question:Mangia!|options:[Eat! (sg)][Make! (sg)][Play! (pl)]|answer:Eat! (sg)|id:6LncE8qIEcCE}
+{type:WriteWords|question:Go to a bakery!|answer:[Vai ad ina furnaria!]|answerviewable:Vai ad ina furnaria!|special:[Vai][ad][ina][furnaria!]|id:u7y1lSYkqhCI}
+{type:WriteWords|question:Play an enjoyable game! (pl)|answer:[Dei in gieu divertent!]|answerviewable:Dei in gieu divertent!|special:[Dei][in][gieu][divertent!]|id:ltMCbgRwd1dS}
+{type:PickWords|question:Make pasta for my brother!|options:[per][frar][mes][Fai][Giapun][palantschieu][pasta][la][ussa]|answer:Faipastapermesfrar!|answerviewable:Fai pasta per mes frar!|id:jlxZ6FvqZYuq}
+{type:WriteWords|question:Have the chair later!|answer:[Hajas la sutga suenter!]|answerviewable:Hajas la sutga suenter!|special:[Hajas][la][sutga][suenter!]|id:PlWjiZoa9yCb}
+{type:WriteWords|question:Make a house! (pl)|answer:[Faschai ina chasa!]|answerviewable:Faschai ina chasa!|special:[Faschai][ina][chasa!]|id:L4C3FL6xKVhM}
+</lesson>
+<lesson:19|id:kXVVYsjLPsyA>
+{type:WriteWords|question:Play an enjoyable game! (pl)|answer:[Dei in gieu divertent!]|answerviewable:Dei in gieu divertent!|special:[Dei][in][gieu][divertent!]|id:e9uvZgAm0dTc}
+{type:WriteWords|question:Play football with my grandfather!|answer:[Dai ballape cun mes tat!]|answerviewable:Dai ballape cun mes tat!|special:[Dai][ballape][cun][mes][tat!]|id:ZjNUaOXu25r9}
+{type:WriteWords|question:Make a house! (pl)|answer:[Faschai ina chasa!]|answerviewable:Faschai ina chasa!|special:[Faschai][ina][chasa!]|id:KhyaOiRlxbkC}
+{type:WriteWords|question:Be in an apartment!|answer:[Sajas en in'abitaziun!]|answerviewable:Sajas en in'abitaziun!|special:[Sajas][en][in'abitaziun!]|id:FjH0qGxbz3JT}
+{type:WriteWords|question:Make my coffee! (pl)|answer:[Faschai mes café!]|answerviewable:Faschai mes café!|special:[Faschai][mes][café!]|id:s2dWZKrnPOSE}
+{type:Match|question:Select the matching words|options:[Mettai!:Put! (pl)][Mei!:Go! (pl)][Dorma!:Sleep! (sg)][Durmi!:Sleep! (pl)]|id:W8WoKxUMZVs6}
+{type:PickMissingWord|question:___Dai___ ballape cun mes tat!|options:[Fai!][La charn vadi][Metta!][Dai]|answer:Dai|id:O6PCT534xmLn}
+{type:Match|question:Select the matching words|options:[Mangia!:Eat! (sg)][Metta!:Put! (sg)][Hajas!:Have!][Dorma!:Sleep! (sg)]|id:dzCsfnmMEkqg}
+{type:PickOne|question:Metta!|options:[Play! (sg)][Put! (sg)][Go! (pl)]|answer:Put! (sg)|id:7AVH96NfC9xE}
+{type:PickWords|question:Play an enjoyable game! (pl)|options:[tomata][divertent][il][gieu][in][Dei][a]|answer:Deiingieudivertent!|answerviewable:Dei in gieu divertent!|id:GhuYESO0Eb9P}
+{type:PickOneMeaning|question:The speaker is saying:|speech:Dorma!|options:[Have!][Sleep! (sg)][The salad]|answer:Sleep! (sg)|id:uxguc63kxoA9}
+{type:PickMissingWord|question:Metta la ___sutga___ sin il palantschieu!|options:[Fai!][sutga][Mangiei!][Faschai!]|answer:sutga|id:Tw9UAenbyiTh}
+{type:WriteWords|question:Make a croissant now!|answer:[Fai in cornet ussa!]|answerviewable:Fai in cornet ussa!|special:[Fai][in][cornet][ussa!]|id:mGrYmdsOpum4}
+{type:WriteWords|question:Make a croissant now!|answer:[Fai in cornet ussa!]|answerviewable:Fai in cornet ussa!|special:[Fai][in][cornet][ussa!]|id:4ACAy89B2OOq}
+{type:PickWords|question:Eat my potato!|options:[oz][tartuffel][per][Mangia][mes][Dei][Sajas][Hajas]|answer:Mangiamestartuffel!|answerviewable:Mangia mes tartuffel!|id:9yyKHOH7MUxA}
+{type:WriteWords|question:Make pasta for my brother!|answer:[Fai pasta per mes frar!]|answerviewable:Fai pasta per mes frar!|special:[Fai][pasta][per][mes][frar!]|id:InCvTR9BfeK1}
+</lesson>
+<lesson:20|id:fXf3svkWTS8V>
+{type:PickWords|question:Play rugby now!|options:[Dai][rugby][ussa][in][sutga][Faschai]|answer:Dairugbyussa!|answerviewable:Dai rugby ussa!|id:uUvjNV9RwAMU}
+{type:PickOne|question:Hajas!|options:[Go! (sg)][Play! (sg)][Have!]|answer:Have!|id:8pzYp2CDqobo}
+{type:WriteWords|question:Have a cupboard!|answer:[Hajas ina stgaffa!]|answerviewable:Hajas ina stgaffa!|special:[Hajas][ina][stgaffa!]|id:heuo0XpQtwPQ}
+{type:WriteWords|question:Go to Spain!|answer:[Vai a Spagna!]|answerviewable:Vai a Spagna!|special:[Vai][a][Spagna!]|id:AIaMjy5Xpw7A}
+{type:WriteWords|question:Play cricket now! (pl)|answer:[Dei cricket ussa!]|answerviewable:Dei cricket oz!|special:[Dei][cricket]|id:8tvea6qqxG1v}
+{type:WriteWords|question:Put the chair on the floor!|answer:[Metta la sutga sin il palantschieu!]|answerviewable:Metta la sutga sin il palantschieu!|special:[Metta][la][sutga][sin][il][palantschieu!]|id:TcfKaRwAYirm}
+{type:WriteWords|question:Play an enjoyable game! (pl)|answer:[Dei in gieu divertent!]|answerviewable:Dei in gieu divertent!|special:[Dei][in][gieu][divertent!]|id:NVwP1tktHmMy}
+{type:Match|question:Select the matching words|options:[Mangiei!:Eat! (pl)][Hajas!:Have!][Fai!:Make! (sg)][Dei!:Play! (pl)]|id:QJn7wDMgK8JC}
+{type:PickWords|question:Play cricket now! (pl)|options:[café][tartuffel][oz][ina][mes][Dei][cricket]|answer:Deicricketoz!|answerviewable:Dei cricket oz!|id:LXT0SoCmLBnR}
+{type:PickOneMeaning|question:The speaker is saying:|speech:La salata|options:[Put! (pl)][Sleep! (pl)][The salad]|answer:The salad|id:yNcrgY8izisG}
+{type:WriteWords|question:Eat my tomato! (pl)|answer:[Mangiei mia tomata!]|answerviewable:Mangiei mia tomata!|special:[Mangiei][mia][tomata!]|id:Qbm0k8YpAjcn}
+{type:Match|question:Select the matching words|options:[Metta!:Put! (sg)][Fai!:Make! (sg)][Mangiei!:Eat! (pl)][Mettai!:Put! (pl)]|id:XsLmloKM0Q4Z}
+{type:PickMissingWord|question:Sajas en ___in'abitaziun___!|options:[Mangiei!][Il migiel][Faschai!][in'abitaziun]|answer:in'abitaziun|id:Nmwge7npoZOU}
+{type:WriteWords|question:Put the chair on the floor!|answer:[Metta la sutga sin il palantschieu!]|answerviewable:Metta la sutga sin il palantschieu!|special:[Metta][la][sutga][sin][il][palantschieu!]|id:FKzRzwxeUhr3}
+{type:PickMissingWord|question:Mettai ___mes___ tartuffel qua!|options:[La nusch][mes][Va!][Metta!]|answer:mes|id:zioQyJf8UIbU}
+{type:WriteWords|question:Eat the croissant!|answer:[Mangia il cornet!]|answerviewable:Mangia il cornet!|special:[Mangia][il][cornet!]|id:1dH3s62rC8Nf}
+</lesson>
+<lesson:21|id:bUIBJgMujiFI>
+{type:WriteWords|question:Be here at midnight!|answer:[Sajas qua da mesanotg!]|answerviewable:Sajas qua da mesanotg!|special:[Sajas][qua][da][mesanotg!]|id:O7tzRrjpmv6u}
+{type:PickWords|question:Make a croissant now!|options:[letg][Fai][la][cricket][ussa][in][Mangia][cornet]|answer:Faiincornetussa!|answerviewable:Fai in cornet ussa!|id:X5yKU15LcqHT}
+{type:WriteWords|question:Put the bed there!|answer:[Metta il letg là!]|answerviewable:Metta il letg là!|special:[Metta][il][letg][là!]|id:BKdtNNHOmNmU}
+{type:WriteWords|question:Be here at midnight!|answer:[Sajas qua da mesanotg!]|answerviewable:Sajas qua da mesanotg!|special:[Sajas][qua][da][mesanotg!]|id:VfdMgzodrY4C}
+{type:WriteWords|question:Go to Spain!|answer:[Vai a Spagna!]|answerviewable:Vai a Spagna!|special:[Vai][a][Spagna!]|id:WNgTJWICKE1r}
+{type:WriteWords|question:Go to a post office! (pl)|answer:[Mei ad ina posta!]|answerviewable:Mei ad ina posta!|special:[Mei][ad][ina][posta!]|id:k7TNGxBFINO6}
+{type:PickMissingWord|question:Sajas en ___in'abitaziun___!|options:[in'abitaziun][Dei!][La bunamana][Dorma!]|answer:in'abitaziun|id:iR98Y35ukkGA}
+{type:WriteWords|question:Go to a post office! (pl)|answer:[Mei ad ina posta!]|answerviewable:Mei ad ina posta!|special:[Mei][ad][ina][posta!]|id:hYEAt7k0tHT3}
+{type:WriteWords|question:Make my coffee! (pl)|answer:[Faschai mes café!]|answerviewable:Faschai mes café!|special:[Faschai][mes][café!]|id:YxnOMSW6r0zv}
+{type:Match|question:Select the matching words|options:[Mangiei!:Eat! (pl)][Hajas!:Have!][Metta!:Put! (sg)][Mettai!:Put! (pl)]|id:tLTKW5NftjHv}
+{type:PickWords|question:Play cricket now! (pl)|options:[cricket][Mettai][ussa][Dei][la]|answer:Deicricketussa!|answerviewable:Dei cricket oz!|id:B8TOrJzKEzvs}
+{type:PickOneMeaning|question:The speaker is saying:|speech:Sajas!|options:[Be!][Sleep! (pl)][Play! (sg)]|answer:Be!|id:7dW8h3m6DtmZ}
+{type:WriteWords|question:Eat my potato!|answer:[Mangia mes tartuffel!]|answerviewable:Mangia mes tartuffel!|special:[Mangia][mes][tartuffel!]|id:U4HxW0KApuL9}
+{type:PickWords|question:Eat my potato!|options:[tartuffel][mes][Mangia]|answer:Mangiamestartuffel!|answerviewable:Mangia mes tartuffel!|id:gOLKZCb05lVy}
+{type:PickOne|question:Dai!|options:[Play! (sg)][Sleep! (pl)][Put! (sg)]|answer:Play! (sg)|id:MVq4Oga28PAs}
+{type:WriteWords|question:Eat my potato!|answer:[Mangia mes tartuffel!]|answerviewable:Mangia mes tartuffel!|special:[Mangia][mes][tartuffel!]|id:7D4zIKlcCVrT}
+{type:PickMissingWord|question:Mei ___a___ Giapun!|options:[a][In'erva][Metta!][Il cunti]|answer:a|id:NknyQH394M5V}
+{type:Match|question:Select the matching words|options:[Mei!:Go! (pl)][Sajas!:Be!][Metta!:Put! (sg)][Mettai!:Put! (pl)]|id:3fmqlsmfoVuq}
+{type:WriteWords|question:Put my potato here! (pl)|answer:[Mettai mes tartuffel qua!]|answerviewable:Mettai mes tartuffel qua!|special:[Mettai][mes][tartuffel][qua!]|id:SayEOZvLIx4u}
+</lesson>
+<lesson:22|id:YjZQh81kf9lV>
+{type:Match|question:Select the matching words|options:[Mangiei!:Eat! (pl)][Dai!:Play! (sg)][Sajas!:Be!][Dei!:Play! (pl)]|id:bwKbXyWF6lPq}
+{type:WriteWords|question:Put the chair on the floor!|answer:[Metta la sutga sin il palantschieu!]|answerviewable:Metta la sutga sin il palantschieu!|special:[Metta][la][sutga][sin][il][palantschieu!]|id:ggz7QX8A9h4u}
+{type:WriteWords|question:Make a croissant now!|answer:[Fai in cornet ussa!]|answerviewable:Fai in cornet ussa!|special:[Fai][in][cornet][ussa!]|id:htbOecIGrUyA}
+{type:WriteWords|question:Go to a post office! (pl)|answer:[Mei ad ina posta!]|answerviewable:Mei ad ina posta!|special:[Mei][ad][ina][posta!]|id:llkXsJl05GKj}
+{type:WriteWords|question:Eat my potato!|answer:[Mangia mes tartuffel!]|answerviewable:Mangia mes tartuffel!|special:[Mangia][mes][tartuffel!]|id:szGXvmHcEcKB}
+{type:WriteWords|question:Go to Japan! (pl)|answer:[Mei a Giapun!]|answerviewable:Mei a Giapun!|special:[Mei][a][Giapun!]|id:33n4ArjPtjvh}
+{type:WriteWords|question:Go to a post office! (pl)|answer:[Mei ad ina posta!]|answerviewable:Mei ad ina posta!|special:[Mei][ad][ina][posta!]|id:8whyWvyn10w4}
+{type:WriteWords|question:Play cricket now! (pl)|answer:[Dei cricket ussa!]|answerviewable:Dei cricket ussa!|special:[Dei]|id:QMFnqHg6AnJS}
+{type:PickOne|question:Mettai!|options:[Put! (pl)][Sleep! (pl)][Eat! (sg)]|answer:Put! (pl)|id:VeOR7Kb8WX4j}
+{type:PickOneMeaning|question:The speaker is saying:|speech:Durmi!|options:[Go! (pl)][Sleep! (pl)][The fork]|answer:Sleep! (pl)|id:YychLKO7JfIP}
+{type:Match|question:Select the matching words|options:[Fai!:Make! (sg)][Dorma!:Sleep! (sg)][Durmi!:Sleep! (pl)][Mangia!:Eat! (sg)]|id:76HYFlxHNA94}
+{type:WriteWords|question:Make pasta for my brother!|answer:[Fai pasta per mes frar!]|answerviewable:Fai pasta per mes frar!|special:[Fai][pasta][per][mes][frar!]|id:TS6Nkxoxcb84}
+{type:PickWords|question:Play cricket now! (pl)|options:[cun][ussa][Dei][cricket]|answer:Deicricketussa!|answerviewable:Dei cricket oz!|id:2G2561AUlVS8}
+{type:PickMissingWord|question:___Fai___ in cornet ussa!|options:[La salata][Va!][Dorma!][Fai]|answer:Fai|id:uSbhLFpNlGVw}
+{type:PickWords|question:Go to Japan! (pl)|options:[Giapun][a][là][Mei]|answer:MeiaGiapun!|answerviewable:Mei a Giapun!|id:zcPUdlWJuUNn}
+{type:WriteWords|question:Be in an apartment!|answer:[Sajas en in'abitaziun!]|answerviewable:Sajas en in'abitaziun!|special:[Sajas][en][in'abitaziun!]|id:TR1UUS8sYi2s}
+{type:PickMissingWord|question:Dei cricket ___oz___!|options:[oz][La nusch][Dei!][La salata]|answer:oz|id:u7X4Vj1uhRus}
+{type:WriteWords|question:Go to Spain!|answer:[Vai a Spagna!]|answerviewable:Vai a Spagna!|special:[Vai][a][Spagna!]|id:G9JsOwnNxkDB}
+{type:PickWords|question:Make pasta for my brother!|options:[frar][mes][Fai][per][Mangia][a][en][pasta][tschagula]|answer:Faipastapermesfrar!|answerviewable:Fai pasta per mes frar!|id:rr7Qcn12y9dH}
+</lesson>
+<lesson:23|id:EAoZEKUs5Fwq>
+{type:PickMissingWord|question:___Fai___ in cornet ussa!|options:[Faschai!][Mangia!][Fai][Il migiel]|answer:Fai|id:wq1VT91ZR5Rx}
+{type:PickMissingWord|question:Dai ___rugby___ ussa!|options:[La sosa da salata][Il migiel][Metta!][rugby]|answer:rugby|id:5aEhThMUh19G}
+{type:PickOne|question:Dai!|options:[Eat! (sg)][Put! (pl)][Play! (sg)]|answer:Play! (sg)|id:vEVP2Fjaz3qc}
+{type:WriteWords|question:Make a croissant now!|answer:[Fai in cornet ussa!]|answerviewable:Fai in cornet ussa!|special:[Fai][in][cornet][ussa!]|id:z3R9WODEtirl}
+{type:WriteWords|question:Play rugby now!|answer:[Dai rugby ussa!]|answerviewable:Dai rugby ussa!|special:[Dai][rugby][ussa!]|id:MjvocpRUNito}
+{type:PickWords|question:Eat the beef! (pl)|options:[charn-bov][Mangiei][la]|answer:Mangieilacharn-bov!|answerviewable:Mangiei la charn-bov!|id:xHT13fPQyJSP}
+{type:Match|question:Select the matching words|options:[Faschai!:Make! (pl)][Sajas!:Be!][Mettai!:Put! (pl)][Metta!:Put! (sg)]|id:6KAbVvDjfC58}
+{type:Match|question:Select the matching words|options:[Dai!:Play! (sg)][Hajas!:Have!][Dorma!:Sleep! (sg)][Faschai!:Make! (pl)]|id:UeVtFSITXBWb}
+{type:WriteWords|question:Have the chair later!|answer:[Hajas la sutga suenter!]|answerviewable:Hajas la sutga suenter!|special:[Hajas][la][sutga][suenter!]|id:L9tluW1yb10f}
+{type:WriteWords|question:Go to Japan! (pl)|answer:[Mei a Giapun!]|answerviewable:Mei a Giapun!|special:[Mei][a][Giapun!]|id:klQUuq1bir1M}
+{type:WriteWords|question:Eat the beef! (pl)|answer:[Mangiei la charn-bov!]|answerviewable:Mangiei la charn-bov!|special:[Mangiei][la][charn-bov!]|id:eIF18AN5vyGY}
+{type:WriteWords|question:Put the onion on the chair! (pl)|answer:[Mettai la tschagula sin la sutga!]|answerviewable:Mettai la tschagula sin la sutga!|special:[Mettai][la][tschagula][sin][la][sutga!]|id:apgzymUC4vw2}
+{type:PickWords|question:Have the chair later!|options:[la][sutga][ina][Mettai][suenter][tartuffel][Hajas]|answer:Hajaslasutgasuenter!|answerviewable:Hajas la sutga suenter!|id:LLOkC1lMaYRk}
+{type:PickWords|question:Play football with my grandfather!|options:[la][mes][tat][ballape][Dai][cun][pasta]|answer:Daiballapecunmestat!|answerviewable:Dai ballape cun mes tat!|id:9W9cBwgtO7TQ}
+{type:WriteWords|question:Play football with my grandfather!|answer:[Dai ballape cun mes tat!]|answerviewable:Dai ballape cun mes tat!|special:[Dai][ballape][cun][mes][tat!]|id:3AW5ylWK3PsR}
+{type:WriteWords|question:Eat my tomato! (pl)|answer:[Mangiei mia tomata!]|answerviewable:Mangiei mia tomata!|special:[Mangiei][mia][tomata!]|id:MjAFcHzYUUMl}
+{type:PickOneMeaning|question:The speaker is saying:|speech:La nusch|options:[The nut][Put! (sg)][The knife]|answer:The nut|id:Py3Icd5Mo37W}
+{type:WriteWords|question:Be here at midnight!|answer:[Sajas qua da mesanotg!]|answerviewable:Sajas qua da mesanotg!|special:[Sajas][qua][da][mesanotg!]|id:zfS3SrT9Fik8}
+{type:WriteWords|question:Play an enjoyable game! (pl)|answer:[Dei in gieu divertent!]|answerviewable:Dei in gieu divertent!|special:[Dei][in][gieu][divertent!]|id:alJG1fh6EgiB}
+</lesson>
+<lesson:24|id:jz6CRhTvd2K6>
+{type:PickWords|question:Put the chair on the floor!|options:[Metta][oz][palantschieu][la][sin][il][sutga][Mangia]|answer:Mettalasutgasinilpalantschieu!|answerviewable:Metta la sutga sin il palantschieu!|id:aUkp8JOdYl5E}
+{type:WriteWords|question:Eat the beef! (pl)|answer:[Mangiei la charn-bov!]|answerviewable:Mangiei la charn-bov!|special:[Mangiei][la][charn-bov!]|id:Wwd0CWml8trq}
+{type:PickOne|question:Mangia!|options:[Eat! (sg)][Have!][Play! (pl)]|answer:Eat! (sg)|id:FW42savUTxVd}
+{type:PickWords|question:Eat the beef! (pl)|options:[Spagna][charn-bov][ussa][suenter][la][Mangiei]|answer:Mangieilacharn-bov!|answerviewable:Mangiei la charn-bov!|id:dutgx6QZIeMt}
+{type:WriteWords|question:Go to a post office! (pl)|answer:[Mei ad ina posta!]|answerviewable:Mei ad ina posta!|special:[Mei][ad][ina][posta!]|id:S6ajYOrXLec4}
+{type:WriteWords|question:Put the bed there!|answer:[Metta il letg là!]|answerviewable:Metta il letg là!|special:[Metta][il][letg][là!]|id:IgcBR5D2828J}
+{type:Match|question:Select the matching words|options:[Mei!:Go! (pl)][Hajas!:Have!][Durmi!:Sleep! (pl)][Dorma!:Sleep! (sg)]|id:cMeb3xH64kgw}
+{type:WriteWords|question:Have the chair later!|answer:[Hajas la sutga suenter!]|answerviewable:Hajas la sutga suenter!|special:[Hajas][la][sutga][suenter!]|id:uA4lF5bLEWeW}
+{type:WriteWords|question:Put the bed there!|answer:[Metta il letg là!]|answerviewable:Metta il letg là!|special:[Metta][il][letg][là!]|id:4cnPj7GCjIze}
+{type:WriteWords|question:Play cricket now! (pl)|answer:[Dei cricket ussa!]|answerviewable:Dei cricket ussa!|special:[Dei]|id:av5lyHvfyxhg}
+{type:WriteWords|question:Play an enjoyable game! (pl)|answer:[Dei in gieu divertent!]|answerviewable:Dei in gieu divertent!|special:[Dei][in][gieu][divertent!]|id:g3zz228lg20l}
+{type:WriteWords|question:Be in an apartment!|answer:[Sajas en in'abitaziun!]|answerviewable:Sajas en in'abitaziun!|special:[Sajas][en][in'abitaziun!]|id:ZckAGceRy2bb}
+{type:WriteWords|question:Go to Japan! (pl)|answer:[Mei a Giapun!]|answerviewable:Mei a Giapun!|special:[Mei][a][Giapun!]|id:qZadK5OngpXl}
+{type:PickOneMeaning|question:The speaker is saying:|speech:Il cunti|options:[The knife][Make! (pl)][The dressing]|answer:The knife|id:rfpTnSTHwkVQ}
+{type:Match|question:Select the matching words|options:[Dai!:Play! (sg)][Durmi!:Sleep! (pl)][Sajas!:Be!][Dei!:Play! (pl)]|id:GPF0pS00ltA3}
+{type:WriteWords|question:Be in an apartment!|answer:[Sajas en in'abitaziun!]|answerviewable:Sajas en in'abitaziun!|special:[Sajas][en][in'abitaziun!]|id:C6dC7bHdEm4F}
+{type:PickMissingWord|question:___Vai___ a Spagna!|options:[Faschai!][Dorma!][In'erva][Vai]|answer:Vai|id:4TRd1JZ3TDoG}
+{type:PickMissingWord|question:Faschai ina ___chasa___!|options:[Mangia!][La salata][Dei!][chasa]|answer:chasa|id:0FIy6JW0Lvss}
+{type:PickWords|question:Make my coffee! (pl)|options:[mes][Mettai][a][café][charn-bov][ussa][Faschai][il]|answer:Faschaimescafé!|answerviewable:Faschai mes café!|id:qN53tUv4wJQN}
+</lesson>
+<lesson:25|id:xW1DzEk556Oy>
+{type:WriteWords|question:Play an enjoyable game! (pl)|answer:[Dei in gieu divertent!]|answerviewable:Dei in gieu divertent!|special:[Dei][in][gieu][divertent!]|id:Z1AySW7uOeX4}
+{type:WriteWords|question:Be in an apartment!|answer:[Sajas en in'abitaziun!]|answerviewable:Sajas en in'abitaziun!|special:[Sajas][en][in'abitaziun!]|id:4DHJygRIKaS3}
+{type:PickWords|question:Make a croissant now!|options:[cornet][ussa][Fai][in]|answer:Faiincornetussa!|answerviewable:Fai in cornet ussa!|id:37C27jS2MVqA}
+{type:WriteWords|question:Go to Japan! (pl)|answer:[Mei a Giapun!]|answerviewable:Mei a Giapun!|special:[Mei][a][Giapun!]|id:ECuM00pzNZvo}
+{type:WriteWords|question:Make pasta for my brother!|answer:[Fai pasta per mes frar!]|answerviewable:Fai pasta per mes frar!|special:[Fai][pasta][per][mes][frar!]|id:qeDxXusRwKkb}
+{type:WriteWords|question:Be here at midnight!|answer:[Sajas qua da mesanotg!]|answerviewable:Sajas qua da mesanotg!|special:[Sajas][qua][da][mesanotg!]|id:DBYWYzrpfQlV}
+{type:WriteWords|question:Put the chair on the floor!|answer:[Metta la sutga sin il palantschieu!]|answerviewable:Metta la sutga sin il palantschieu!|special:[Metta][la][sutga][sin][il][palantschieu!]|id:8kSRULE9sRW5}
+{type:WriteWords|question:Go to Japan! (pl)|answer:[Mei a Giapun!]|answerviewable:Mei a Giapun!|special:[Mei][a][Giapun!]|id:lymDwCfbKRHI}
+{type:PickWords|question:Make my coffee! (pl)|options:[da][il][mes][Faschai][café][tartuffel][ad]|answer:Faschaimescafé!|answerviewable:Faschai mes café!|id:6auB5hqqXiFo}
+{type:PickOne|question:Mangiei!|options:[Eat! (pl)][Put! (sg)][Sleep! (sg)]|answer:Eat! (pl)|id:aI4nd6Uq9xWh}
+{type:PickMissingWord|question:Hajas ina ___stgaffa___!|options:[Faschai!][La charn vadi][La scadiola][stgaffa]|answer:stgaffa|id:FVPCmQXZYu1w}
+{type:WriteWords|question:Make a house! (pl)|answer:[Faschai ina chasa!]|answerviewable:Faschai ina chasa!|special:[Faschai][ina][chasa!]|id:CKpqhAKioXb5}
+{type:Match|question:Select the matching words|options:[Fai!:Make! (sg)][Hajas!:Have!][Dei!:Play! (pl)][Dorma!:Sleep! (sg)]|id:QzRaDsdAtJiM}
+{type:WriteWords|question:Have a cupboard!|answer:[Hajas ina stgaffa!]|answerviewable:Hajas ina stgaffa!|special:[Hajas][ina][stgaffa!]|id:4VniqvvPMlbD}
+{type:PickMissingWord|question:Metta la ___sutga___ sin il palantschieu!|options:[La nusch][sutga][Dorma!][Il cunti]|answer:sutga|id:IFbnzeGoPj4z}
+{type:WriteWords|question:Go to a post office! (pl)|answer:[Mei ad ina posta!]|answerviewable:Mei ad ina posta!|special:[Mei][ad][ina][posta!]|id:ODQTRAazfvLX}
+{type:PickWords|question:Go to a post office! (pl)|options:[ad][ina][Metta][Mei][ussa][posta]|answer:Meiadinaposta!|answerviewable:Mei ad ina posta!|id:BmreuCiGwRRu}
+{type:PickOneMeaning|question:The speaker is saying:|speech:Mangiei!|options:[Go! (pl)][The sausage][Eat! (pl)]|answer:Eat! (pl)|id:L15ijC7kUqSK}
+{type:Match|question:Select the matching words|options:[Mangiei!:Eat! (pl)][Sajas!:Be!][Mettai!:Put! (pl)][Faschai!:Make! (pl)]|id:sWkfr5Z5mfPK}
+</lesson>
+</skill>
+<skill:Make indefinite sentences|image:where|lessonsperlevel:3|strokecolor:244,67,54|fillcolor:0,0,0|position:3b|description:Learn how to make sentences that are less specific|id:xu4ABZ8oIeNX>
+<lesson:1|id:5SbgPnN9Hvxm>
+{type:PickOne|question:New PickOne Question?|options:[Option A][Option B][Option C]|answer:Option A|id:rGi94tFDkztw}
+{type:FlashCard|front:New FlashCard Front|back:New FlashCard Back|id:bqDn95k6KWwh}
+</lesson>
+</skill>
+<skill:School|image:apple|lessonsperlevel:3|strokecolor:244,67,54|fillcolor:0,0,0|position:3a|description:Learn different school subjects and other vocabulary about school in romansh|id:BdJzfJqnx2O0>
+<lesson:1|id:ijNa7ldaITa8>
+{type:PickOne|question:New PickOne Question?|options:[Option A][Option B][Option C]|answer:Option A|id:9O20LSeQEU5d}
+{type:FlashCard|front:New FlashCard Front|back:New FlashCard Back|id:RTeJpYdNcUe1}
+</lesson>
+</skill>
+</unit>

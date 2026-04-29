@@ -1,0 +1,8 @@
+<unit:6>
+<skill:New Skill|image:apple|lessonsperlevel:3|strokecolor:65,71,155|fillcolor:255,75,85|position:1|description:Enter skill description here.|id:GOIKpGg4oEkH>
+<lesson:1|id:ZQOcY82skFnA>
+{type:PickOne|question:New PickOne Question?|options:[Option A][Option B][Option C]|answer:Option A|id:qcaIhAkEaQzF}
+{type:FlashCard|front:New FlashCard Front|back:New FlashCard Back|id:Tu5pubj4VVHD}
+</lesson>
+</skill>
+</unit>

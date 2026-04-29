@@ -1,0 +1,1048 @@
+<unit:0>
+<skill:Greetings|image:hello|lessonsperlevel:1|strokecolor:65,71,155|fillcolor:255,75,85|position:0|description:Learn how to greet someone and ask how they're doing in Romansh|id:LMJskZwdHsKZ>
+<lesson:1|id:LHzC4lW3AFQ3>
+{type:FlashCard|front:Good night|back:Buna notg|id:pR1gPS0hMqJO}
+{type:FlashCard|front:Good evening/Good afternoon|back:Buna saira|id:b3L3zrHI1B7D}
+{type:PickOneMeaning|question:The speaker is saying:|speech:Nausch|options:[Very well][Good morning][Bad]|answer:Bad|id:c8Dm1LFLR7Py}
+{type:PickOneMeaning|question:The speaker is saying:|speech:Fitg bain|options:[Bad][And you?][Very well]|answer:Very well|id:QAgTWdMNRclz}
+{type:FlashCard|front:Hello|back:Allegra|id:RDDF701L7gKr}
+{type:PickOneMeaning|question:The speaker is saying:|speech:Co vai?|options:[Bad][Good morning][How are you?]|answer:How are you?|id:wvz80P0EgKy5}
+{type:PickOneMeaning|question:The speaker is saying:|speech:Co vai?|options:[Good morning][Good night][How are you?]|answer:How are you?|id:A2TwMxftXlG4}
+{type:FlashCard|front:Well|back:Bain|id:CdwBlGehzumC}
+{type:PickOneMeaning|question:The speaker is saying:|speech:Co vai?|options:[Very well][How are you?][Thank you]|answer:How are you?|id:j7xib2rHm53r}
+{type:FlashCard|front:Thank you|back:Grazia|id:WEyBf3t06JYe}
+{type:FlashCard|front:Thank you|back:Grazia|id:TTTwdSNMB94s}
+{type:FlashCard|front:Good evening/Good afternoon|back:Buna saira|id:8eZu8x1ssUZN}
+</lesson>
+<lesson:2|id:tKOglKl7DDxA>
+{type:PickOneMeaning|question:The speaker is saying:|speech:Nausch|options:[Hello][Bad][Good morning]|answer:Bad|id:ddhz38CVtTxq}
+{type:PickMissingWord|question:___Allegra___, co vai?|options:[Allegra][Buna notg][Nausch][E ti?]|answer:Allegra|id:WezvOPIIoliy}
+{type:PickWords|question:Very well thanks|options:[grazia][ti][Nausch][Fitg][e][vai][saira][bain]|answer:Fitgbain,grazia|answerviewable:Fitg bain, grazia|id:RQSCRJwr2QSt}
+{type:PickWords|question:Allegra, co vai?|options:[are][how][Hello][you]|answer:Hello,howareyou?|answerviewable:Hello, how are you?|id:FGlcbR7P4cGf}
+{type:Match|question:Select the matching words|options:[Buna notg:Good night][Fitg bain:Very well][Nausch:Bad][Bain:Well]|id:TrJnFEwEl5Da}
+{type:PickWords|question:Thank you, and you?|options:[ti][e][Grazia]|answer:Grazia,eti?|answerviewable:Grazia, e ti?|id:MISTdhkv7GSD}
+{type:PickWords|question:Good morning, how are you?|options:[ti][e][Co][Fitg][Buna][Nausch][Bun][di][vai]|answer:Bundi,Covai?|answerviewable:Bun di, Co vai?|id:BAKC9gbgtZae}
+{type:PickWords|question:Very well thanks|options:[Fitg][Bun][Buna][co][bain][grazia]|answer:Fitgbain,grazia|answerviewable:Fitg bain, grazia|id:HWE87NgcjXEa}
+{type:PickOneMeaning|question:The speaker is saying:|speech:Allegra|options:[Good night][How are you?][Hello]|answer:Hello|id:OODdcAARSM3F}
+{type:PickWords|question:Bun di, Co vai?|options:[morning][how][are][you][Good][evening]|answer:Goodmorning,howareyou?|answerviewable:Good morning, how are you?|id:O4tWaHpbYXjo}
+{type:Match|question:Select the matching words|options:[Grazia:Thank you][Buna notg:Good night][Fitg bain:Very well][Buna saira:Good evening/Good afternoon]|id:6Jr4CGgWHN6c}
+{type:PickOneMeaning|question:The speaker is saying:|speech:Allegra|options:[And you?][Hello][Good night]|answer:Hello|id:N3rV9AiLke6Z}
+{type:PickOne|question:Grazia|options:[Thank you][Bad][Good evening/Good afternoon]|answer:Thank you|id:0srHwDJHGmVK}
+{type:Match|question:Select the matching words|options:[Bun di:Good morning][Allegra:Hello][Nausch:Bad][Buna notg:Good night]|id:hNWkMBL60R42}
+{type:PickWords|question:Bain, e ti?|options:[you][Well][and]|answer:Well,andyou?|answerviewable:Well, and you?|id:yJLSh3vlXDsh}
+{type:PickMissingWord|question:Allegra, co ___vai___?|options:[Bain][Allegra][Co vai?][vai]|answer:vai|id:AoYKyORCZiOU}
+</lesson>
+<lesson:3|id:1Un7Jw5XUuP6>
+{type:WriteWords|question:Nausch, grazia|answer:Badly, thank you|answerviewable:Badly, thank you|special:[Badly,][thank][you]|id:XnahfJ1ar6iz}
+{type:Match|question:Select the matching words|options:[Bain:Well][Nausch:Bad][Buna notg:Good night][Co vai?:How are you?]|id:wnXjYGHdxiFn}
+{type:WriteWords|question:Bun di, Co vai?|answer:Good morning, how are you?|answerviewable:Good morning, how are you?|special:[Good][morning,][how][are][you?]|id:qMHL8NqXLSWG}
+{type:PickMissingWord|question:Buna ___saira___, co vai?|options:[saira][Fitg bain][Bun di][Bain]|answer:saira|id:GoxPVJVaqeCW}
+{type:PickOneMeaning|question:The speaker is saying:|speech:Buna notg|options:[Good night][Bad][Good evening/Good afternoon]|answer:Good night|id:cU1rBGhRDQgA}
+{type:Match|question:Select the matching words|options:[Fitg bain:Very well][Bun di:Good morning][Buna saira:Good evening/Good afternoon][E ti?:And you?]|id:V1NO51ZM7mKT}
+{type:PickOneMeaning|question:The speaker is saying:|speech:Bun di|options:[Thank you][Hello][Good morning]|answer:Good morning|id:FuKQTHONTMlp}
+{type:WriteWords|question:How are you? Very well, thank you|answer:Co vai? Fitg bain, grazia|answerviewable:Co vai? Fitg bain, grazia|special:[Co][vai?][Fitg][bain,][grazia]|id:1S1nLnUSSOIx}
+{type:PickWords|question:Good evening, how are you?|options:[vai][co][saira][Buna]|answer:Bunasaira,covai?|answerviewable:Buna saira, co vai?|id:M59LIwetOar0}
+{type:PickOne|question:E ti?|options:[And you?][Well][Bad]|answer:And you?|id:xwfAlzHaoYgm}
+{type:PickMissingWord|question:___Nausch___, e ti?|options:[Buna saira][Bun di][Allegra][Nausch]|answer:Nausch|id:rp217QmX1XlH}
+{type:PickWords|question:Well, and you?|options:[Bain][e][Buna][ti][grazia]|answer:Bain,eti?|answerviewable:Bain, e ti?|id:bmCoHqW2TFCb}
+{type:WriteWords|question:Grazia, e ti?|answer:Thank you, and you?|answerviewable:Thank you, and you?|special:[Thank][you,][and][you?]|id:YyluH5gcTG6o}
+{type:WriteWords|question:Good morning, how are you?|answer:Bun di, Co vai?|answerviewable:Bun di, Co vai?|special:[Bun][di,][Co][vai?]|id:bj4flX0V7ORN}
+{type:PickMissingWord|question:___Bain___, e ti?|options:[Grazia][Allegra][Bain][Co vai?]|answer:Bain|id:ZWb7xh3x3VUZ}
+{type:PickWords|question:Allegra, co vai?|options:[are][how][Hello][evening][you]|answer:Hello,howareyou?|answerviewable:Hello, how are you?|id:Qhe5IqbfKFTG}
+{type:WriteWords|question:Good evening, how are you?|answer:Buna saira, co vai?|answerviewable:Buna saira, co vai?|special:[Buna][saira,][co][vai?]|id:pvHRipEJH1pk}
+</lesson>
+<lesson:4|id:W31TaMCURZEO>
+{type:PickMissingWord|question:___Fitg___ bain, grazia|options:[Nausch][Fitg][Co vai?][Allegra]|answer:Fitg|id:qYP9tAaYJt8o}
+{type:PickOne|question:Grazia|options:[Bad][How are you?][Thank you]|answer:Thank you|id:FB2Bjan0Gl0H}
+{type:WriteWords|question:Hello, how are you?|answer:Allegra, co vai?|answerviewable:Allegra, co vai?|special:[Allegra,][co][vai?]|id:VYrDZRdzg2yf}
+{type:WriteWords|question:How are you? Very well, thank you|answer:Co vai? Fitg bain, grazia|answerviewable:Co vai? Fitg bain, grazia|special:[Co][vai?][Fitg][bain,][grazia]|id:tFfq4IpgRpgM}
+{type:PickMissingWord|question:Grazia, ___e___ ti?|options:[e][Bain][Fitg bain][Buna saira]|answer:e|id:MpPq7UHWYa7R}
+{type:WriteWords|question:Grazia, e ti?|answer:Thank you, and you?|answerviewable:Thank you, and you?|special:[Thank][you,][and][you?]|id:emxb8wgG05Aa}
+{type:Match|question:Select the matching words|options:[Fitg bain:Very well][Bain:Well][E ti?:And you?][Nausch:Bad]|id:2XWLIbwxNKbs}
+{type:WriteWords|question:Bain, e ti?|answer:Well, and you?|answerviewable:Well, and you?|special:[Well,][and][you?]|id:iCDn7uA7ZeE7}
+{type:PickWords|question:Bain, e ti?|options:[you][Well][morning][how][evening][and][are][Hello]|answer:Well,andyou?|answerviewable:Well, and you?|id:vg5Ec6yjZg1L}
+{type:PickOneMeaning|question:The speaker is saying:|speech:Nausch|options:[Bad][Good evening/Good afternoon][Hello]|answer:Bad|id:lgvHnLNb31hY}
+{type:WriteWords|question:Thank you, and you?|answer:Grazia, e ti?|answerviewable:Grazia, e ti?|special:[Grazia,][e][ti?]|id:dOE3khb2FQY0}
+{type:WriteWords|question:Hello, how are you?|answer:Allegra, co vai?|answerviewable:Allegra, co vai?|special:[Allegra,][co][vai?]|id:SKpNc0k0vajU}
+{type:PickWords|question:Well, and you?|options:[Bain][Nausch][ti][co][Grazia][Buna][e]|answer:Bain,eti?|answerviewable:Bain, e ti?|id:8CxYyxl6JhXa}
+{type:WriteWords|question:Grazia, e ti?|answer:Thank you, and you?|answerviewable:Thank you, and you?|special:[Thank][you,][and][you?]|id:pbnKRAO4kQ4G}
+{type:PickWords|question:Grazia, e ti?|options:[you][Thank][and][you]|answer:Thankyou,andyou?|answerviewable:Thank you, and you?|id:r4MFKyeaKn9m}
+{type:WriteWords|question:Bain, e ti?|answer:Well, and you?|answerviewable:Well, and you?|special:[Well,][and][you?]|id:CbSsxEmqM57c}
+{type:Match|question:Select the matching words|options:[Allegra:Hello][E ti?:And you?][Grazia:Thank you][Fitg bain:Very well]|id:BYpH42XjJR64}
+</lesson>
+<lesson:5|id:pAdvxh6yfZDu>
+{type:WriteWords|question:Badly, thank you|answer:Nausch, grazia|answerviewable:Nausch, grazia|special:[Nausch,][grazia]|id:DPzozQLEYYHI}
+{type:PickOneMeaning|question:The speaker is saying:|speech:Bun di|options:[Good morning][Very well][Good night]|answer:Good morning|id:ZqJxIkzAm02q}
+{type:PickMissingWord|question:___Bain___, e ti?|options:[Nausch][Bun di][Buna notg][Bain]|answer:Bain|id:8SGfUX2Fslil}
+{type:Match|question:Select the matching words|options:[Allegra:Hello][Grazia:Thank you][Nausch:Bad][Buna notg:Good night]|id:knovHxCL2gii}
+{type:WriteWords|question:Bun di, Co vai?|answer:Good morning, how are you?|answerviewable:Good morning, how are you?|special:[Good][morning,][how][are][you?]|id:Q8OBcOLuoOXm}
+{type:PickMissingWord|question:Bun di, ___Co___ vai?|options:[E ti?][Co][Nausch][Allegra]|answer:Co|id:v6CiDVKuPazR}
+{type:WriteWords|question:Badly, thank you|answer:Nausch, grazia|answerviewable:Nausch, grazia|special:[Nausch,][grazia]|id:FAu4SFIHZNNS}
+{type:WriteWords|question:Good morning, how are you?|answer:Bun di, Co vai?|answerviewable:Bun di, Co vai?|special:[Bun][di,][Co][vai?]|id:oOaQH4dwY9eB}
+{type:WriteWords|question:Co vai? Fitg bain, grazia|answer:How are you? Very well, thank you|answerviewable:How are you? Very well, thank you|special:[How][are][you?][Very][well,][thank][you]|id:Ks1BBB4Jo1eu}
+{type:WriteWords|question:Well, and you?|answer:Bain, e ti?|answerviewable:Bain, e ti?|special:[Bain,][e][ti?]|id:aUuri11OjRbt}
+{type:PickWords|question:Nausch, grazia|options:[and][well][Badly][you][thank][how]|answer:Badly,thankyou|answerviewable:Badly, thank you|id:tgeOv1MaCD3G}
+{type:WriteWords|question:Buna saira, co vai?|answer:Good evening, how are you?|answerviewable:Good evening, how are you?|special:[Good][evening,][how][are][you?]|id:us7S5ZIB5lxA}
+{type:WriteWords|question:Bun di, Co vai?|answer:Good morning, how are you?|answerviewable:Good morning, how are you?|special:[Good][morning,][how][are][you?]|id:j3z9MzQ8Mswr}
+{type:WriteWords|question:Badly, and you?|answer:Nausch, e ti?|answerviewable:Nausch, e ti?|special:[Nausch,][e][ti?]|id:UXTweLzBL89P}
+{type:PickWords|question:Hello, how are you?|options:[co][Allegra][vai]|answer:Allegra,covai?|answerviewable:Allegra, co vai?|id:EKqJ9fMuqMce}
+{type:PickOne|question:Fitg bain|options:[Very well][Bad][Well]|answer:Very well|id:NYjS1k0FLed2}
+{type:Match|question:Select the matching words|options:[Grazia:Thank you][Buna saira:Good evening/Good afternoon][E ti?:And you?][Fitg bain:Very well]|id:jp5NsghveWKP}
+{type:WriteWords|question:Nausch, e ti?|answer:Badly, and you?|answerviewable:Badly, and you?|special:[Badly,][and][you?]|id:VFq5Mq4ytjTt}
+</lesson>
+</skill>
+<skill:To be|image:human|lessonsperlevel:1|strokecolor:65,71,155|fillcolor:255,75,85|position:0|description:Learn how to conjugate the verb "to be" in Romansh|id:nFK3ScZjJWwo>
+<lesson:1|id:ESJkLN78BRUT>
+{type:PickOneMeaning|question:The speaker is saying:|speech:Ella è|options:[You are][How are you?][She is]|answer:She is|id:vcHXeIj0ohvz}
+{type:FlashCard|front:I am|back:Jau sun|id:6aixG8ogXJrb}
+{type:PickOneMeaning|question:The speaker is saying:|speech:Fitg bain|options:[She is][Very well][We are]|answer:Very well|id:XOQZJFlbx47H}
+{type:FlashCard|front:We are|back:Nus essan|id:RN72GUjW42Rk}
+{type:PickOneMeaning|question:The speaker is saying:|speech:Ti es|options:[Good night][You are][Very well]|answer:You are|id:MGtSXB0rkCiO}
+{type:PickOneMeaning|question:The speaker is saying:|speech:Nausch|options:[Well][Good morning][Bad]|answer:Bad|id:uczSFpUMu9HY}
+{type:FlashCard|front:She is|back:Ella è|id:3nurncuAY0TQ}
+{type:FlashCard|front:You (pl) are|back:Vus essas|id:GyYRnVhrElF6}
+{type:FlashCard|front:They are|back:Els èn|id:tjmepvwbjQH1}
+{type:PickOneMeaning|question:The speaker is saying:|speech:Bain|options:[We are][Very well][Well]|answer:Well|id:ciGe0efx1DOv}
+{type:FlashCard|front:I am|back:Jau sun|id:ow6LddMt3RHW}
+{type:FlashCard|front:He is|back:El è|id:y0irM8lJCJo8}
+</lesson>
+<lesson:2|id:7jxizczCO7rp>
+{type:FlashCard|front:We are|back:Nus essan|id:kf8Pkmo90ZYR}
+{type:PickWords|question:She is very well|options:[nausch][els][Ella][e][fitg][bain][è]|answer:Ellaèfitgbain|answerviewable:Ella è fitg bain|id:XnzuQSFGcUF7}
+{type:PickMissingWord|question:___El___ è bain|options:[Buna saira][Vus essas][El][Els èn]|answer:El|id:cApcoJtwhb5w}
+{type:PickWords|question:She is very well|options:[grazia][vai][fitg][co][è][di][bain][Ella]|answer:Ellaèfitgbain|answerviewable:Ella è fitg bain|id:Z1ivfU7FPIkZ}
+{type:PickOne|question:Nus essan|options:[He is][We are][She is]|answer:We are|id:WCz62o2uys6n}
+{type:PickWords|question:Jau sun nausch, e ti?|options:[evening][Very][are][you][I][and][am][morning][bad]|answer:Iambad,andyou?|answerviewable:I am bad, and you?|id:2O5AVRDAIS1F}
+{type:PickWords|question:El è bain|options:[is][He][She][well]|answer:Heiswell|answerviewable:He is well|id:Xr6TDICdglEB}
+{type:PickOneMeaning|question:The speaker is saying:|speech:Buna notg|options:[We are][Good morning][Good night]|answer:Good night|id:K9HmQFMYLk5D}
+{type:Match|question:Select the matching words|options:[Ti es:You are][Ella è:She is][Vus essas:You (pl) are][Nus essan:We are]|id:2rmTVxV8132m}
+{type:PickWords|question:I am bad, and you?|options:[ti][sun][e][es][nausch][Jau][els][Èn][El]|answer:Jausunnausch,eti?|answerviewable:Jau sun nausch, e ti?|id:qUBcWTZkd7Oy}
+{type:Match|question:Select the matching words|options:[Nus essan:We are][Vus essas:You (pl) are][Ella è:She is][Els èn:They are]|id:pEo3mR2Xsu1w}
+{type:PickWords|question:Jau sun bain, grazia|options:[are][am][you][well][bad][is][I][thank]|answer:Iamwell,thankyou|answerviewable:I am well, thank you|id:rHjcWegJ1scw}
+{type:FlashCard|front:They are|back:Els èn|id:jmrfIt8f2JPe}
+{type:PickWords|question:You are well|options:[è][Ella][Ti][bain][Allegra][els][es]|answer:Tiesbain|answerviewable:Ti es bain|id:kRzFqef3gzq6}
+{type:Match|question:Select the matching words|options:[Nausch:Bad][Bun di:Good morning][Grazia:Thank you][Ti es:You are]|id:GLWIqhnBHuaT}
+{type:PickMissingWord|question:___Èn___ els?|options:[Grazia][Èn][Bain][Nausch]|answer:Èn|id:HL8RhQ80KjP4}
+</lesson>
+<lesson:3|id:jqYH0nMm0hoK>
+{type:PickWords|question:He is well|options:[Jau][ti][è][Èn][Es][e][El][bain]|answer:Elèbain|answerviewable:El è bain|id:UQrHxQ4FA7Os}
+{type:WriteWords|question:She is very well|answer:Ella è fitg bain|answerviewable:Ella è fitg bain|special:[Ella][è][fitg][bain]|id:rzylBGhzx8dd}
+{type:WriteWords|question:You are well|answer:Ti es bain|answerviewable:Ti es bain|special:[Ti][es][bain]|id:2JAHoh8sgDKI}
+{type:PickMissingWord|question:Èn ___els___?|options:[Buna notg][Vus essas][Ella è][els]|answer:els|id:XLAOALz0p9sk}
+{type:PickMissingWord|question:___Ella___ è fitg bain|options:[Jau sun][Co vai?][Nausch][Ella]|answer:Ella|id:5KAcNfvUim2w}
+{type:PickOneMeaning|question:The speaker is saying:|speech:Jau sun|options:[I am][She is][We are]|answer:I am|id:m2rPYaoXI4xY}
+{type:Match|question:Select the matching words|options:[Els èn:They are][Ti es:You are][Nus essan:We are][Jau sun:I am]|id:65XMdRsvwOBq}
+{type:WriteWords|question:I am well, thank you|answer:Jau sun bain, grazia|answerviewable:Jau sun bain, grazia|special:[Jau][sun][bain,][grazia]|id:w9eGwItVLSHV}
+{type:WriteWords|question:Ella è fitg bain|answer:She is very well|answerviewable:She is very well|special:[She][is][very][well]|id:5RNCvBmYhoci}
+{type:PickOne|question:Jau sun|options:[We are][You (pl) are][I am]|answer:I am|id:LFz3NscOXL6a}
+{type:PickWords|question:She is, and you?|options:[Ella][bain][e][grazia][Èn][ti][sun][Allegra][è]|answer:Ellaè,eti?|answerviewable:Ella è, e ti?|id:AtbH78UcRvzF}
+{type:PickWords|question:Ella è, e ti?|options:[they][and][you][She][is][Hello]|answer:Sheis,andyou?|answerviewable:She is, and you?|id:pkXbLuCuHdcE}
+{type:PickMissingWord|question:Èn ___els___?|options:[Ella è][Grazia][els][Els èn]|answer:els|id:B0hF4JBRsMSa}
+{type:Match|question:Select the matching words|options:[Ti es:You are][El è:He is][Ella è:She is][Jau sun:I am]|id:rarwJYqkHHd0}
+{type:WriteWords|question:El è bain|answer:He is well|answerviewable:He is well|special:[He][is][well]|id:bfj1PMBxtNiZ}
+{type:WriteWords|question:Ella è, e ti?|answer:She is, and you?|answerviewable:She is, and you?|special:[She][is,][and][you?]|id:aiQv7KMuk7wq}
+</lesson>
+<lesson:4|id:y4PmRYVz1O3J>
+{type:PickOneMeaning|question:The speaker is saying:|speech:Co vai?|options:[Thank you][How are you?][Bad]|answer:How are you?|id:miXLWKWBjyrK}
+{type:PickOne|question:Ella è|options:[I am][You are][She is]|answer:She is|id:wNhPLX6eZuub}
+{type:WriteWords|question:Hello, are you?|answer:Allegra, es ti?|answerviewable:Allegra, es ti?|special:[Allegra,][es][ti?]|id:fCr7KOzdK7ck}
+{type:PickWords|question:Ti es bain|options:[well][they][are][You][is][very][Hello]|answer:Youarewell|answerviewable:You are well|id:nTCbEsjdm8X7}
+{type:Match|question:Select the matching words|options:[Vus essas:You (pl) are][Jau sun:I am][El è:He is][Els èn:They are]|id:tTGcHYHsql8q}
+{type:WriteWords|question:Hello, are you?|answer:Allegra, es ti?|answerviewable:Allegra, es ti?|special:[Allegra,][es][ti?]|id:xH6H5OjXGhDt}
+{type:PickMissingWord|question:Ella è fitg ___bain___|options:[Buna saira][bain][Co vai?][Fitg bain]|answer:bain|id:11WFh6ZQdOeh}
+{type:WriteWords|question:He is well|answer:El è bain|answerviewable:El è bain|special:[El][è][bain]|id:Ef8X5965sveJ}
+{type:WriteWords|question:El è bain|answer:He is well|answerviewable:He is well|special:[He][is][well]|id:YCux86jRYaKm}
+{type:Match|question:Select the matching words|options:[Ella è:She is][Ti es:You are][Nus essan:We are][Jau sun:I am]|id:7msY4bYqFoqx}
+{type:WriteWords|question:She is very well|answer:Ella è fitg bain|answerviewable:Ella è fitg bain|special:[Ella][è][fitg][bain]|id:HcnfeqT1bOWu}
+{type:PickWords|question:She is, and you?|options:[bain][Ella][è][e][Jau][ti]|answer:Ellaè,eti?|answerviewable:Ella è, e ti?|id:UHdhJI7WbAMx}
+{type:WriteWords|question:Ti es bain|answer:You are well|answerviewable:You are well|special:[You][are][well]|id:x1unbO9T32xl}
+{type:PickMissingWord|question:Èn ___els___ bain?|options:[Ella è][els][Jau sun][Co vai?]|answer:els|id:YtDNaQqtS9mO}
+{type:WriteWords|question:Jau sun bain, grazia|answer:I am well, thank you|answerviewable:I am well, thank you|special:[I][am][well,][thank][you]|id:okAmKUNekL0O}
+{type:WriteWords|question:Jau sun nausch, e ti?|answer:I am bad, and you?|answerviewable:I am bad, and you?|special:[I][am][bad,][and][you?]|id:WAsTFTkMnEox}
+</lesson>
+<lesson:5|id:SJs9hhd6UOi4>
+{type:WriteWords|question:Are they?|answer:Èn els?|answerviewable:Èn els?|special:[Èn][els?]|id:rvXrRPzTaWPq}
+{type:WriteWords|question:Allegra, es ti?|answer:Hello, are you?|answerviewable:Hello, are you?|special:[Hello,][are][you?]|id:nYqlbmtplhYA}
+{type:WriteWords|question:I am bad, and you?|answer:Jau sun nausch, e ti?|answerviewable:Jau sun nausch, e ti?|special:[Jau][sun][nausch,][e][ti?]|id:UmHbrLDL7GNV}
+{type:WriteWords|question:You are well|answer:Ti es bain|answerviewable:Ti es bain|special:[Ti][es][bain]|id:hzygNXmCd01P}
+{type:WriteWords|question:Allegra, es ti?|answer:Hello, are you?|answerviewable:Hello, are you?|special:[Hello,][are][you?]|id:3geHDP2iRnA5}
+{type:PickMissingWord|question:Èn ___els___?|options:[Ti es][Jau sun][Buna saira][els]|answer:els|id:0y4Vac2s9E5Z}
+{type:PickOneMeaning|question:The speaker is saying:|speech:Els èn|options:[Well][Hello][They are]|answer:They are|id:s3HOwZBswZb0}
+{type:WriteWords|question:Jau sun bain, grazia|answer:I am well, thank you|answerviewable:I am well, thank you|special:[I][am][well,][thank][you]|id:1iz4Rkw7dWxV}
+{type:WriteWords|question:Jau sun bain, grazia|answer:I am well, thank you|answerviewable:I am well, thank you|special:[I][am][well,][thank][you]|id:VxTv4opEt0Lr}
+{type:PickOne|question:El è|options:[He is][She is][I am]|answer:He is|id:9TNakpGOBhx5}
+{type:PickWords|question:You are well|options:[Ti][es][e][sun][bain]|answer:Tiesbain|answerviewable:Ti es bain|id:pi7hzubbfvvX}
+{type:WriteWords|question:He is well|answer:El è bain|answerviewable:El è bain|special:[El][è][bain]|id:QfmN1Yh9JR8n}
+{type:Match|question:Select the matching words|options:[Els èn:They are][El è:He is][Ti es:You are][Jau sun:I am]|id:cYsiiLyAi9zk}
+{type:PickMissingWord|question:Jau sun bain, ___grazia___|options:[Vus essas][Els èn][Jau sun][grazia]|answer:grazia|id:xqEd514aJj5L}
+{type:Match|question:Select the matching words|options:[Vus essas:You (pl) are][Ti es:You are][El è:He is][Els èn:They are]|id:0p5N5Z8EvoOF}
+{type:PickWords|question:Allegra, es ti?|options:[bad][and][are][Hello][is][you][He][well]|answer:Hello,areyou?|answerviewable:Hello, are you?|id:IObUhVw396Sn}
+{type:WriteWords|question:Es ti bain?|answer:Are you well?|answerviewable:Are you well?|special:[Are][you][well?]|id:ipYQKc2jKc2Y}
+{type:WriteWords|question:Are they?|answer:Èn els?|answerviewable:Èn els?|special:[Èn][els?]|id:ePpmqWvMXsEY}
+</lesson>
+</skill>
+<skill:Basic phrases|image:blocks|lessonsperlevel:2|strokecolor:65,71,155|fillcolor:255,75,85|position:2|description:Basic words and phrases|id:fYKBLDeM3hzV>
+<lesson:1|id:tWYvelXpBLR0>
+{type:FlashCard|front:Mr|back:Il signur|id:foqHGaUqoahI}
+{type:FlashCard|front:No|back:Na|id:iS8IJr0Rjw3M}
+{type:PickOneMeaning|question:The speaker is saying:|speech:Il signur|options:[Good luck][He is][Mr]|answer:Mr|id:gGlZKpjNJqgN}
+{type:PickOneMeaning|question:The speaker is saying:|speech:Ti es|options:[Mr][You are][Mrs]|answer:You are|id:EokelIlBa0Yx}
+{type:FlashCard|front:Nice to meet you|back:Fa plaschair|id:r0DJZnWqNSWg}
+{type:PickOneMeaning|question:The speaker is saying:|speech:Il signur|options:[Mr][Please][We are]|answer:Mr|id:GrqlIEctMB92}
+{type:FlashCard|front:No|back:Na|id:ZcmuESSl3BLt}
+{type:PickOneMeaning|question:The speaker is saying:|speech:Gea|options:[Miss][Goodbye][Yes]|answer:Yes|id:DGuJKQ98NxOy}
+{type:FlashCard|front:Miss|back:La giuvna|id:O9hknCVCk9fN}
+{type:FlashCard|front:Mr|back:Il signur|id:2GoovmuzfGNH}
+{type:PickOneMeaning|question:The speaker is saying:|speech:Nus essan|options:[We are][Yes][Miss]|answer:We are|id:QbK1bXo7gt7H}
+{type:FlashCard|front:Miss|back:La giuvna|id:iT2kBta8JUms}
+</lesson>
+<lesson:2|id:vFvIo94b6crf>
+{type:FlashCard|front:Good luck|back:Buna fortuna|id:3hVCknAcYAUm}
+{type:FlashCard|front:Nice to meet you|back:Fa plaschair|id:FbxN6t5TAVSM}
+{type:FlashCard|front:Mrs|back:La dunna|id:dUFdh700QCe0}
+{type:FlashCard|front:Mr|back:Il signur|id:Vgq9060z4u8B}
+{type:PickOneMeaning|question:The speaker is saying:|speech:Fa plaschair|options:[He is][Nice to meet you][You (pl) are]|answer:Nice to meet you|id:BTuY2gdpgAMT}
+{type:FlashCard|front:Goodbye|back:A revair|id:noNPPdPKlgOI}
+{type:PickOneMeaning|question:The speaker is saying:|speech:Buna fortuna|options:[No][You are][Good luck]|answer:Good luck|id:FYNVE6uepN2C}
+{type:PickOneMeaning|question:The speaker is saying:|speech:Ti es|options:[Yes][Please][You are]|answer:You are|id:tnqW1vBz02nh}
+{type:FlashCard|front:Good luck|back:Buna fortuna|id:Ye5Ucroc3tSo}
+{type:FlashCard|front:Yes|back:Gea|id:YxaD5fGEM9EL}
+{type:PickOneMeaning|question:The speaker is saying:|speech:Per plaschair|options:[No][Please][My name is]|answer:Please|id:q6ifTemLHEAR}
+{type:PickOneMeaning|question:The speaker is saying:|speech:Vus essas|options:[She is][They are][You (pl) are]|answer:You (pl) are|id:7Xw3QoYIp6H6}
+</lesson>
+<lesson:3|id:cG7RFz11iW3f>
+{type:PickWords|question:Goodbye, Nando|options:[Nando][plaschair][revair][vai][Es][bain][A]|answer:Arevair,Nando|answerviewable:A revair, Nando|id:w2TDf8kCGZAS}
+{type:PickWords|question:Hello, nice to meet you|options:[plaschair][giuvna][Allegra][Fischer][bain][fa]|answer:Allegra,faplaschair|answerviewable:Allegra, fa plaschair|id:wipfzKxaCv6w}
+{type:PickWords|question:Buna notg, singur Fischer|options:[night][well][you][Goodbye][are][am][Good][Mr][Fischer]|answer:Goodnight,MrFischer|answerviewable:Good night, Mr Fischer|id:K9XPoMkfydLL}
+{type:PickWords|question:Buna saira, co vai?|options:[evening][nice][are][I][you][how][called][Good]|answer:Goodevening,howareyou?|answerviewable:Good evening, how are you?|id:2RtDrEuL5zph}
+{type:Match|question:Select the matching words|options:[La dunna:Mrs][A revair:Goodbye][Fa plaschair:Nice to meet you][Jau hai num:My name is]|id:2T61EA64t3BL}
+{type:PickWords|question:Good evening, how are you?|options:[è][co][vai][els][Èn][e][Buna][saira]|answer:Bunasaira,covai?|answerviewable:Buna saira, co vai?|id:7rHBF0N2wy8o}
+{type:PickOne|question:La giuvna|options:[Mr][My name is][Miss]|answer:Miss|id:cDPxxYcGj5bX}
+{type:Match|question:Select the matching words|options:[El è:He is][Els èn:They are][Nus essan:We are][Na:No]|id:WtJnoo3l4eBS}
+{type:PickMissingWord|question:A ___revair___, Nando|options:[revair][Fa plaschair][La giuvna][Il signur]|answer:revair|id:ewFmyuAAn0lw}
+{type:PickOneMeaning|question:The speaker is saying:|speech:Jau hai num|options:[He is][Miss][My name is]|answer:My name is|id:pO5XTbNb3PJ3}
+{type:PickMissingWord|question:Per plaschair, ___jau___ sun bain|options:[Na][La dunna][jau][Fa plaschair]|answer:jau|id:MUe3g6JCmiDU}
+{type:PickOneMeaning|question:The speaker is saying:|speech:Nus essan|options:[We are][They are][Mr]|answer:We are|id:zWCfLR53fBYM}
+{type:FlashCard|front:Goodbye|back:A revair|id:QV5pzdQh2r8H}
+{type:Match|question:Select the matching words|options:[Fa plaschair:Nice to meet you][Il signur:Mr][A revair:Goodbye][Na:No]|id:nAGgrgh8Dprk}
+{type:PickWords|question:Es ti bain? Gea|options:[She][you][they][well][is][Are][thank][Yes]|answer:Areyouwell?Yes|answerviewable:Are you well? Yes|id:vKvTxrdFDjaL}
+{type:FlashCard|front:Mr|back:Il signur|id:54aWEu3bZK4G}
+{type:PickWords|question:Nice to meet you, goodbye|options:[revair][Per][Fa][Nando][a][co][plaschair]|answer:Faplaschair,arevair|answerviewable:Fa plaschair, a revair|id:99frIA7HH75d}
+</lesson>
+<lesson:4|id:rzeNoI1hnocq>
+{type:FlashCard|front:Mr|back:Il signur|id:tTtL8ohZP3Dg}
+{type:PickWords|question:Bun di, Jau hai num dunna Fischer|options:[Good][nice][am][called][Fischer][you][is][well][Mrs][morning][goodbye][I]|answer:Goodmorning,IamcalledMrsFischer|answerviewable:Good morning, I am called Mrs Fischer|id:SCnfYJ6SuAem}
+{type:PickWords|question:Are you well? Yes|options:[e][ti][grazia][fitg][Es][bain][Gea][è]|answer:Estibain?Gea|answerviewable:Es ti bain? Gea|id:rbuJiKMctlbo}
+{type:PickWords|question:Good morning, I am called Mrs Fischer|options:[Bun][dunna][plaschair][Fischer][Jau][bain][Buna][di][hai][num][Fa][Gea]|answer:Bundi,JauhainumdunnaFischer|answerviewable:Bun di, Jau hai num dunna Fischer|id:PNAqoE1ZJKec}
+{type:PickMissingWord|question:___La___ giuvna Fischer|options:[Jau hai num][La][La dunna][El è]|answer:La|id:zZXlHbY03zJ4}
+{type:PickOne|question:La dunna|options:[Goodbye][Mrs][My name is]|answer:Mrs|id:pM0yvL6qBvff}
+{type:FlashCard|front:Mrs|back:La dunna|id:yIU9dazKpLt5}
+{type:Match|question:Select the matching words|options:[Nus essan:We are][Jau sun:I am][Ti es:You are][Per plaschair:Please]|id:nNYsDc1t6Jpl}
+{type:PickWords|question:Bun di, Jau hai num dunna Fischer|options:[called][am][they][well][Mrs][are][Good][is][morning][I][Fischer]|answer:Goodmorning,IamcalledMrsFischer|answerviewable:Good morning, I am called Mrs Fischer|id:ExlWoiqnAnc7}
+{type:PickOneMeaning|question:The speaker is saying:|speech:Per plaschair|options:[Please][You (pl) are][She is]|answer:Please|id:bxUh3bjDTzOj}
+{type:PickWords|question:Good luck, Mrs Fischer|options:[fortuna][Buna][Fischer][hai][dunna]|answer:Bunafortuna,dunnaFischer|answerviewable:Buna fortuna, dunna Fischer|id:jalkWZutKu3k}
+{type:Match|question:Select the matching words|options:[Fa plaschair:Nice to meet you][Gea:Yes][Il signur:Mr][A revair:Goodbye]|id:DZF3kuxjRoEk}
+{type:PickWords|question:La giuvna Fischer|options:[Mrs][very][Nando][you][Fischer][Miss]|answer:MissFischer|answerviewable:Miss Fischer|id:NXVIaJ06cxtH}
+{type:Match|question:Select the matching words|options:[La giuvna:Miss][Il signur:Mr][Per plaschair:Please][A revair:Goodbye]|id:YksN4wAtaoVY}
+{type:PickOneMeaning|question:The speaker is saying:|speech:Na|options:[No][Mr][I am]|answer:No|id:128xi3zwaCIf}
+{type:PickMissingWord|question:Fa ___plaschair___, a revair|options:[Els èn][plaschair][Jau sun][Na]|answer:plaschair|id:LJG4ZosOdEwL}
+{type:PickWords|question:Yes, my name is Mr Fischer|options:[singur][sun][jau][signur][Buna][hai][Gea][num][Fischer][fitg]|answer:Gea,jauhainumsignurFischer|answerviewable:Gea, jau hai num signur Fischer|id:fbQfAdJBvd2i}
+</lesson>
+<lesson:5|id:zLib4qdsXm07>
+{type:WriteWords|question:No, I am called Nando|answer:Na, jau hai num Nando|answerviewable:Na, jau hai num Nando|special:[Na,][jau][hai][num][Nando]|id:2UQcOBLAtixt}
+{type:PickOneMeaning|question:The speaker is saying:|speech:Gea|options:[Nice to meet you][Yes][No]|answer:Yes|id:xKbitTXoWMVJ}
+{type:Match|question:Select the matching words|options:[Per plaschair:Please][Gea:Yes][La giuvna:Miss][Na:No]|id:c2lovmrhPTLZ}
+{type:WriteWords|question:Fa plaschair, Nando|answer:Nice to meet you, Nando|answerviewable:Nice to meet you, Nando|special:[Nice][to][meet][you,][Nando]|id:IhEYqcsfeT9O}
+{type:PickOne|question:A revair|options:[Mrs][Goodbye][Good luck]|answer:Goodbye|id:61vqHzfrKENz}
+{type:WriteWords|question:Es ti bain? Gea|answer:Are you well? Yes|answerviewable:Are you well? Yes|special:[Are][you][well?][Yes]|id:X0o13bkqEeTN}
+{type:PickWords|question:Goodbye, Nando|options:[hai][A][revair][Nando]|answer:Arevair,Nando|answerviewable:A revair, Nando|id:75R9Zby2hc00}
+{type:Match|question:Select the matching words|options:[Gea:Yes][Il signur:Mr][La giuvna:Miss][Fa plaschair:Nice to meet you]|id:Zk8uJOBANrC0}
+{type:PickWords|question:Per plaschair, jau sun bain|options:[Please][am][Fischer][well][I][to]|answer:Please,Iamwell|answerviewable:Please, I am well|id:tMjZOwlDdAbV}
+{type:PickMissingWord|question:Allegra, ___fa___ plaschair|options:[A revair][Fa plaschair][Vus essas][fa]|answer:fa|id:UdfY1OinaBMS}
+{type:WriteWords|question:Nice to meet you, goodbye|answer:Fa plaschair, a revair|answerviewable:Fa plaschair, a revair|special:[Fa][plaschair,][a][revair]|id:q4VJ6r3AmfFk}
+{type:PickMissingWord|question:___Buna___ fortuna, dunna Fischer|options:[Gea][La giuvna][Ella è][Buna]|answer:Buna|id:EjUgb1bvEyvW}
+{type:WriteWords|question:Yes, my name is Mr Fischer|answer:Gea, jau hai num signur Fischer|answerviewable:Gea, jau hai num signur Fischer|special:[Gea,][jau][hai][num][signur][Fischer]|id:7jyuoGZtzYmP}
+{type:PickWords|question:No, I am called Nando|options:[co][di][jau][Na][Nando][Buna][hai][num]|answer:Na,jauhainumNando|answerviewable:Na, jau hai num Nando|id:z39wCZnmAS3J}
+{type:WriteWords|question:Es ti fitg bain? Na|answer:Are you very well? No|answerviewable:Are you very well? No|special:[Are][you][very][well?][No]|id:A3foaioa1bMg}
+{type:PickMissingWord|question:Fa plaschair, ___Nando___|options:[Buna fortuna][Nando][Vus essas][La giuvna]|answer:Nando|id:IMurPnP9xt4X}
+</lesson>
+<lesson:6|id:stn6g9X6tZOl>
+{type:WriteWords|question:Please, I am well|answer:Per plaschair, jau sun bain|answerviewable:Per plaschair, jau sun bain|special:[Per][plaschair,][jau][sun][bain]|id:cQigLWmzvtvi}
+{type:Match|question:Select the matching words|options:[A revair:Goodbye][Fa plaschair:Nice to meet you][Il signur:Mr][Gea:Yes]|id:PPOYsQAZ4TrS}
+{type:PickMissingWord|question:La ___giuvna___ Fischer|options:[La dunna][giuvna][Vus essas][Ella è]|answer:giuvna|id:C6oxx68YGa5e}
+{type:PickOneMeaning|question:The speaker is saying:|speech:La dunna|options:[Mrs][Yes][They are]|answer:Mrs|id:izYLCtalLCwE}
+{type:WriteWords|question:Goodbye, Nando|answer:A revair, Nando|answerviewable:A revair, Nando|special:[A][revair,][Nando]|id:7Iy6srdtic6N}
+{type:WriteWords|question:Buna notg, singur Fischer|answer:Good night, Mr Fischer|answerviewable:Good night, Mr Fischer|special:[Good][night,][Mr][Fischer]|id:L5ucsVVg9WlN}
+{type:WriteWords|question:Buna notg, singur Fischer|answer:Good night, Mr Fischer|answerviewable:Good night, Mr Fischer|special:[Good][night,][Mr][Fischer]|id:lCWWay8h4BBS}
+{type:PickOne|question:Na|options:[Yes][Goodbye][No]|answer:No|id:gA78hodgsXJB}
+{type:PickWords|question:Buna notg, singur Fischer|options:[No][Mr][Nice][Fischer][Good][night]|answer:Goodnight,MrFischer|answerviewable:Good night, Mr Fischer|id:9eJERqDipzUX}
+{type:PickMissingWord|question:___Buna___ fortuna, dunna Fischer|options:[A revair][El è][Buna][Jau hai num]|answer:Buna|id:JBRgda4OS8gF}
+{type:WriteWords|question:Buna fortuna, dunna Fischer|answer:Good luck, Mrs Fischer|answerviewable:Good luck, Mrs Fischer|special:[Good][luck,][Mrs][Fischer]|id:tQH0yuBf4HNu}
+{type:WriteWords|question:Yes, my name is Mr Fischer|answer:Gea, jau hai num signur Fischer|answerviewable:Gea, jau hai num signur Fischer|special:[Gea,][jau][hai][num][signur][Fischer]|id:SCAAmoSknkac}
+{type:Match|question:Select the matching words|options:[Il signur:Mr][La dunna:Mrs][Fa plaschair:Nice to meet you][La giuvna:Miss]|id:7vZMJj72DvPH}
+{type:PickWords|question:Good evening, how are you?|options:[Fa][hai][Buna][saira][co][vai][Nando][dunna]|answer:Bunasaira,covai?|answerviewable:Buna saira, co vai?|id:WDFjPy57fHCR}
+{type:PickMissingWord|question:Buna fortuna, ___dunna___ Fischer|options:[Il signur][La dunna][dunna][Na]|answer:dunna|id:QlAlCXfwMWWs}
+{type:PickWords|question:Miss Fischer|options:[ti][Fa][La][giuvna][Fischer][bain]|answer:LagiuvnaFischer|answerviewable:La giuvna Fischer|id:udVXjMoIqdOb}
+</lesson>
+<lesson:7|id:vWhGLxd1a2Gr>
+{type:PickOneMeaning|question:The speaker is saying:|speech:Nus essan|options:[We are][Good luck][Miss]|answer:We are|id:7EdVwq2Qt3NJ}
+{type:WriteWords|question:Buna notg, singur Fischer|answer:Good night, Mr Fischer|answerviewable:Good night, Mr Fischer|special:[Good][night,][Mr][Fischer]|id:fUHLN07wyJvQ}
+{type:WriteWords|question:Na, jau hai num Nando|answer:No, I am called Nando|answerviewable:No, I am called Nando|special:[No,][I][am][called][Nando]|id:uY1ohKtb9wg8}
+{type:WriteWords|question:Nice to meet you, goodbye|answer:Fa plaschair, a revair|answerviewable:Fa plaschair, a revair|special:[Fa][plaschair,][a][revair]|id:L9YMzsn3jyAa}
+{type:PickMissingWord|question:Na, jau hai num ___Nando___|options:[Na][Ella è][Nando][Els èn]|answer:Nando|id:QMTu8kMXmVw4}
+{type:PickWords|question:Miss Fischer|options:[vai][hai][Fischer][La][giuvna][plaschair]|answer:LagiuvnaFischer|answerviewable:La giuvna Fischer|id:73tCRXS1dVQn}
+{type:PickWords|question:A revair, Nando|options:[Nando][Goodbye]|answer:Goodbye,Nando|answerviewable:Goodbye, Nando|id:LHr1xy0c5y7o}
+{type:PickMissingWord|question:Na, ___jau___ hai num Nando|options:[Jau sun][Il signur][jau][El è]|answer:jau|id:To82wdcoiJqR}
+{type:WriteWords|question:Good morning, I am called Mrs Fischer|answer:Bun di, Jau hai num dunna Fischer|answerviewable:Bun di, Jau hai num dunna Fischer|special:[Bun][di,][Jau][hai][num][dunna][Fischer]|id:sEUdc5MtOGF3}
+{type:WriteWords|question:Fa plaschair, a revair|answer:Nice to meet you, goodbye|answerviewable:Nice to meet you, goodbye|special:[Nice][to][meet][you,][goodbye]|id:gBJJJ4vdHGll}
+{type:Match|question:Select the matching words|options:[La giuvna:Miss][Gea:Yes][Il signur:Mr][Fa plaschair:Nice to meet you]|id:5g3itB9x9cek}
+{type:Match|question:Select the matching words|options:[Per plaschair:Please][Jau hai num:My name is][Gea:Yes][La giuvna:Miss]|id:luf9l8ecytBE}
+{type:WriteWords|question:Are you well? Yes|answer:Es ti bain? Gea|answerviewable:Es ti bain? Gea|special:[Es][ti][bain?][Gea]|id:WEKW0GJNjQlY}
+{type:WriteWords|question:Hello, nice to meet you|answer:Allegra, fa plaschair|answerviewable:Allegra, fa plaschair|special:[Allegra,][fa][plaschair]|id:ZCio3sL6JTW0}
+{type:PickOne|question:Jau hai num|options:[Mrs][My name is][Yes]|answer:My name is|id:IALf67nS65rS}
+{type:WriteWords|question:Per plaschair, jau sun bain|answer:Please, I am well|answerviewable:Please, I am well|special:[Please,][I][am][well]|id:FbxasmwCcQ57}
+</lesson>
+<lesson:8|id:tvwM14CgjFjr>
+{type:PickOne|question:Jau hai num|options:[No][My name is][Mrs]|answer:My name is|id:RS3GzPSrAMd6}
+{type:WriteWords|question:La giuvna Fischer|answer:Miss Fischer|answerviewable:Miss Fischer|special:[Miss][Fischer]|id:UjudC1dNZV4y}
+{type:PickWords|question:Gea, jau hai num signur Fischer|options:[is][name][I][Yes][Good][Fischer][Mr][Mrs][my][very]|answer:Yes,mynameisMrFischer|answerviewable:Yes, my name is Mr Fischer|id:abhCIcagChSP}
+{type:WriteWords|question:Miss Fischer|answer:La giuvna Fischer|answerviewable:La giuvna Fischer|special:[La][giuvna][Fischer]|id:rI2avR2nr19z}
+{type:WriteWords|question:Hello, nice to meet you|answer:Allegra, fa plaschair|answerviewable:Allegra, fa plaschair|special:[Allegra,][fa][plaschair]|id:wXrQQ07bhuQP}
+{type:PickWords|question:Are you well? Yes|options:[Jau][Gea][num][Es][bain][ti]|answer:Estibain?Gea|answerviewable:Es ti bain? Gea|id:xLFLhkN9fI3B}
+{type:PickOneMeaning|question:The speaker is saying:|speech:Buna fortuna|options:[Good luck][I am][You are]|answer:Good luck|id:nlD5Rfm5ESdj}
+{type:WriteWords|question:A revair, Nando|answer:Goodbye, Nando|answerviewable:Goodbye, Nando|special:[Goodbye,][Nando]|id:KVrkgzIGiAoP}
+{type:WriteWords|question:Miss Fischer|answer:La giuvna Fischer|answerviewable:La giuvna Fischer|special:[La][giuvna][Fischer]|id:UUFir3kfQyO0}
+{type:Match|question:Select the matching words|options:[Buna fortuna:Good luck][La dunna:Mrs][Il signur:Mr][Na:No]|id:8zx5PQyguGtR}
+{type:Match|question:Select the matching words|options:[Na:No][La giuvna:Miss][Fa plaschair:Nice to meet you][La dunna:Mrs]|id:zIrBMPWuiorj}
+{type:PickMissingWord|question:Per plaschair, ___jau___ sun bain|options:[jau][La dunna][Il signur][Na]|answer:jau|id:h7r4eElppkXp}
+{type:WriteWords|question:Hello, nice to meet you|answer:Allegra, fa plaschair|answerviewable:Allegra, fa plaschair|special:[Allegra,][fa][plaschair]|id:Wen6dCjVR4wc}
+{type:PickMissingWord|question:___Buna___ notg, singur Fischer|options:[La dunna][Buna][Jau sun][Els èn]|answer:Buna|id:fvsC4MgPbUBT}
+{type:WriteWords|question:Fa plaschair, a revair|answer:Nice to meet you, goodbye|answerviewable:Nice to meet you, goodbye|special:[Nice][to][meet][you,][goodbye]|id:mWn5HkgeWF6k}
+{type:WriteWords|question:Fa plaschair, Nando|answer:Nice to meet you, Nando|answerviewable:Nice to meet you, Nando|special:[Nice][to][meet][you,][Nando]|id:pgIWhzIuAdzm}
+</lesson>
+<lesson:9|id:XSJsECFZM7c7>
+{type:PickOneMeaning|question:The speaker is saying:|speech:Ti es|options:[Good luck][You (pl) are][You are]|answer:You are|id:Al5XgkIVAukU}
+{type:WriteWords|question:Miss Fischer|answer:La giuvna Fischer|answerviewable:La giuvna Fischer|special:[La][giuvna][Fischer]|id:p1CDehjFu8FX}
+{type:WriteWords|question:Gea, jau hai num signur Fischer|answer:Yes, my name is Mr Fischer|answerviewable:Yes, my name is Mr Fischer|special:[Yes,][my][name][is][Mr][Fischer]|id:WFtToTLcm3vH}
+{type:Match|question:Select the matching words|options:[Fa plaschair:Nice to meet you][Il signur:Mr][La dunna:Mrs][Jau hai num:My name is]|id:v9sxm37XU1F5}
+{type:WriteWords|question:Are you very well? No|answer:Es ti fitg bain? Na|answerviewable:Es ti fitg bain? Na|special:[Es][ti][fitg][bain?][Na]|id:ttAcdzNfG7OY}
+{type:WriteWords|question:Allegra, fa plaschair|answer:Hello, nice to meet you|answerviewable:Hello, nice to meet you|special:[Hello,][nice][to][meet][you]|id:vWrXxb1uHtgT}
+{type:PickWords|question:Yes, my name is Mr Fischer|options:[jau][signur][Fischer][hai][Gea][num]|answer:Gea,jauhainumsignurFischer|answerviewable:Gea, jau hai num signur Fischer|id:4ir6tQCzaws6}
+{type:WriteWords|question:Buna saira, co vai?|answer:Good evening, how are you?|answerviewable:Good evening, how are you?|special:[Good][evening,][how][are][you?]|id:4YF6GKwNbeNT}
+{type:WriteWords|question:Are you well? Yes|answer:Es ti bain? Gea|answerviewable:Es ti bain? Gea|special:[Es][ti][bain?][Gea]|id:XyRIuZ3j1oRg}
+{type:PickOne|question:Buna fortuna|options:[Mr][Good luck][Miss]|answer:Good luck|id:DVwiyHwjQVQ1}
+{type:PickWords|question:A revair, Nando|options:[Goodbye][you][Mrs][Good][Nando]|answer:Goodbye,Nando|answerviewable:Goodbye, Nando|id:JThsWg2RVBlb}
+{type:PickMissingWord|question:Gea, jau ___hai___ num signur Fischer|options:[Il signur][Els èn][Na][hai]|answer:hai|id:L8FTOZauz2gY}
+{type:Match|question:Select the matching words|options:[Per plaschair:Please][Gea:Yes][Il signur:Mr][La dunna:Mrs]|id:RP5WTkGcfI3Q}
+{type:PickMissingWord|question:Gea, jau ___hai___ num signur Fischer|options:[El è][La giuvna][Buna fortuna][hai]|answer:hai|id:1bCc0ddIu6dN}
+{type:WriteWords|question:Es ti bain? Gea|answer:Are you well? Yes|answerviewable:Are you well? Yes|special:[Are][you][well?][Yes]|id:6IO7j880zSqx}
+{type:WriteWords|question:Please, I am well|answer:Per plaschair, jau sun bain|answerviewable:Per plaschair, jau sun bain|special:[Per][plaschair,][jau][sun][bain]|id:7tDiV45rwgGe}
+{type:WriteWords|question:Miss Fischer|answer:La giuvna Fischer|answerviewable:La giuvna Fischer|special:[La][giuvna][Fischer]|id:j3Vq8Oa5pjtE}
+{type:WriteWords|question:La giuvna Fischer|answer:Miss Fischer|answerviewable:Miss Fischer|special:[Miss][Fischer]|id:F9KnNxSgb4TA}
+</lesson>
+<lesson:10|id:6zjG2DknLP6r>
+{type:PickMissingWord|question:La ___giuvna___ Fischer|options:[La giuvna][giuvna][Jau sun][A revair]|answer:giuvna|id:pNIIlNikj90J}
+{type:Match|question:Select the matching words|options:[Buna fortuna:Good luck][La giuvna:Miss][A revair:Goodbye][La dunna:Mrs]|id:HldfP1IazHPK}
+{type:PickMissingWord|question:Buna saira, co ___vai___?|options:[Nus essan][Na][Fa plaschair][vai]|answer:vai|id:dOCXY6GeSD4Q}
+{type:WriteWords|question:Are you well? Yes|answer:Es ti bain? Gea|answerviewable:Es ti bain? Gea|special:[Es][ti][bain?][Gea]|id:UCnxuQXDAAx2}
+{type:PickWords|question:Are you well? Yes|options:[Es][bain][Fa][a][Fischer][Allegra][Gea][ti]|answer:Estibain?Gea|answerviewable:Es ti bain? Gea|id:Nc659NcXH1Kr}
+{type:WriteWords|question:Fa plaschair, a revair|answer:Nice to meet you, goodbye|answerviewable:Nice to meet you, goodbye|special:[Nice][to][meet][you,][goodbye]|id:2NuML3ccJJMQ}
+{type:WriteWords|question:Per plaschair, jau sun bain|answer:Please, I am well|answerviewable:Please, I am well|special:[Please,][I][am][well]|id:4K0L2xTDCgM9}
+{type:PickOneMeaning|question:The speaker is saying:|speech:Gea|options:[Yes][We are][Good luck]|answer:Yes|id:vjO3Sx0XKckl}
+{type:WriteWords|question:Nice to meet you, goodbye|answer:Fa plaschair, a revair|answerviewable:Fa plaschair, a revair|special:[Fa][plaschair,][a][revair]|id:uWUMZ3OrRryU}
+{type:PickWords|question:Gea, jau hai num signur Fischer|options:[Yes][morning][well][Mr][Miss][my][is][Good][you][name][Fischer]|answer:Yes,mynameisMrFischer|answerviewable:Yes, my name is Mr Fischer|id:Gv7LuN7HR1Ai}
+{type:WriteWords|question:Are you very well? No|answer:Es ti fitg bain? Na|answerviewable:Es ti fitg bain? Na|special:[Es][ti][fitg][bain?][Na]|id:lArpMqex5fG3}
+{type:PickOne|question:Buna fortuna|options:[Please][No][Good luck]|answer:Good luck|id:EaGTHBUs5T8G}
+{type:WriteWords|question:Fa plaschair, a revair|answer:Nice to meet you, goodbye|answerviewable:Nice to meet you, goodbye|special:[Nice][to][meet][you,][goodbye]|id:QwkzphTEkUcc}
+{type:WriteWords|question:Are you well? Yes|answer:Es ti bain? Gea|answerviewable:Es ti bain? Gea|special:[Es][ti][bain?][Gea]|id:RQI3OyiDR1gp}
+{type:Match|question:Select the matching words|options:[Buna fortuna:Good luck][Il signur:Mr][La giuvna:Miss][Na:No]|id:c6cle9gKFwii}
+{type:WriteWords|question:Good luck, Mrs Fischer|answer:Buna fortuna, dunna Fischer|answerviewable:Buna fortuna, dunna Fischer|special:[Buna][fortuna,][dunna][Fischer]|id:YIlq4QYDqvCh}
+{type:WriteWords|question:A revair, Nando|answer:Goodbye, Nando|answerviewable:Goodbye, Nando|special:[Goodbye,][Nando]|id:Hv0LlTY4vqGx}
+{type:WriteWords|question:Buna notg, singur Fischer|answer:Good night, Mr Fischer|answerviewable:Good night, Mr Fischer|special:[Good][night,][Mr][Fischer]|id:FvStherPDSK4}
+</lesson>
+</skill>
+<skill:The future|image:afternoon|lessonsperlevel:2|strokecolor:27,94,32|fillcolor:129,199,132|position:4|description:Learn how to use the future tense in Romansh|id:X737JxV5GyTv>
+<lesson:1|id:FdZUYDCekUAs>
+{type:PickOneMeaning|question:The speaker is saying:|speech:Na|options:[No][Good luck][They will]|answer:No|id:QaHo6P7pJ7UK}
+{type:FlashCard|front:Eat|back:Mangiar|id:9bvZBGkmYw6w}
+{type:FlashCard|front:She will|back:Ella vegn a|id:ykLDM6tAvc1K}
+{type:FlashCard|front:He will|back:El vegn a|id:Nx2REdy4l94t}
+{type:FlashCard|front:You (pl) will|back:Vus vegnis a|id:iuyKOfeG2Ok9}
+{type:FlashCard|front:I will|back:Jau vegn a|id:2p6NaR3lyaWP}
+{type:PickOneMeaning|question:The speaker is saying:|speech:Jau vegn a|options:[I will][Want][Eat]|answer:I will|id:maaIgvNT5n9T}
+{type:FlashCard|front:You will|back:Ti vegns a|id:vySizQg4paDT}
+{type:PickOneMeaning|question:The speaker is saying:|speech:Na|options:[He will][No][Nice to meet you]|answer:No|id:4zbjGDCynoxm}
+{type:PickOneMeaning|question:The speaker is saying:|speech:Per plaschair|options:[She will][Please][My name is]|answer:Please|id:AqKL2Ds7yn2i}
+{type:PickOneMeaning|question:The speaker is saying:|speech:Jau hai num|options:[Miss][Be][My name is]|answer:My name is|id:bElJBqo9pn8M}
+{type:FlashCard|front:They will|back:Els vegnan a|id:vyMEOohxVb7r}
+</lesson>
+<lesson:2|id:Au79lUigceRI>
+{type:PickOneMeaning|question:The speaker is saying:|speech:Vulair|options:[Nice to meet you][Want][Good luck]|answer:Want|id:EfAOQYsUZcZZ}
+{type:FlashCard|front:Want|back:Vulair|id:ChLaTglfz6LN}
+{type:FlashCard|front:She will|back:Ella vegn a|id:p0W5jLsBIYIG}
+{type:PickOneMeaning|question:The speaker is saying:|speech:Els vegnan a|options:[They will][You (pl) will][Yes]|answer:They will|id:KLR1KcLNw1vu}
+{type:FlashCard|front:I will|back:Jau vegn a|id:edxpVFStTOAr}
+{type:PickOneMeaning|question:The speaker is saying:|speech:A revair|options:[You will][Nice to meet you][Goodbye]|answer:Goodbye|id:syXHMXHD88Do}
+{type:FlashCard|front:You will|back:Ti vegns a|id:74N15NTtFLLw}
+{type:PickOneMeaning|question:The speaker is saying:|speech:Gea|options:[We will][You will][Yes]|answer:Yes|id:g3x5mqETyZXv}
+{type:FlashCard|front:Be|back:Esser|id:G0svpKa5I53B}
+{type:FlashCard|front:She will|back:Ella vegn a|id:25VoOFKHBDLr}
+{type:FlashCard|front:She will|back:Ella vegn a|id:PNJxKRxQzLFi}
+{type:PickOneMeaning|question:The speaker is saying:|speech:Esser|options:[No][Be][Miss]|answer:Be|id:b8RoCXplVkei}
+</lesson>
+<lesson:3|id:Pc0kLsFqDpuM>
+{type:Match|question:Select the matching words|options:[Mangiar:Eat][Esser:Be][Ella vegn a:She will][Vulair:Want]|id:fp7JklThBGvo}
+{type:PickWords|question:Els vegnan a vulair mangiar|options:[No][will][want][eat][They][I][am][Hello][to]|answer:Theywillwanttoeat|answerviewable:They will want to eat|id:GEZDgHpGrrSx}
+{type:PickMissingWord|question:___Ti___ vegns ad esser fitg bain|options:[Gea][Ti][Il signur][Buna fortuna]|answer:Ti|id:9ux6zUco9LjO}
+{type:Match|question:Select the matching words|options:[La dunna:Mrs][Buna fortuna:Good luck][Jau vegn a:I will][A revair:Goodbye]|id:wavEUgxTV5ap}
+{type:PickOne|question:Esser|options:[You (pl) will][Be][He will]|answer:Be|id:dnGtyhcpmMyv}
+{type:PickWords|question:We will eat|options:[Els][vegnin][mangiar][a][Nus][baiver][vegna]|answer:Nusvegninamangiar|answerviewable:Nus vegnin a mangiar|id:cY81XXxrqgdT}
+{type:AudioMatch|question:Listen and match|options:[El vegn a:8pdbO4ruONNp][Els vegnan a:6N8OE7209NKc][Mangiar:sW8uQQ0vReNx][Jau vegn a:LSnzjcJUcHxy]|id:f28jKBNecDgQ}
+{type:PickOneMeaning|question:The speaker is saying:|speech:Il signur|options:[Yes][You (pl) will][Mr]|answer:Mr|id:Unrv21pEavvF}
+{type:PickMissingWord|question:Ti vegns a ___vulair___ baiver|options:[vulair][Mangiar][La dunna][Vus vegnis a]|answer:vulair|id:OpVYQXiVL3yq}
+{type:PickWords|question:She will eat|options:[ad][a][mangiar][El][Ella][vulair][baiver][vegn]|answer:Ellavegnamangiar|answerviewable:Ella vegn a mangiar|id:GWSSec7HlFNw}
+{type:PickWords|question:They will be bad|options:[Els][ad][a][vegnan][esser][nausch]|answer:Elsvegnanadessernausch|answerviewable:Els vegnan ad esser nausch|id:K9Nj07EuKEyv}
+{type:PickWords|question:Nus vegnin a mangiar|options:[eat][We][will]|answer:Wewilleat|answerviewable:We will eat|id:vQ5JDokTChT6}
+{type:Match|question:Select the matching words|options:[Mangiar:Eat][El vegn a:He will][Esser:Be][Els vegnan a:They will]|id:hk2xvzYjehsM}
+{type:PickOneMeaning|question:The speaker is saying:|speech:Nus vegnin a|options:[Please][We will][I will]|answer:We will|id:7ccKS5yUpfGS}
+{type:AudioMatch|question:Listen and match|options:[Nus vegnin a:9YtolPs0UU6Q][Vus vegnis a:wzw8GQZiUy3X][Mangiar:IGPsFPD28FAA][Esser:mqfzPmNdQCRr]|id:THpTHH0HR0AR}
+{type:PickWords|question:Jau vegn a mangiar, e ti?|options:[I][and][you][eat][will]|answer:Iwilleat,andyou?|answerviewable:I will eat, and you?|id:g7zBtwUJod7f}
+{type:PickWords|question:You will want|options:[Es][a][Na][jau][dunna][vulair][vegnis][Vus]|answer:Vusvegnisavulair|answerviewable:Vus vegnis a vulair|id:LUuPiQ2gyGQc}
+</lesson>
+<lesson:4|id:jq8TZKS0625J>
+{type:PickWords|question:He will drink|options:[baiver][Jau][El][Per][vegna][Es][dunna]|answer:Elvegnabaiver|answerviewable:El vegna baiver|id:YNAqhc9Wg0bu}
+{type:AudioMatch|question:Listen and match|options:[Ti vegns a:hOcMM6i69LnM][Esser:GfFOXcGjHaDG][Els vegnan a:8an8T6LRRUO9][Nus vegnin a:8lU2jJqlixLn]|id:uB5c4t4GXqkj}
+{type:PickWords|question:Vus vegnis a vulair|options:[You][want][I][will]|answer:Youwillwant|answerviewable:You will want|id:FM5wYSI2C1E3}
+{type:Match|question:Select the matching words|options:[Mangiar:Eat][Els vegnan a:They will][Jau vegn a:I will][Ella vegn a:She will]|id:CBIebbveYlnL}
+{type:PickMissingWord|question:___Jau___ vegn a baiver, grazia|options:[La dunna][A revair][Jau][Mangiar]|answer:Jau|id:5NCxEEDm2D0P}
+{type:PickOneMeaning|question:The speaker is saying:|speech:Mangiar|options:[Want][Yes][Eat]|answer:Eat|id:91WALjp1ZoOO}
+{type:PickOne|question:Nus vegnin a|options:[Eat][We will][She will]|answer:We will|id:hcAm5QQgFcoH}
+{type:PickWords|question:Jau vegn ad esser bain|options:[well][to][Mr][meet][will][I][be][called]|answer:Iwillbewell|answerviewable:I will be well|id:f3xFJ4KsN9Z3}
+{type:PickWords|question:I will drink|options:[baiver][Vus][a][Jau][esser][vegns][vegn][nausch]|answer:Jauvegnabaiver|answerviewable:Jau vegn a baiver|id:zf9pL1rbivIo}
+{type:PickWords|question:Ella vegn a vulair esser bain|options:[They][be][You][well][We][and][to][He][want][will][drink]|answer:Hewillwanttobewell|answerviewable:He will want to be well|id:x3v38mcsAjyi}
+{type:Match|question:Select the matching words|options:[Vus vegnis a:You (pl) will][El vegn a:He will][Ella vegn a:She will][Ti vegns a:You will]|id:sU3LOdhV14A1}
+{type:PickWords|question:I will drink, thank you|options:[vegn][baiver][Jau][bain][a][grazia][esser][Ella]|answer:Jauvegnabaiver,grazia|answerviewable:Jau vegn a baiver, grazia|id:LXNUjqelYPrZ}
+{type:Match|question:Select the matching words|options:[A revair:Goodbye][Vus vegnis a:You (pl) will][Jau hai num:My name is][La giuvna:Miss]|id:fcp6PKkOLi6n}
+{type:AudioMatch|question:Listen and match|options:[Esser:3iesNzTPqX5M][Vulair:ko8PjzkNuinD][Vus vegnis a:jVEaEBO2rLpK][Ti vegns a:AOGMlKjL9CgF]|id:f7IQyXXchwqX}
+{type:PickWords|question:He will want to be well|options:[esser][a][bain][Ella][ad][mangiar][vegn][Els][vulair]|answer:Ellavegnavulairesserbain|answerviewable:Ella vegn a vulair esser bain|id:Mf3ebteCUcIW}
+{type:PickOneMeaning|question:The speaker is saying:|speech:Baiver|options:[Be][Drink][Mrs]|answer:Drink|id:224qfXLoQyZG}
+{type:PickMissingWord|question:___Nus___ vegnin a mangiar|options:[La dunna][Ti vegns a][Nus][A revair]|answer:Nus|id:YUwtzYQXUNZ9}
+</lesson>
+<lesson:5|id:fYOROoT4ZCeL>
+{type:WriteWords|question:Ella vegn a vulair esser bain|answer:He will want to be well|answerviewable:He will want to be well|special:[He][will][want][to][be][well]|id:yBVkqVMslzQ8}
+{type:WriteWords|question:He will be bad|answer:El vegn ad esser nausch|answerviewable:El vegn ad esser nausch|special:[El][vegn][ad][esser][nausch]|id:vEfaGAhsV7cT}
+{type:PickMissingWord|question:El vegn ad ___esser___ nausch|options:[Buna fortuna][esser][Vus vegnis a][Ella vegn a]|answer:esser|id:LmdjSmyYlfQD}
+{type:PickMissingWord|question:Vus vegnis a ___vulair___|options:[vulair][La dunna][Baiver][Esser]|answer:vulair|id:5vtgcBrcpx9Z}
+{type:WriteWords|question:Els vegnan ad esser nausch|answer:They will be bad|answerviewable:They will be bad|special:[They][will][be][bad]|id:dw4E7Bu5nyd3}
+{type:Match|question:Select the matching words|options:[Esser:Be][Ti vegns a:You will][Mangiar:Eat][Baiver:Drink]|id:aw2hXUUbZ1dh}
+{type:PickWords|question:He will be bad|options:[bain][nausch][esser][ad][vegn][Ella][a][baiver][El][vulair]|answer:Elvegnadessernausch|answerviewable:El vegn ad esser nausch|id:iH2MwakMoFyI}
+{type:PickWords|question:I will drink, thank you|options:[ad][grazia][vegn][Jau][a][baiver]|answer:Jauvegnabaiver,grazia|answerviewable:Jau vegn a baiver, grazia|id:NPpdVM6al9j1}
+{type:WriteWords|question:I will drink|answer:Jau vegn a baiver|answerviewable:Jau vegn a baiver|special:[Jau][vegn][a][baiver]|id:wi4rYGbL2uhS}
+{type:PickWords|question:Jau vegn ad esser bain|options:[you][will][I][be][well]|answer:Iwillbewell|answerviewable:I will be well|id:AHZqM4lncYjD}
+{type:PickOne|question:Ella vegn a|options:[She will][Eat][They will]|answer:She will|id:ZTKyPl1OQHqV}
+{type:PickOneMeaning|question:The speaker is saying:|speech:La dunna|options:[Please][Mrs][We will]|answer:Mrs|id:aO8H6rMn5iAq}
+{type:PickMissingWord|question:Els vegnan ad esser ___nausch___|options:[Mangiar][Baiver][Ella vegn a][nausch]|answer:nausch|id:8Pn4X2dJajOm}
+{type:Match|question:Select the matching words|options:[Baiver:Drink][Mangiar:Eat][Esser:Be][Jau vegn a:I will]|id:L0W5IkjCDRG0}
+{type:WriteWords|question:Els vegnan a vulair mangiar|answer:They will want to eat|answerviewable:They will want to eat|special:[They][will][want][to][eat]|id:WvwyoHzJpzU5}
+{type:WriteWords|question:I will drink, thank you|answer:Jau vegn a baiver, grazia|answerviewable:Jau vegn a baiver, grazia|special:[Jau][vegn][a][baiver,][grazia]|id:haTeNAifcepS}
+</lesson>
+<lesson:6|id:Pw3DsPtpytI9>
+{type:Match|question:Select the matching words|options:[Vus vegnis a:You (pl) will][Baiver:Drink][Els vegnan a:They will][El vegn a:He will]|id:sEcfGnsjYmkZ}
+{type:WriteWords|question:You will want to drink|answer:Ti vegns a vulair baiver|answerviewable:Ti vegns a vulair baiver|special:[Ti][vegns][a][vulair][baiver]|id:EGWPwXKo9Wi1}
+{type:Match|question:Select the matching words|options:[El vegn a:He will][Els vegnan a:They will][Mangiar:Eat][Esser:Be]|id:VdP2Hz6LB0jC}
+{type:PickMissingWord|question:Ti vegns ad ___esser___ fitg bain|options:[esser][Gea][Ti vegns a][Fa plaschair]|answer:esser|id:qEJWoqaFQYWl}
+{type:PickWords|question:I will drink, thank you|options:[Ti][Jau][baiver][bain][vegn][esser][grazia][ad][Els][a]|answer:Jauvegnabaiver,grazia|answerviewable:Jau vegn a baiver, grazia|id:lfcd9u36Tzfh}
+{type:PickOneMeaning|question:The speaker is saying:|speech:Jau vegn a|options:[I will][Good luck][You (pl) will]|answer:I will|id:nPJCYwJzB65G}
+{type:PickWords|question:They will want to eat|options:[vegnan][mangiar][a][vegn][vulair][baiver][Els][ad]|answer:Elsvegnanavulairmangiar|answerviewable:Els vegnan a vulair mangiar|id:yIxm2FZxYYYW}
+{type:WriteWords|question:He will be bad|answer:El vegn ad esser nausch|answerviewable:El vegn ad esser nausch|special:[El][vegn][ad][esser][nausch]|id:CcwVEfNPuYhe}
+{type:WriteWords|question:Els vegnan a vulair mangiar|answer:They will want to eat|answerviewable:They will want to eat|special:[They][will][want][to][eat]|id:2fXRR3cNgFgW}
+{type:WriteWords|question:You will want to drink|answer:Ti vegns a vulair baiver|answerviewable:Ti vegns a vulair baiver|special:[Ti][vegns][a][vulair][baiver]|id:LC27itvfqOYe}
+{type:PickMissingWord|question:Ella vegn a vulair esser ___bain___|options:[Baiver][El vegn a][La dunna][bain]|answer:bain|id:lQGKV7NMFdBp}
+{type:PickWords|question:Ti vegns a vulair baiver|options:[will][to][want][You][drink]|answer:Youwillwanttodrink|answerviewable:You will want to drink|id:Gc780OkNux1v}
+{type:WriteWords|question:El vegn ad esser nausch|answer:He will be bad|answerviewable:He will be bad|special:[He][will][be][bad]|id:rmfaoXAsZelZ}
+{type:PickOne|question:Ella vegn a|options:[She will][You will][Be]|answer:She will|id:x9w5Zotao1FC}
+{type:PickMissingWord|question:___Ella___ vegn a vulair esser bain|options:[Ella][La giuvna][Per plaschair][Vus vegnis a]|answer:Ella|id:HJiQmisy3IL1}
+{type:WriteWords|question:Jau vegn ad esser bain|answer:I will be well|answerviewable:I will be well|special:[I][will][be][well]|id:2O27jPlHll5p}
+</lesson>
+<lesson:7|id:TXldrFP5e2jH>
+{type:WriteWords|question:You will be very well|answer:Ti vegns ad esser fitg bain|answerviewable:Ti vegns ad esser fitg bain|special:[Ti][vegns][ad][esser][fitg][bain]|id:1Zyy4z4sYv15}
+{type:PickWords|question:He will want to be well|options:[vulair][Ella][vegn][e][bain][a][esser]|answer:Ellavegnavulairesserbain|answerviewable:Ella vegn a vulair esser bain|id:qAj0a1ypZhb1}
+{type:WriteWords|question:You will be very well|answer:Ti vegns ad esser fitg bain|answerviewable:Ti vegns ad esser fitg bain|special:[Ti][vegns][ad][esser][fitg][bain]|id:XZmD2a6rOJde}
+{type:PickWords|question:Nus vegnin a mangiar|options:[be][will][eat][I][want][We]|answer:Wewilleat|answerviewable:We will eat|id:AlKuqZcbMO3K}
+{type:PickMissingWord|question:Jau vegn a mangiar, e ___ti___?|options:[ti][Vulair][Ti vegns a][Gea]|answer:ti|id:ay9kYlLf5KUw}
+{type:Match|question:Select the matching words|options:[Vus vegnis a:You (pl) will][Mangiar:Eat][Ti vegns a:You will][Baiver:Drink]|id:h5VKgLPTTtvY}
+{type:WriteWords|question:She will eat|answer:Ella vegn a mangiar|answerviewable:Ella vegn a mangiar|special:[Ella][vegn][a][mangiar]|id:yVq5Z2wdR5Hk}
+{type:WriteWords|question:Vus vegnis a vulair|answer:You will want|answerviewable:You will want|special:[You][will][want]|id:3xaiODDim91F}
+{type:WriteWords|question:Ella vegn a vulair esser bain|answer:He will want to be well|answerviewable:He will want to be well|special:[He][will][want][to][be][well]|id:QvKnxIdNeal1}
+{type:PickOneMeaning|question:The speaker is saying:|speech:A revair|options:[Goodbye][Mr][No]|answer:Goodbye|id:i2yu1bAzJQZo}
+{type:WriteWords|question:You will want|answer:Vus vegnis a vulair|answerviewable:Vus vegnis a vulair|special:[Vus][vegnis][a][vulair]|id:5vyF6sQRStwB}
+{type:WriteWords|question:Ti vegns ad esser fitg bain|answer:You will be very well|answerviewable:You will be very well|special:[You][will][be][very][well]|id:5oF50mfepLt9}
+{type:WriteWords|question:Vus vegnis a vulair|answer:You will want|answerviewable:You will want|special:[You][will][want]|id:JG5oGVXC6U63}
+{type:Match|question:Select the matching words|options:[Vus vegnis a:You (pl) will][Vulair:Want][Jau vegn a:I will][Mangiar:Eat]|id:nCUn06GkqWbR}
+{type:PickOne|question:Baiver|options:[You will][Drink][He will]|answer:Drink|id:w8cJbrX83MB6}
+{type:PickMissingWord|question:Ti vegns ad esser fitg ___bain___|options:[La dunna][El vegn a][bain][Jau vegn a]|answer:bain|id:7u3f8fC06q7G}
+</lesson>
+<lesson:8|id:Ob7yQlmLBATg>
+{type:WriteWords|question:Ella vegn a vulair esser bain|answer:He will want to be well|answerviewable:He will want to be well|special:[He][will][want][to][be][well]|id:7Lmu2RgftUvd}
+{type:WriteWords|question:Jau vegn a mangiar, e ti?|answer:I will eat, and you?|answerviewable:I will eat, and you?|special:[I][will][eat,][and][you?]|id:ihH3ew2i0CVq}
+{type:PickWords|question:He will be bad|options:[Jau][esser][vegnin][nausch][vegn][ad][El]|answer:Elvegnadessernausch|answerviewable:El vegn ad esser nausch|id:6kEwSF1pVJrO}
+{type:PickMissingWord|question:Nus vegnin ___a___ mangiar|options:[a][Jau hai num][A revair][El vegn a]|answer:a|id:8yJSGXVJPGFd}
+{type:WriteWords|question:Jau vegn a mangiar, e ti?|answer:I will eat, and you?|answerviewable:I will eat, and you?|special:[I][will][eat,][and][you?]|id:rRQRHWezFpZQ}
+{type:PickWords|question:Ti vegns a vulair baiver|options:[want][drink][You][to][will]|answer:Youwillwanttodrink|answerviewable:You will want to drink|id:qmpHcqOysC3s}
+{type:PickOneMeaning|question:The speaker is saying:|speech:Vus vegnis a|options:[Please][You (pl) will][No]|answer:You (pl) will|id:Q6ObA4Dm02VX}
+{type:WriteWords|question:You will want|answer:Vus vegnis a vulair|answerviewable:Vus vegnis a vulair|special:[Vus][vegnis][a][vulair]|id:fQ6Gj7PH3Dvp}
+{type:Match|question:Select the matching words|options:[Vus vegnis a:You (pl) will][Mangiar:Eat][Baiver:Drink][Nus vegnin a:We will]|id:TKCbPfo3DzNr}
+{type:WriteWords|question:Els vegnan ad esser nausch|answer:They will be bad|answerviewable:They will be bad|special:[They][will][be][bad]|id:chczgE2MG5ZA}
+{type:Match|question:Select the matching words|options:[Vus vegnis a:You (pl) will][Jau vegn a:I will][Ella vegn a:She will][Baiver:Drink]|id:si1nrOKHpQV4}
+{type:WriteWords|question:They will be bad|answer:Els vegnan ad esser nausch|answerviewable:Els vegnan ad esser nausch|special:[Els][vegnan][ad][esser][nausch]|id:VfujpkZgT8lq}
+{type:WriteWords|question:He will drink|answer:El vegna baiver|answerviewable:El vegna baiver|special:[El][vegna][baiver]|id:zCQsT51poSgN}
+{type:WriteWords|question:She will eat|answer:Ella vegn a mangiar|answerviewable:Ella vegn a mangiar|special:[Ella][vegn][a][mangiar]|id:uIng7WHIBwc1}
+{type:PickMissingWord|question:Ella ___vegn___ a mangiar|options:[Vus vegnis a][La giuvna][vegn][Vulair]|answer:vegn|id:9myNF5wx6ePs}
+{type:PickOne|question:Nus vegnin a|options:[They will][You (pl) will][We will]|answer:We will|id:Td1yHeYlJj5w}
+</lesson>
+<lesson:9|id:3GxiCwFEmrwQ>
+{type:WriteWords|question:Ti vegns a vulair baiver|answer:You will want to drink|answerviewable:You will want to drink|special:[You][will][want][to][drink]|id:GaQqZypxOdne}
+{type:PickMissingWord|question:Ti vegns ad ___esser___ fitg bain|options:[Vus vegnis a][esser][Jau hai num][Els vegnan a]|answer:esser|id:iR1OYztRvhDP}
+{type:PickOne|question:Nus vegnin a|options:[You will][We will][He will]|answer:We will|id:IiBfVVumOVui}
+{type:WriteWords|question:Els vegnan a vulair mangiar|answer:They will want to eat|answerviewable:They will want to eat|special:[They][will][want][to][eat]|id:OAOVTcnIn1lO}
+{type:WriteWords|question:You will want|answer:Vus vegnis a vulair|answerviewable:Vus vegnis a vulair|special:[Vus][vegnis][a][vulair]|id:FuzJcEc5zyNm}
+{type:WriteWords|question:You will be very well|answer:Ti vegns ad esser fitg bain|answerviewable:Ti vegns ad esser fitg bain|special:[Ti][vegns][ad][esser][fitg][bain]|id:SaR6KrixCaLO}
+{type:Match|question:Select the matching words|options:[Mangiar:Eat][Ella vegn a:She will][Nus vegnin a:We will][Ti vegns a:You will]|id:HWZ7MnQ0AJns}
+{type:WriteWords|question:I will be well|answer:Jau vegn ad esser bain|answerviewable:Jau vegn ad esser bain|special:[Jau][vegn][ad][esser][bain]|id:LxdCHELyQoEf}
+{type:WriteWords|question:Nus vegnin a mangiar|answer:We will eat|answerviewable:We will eat|special:[We][will][eat]|id:swfBZT5D2Etf}
+{type:WriteWords|question:Jau vegn a mangiar, e ti?|answer:I will eat, and you?|answerviewable:I will eat, and you?|special:[I][will][eat,][and][you?]|id:KYKBmN4Eh3CB}
+{type:WriteWords|question:You will be very well|answer:Ti vegns ad esser fitg bain|answerviewable:Ti vegns ad esser fitg bain|special:[Ti][vegns][ad][esser][fitg][bain]|id:7o7fbUQods8n}
+{type:PickWords|question:He will be bad|options:[nausch][ad][vegns][esser][grazia][El][Ti][vegn][Jau]|answer:Elvegnadessernausch|answerviewable:El vegn ad esser nausch|id:8n6XbU0Vlfo1}
+{type:PickOneMeaning|question:The speaker is saying:|speech:Ella vegn a|options:[She will][No][Drink]|answer:She will|id:lxqpo1y25VPp}
+{type:WriteWords|question:You will want|answer:Vus vegnis a vulair|answerviewable:Vus vegnis a vulair|special:[Vus][vegnis][a][vulair]|id:Pm4kY8j4XJet}
+{type:PickMissingWord|question:Nus vegnin a ___mangiar___|options:[Ella vegn a][Na][Ti vegns a][mangiar]|answer:mangiar|id:I1M7y5VajGZV}
+{type:PickWords|question:Els vegnan a vulair mangiar|options:[be][They][eat][want][I][to][will]|answer:Theywillwanttoeat|answerviewable:They will want to eat|id:6008xn88SUzY}
+{type:WriteWords|question:El vegn ad esser nausch|answer:He will be bad|answerviewable:He will be bad|special:[He][will][be][bad]|id:W7OE1YngzSin}
+{type:Match|question:Select the matching words|options:[Baiver:Drink][Mangiar:Eat][Jau vegn a:I will][Vulair:Want]|id:SQsCJR1S0LOs}
+</lesson>
+<lesson:10|id:PUgD3flDoFeE>
+{type:WriteWords|question:Ti vegns ad esser fitg bain|answer:You will be very well|answerviewable:You will be very well|special:[You][will][be][very][well]|id:W66JtYfPGlLU}
+{type:Match|question:Select the matching words|options:[Jau vegn a:I will][Nus vegnin a:We will][Baiver:Drink][Mangiar:Eat]|id:nlbqrDqsyYcA}
+{type:Match|question:Select the matching words|options:[Mangiar:Eat][Vus vegnis a:You (pl) will][Vulair:Want][Els vegnan a:They will]|id:EtFE0i4g0I34}
+{type:WriteWords|question:I will drink|answer:Jau vegn a baiver|answerviewable:Jau vegn a baiver|special:[Jau][vegn][a][baiver]|id:uS1RLlMlHrT6}
+{type:PickOne|question:El vegn a|options:[They will][He will][Be]|answer:He will|id:UwDZsCUbp6ce}
+{type:WriteWords|question:Els vegnan a vulair mangiar|answer:They will want to eat|answerviewable:They will want to eat|special:[They][will][want][to][eat]|id:E9F311J4YFpV}
+{type:WriteWords|question:I will eat, and you?|answer:Jau vegn a mangiar, e ti?|answerviewable:Jau vegn a mangiar, e ti?|special:[Jau][vegn][a][mangiar,][e][ti?]|id:J3jIM8aAEG6l}
+{type:PickMissingWord|question:Vus ___vegnis___ a vulair|options:[Na][Els vegnan a][Gea][vegnis]|answer:vegnis|id:LNPR6rCkeHmp}
+{type:PickMissingWord|question:___Jau___ vegn ad esser bain|options:[Jau][La giuvna][El vegn a][Gea]|answer:Jau|id:1QyFoLzTQRA2}
+{type:WriteWords|question:He will want to be well|answer:Ella vegn a vulair esser bain|answerviewable:Ella vegn a vulair esser bain|special:[Ella][vegn][a][vulair][esser][bain]|id:JW13OJz4RLQt}
+{type:WriteWords|question:I will be well|answer:Jau vegn ad esser bain|answerviewable:Jau vegn ad esser bain|special:[Jau][vegn][ad][esser][bain]|id:ukSzdCC4gXGQ}
+{type:WriteWords|question:Jau vegn a mangiar, e ti?|answer:I will eat, and you?|answerviewable:I will eat, and you?|special:[I][will][eat,][and][you?]|id:7eMP4FNRWAZ4}
+{type:WriteWords|question:We will eat|answer:Nus vegnin a mangiar|answerviewable:Nus vegnin a mangiar|special:[Nus][vegnin][a][mangiar]|id:NZQLrCCTTCvN}
+{type:PickWords|question:Vus vegnis a vulair|options:[will][You][want]|answer:Youwillwant|answerviewable:You will want|id:AKA8HwuYrir5}
+{type:WriteWords|question:Els vegnan ad esser nausch|answer:They will be bad|answerviewable:They will be bad|special:[They][will][be][bad]|id:B6Cx6wYEinfo}
+{type:PickWords|question:They will be bad|options:[ad][nausch][esser][Els][Jau][baiver][vegnan]|answer:Elsvegnanadessernausch|answerviewable:Els vegnan ad esser nausch|id:tv5lFbADjJj0}
+{type:PickOneMeaning|question:The speaker is saying:|speech:Jau vegn a|options:[Mr][He will][I will]|answer:I will|id:7j7MsveZUSLy}
+{type:WriteWords|question:El vegna baiver|answer:He will drink|answerviewable:He will drink|special:[He][will][drink]|id:JbIdpTYy15yC}
+</lesson>
+</skill>
+<skill:Foods|image:food|lessonsperlevel:2|strokecolor:51,105,30|fillcolor:129,199,132|position:5|description:Learn how to say some different foods in Romansh|id:f5M39bhnVnGI>
+<lesson:1|id:M5GHCjRFbn5n>
+{type:PickOneMeaning|question:The speaker is saying:|speech:Ina tomata|options:[Pasta][A tomato][Sugar]|answer:A tomato|id:bZA5p74zw7cq}
+{type:FlashCard|front:Garlic|back:Agl|id:UlcmBIPf7Klx}
+{type:PickOneMeaning|question:The speaker is saying:|speech:Pasta|options:[Pasta][Salt][Rice]|answer:Pasta|id:NJCM0e92y4jl}
+{type:PickOneMeaning|question:The speaker is saying:|speech:Mangiar|options:[Drink][Pasta][Eat]|answer:Eat|id:F6pEUXB91M5J}
+{type:PickOneMeaning|question:The speaker is saying:|speech:Esser|options:[We will][He will][Be]|answer:Be|id:WU3oPzjUiSGl}
+{type:FlashCard|front:Milk|back:Latg|id:yxjlSonYA60q}
+{type:FlashCard|front:A carrot|back:Ina carotta|id:wvArsotBDOHv}
+{type:FlashCard|front:A tomato|back:Ina tomata|id:gG8j18xEWxBt}
+{type:FlashCard|front:A potato|back:In tartuffel|id:zElQUekPCJEX}
+{type:PickOneMeaning|question:The speaker is saying:|speech:Jau vegn a|options:[Eat][I will][A tomato]|answer:I will|id:idmAY4PBZtht}
+{type:FlashCard|front:A tomato|back:Ina tomata|id:4WyCuK9ep4eM}
+{type:PickOneMeaning|question:The speaker is saying:|speech:El vegn a|options:[A carrot][He will][Want]|answer:He will|id:aQZ4BP7bulTS}
+</lesson>
+<lesson:2|id:w3L2RDE1FSSk>
+{type:PickOneMeaning|question:The speaker is saying:|speech:Ina carotta|options:[They will][Garlic][A carrot]|answer:A carrot|id:B73HX2v2B7EI}
+{type:FlashCard|front:Pasta|back:Pasta|id:ral7t2ZnIpLC}
+{type:FlashCard|front:A potato|back:In tartuffel|id:3RuRvzWF7g1i}
+{type:FlashCard|front:Garlic|back:Agl|id:EHZbe7Tkh4r5}
+{type:FlashCard|front:And|back:E|id:2mrUFwnbJxCk}
+{type:PickOneMeaning|question:The speaker is saying:|speech:E|options:[They will][And][Salt]|answer:And|id:qzBvQugrFGhd}
+{type:FlashCard|front:Rice|back:Ris|id:KkmkR9m9ilg0}
+{type:FlashCard|front:Milk|back:Latg|id:jzFWMyu0uHkL}
+{type:PickOneMeaning|question:The speaker is saying:|speech:Ris|options:[Be][A carrot][Rice]|answer:Rice|id:BfGX64MHK2qL}
+{type:PickOneMeaning|question:The speaker is saying:|speech:In tartuffel|options:[You will][And][A potato]|answer:A potato|id:dg6mMnlIaitP}
+{type:PickOneMeaning|question:The speaker is saying:|speech:Ina tomata|options:[We will][He will][A tomato]|answer:A tomato|id:Z4BndnmSqs0a}
+{type:PickOneMeaning|question:The speaker is saying:|speech:Ti vegns a|options:[You will][Eat][She will]|answer:You will|id:TRPwk4yXi6cK}
+</lesson>
+<lesson:3|id:02rfVGTQ41fW>
+{type:Match|question:Select the matching words|options:[In tartuffel:A potato][El vegn a:He will][Baiver:Drink][Vus vegnis a:You (pl) will]|id:whRX4tb4YIV7}
+{type:Match|question:Select the matching words|options:[Ina tomata:A tomato][Sal:Salt][Ina tschagula:An onion][E:And]|id:VUxeCCrFMqWh}
+{type:PickWords|question:El vegn a mangiar ina tomata|options:[eat][a][will][He][tomato]|answer:Hewilleatatomato|answerviewable:He will eat a tomato|id:uCjODVq3ZXw3}
+{type:Match|question:Select the matching words|options:[Sal:Salt][Latg:Milk][Ina tschagula:An onion][Ina carotta:A carrot]|id:r6LK20DMgmwh}
+{type:PickMissingWord|question:___El___ vegn a mangiar ina tomata|options:[Vus vegnis a][El][In tartuffel][Baiver]|answer:El|id:cX5J2Do8B5Eg}
+{type:PickMissingWord|question:Nus vegnin a ___magliar___ ina tschagula ed ina tomata|options:[Vus vegnis a][magliar][Vulair][Mangiar]|answer:magliar|id:lpXmwh8xAhcN}
+{type:PickWords|question:Nus vegnin a magliar ina tschagula ed ina tomata|options:[and][will][a][an][rice][We][onion][eat][milk][garlic][tomato][sugar]|answer:Wewilleatanonionandatomato|answerviewable:We will eat an onion and a tomato|id:WKvQMfnr2HDN}
+{type:PickOneMeaning|question:The speaker is saying:|speech:Els vegnan a|options:[And][They will][He will]|answer:They will|id:MvqQ7O8DSOMq}
+{type:PickOne|question:In tartuffel|options:[A potato][An onion][Rice]|answer:A potato|id:irfs3HXULwaX}
+{type:PickWords|question:Ella vegn a mangiar agl|options:[garlic][will][to][drink][want][She][well][eat]|answer:Shewilleatgarlic|answerviewable:She will eat garlic|id:9SMMYikH97Jd}
+{type:PickOneMeaning|question:The speaker is saying:|speech:Ina carotta|options:[A tomato][I will][A carrot]|answer:A carrot|id:Ayrimz3cGtbT}
+{type:PickWords|question:They will eat a potato and an onion|options:[tschagula][a][e][tartuffel][in][mangiar][ina][Els][vegnan]|answer:Elsvegnanamangiarintartuffeleinatschagula|answerviewable:Els vegnan a mangiar in tartuffel e ina tschagula|id:DBFQCH2dhSa6}
+{type:PickWords|question:We will eat rice and pasta|options:[pasta][e][ris][mangiar][nausch][a][vegnin][Nus][bain][vegnis][baiver]|answer:Nusvegninamangiarrisepasta|answerviewable:Nus vegnin a mangiar ris e pasta|id:YYfbSUOJnUj2}
+{type:PickWords|question:He will eat sugar and salt|options:[e][sal][zutger][vegn][tartuffel][a][agl][El][magliar]|answer:Elvegnamagliarzutgeresal|answerviewable:El vegn a magliar zutger e sal|id:qC36YQenyCYb}
+{type:PickWords|question:We will eat rice and pasta|options:[ina][a][pasta][Nus][vegnin][ris][mangiar][e]|answer:Nusvegninamangiarrisepasta|answerviewable:Nus vegnin a mangiar ris e pasta|id:XOcHlycj8MiP}
+</lesson>
+<lesson:4|id:mKicvVp3zXze>
+{type:Match|question:Select the matching words|options:[Ina carotta:A carrot][Zutger:Sugar][Ris:Rice][Ina tomata:A tomato]|id:BlS9BgacByns}
+{type:PickMissingWord|question:Jau vegn a magliar ris e ___pasta___|options:[pasta][Ti vegns a][In tartuffel][Nus vegnin a]|answer:pasta|id:J7LmNX2v1PE6}
+{type:PickWords|question:I will drink milk|options:[vegna][baiver][vegn][Jau][Ella][ti][a][nausch][latg]|answer:Jauvegnabaiverlatg|answerviewable:Jau vegn a baiver latg|id:QTHKQdTlEPsk}
+{type:PickWords|question:Jau vegn a magliar ris e pasta|options:[drink][and][pasta][will][rice][He][I][eat][milk]|answer:Iwilleatriceandpasta|answerviewable:I will eat rice and pasta|id:SOP2dI7JJyFk}
+{type:PickOne|question:Ina carotta|options:[A carrot][And][Sugar]|answer:A carrot|id:ubsRQCZQrQeS}
+{type:PickWords|question:She will eat garlic|options:[vegn][mangiar][vegnis][Ella][vegnin][agl][a][carotta][tschagula]|answer:Ellavegnamangiaragl|answerviewable:Ella vegn a mangiar agl|id:sRNVlsuHjbDj}
+{type:PickWords|question:He will eat a tomato|options:[El][a][Jau][ina][vegn][pasta][tomata][mangiar]|answer:Elvegnamangiarinatomata|answerviewable:El vegn a mangiar ina tomata|id:6gwsffghPN0A}
+{type:PickMissingWord|question:Jau ___vegn___ a baiver latg|options:[Agl][vegn][Ina tomata][Nus vegnin a]|answer:vegn|id:ThQeD50TEhcm}
+{type:Match|question:Select the matching words|options:[Ina carotta:A carrot][Zutger:Sugar][Agl:Garlic][Pasta:Pasta]|id:DG1kUCj5uuO9}
+{type:PickWords|question:Ti vegns a magliar agl ed in tartuffel|options:[She][be][garlic][I][eat][You][will][a][and][to][potato]|answer:Youwilleatgarlicandapotato|answerviewable:You will eat garlic and a potato|id:bNoXU5FVg1uq}
+{type:PickOneMeaning|question:The speaker is saying:|speech:Agl|options:[Drink][Garlic][Eat]|answer:Garlic|id:LkxGI9HBnE6y}
+{type:Match|question:Select the matching words|options:[Ti vegns a:You will][Ella vegn a:She will][Ina carotta:A carrot][Jau vegn a:I will]|id:IMqfg3UXaPRg}
+{type:PickOneMeaning|question:The speaker is saying:|speech:Agl|options:[Be][Garlic][Drink]|answer:Garlic|id:M44xdLIz8BET}
+{type:PickWords|question:He will eat sugar and salt|options:[latg][zutger][sal][a][e][magliar][El][mangiar][vegn][baiver]|answer:Elvegnamagliarzutgeresal|answerviewable:El vegn a magliar zutger e sal|id:uReGX739E5lu}
+{type:PickWords|question:Nus vegnin a mangiar ris e pasta|options:[pasta][rice][I][a][garlic][eat][drink][onion][will][We][and]|answer:Wewilleatriceandpasta|answerviewable:We will eat rice and pasta|id:Rv5SYbg3t9tp}
+</lesson>
+<lesson:5|id:xD9YuxuZwfOY>
+{type:WriteWords|question:We will eat rice and pasta|answer:Nus vegnin a mangiar ris e pasta|answerviewable:Nus vegnin a mangiar ris e pasta|special:[Nus][vegnin][a][mangiar][ris][e][pasta]|id:ujUV0N0ZPz0J}
+{type:PickWords|question:She will eat garlic|options:[tomata][Ella][vegn][tschagula][agl][a][vegnin][mangiar]|answer:Ellavegnamangiaragl|answerviewable:Ella vegn a mangiar agl|id:PH7Yx3Yz8w7W}
+{type:PickWords|question:I will eat rice and pasta|options:[ris][a][e][pasta][magliar][Jau][latg][vegn]|answer:Jauvegnamagliarrisepasta|answerviewable:Jau vegn a magliar ris e pasta|id:EP1VxcJrK1um}
+{type:WriteWords|question:We will eat rice and pasta|answer:Nus vegnin a mangiar ris e pasta|answerviewable:Nus vegnin a mangiar ris e pasta|special:[Nus][vegnin][a][mangiar][ris][e][pasta]|id:13MDmcwIIayf}
+{type:PickMissingWord|question:El vegn a mangiar ___ina___ tomata|options:[Jau vegn a][ina][Ti vegns a][Ina carotta]|answer:ina|id:bOfV9ydn75aN}
+{type:WriteWords|question:Ti vegns a magliar agl ed in tartuffel|answer:You will eat garlic and a potato|answerviewable:You will eat garlic and a potato|special:[You][will][eat][garlic][and][a][potato]|id:3HPm2K770sSu}
+{type:PickWords|question:Ella vegn a mangiar agl|options:[eat][will][rice][She][potato][garlic][milk][carrot]|answer:Shewilleatgarlic|answerviewable:She will eat garlic|id:DJY2YuW4CPxT}
+{type:PickMissingWord|question:Nus vegnin ___a___ mangiar ris e pasta|options:[a][E][Els vegnan a][In tartuffel]|answer:a|id:Wky1LxttkeG0}
+{type:WriteWords|question:Els vegnan a mangiar in tartuffel e ina tschagula|answer:They will eat a potato and an onion|answerviewable:They will eat a potato and an onion|special:[They][will][eat][a][potato][and][an][onion]|id:OyIaRp2DGT3w}
+{type:Match|question:Select the matching words|options:[Ina tschagula:An onion][Pasta:Pasta][In tartuffel:A potato][Latg:Milk]|id:WvaZXK3Utklz}
+{type:PickOneMeaning|question:The speaker is saying:|speech:Mangiar|options:[Salt][Eat][You will]|answer:Eat|id:l8xpp9Cgxg2i}
+{type:Match|question:Select the matching words|options:[E:And][Sal:Salt][In tartuffel:A potato][Ina carotta:A carrot]|id:KrlGOSdOuKqs}
+{type:PickOne|question:Pasta|options:[Pasta][Rice][Salt]|answer:Pasta|id:fuqbhT0rpt9b}
+{type:WriteWords|question:He will eat a tomato|answer:El vegn a mangiar ina tomata|answerviewable:El vegn a mangiar ina tomata|special:[El][vegn][a][mangiar][ina][tomata]|id:c7sjZRsh3VhQ}
+{type:PickMissingWord|question:Vus ___vegnis___ a baiver latg e magliar ina carotta|options:[Vulair][vegnis][Jau vegn a][Esser]|answer:vegnis|id:Ur73TGpRZVQj}
+{type:WriteWords|question:Vus vegnis a baiver latg e magliar ina carotta|answer:You will drink milk and eat a carrot|answerviewable:You will drink milk and eat a carrot|special:[You][will][drink][milk][and][eat][a][carrot]|id:J73GvL5BEi3E}
+</lesson>
+<lesson:6|id:cXN8jQxPMRwp>
+{type:WriteWords|question:We will eat an onion and a tomato|answer:Nus vegnin a magliar ina tschagula ed ina tomata|answerviewable:Nus vegnin a magliar ina tschagula ed ina tomata|special:[Nus][vegnin][a][magliar][ina][tschagula][ed][ina][tomata]|id:aRnSRgNHfupW}
+{type:PickMissingWord|question:Vus ___vegnis___ a baiver latg e magliar ina carotta|options:[Agl][vegnis][Ina tomata][Ti vegns a]|answer:vegnis|id:zkAd52fzR699}
+{type:PickWords|question:We will eat an onion and a tomato|options:[magliar][ina][ina][vegnin][Nus][ed][tschagula][tomata][a]|answer:Nusvegninamagliarinatschagulaedinatomata|answerviewable:Nus vegnin a magliar ina tschagula ed ina tomata|id:WtctMV8aCCmn}
+{type:WriteWords|question:They will eat a potato and an onion|answer:Els vegnan a mangiar in tartuffel e ina tschagula|answerviewable:Els vegnan a mangiar in tartuffel e ina tschagula|special:[Els][vegnan][a][mangiar][in][tartuffel][e][ina][tschagula]|id:qTWo5gINPMbh}
+{type:PickWords|question:They will eat a potato and an onion|options:[Els][a][ina][mangiar][tartuffel][in][tschagula][vegnan][e]|answer:Elsvegnanamangiarintartuffeleinatschagula|answerviewable:Els vegnan a mangiar in tartuffel e ina tschagula|id:ZZfKCCeXhtz7}
+{type:Match|question:Select the matching words|options:[Ina tschagula:An onion][Ina carotta:A carrot][Latg:Milk][Agl:Garlic]|id:fMuZrKPFVp8J}
+{type:Match|question:Select the matching words|options:[Ina carotta:A carrot][Agl:Garlic][Ina tomata:A tomato][Sal:Salt]|id:GfmvHYMcSTEP}
+{type:WriteWords|question:Nus vegnin a magliar ina tschagula ed ina tomata|answer:We will eat an onion and a tomato|answerviewable:We will eat an onion and a tomato|special:[We][will][eat][an][onion][and][a][tomato]|id:tIOpjPIapWge}
+{type:PickMissingWord|question:Ella vegn ___a___ mangiar agl|options:[Ris][Ina carotta][a][Esser]|answer:a|id:2XgwKOLakvds}
+{type:PickMissingWord|question:El vegn a ___magliar___ zutger e sal|options:[Agl][Nus vegnin a][El vegn a][magliar]|answer:magliar|id:hp5Afy1njGzT}
+{type:WriteWords|question:I will eat rice and pasta|answer:Jau vegn a magliar ris e pasta|answerviewable:Jau vegn a magliar ris e pasta|special:[Jau][vegn][a][magliar][ris][e][pasta]|id:Pg7b4nf0hbCN}
+{type:PickOneMeaning|question:The speaker is saying:|speech:Mangiar|options:[Garlic][Eat][Be]|answer:Eat|id:GGgV6sugKzST}
+{type:PickWords|question:Vus vegnis a baiver latg e magliar ina carotta|options:[carrot][will][They][drink][You][eat][and][milk][potato][a][We][garlic]|answer:Youwilldrinkmilkandeatacarrot|answerviewable:You will drink milk and eat a carrot|id:5dxNcUqlsh35}
+{type:WriteWords|question:El vegn a magliar zutger e sal|answer:He will eat sugar and salt|answerviewable:He will eat sugar and salt|special:[He][will][eat][sugar][and][salt]|id:MGrnlSHfBXyF}
+{type:WriteWords|question:Nus vegnin a mangiar ris e pasta|answer:We will eat rice and pasta|answerviewable:We will eat rice and pasta|special:[We][will][eat][rice][and][pasta]|id:RI0LWACePt6j}
+{type:PickOne|question:Ina tschagula|options:[Rice][An onion][Milk]|answer:An onion|id:uMIh4PwLM2ne}
+</lesson>
+<lesson:7|id:34BdlBZtTlAo>
+{type:WriteWords|question:You will eat garlic and a potato|answer:Ti vegns a magliar agl ed in tartuffel|answerviewable:Ti vegns a magliar agl ed in tartuffel|special:[Ti][vegns][a][magliar][agl][ed][in][tartuffel]|id:EmatMa6516ls}
+{type:WriteWords|question:Vus vegnis a baiver latg e magliar ina carotta|answer:You will drink milk and eat a carrot|answerviewable:You will drink milk and eat a carrot|special:[You][will][drink][milk][and][eat][a][carrot]|id:20ke7VqcXlR4}
+{type:Match|question:Select the matching words|options:[Zutger:Sugar][Ina tschagula:An onion][Ina carotta:A carrot][Ris:Rice]|id:RP7eX8WjlZA5}
+{type:PickOne|question:Ina tomata|options:[Pasta][A tomato][Milk]|answer:A tomato|id:gER99TK48vNC}
+{type:PickMissingWord|question:Vus vegnis a baiver latg e ___magliar___ ina carotta|options:[Vus vegnis a][magliar][Ella vegn a][Ina carotta]|answer:magliar|id:4LAW4isJHDJp}
+{type:WriteWords|question:El vegn a mangiar ina tomata|answer:He will eat a tomato|answerviewable:He will eat a tomato|special:[He][will][eat][a][tomato]|id:NoQZjQYN8qW7}
+{type:WriteWords|question:Ti vegns a magliar agl ed in tartuffel|answer:You will eat garlic and a potato|answerviewable:You will eat garlic and a potato|special:[You][will][eat][garlic][and][a][potato]|id:6FtzZy6SKsqb}
+{type:WriteWords|question:You will drink milk and eat a carrot|answer:Vus vegnis a baiver latg e magliar ina carotta|answerviewable:Vus vegnis a baiver latg e magliar ina carotta|special:[Vus][vegnis][a][baiver][latg][e][magliar][ina][carotta]|id:5Qrz2nc0Er9M}
+{type:WriteWords|question:We will eat rice and pasta|answer:Nus vegnin a mangiar ris e pasta|answerviewable:Nus vegnin a mangiar ris e pasta|special:[Nus][vegnin][a][mangiar][ris][e][pasta]|id:4lqu7T9ny5L8}
+{type:PickWords|question:I will drink milk|options:[a][vegns][baiver][ina][magliar][latg][Jau][vegn]|answer:Jauvegnabaiverlatg|answerviewable:Jau vegn a baiver latg|id:Kt8x9O5FqlRu}
+{type:Match|question:Select the matching words|options:[In tartuffel:A potato][Sal:Salt][Ina tschagula:An onion][Pasta:Pasta]|id:kDkWGudNv8R6}
+{type:WriteWords|question:Ti vegns a magliar agl ed in tartuffel|answer:You will eat garlic and a potato|answerviewable:You will eat garlic and a potato|special:[You][will][eat][garlic][and][a][potato]|id:88XpDmSm483r}
+{type:PickWords|question:El vegn a mangiar ina tomata|options:[tomato][garlic][will][a][You][He][eat][I][carrot][pasta]|answer:Hewilleatatomato|answerviewable:He will eat a tomato|id:bayOflceIb6c}
+{type:WriteWords|question:She will eat garlic|answer:Ella vegn a mangiar agl|answerviewable:Ella vegn a mangiar agl|special:[Ella][vegn][a][mangiar][agl]|id:8nmHuRwzrKDG}
+{type:PickMissingWord|question:Els ___vegnan___ a mangiar in tartuffel e ina tschagula|options:[Zutger][Esser][E][vegnan]|answer:vegnan|id:dZgDyHM9PaCF}
+{type:PickOneMeaning|question:The speaker is saying:|speech:Pasta|options:[We will][Pasta][Drink]|answer:Pasta|id:px1hXoUkXSSI}
+</lesson>
+<lesson:8|id:1PEZfSwwI4oi>
+{type:WriteWords|question:He will eat sugar and salt|answer:El vegn a magliar zutger e sal|answerviewable:El vegn a magliar zutger e sal|special:[El][vegn][a][magliar][zutger][e][sal]|id:kdQ29lJFKKZz}
+{type:WriteWords|question:Nus vegnin a mangiar ris e pasta|answer:We will eat rice and pasta|answerviewable:We will eat rice and pasta|special:[We][will][eat][rice][and][pasta]|id:6iZSeGA4k8Bi}
+{type:Match|question:Select the matching words|options:[In tartuffel:A potato][Ina carotta:A carrot][Ina tschagula:An onion][E:And]|id:7gMqICJPS99F}
+{type:WriteWords|question:She will eat garlic|answer:Ella vegn a mangiar agl|answerviewable:Ella vegn a mangiar agl|special:[Ella][vegn][a][mangiar][agl]|id:VWIPKINcxBbJ}
+{type:WriteWords|question:Nus vegnin a magliar ina tschagula ed ina tomata|answer:We will eat an onion and a tomato|answerviewable:We will eat an onion and a tomato|special:[We][will][eat][an][onion][and][a][tomato]|id:P0GPCN34bTXf}
+{type:PickWords|question:You will eat garlic and a potato|options:[tartuffel][agl][in][vegnin][Ti][vegns][ed][a][magliar]|answer:Tivegnsamagliaragledintartuffel|answerviewable:Ti vegns a magliar agl ed in tartuffel|id:DzHPCUD834c4}
+{type:WriteWords|question:You will drink milk and eat a carrot|answer:Vus vegnis a baiver latg e magliar ina carotta|answerviewable:Vus vegnis a baiver latg e magliar ina carotta|special:[Vus][vegnis][a][baiver][latg][e][magliar][ina][carotta]|id:MBaLT9hWAE5u}
+{type:WriteWords|question:Ella vegn a mangiar agl|answer:She will eat garlic|answerviewable:She will eat garlic|special:[She][will][eat][garlic]|id:awDrUkCTUDbx}
+{type:PickWords|question:El vegn a mangiar ina tomata|options:[drink][a][an][eat][He][tomato][will]|answer:Hewilleatatomato|answerviewable:He will eat a tomato|id:KsF6uxqmigvU}
+{type:WriteWords|question:She will eat garlic|answer:Ella vegn a mangiar agl|answerviewable:Ella vegn a mangiar agl|special:[Ella][vegn][a][mangiar][agl]|id:FwbwC8Pk6J58}
+{type:PickOneMeaning|question:The speaker is saying:|speech:Sal|options:[Rice][I will][Salt]|answer:Salt|id:lN5WoXWT0hOB}
+{type:WriteWords|question:Jau vegn a baiver latg|answer:I will drink milk|answerviewable:I will drink milk|special:[I][will][drink][milk]|id:M5aVCBt55nLe}
+{type:PickMissingWord|question:Nus vegnin a mangiar ris ___e___ pasta|options:[Esser][Mangiar][Agl][e]|answer:e|id:77dbXQ1j0Tqg}
+{type:PickMissingWord|question:___El___ vegn a mangiar ina tomata|options:[Mangiar][El][E][Pasta]|answer:El|id:ziaHqpFMbj4Y}
+{type:PickOne|question:Agl|options:[Garlic][Sugar][Pasta]|answer:Garlic|id:zRBGmnX1njT7}
+{type:Match|question:Select the matching words|options:[Zutger:Sugar][Sal:Salt][Ris:Rice][Ina tomata:A tomato]|id:8I4VG21nwpjR}
+</lesson>
+<lesson:9|id:KHPY3Rmdozz8>
+{type:PickMissingWord|question:Els vegnan ___a___ mangiar in tartuffel e ina tschagula|options:[Sal][Vus vegnis a][a][Esser]|answer:a|id:eHae1Ghnhg66}
+{type:WriteWords|question:She will eat garlic|answer:Ella vegn a mangiar agl|answerviewable:Ella vegn a mangiar agl|special:[Ella][vegn][a][mangiar][agl]|id:UnZw08vfwb3V}
+{type:WriteWords|question:Jau vegn a baiver latg|answer:I will drink milk|answerviewable:I will drink milk|special:[I][will][drink][milk]|id:aLtrAuPJr6Kb}
+{type:WriteWords|question:He will eat sugar and salt|answer:El vegn a magliar zutger e sal|answerviewable:El vegn a magliar zutger e sal|special:[El][vegn][a][magliar][zutger][e][sal]|id:zAdDxcs81EPx}
+{type:Match|question:Select the matching words|options:[Agl:Garlic][Ina tschagula:An onion][Latg:Milk][Ina tomata:A tomato]|id:9B5C0D38TGC8}
+{type:PickOneMeaning|question:The speaker is saying:|speech:Baiver|options:[Drink][Want][Eat]|answer:Drink|id:gTQQ6cF1kDR5}
+{type:WriteWords|question:They will eat a potato and an onion|answer:Els vegnan a mangiar in tartuffel e ina tschagula|answerviewable:Els vegnan a mangiar in tartuffel e ina tschagula|special:[Els][vegnan][a][mangiar][in][tartuffel][e][ina][tschagula]|id:2D1Cpw4TrEfn}
+{type:WriteWords|question:I will eat rice and pasta|answer:Jau vegn a magliar ris e pasta|answerviewable:Jau vegn a magliar ris e pasta|special:[Jau][vegn][a][magliar][ris][e][pasta]|id:Su7TU4y1EQiF}
+{type:WriteWords|question:Jau vegn a baiver latg|answer:I will drink milk|answerviewable:I will drink milk|special:[I][will][drink][milk]|id:hlSNDpZe8aTM}
+{type:WriteWords|question:El vegn a mangiar ina tomata|answer:He will eat a tomato|answerviewable:He will eat a tomato|special:[He][will][eat][a][tomato]|id:KJD9u5cYNEFg}
+{type:PickWords|question:I will eat rice and pasta|options:[a][magliar][Jau][pasta][ris][vegn][e]|answer:Jauvegnamagliarrisepasta|answerviewable:Jau vegn a magliar ris e pasta|id:2igWBdRy8VUG}
+{type:Match|question:Select the matching words|options:[Agl:Garlic][Ina tomata:A tomato][Ina carotta:A carrot][Zutger:Sugar]|id:2ky7Hj42VTmN}
+{type:PickMissingWord|question:___El___ vegn a mangiar ina tomata|options:[El][Baiver][Ina tomata][Agl]|answer:El|id:TnYCEjddXmmj}
+{type:PickOne|question:Sal|options:[Salt][A tomato][A carrot]|answer:Salt|id:dJxUNSnoVGIF}
+{type:WriteWords|question:Els vegnan a mangiar in tartuffel e ina tschagula|answer:They will eat a potato and an onion|answerviewable:They will eat a potato and an onion|special:[They][will][eat][a][potato][and][an][onion]|id:EVPPYLWWTLkJ}
+{type:WriteWords|question:You will drink milk and eat a carrot|answer:Vus vegnis a baiver latg e magliar ina carotta|answerviewable:Vus vegnis a baiver latg e magliar ina carotta|special:[Vus][vegnis][a][baiver][latg][e][magliar][ina][carotta]|id:4BP19w9olKGn}
+{type:PickWords|question:Ti vegns a magliar agl ed in tartuffel|options:[garlic][will][a][eat][and][You][potato]|answer:Youwilleatgarlicandapotato|answerviewable:You will eat garlic and a potato|id:mJnWNg4QKR3J}
+{type:WriteWords|question:Els vegnan a mangiar in tartuffel e ina tschagula|answer:They will eat a potato and an onion|answerviewable:They will eat a potato and an onion|special:[They][will][eat][a][potato][and][an][onion]|id:9SuflvOH4GUI}
+</lesson>
+<lesson:10|id:qo5RXzOQTZ1g>
+{type:PickMissingWord|question:Nus vegnin a magliar ___ina___ tschagula ed ina tomata|options:[El vegn a][ina][Ina tschagula][Ris]|answer:ina|id:evPUB1ukhCHA}
+{type:WriteWords|question:I will eat rice and pasta|answer:Jau vegn a magliar ris e pasta|answerviewable:Jau vegn a magliar ris e pasta|special:[Jau][vegn][a][magliar][ris][e][pasta]|id:ADUeQHat1f2c}
+{type:WriteWords|question:They will eat a potato and an onion|answer:Els vegnan a mangiar in tartuffel e ina tschagula|answerviewable:Els vegnan a mangiar in tartuffel e ina tschagula|special:[Els][vegnan][a][mangiar][in][tartuffel][e][ina][tschagula]|id:DJDkyD4qPzz1}
+{type:WriteWords|question:El vegn a magliar zutger e sal|answer:He will eat sugar and salt|answerviewable:He will eat sugar and salt|special:[He][will][eat][sugar][and][salt]|id:hJDOmKCG14PN}
+{type:WriteWords|question:You will eat garlic and a potato|answer:Ti vegns a magliar agl ed in tartuffel|answerviewable:Ti vegns a magliar agl ed in tartuffel|special:[Ti][vegns][a][magliar][agl][ed][in][tartuffel]|id:5r7wWm0rD6yF}
+{type:WriteWords|question:I will drink milk|answer:Jau vegn a baiver latg|answerviewable:Jau vegn a baiver latg|special:[Jau][vegn][a][baiver][latg]|id:4sL1wLOiFkUO}
+{type:Match|question:Select the matching words|options:[Ris:Rice][Ina tomata:A tomato][Pasta:Pasta][Sal:Salt]|id:MiX1lgYl1TOo}
+{type:WriteWords|question:Nus vegnin a mangiar ris e pasta|answer:We will eat rice and pasta|answerviewable:We will eat rice and pasta|special:[We][will][eat][rice][and][pasta]|id:PgiHqdah2DQk}
+{type:WriteWords|question:Els vegnan a mangiar in tartuffel e ina tschagula|answer:They will eat a potato and an onion|answerviewable:They will eat a potato and an onion|special:[They][will][eat][a][potato][and][an][onion]|id:UpAymaiRGryh}
+{type:PickOneMeaning|question:The speaker is saying:|speech:Esser|options:[Salt][A carrot][Be]|answer:Be|id:JD96WXabbGU8}
+{type:WriteWords|question:Ti vegns a magliar agl ed in tartuffel|answer:You will eat garlic and a potato|answerviewable:You will eat garlic and a potato|special:[You][will][eat][garlic][and][a][potato]|id:IdHsdxho05b3}
+{type:PickWords|question:I will drink milk|options:[vegn][latg][vegnin][agl][tartuffel][a][carotta][Jau][baiver]|answer:Jauvegnabaiverlatg|answerviewable:Jau vegn a baiver latg|id:q1EkLkstwZqc}
+{type:Match|question:Select the matching words|options:[Agl:Garlic][Ris:Rice][Ina tomata:A tomato][Latg:Milk]|id:Tj2uzN5hoYWU}
+{type:WriteWords|question:I will drink milk|answer:Jau vegn a baiver latg|answerviewable:Jau vegn a baiver latg|special:[Jau][vegn][a][baiver][latg]|id:DfhKREMBhyPM}
+{type:PickOne|question:In tartuffel|options:[And][Milk][A potato]|answer:A potato|id:F31CwMWfpuE0}
+{type:PickMissingWord|question:Nus vegnin a mangiar ris e ___pasta___|options:[Ris][Els vegnan a][E][pasta]|answer:pasta|id:vkb8Kg6cMXPm}
+{type:PickWords|question:Nus vegnin a mangiar ris e pasta|options:[pasta][and][She][We][will][onion][eat][rice]|answer:Wewilleatriceandpasta|answerviewable:We will eat rice and pasta|id:ClkQUcXBDIfS}
+{type:WriteWords|question:Nus vegnin a mangiar ris e pasta|answer:We will eat rice and pasta|answerviewable:We will eat rice and pasta|special:[We][will][eat][rice][and][pasta]|id:hy4GFTwI3TQU}
+</lesson>
+</skill>
+<skill:Articles|image:question|lessonsperlevel:1|strokecolor:245,127,23|fillcolor:236,64,122|position:6|description:Learn when to use the correct articles in Romansh|id:8YqwWvQK8kf0>
+<lesson:1|id:ilbj5ADMe7Nj>
+{type:FlashCard|front:The carrot|back:La carotta|id:rejzNkTFY2nD}
+{type:PickOne|question:Las carottas|options:[The onions][A (masculine)][The carrots]|answer:The carrots|id:bR0DGiTFZtEl}
+{type:PickOne|question:Which article is used with "Tomatas"|options:[La][Las][Ina]|answer:Las|id:GiiPVeHKjS5M}
+{type:FlashCard|front:The onion|back:La tschagula|id:ZS4OIBicTF35}
+{type:FlashCard|front:The onions|back:ils tschagulins|id:vejxrBT8iiNP}
+{type:FlashCard|front:The carrot|back:La carotta|id:Dg5RuIm33GIW}
+{type:PickOne|question:Las tomatas|options:[A tomato][The tomatos][The tomato]|answer:The tomatos|id:oI6Bjn03LyO5}
+{type:Match|question:Match the article to the noun|options:[La:Tomata][In:Tartuffel][ils:Tartuffels][Las:Carottas]|id:4Cu91kg71CMp}
+</lesson>
+<lesson:2|id:WM9jIfNDG4qN>
+{type:PickOne|question:ils tartuffels|options:[An onion][The onions][The onion]|answer:The onions|id:Ygau0WkJkVxw}
+{type:FlashCard|front:il tartuffel|back:The potato|id:4xVEAwpoysJC}
+{type:FlashCard|front:The carrot|back:La carotta|id:hs0uoou3VMoO}
+{type:PickOne|question:ils tschagulins|options:[An onion][The tomatos][The onions]|answer:An onion|id:8CV5mj1X8NK2}
+{type:PickOne|question:The tomatos|options:[Las tomatas][Las carottas][ils tschagulins]|answer:Las tomatas|id:6vFLPgvJrVFV}
+{type:Match|question:Match the pairs:|options:[The onions:ils tschagulins][A tomato:Ina tomata][The tomatos:Las tomatas][A potato:In tartuffel]|id:dfRyWQSFS46b}
+</lesson>
+<lesson:3|id:v6ahdWwoaTbN>
+{type:WriteWords|question:They are the tomatos|answer:Els èn las tomatas|id:u1qfTAXZNJLP}
+{type:WriteWords|question:I am a potato|answer:Jau sun in tartuffel|id:nSY4R44dloef}
+{type:WriteWords|question:Are you the onions?|answer:Essas vus ils tschagulins?|answerviewable:Pay attention to the quantity|id:vUbYGkm9EVC1}
+{type:WriteWords|question:Do you want the carrots?|answer:Vuls ti la carottas?|id:3SOCHFaFOiBI}
+{type:WriteWords|question:Vulais vus la tschagula?|answer:[Do you want the onion?][Do you (pl) want the onion?]|id:Wjzv1Enq0eyb}
+{type:WriteWords|question:Jau vi in tartuffel, per plaschair|answer:I want a potato, please|answerviewable:Correct phrase 1|special:[keyword1]|id:Prdq3S0Hk8Ac}
+{type:WriteWords|question:Ti es la carotta|answer:You are the carrot|id:FpO7tYstloNe}
+</lesson>
+<lesson:4|id:Tv9L5TD7rKNF>
+{type:PickOne|question:A (masculine, singular)|options:[Ina][In][La]|answer:In|id:icU50xMbeSEK}
+{type:FlashCard|front:The (masculine, plural)|back:ils|id:lTtgukiE0r2L}
+{type:FlashCard|front:The (masculine, singular)|back:il|id:JtlYZmQEETjk}
+{type:FlashCard|front:The (femenine, plural)|back:Las|id:habVb4GRR8VV}
+{type:PickOne|question:The (masculine, singular)|options:[ils][Las][il]|answer:ils|id:6lLeAdF9zm5U}
+{type:PickOne|question:A (femenine)|options:[In][Ina][Las]|answer:Ina|id:B7fSlY7D62Wc}
+{type:PickOne|question:The (femenine, plural)|options:[Las][Ina][La]|answer:Las|id:toXWeepVffEc}
+{type:FlashCard|front:The (femenine, singular)|back:La|id:XmYtUucDiDya}
+</lesson>
+<lesson:5|id:rbVEIds08mx1>
+{type:WriteWords|question:I will want the potato|answer:Jau vegn a vulair il tartuffel|answerviewable:Jau vegn a vulair il tartuffel|special:[la]|id:AgRdHADuAtYl}
+{type:WriteWords|question:El vegn a vulair la tschagula|answer:He will want the onion|answerviewable:He will want the onion|special:[the]|id:AuhjxFzn3VPm}
+{type:PickOneMeaning|question:The speaker is saying|speech:The (femenine, plural)|options:[Las][Ils][La]|answer:Las|id:lHOclHglDr0K}
+{type:WriteWords|question:The tomato|answer:La tomata|answerviewable:la tomata|special:[La]|id:ycjoTUmzB9ir}
+{type:WriteWords|question:I will eat the carrot|answer:Jau vegn a mangiar la carotta|answerviewable:Jau vegn a mangiar la carotta|special:[la]|id:JwxeDKXtV8P4}
+{type:PickOneMeaning|question:The speaker is saying|speech:Il|options:[The (masculine, singular)][The (masculine, plural)][A (masculine)]|answer:The (masculine, singular)|id:h1AtfC83QbFL}
+{type:Match|question:Match the pairs:|options:[La:Femenine][Il:Masculine]|id:lH69INaArAws}
+{type:Match|question:Match the pairs:|options:[Las:Femenine][Ils:Masculine]|id:1QezrKXLG4JH}
+{type:Match|question:Match the pairs:|options:[In:Masculine][Ina:Femenine]|id:XKNDqhTEiAyg}
+</lesson>
+</skill>
+<skill:Review|image:myself_mirror|lessonsperlevel:1|strokecolor:245,127,23|fillcolor:236,64,122|position:7|description:Review all 55 words you've learnt so far|id:EXWBPf3eJ5nj>
+<lesson:1|id:3RgS1OBbsoZW>
+{type:Match|question:Match the pairs:|options:[Hello:Allegra][Good morning:Bun di][Good afternoon:Buna saira][Good night:Buna notg]|id:aTrclJmawkeO}
+{type:Match|question:Match the pairs:|options:[How are you?:Co vai?][Well:Bain][Very well:Fitg bain][Bad:Nausch]|id:FqlqtiljqzlF}
+{type:Match|question:Match the pairs:|options:[And you?:E ti?][Thanks:Grazia][I am:Jau sun][We are:Nus essan]|id:skWM5DzvXfX5}
+{type:Match|question:Match the pairs:|options:[You are:Ti es][You (pl) are:Vus essas][They are:Els èn][She is:Ella è]|id:gxEnAtaLDsF1}
+{type:Match|question:Match the pairs:|options:[He is:El è][I will:Jau vegn a][We will:Nus vegnin a][You will:Ti vegns a]|id:pvdzwnzwDthB}
+{type:Match|question:Match the pairs:|options:[You (pl) will:Vus vegnis a][He will:El vegn a][She will:Ella vegn a][They will:Els vegnan a]|id:bX9J2S6o2MYu}
+{type:Match|question:Match the pairs:|options:[Drink:Baiver][Eat:Mangiar][Want:Vulair][Be:Esser]|id:yWt5uSEwf9CU}
+{type:Match|question:Match the pairs:|options:[Rice:Ris][Pasta:Pasta][Garlic:Agl][A potato:In tartuffel]|id:qXmt83P0pPaq}
+{type:Match|question:Match the pairs:|options:[An onion:Ina tschagula][A tomato:ina tomata][Milk:Latg][Sugar:Zutger]|id:XICcjI9j93up}
+{type:Match|question:Match the pairs:|options:[Salt:Sal][A carrot:Ina carotta][And:E][A (masculine):In]|id:b5iCOqGMXVqE}
+{type:Match|question:Match the pairs:|options:[A (femenine):Ina][The (masculine, singular):il][The (femenine, singular):La][The (masculine, plural):ils]|id:CzXyjU8j67M5}
+{type:Match|question:Match the pairs:|options:[The (femenine, plural):Las][Yes:Gea][Goodbye:A revair][No:Na]|id:3QaGmUjkzFoU}
+{type:Match|question:Match the pairs:|options:[Please:Per plaschair][Nice to meet you:Fa plaschair][Mr:Il signur][Mrs:La dunna]|id:gr3WeteTUlsN}
+{type:Match|question:Match the pairs:|options:[Miss:La giuvna][My name is:Jau hai num][Buna fortuna:Good luck][Garlic:Agl]|id:fTI5wn0jyIap}
+</lesson>
+</skill>
+<skill:To have|image:personal_have_possession|lessonsperlevel:1|strokecolor:255,111,0|fillcolor:236,64,122|position:8|description:Learn how to use the verb "To have" in Romansh|id:VTNxOVbkoFXa>
+<lesson:1|id:noTdL3LVcW11>
+{type:PickOne|question:Jau hai|options:[I have][You have][We have]|answer:I have|id:v44UtHPgKhpN}
+{type:PickOne|question:Vus avais|options:[He has][I have][You (pl) have]|answer:You (pl) have|id:pxjR7sf1gVjH}
+{type:PickOne|question:Els han|options:[They have][She has][I have]|answer:They have|id:rjzUdNi8l5DJ}
+{type:FlashCard|front:Els han|back:They have|id:624gX2JLRubz}
+{type:FlashCard|front:I have|back:Jau hai|id:HMpTsbQ9grLp}
+{type:FlashCard|front:Els han|back:They have|id:bOWIrGMQb6kg}
+{type:PickOne|question:Nus avain|options:[We have][She has][They have]|answer:We have|id:j7lW4lmroit4}
+</lesson>
+<lesson:2|id:Mt1YJPRjPGdp>
+{type:PickOne|question:Jau hai|options:[You (pl) have][They have][I have]|answer:I have|id:zN6pktFAlfvo}
+{type:PickMissingWord|question:Ella ______ in tartuffel|options:[El ha][ha][Vus avais][Ella ha]|answer:ha|id:OrdU9loeUOrd}
+{type:Match|question:Select the matching words|options:[El ha:He has][Nus avain:We have][Els han:They have][Vus avais:You (pl) have]|id:1kEXH4eUiX7c}
+{type:Match|question:Select the matching words|options:[El ha:He has][Ti has:You have][Els han:They have][Jau hai:I have]|id:4x4WYn1smnoK}
+{type:PickMissingWord|question:Nus avain ______|options:[Nus avain][Vus avais][Ti has][agl]|answer:agl|id:yhPMk79vlMuJ}
+{type:Match|question:Select the matching words|options:[El ha:He has][Ella ha:She has][Els han:They have][Vus avais:You (pl) have]|id:Ok3476agG5wD}
+</lesson>
+<lesson:3|id:x4gPwz3Ftql6>
+{type:WriteWords|question:Nus avain agl|answer:We have garlic|id:IAu8hsCkr2Gk}
+{type:WriteWords|question:You have an onion|answer:Ti has ina tschagula|id:vwErDfo69sNY}
+{type:Match|question:Select the matching words|options:[El ha:He has][Vus avais:You (pl) have][Jau hai:I have][Nus avain:We have]|id:HALxJsSdPfI2}
+{type:WriteWords|question:You (pl) have salt|answer:Vus avais sal|id:gNTou11wPFC1}
+{type:PickMissingWord|question:El ha ______ tomata|options:[Jau hai][El ha][Ella ha][ina]|answer:ina|id:yl56MArOe4Lb}
+{type:WriteWords|question:Ti has ina tschagula|answer:You have an onion|id:4F2dcQQO1dQX}
+{type:Match|question:Select the matching words|options:[Els han:They have][Jau hai:I have][Nus avain:We have][Ti has:You have]|id:NB86f4heD2Fc}
+{type:PickMissingWord|question:Ti has ______ tschagula|options:[Els han][ina][Vus avais][Ti has]|answer:ina|id:MKYXJavEcmfA}
+{type:PickMissingWord|question:Els ______ zutger|options:[Vus avais][han][Ti has][El ha]|answer:han|id:nJe8VRqkxltl}
+{type:WriteWords|question:Nus avain agl|answer:We have garlic|id:paxzZgzOXrfT}
+{type:PickOne|question:Nus avain|options:[She has][We have][I have]|answer:We have|id:o0IeUb4j5vST}
+{type:WriteWords|question:You (pl) have salt|answer:Vus avais sal|id:35ZNrnoiDv3f}
+</lesson>
+<lesson:4|id:RpHki97yt1D4>
+{type:PickMissingWord|question:______ han zutger|options:[Els][Nus avain][Ella ha][Jau hai]|answer:Els|id:MaGwOUJ6fwo1}
+{type:WriteWords|question:You have an onion|answer:Ti has ina tschagula|id:hyz7bu2aLkVi}
+{type:WriteWords|question:Jau hai ina carotta|answer:I have a carrot|id:tGvdOWVJrMXm}
+{type:WriteWords|question:Vus avais sal|answer:[You (pl) have salt][You have salt]|id:v8yW2j2kz5K8}
+{type:Match|question:Select the matching words|options:[Els han:They have][Jau hai:I have][Ti has:You have][Nus avain:We have]|id:XnDuf79VJlRO}
+{type:PickOne|question:Ella ha|options:[You (pl) have][She has][They have]|answer:She has|id:NQaJjCaqHGsO}
+{type:Match|question:Select the matching words|options:[Els han:They have][El ha:He has][Ti has:You have][Vus avais:You (pl) have]|id:W4eZ0gTWnpwK}
+{type:WriteWords|question:Vus avais sal|answer:[You (pl) have salt][You have salt]|id:XdVSn2eDqrjy}
+{type:WriteWords|question:You have an onion|answer:Ti has ina tschagula|id:JMDX6B14Tjjl}
+{type:PickMissingWord|question:Jau hai ina ______|options:[Ti has][El ha][Nus avain][carotta]|answer:carotta|id:WaotiTRTxEuS}
+{type:WriteWords|question:He has a tomato|answer:El ha ina tomata|id:HdnMqxBWXPy1}
+{type:WriteWords|question:Jau hai ina carotta|answer:I have a carrot|id:BDbd4UsS628R}
+{type:WriteWords|question:He has a tomato|answer:El ha ina tomata|id:4ihnTgnsZpTN}
+</lesson>
+<lesson:5|id:prOtXrDsFQ4K>
+{type:WriteWords|question:Ella ha in tartuffel|answer:She has a potato|id:WvwJxVltfXT3}
+{type:WriteWords|question:Vus avais sal|answer:[You (pl) have salt][You have salt]|id:8apT4vjI9g4W}
+{type:Match|question:Select the matching words|options:[Els han:They have][Ti has:You have][Nus avain:We have][El ha:He has]|id:fiHHy3LJfT90}
+{type:Match|question:Select the matching words|options:[Jau hai:I have][Nus avain:We have][Ella ha:She has][Els han:They have]|id:bGZ6daTver7l}
+{type:WriteWords|question:Ti has ina tschagula|answer:You have an onion|id:3PQUmQq6jAUK}
+{type:WriteWords|question:I have a carrot|answer:Jau hai ina carotta|id:a3Y4eERk2Ahx}
+{type:WriteWords|question:I have a carrot|answer:Jau hai ina carotta|id:f5iaMzfvGYzZ}
+{type:WriteWords|question:You (pl) have salt|answer:Vus avais sal|id:YXR89CCwYler}
+{type:WriteWords|question:She has a potato|answer:Ella ha in tartuffel|id:AaeRogIlBlgl}
+{type:PickMissingWord|question:Els han ______|options:[zutger][Nus avain][Ella ha][Ti has]|answer:zutger|id:SFrqaKt6tTQr}
+{type:WriteWords|question:El ha ina tomata|answer:He has a tomato|id:QpRJFbbWwEUJ}
+{type:WriteWords|question:You have an onion|answer:Ti has ina tschagula|id:1BlD7ui1Gq7z}
+{type:WriteWords|question:Ti has ina tschagula|answer:You have an onion|id:Na1eObn5YuDZ}
+{type:PickOne|question:Ella ha|options:[She has][I have][You have]|answer:She has|id:OdtEOYZjeACF}
+{type:PickMissingWord|question:Jau hai ______ carotta|options:[Ti has][Vus avais][ina][Els han]|answer:ina|id:UbJRhheTddwP}
+</lesson>
+</skill>
+<skill:Pets|image:dog|lessonsperlevel:1|strokecolor:255,111,0|fillcolor:236,64,122|position:9|description:Learn how to describe what pets you have|id:kYRNGNnR9Gd0>
+<lesson:1|id:g9SvttjfikD2>
+{type:FlashCard|front:Pulschain|back:Chicken (male)|id:t6256CpBo6ge}
+{type:PickOne|question:Chaun|options:[Dog (male)][Dog (female)][Hello]|answer:Dog (male)|id:dmHrOAaSqL3H}
+{type:PickOne|question:Chicken (female)|options:[Pulschaina][How are you?][Dog (male)]|answer:Pulschaina|id:aelEcmtC284H}
+{type:PickOne|question:Pulschain|options:[Dog (male)][Chicken (male)][Guinea pig]|answer:Chicken (male)|id:VEddohOrJCH3}
+{type:FlashCard|front:Chogna|back:Dog (female)|id:XrtgOJuLMv89}
+{type:FlashCard|front:Cat (female)|back:Giatta|id:24FhG60cqifd}
+{type:PickOne|question:Giat|options:[Dog (male)][Cat (female)][Cat (male)]|answer:Cat (male)|id:YlanHxeBtPXa}
+</lesson>
+<lesson:2|id:7cQZpvxxnl0B>
+{type:PickMissingWord|question:Jau hai ______ chaun|options:[in][Giatta][Pulschain][Giat]|answer:in|id:vYBSowWsmAUh}
+{type:Match|question:Select the matching words|options:[Chogna:Dog (female)][Portg da mar:Guinea pig][Pulschaina:Chicken (female)][Giatta:Cat (female)]|id:g8qp0CPyHhQU}
+{type:PickMissingWord|question:______ han in portg da mar|options:[Els][Giatta][Pulschaina][Portg da mar]|answer:Els|id:XmyNh554YZid}
+{type:Match|question:Select the matching words|options:[Chogna:Dog (female)][Giatta:Cat (female)][Portg da mar:Guinea pig][Pulschain:Chicken (male)]|id:wQ2vXD4ah9AH}
+{type:PickOne|question:Chogna|options:[Cat (male)][Dog (female)][Cat (female)]|answer:Dog (female)|id:jVagdXWBsang}
+{type:Match|question:Select the matching words|options:[Pulschain:Chicken (male)][Pulschaina:Chicken (female)][Portg da mar:Guinea pig][Chaun:Dog (male)]|id:Ww4C2t8mNAOC}
+</lesson>
+<lesson:3|id:uxSIWI6HKoBo>
+{type:Match|question:Select the matching words|options:[Pulschaina:Chicken (female)][Chaun:Dog (male)][Portg da mar:Guinea pig][Chogna:Dog (female)]|id:A2z7lyypLxlD}
+{type:PickMissingWord|question:Has ______ ina chogna?|options:[Giatta][Pulschain][ti][Chogna]|answer:ti|id:GKKx6C4W15fj}
+{type:PickMissingWord|question:Jau ______ in chaun|options:[Chogna][Portg da mar][hai][Giatta]|answer:hai|id:PggBga7tTevu}
+{type:WriteWords|question:We will have a male cat and a male dog|answer:Nus vegnin ad avair in giat e in chaun|id:XVb603IOD83N}
+{type:WriteWords|question:Jau hai in chaun|answer:[I have a male dog][I have a dog]|id:EXoXUNJfnvwF}
+{type:WriteWords|question:El ha ina giatta|answer:He has a female cat|id:CzCfiFy0LRzQ}
+{type:Match|question:Select the matching words|options:[Chaun:Dog (male)][Pulschaina:Chicken (female)][Portg da mar:Guinea pig][Giatta:Cat (female)]|id:yAmiCEekjfTB}
+{type:WriteWords|question:Nus vegnin ad avair in giat e in chaun|answer:[We will have a male cat and a male dog][We will have a male cat and a dog][We will have a cat and a male dog][We will have a cat and a dog]|id:5BPnSucgc5ns}
+{type:WriteWords|question:I have a male dog|answer:Jau hai in chaun|id:e0Hz9va0cRgf}
+{type:PickOne|question:Giat|options:[Cat (male)][Guinea pig][Dog (female)]|answer:Cat (male)|id:n0qwHh6L5r2W}
+{type:WriteWords|question:They have a guinea pig|answer:Els han in portg da mar|id:9QlmdD1Y4EvI}
+{type:PickMissingWord|question:El ______ ina giatta|options:[ha][Chogna][Chaun][Giat]|answer:ha|id:YediAamlWNS8}
+</lesson>
+<lesson:4|id:5Md2GYQb2RQq>
+{type:Match|question:Select the matching words|options:[Chaun:Dog (male)][Giatta:Cat (female)][Giat:Cat (male)][Pulschain:Chicken (male)]|id:PjTQPdwNBalp}
+{type:PickOne|question:Pulschaina|options:[Cat (female)][Cat (male)][Chicken (female)]|answer:Chicken (female)|id:h1oPPJaYEMYY}
+{type:WriteWords|question:El ha ina giatta|answer:[He has a female cat][He has a cat]|id:yeUnPcQhQBcN}
+{type:WriteWords|question:Els han in portg da mar|answer:They have a guinea pig|id:e2LAMjtAXJxk}
+{type:WriteWords|question:They have a guinea pig|answer:Els han in portg da mar|id:bDfMmvbV0ER8}
+{type:Match|question:Select the matching words|options:[Portg da mar:Guinea pig][Pulschain:Chicken (male)][Giat:Cat (male)][Chogna:Dog (female)]|id:LBJUOPpAhVBw}
+{type:WriteWords|question:Do you have a female dog|answer:Has ti ina chogna?|id:duNDpe6JlTNA}
+{type:WriteWords|question:Nus vegnin ad avair in giat e in chaun|answer:[We will have a male cat and a male dog][We will have a male cat and a dog][We will have a cat and a male dog][We will have a cat and a dog]|special:[If you specify the gender of the animals, do so by putting "male" or "female" before the word]|id:Fu5MQrZdVV0S}
+{type:WriteWords|question:He has a female cat|answer:El ha ina giatta|id:eQc15PbvDfVa}
+{type:PickMissingWord|question:El ha ina ______|options:[giatta][Chaun][Di][Pulschaina]|answer:giatta|id:BnY3KEekhs5W}
+{type:WriteWords|question:She is a chicken|answer:Ella è ina pulschaina|id:VEt0uMehNp9a}
+{type:PickMissingWord|question:______ ha ina giatta|options:[Jau][Ti][El][Nus]|answer:El|id:RrJRK0SmxLK4}
+{type:WriteWords|question:Jau hai in chaun|answer:I have a male dog|id:Id27FKQLB6yJ}
+</lesson>
+<lesson:5|id:raNTgS6B5GjQ>
+{type:WriteWords|question:Has ti ina chogna?|answer:Do you have a female dog?|id:Aq3qN5gGkOaQ}
+{type:PickMissingWord|question:El ______ ina giatta|options:[Giat][Pulschaina][ha][Chogna]|answer:ha|id:kMlUyDY1M1Bh}
+{type:WriteWords|question:He has a female cat|answer:El ha ina giatta|id:No4N0vMYfb48}
+{type:WriteWords|question:I have a male dog|answer:Jau hai in chaun|id:AWbP96qDSnxI}
+{type:WriteWords|question:El è in pulschain|answer:He is a chicken|id:Oohe89Rsw0ER}
+{type:WriteWords|question:She is a chicken|answer:Ella è ina pulschaina|id:wgsefGlpfZNT}
+{type:WriteWords|question:I have a male dog|answer:Jau hai in chaun|id:WveGvT7xPG1P}
+{type:WriteWords|question:Has ti ina chogna?|answer:[Do you have a female dog?][Do you have a dog?]|id:R6buxFKSaIBC}
+{type:WriteWords|question:Jau hai in chaun|answer:[I have a male dog][I have a dog]|id:WiIU2y4cSqJZ}
+{type:WriteWords|question:We will have a male cat and a male dog|answer:Nus vegnin ad avair in giat e in chaun|id:GyO53qU1ds0O}
+{type:WriteWords|question:El ha ina giatta|answer:[He has a female cat][He has a cat]|id:Zeffk1EOdUCa}
+{type:PickMissingWord|question:El è in ______|options:[Giatta][Chogna][Pulschaina][pulschain]|answer:pulschain|id:nE8VYbnhVJeQ}
+{type:Match|question:Select the matching words|options:[Pulschaina:Chicken (female)][Chaun:Dog (male)][Giatta:Cat (female)][Chogna:Dog (female)]|id:cdtAJ4UXh9he}
+{type:PickOne|question:Giatta|options:[Chicken (female)][Cat (female)][Guinea pig]|answer:Cat (female)|id:U3aMhk42SSWu}
+{type:Match|question:Select the matching words|options:[Pulschaina:Chicken (female)][Pulschain:Chicken (male)][Giat:Cat (male)][Giatta:Cat (female)]|id:T9xgckesE3wz}
+</lesson>
+</skill>
+<skill:To eat|image:to-eat|lessonsperlevel:1|strokecolor:230,74,25|fillcolor:194,24,91|position:10|description:Learn how to use "To eat" in Romansh and combine it with what you learnt from the skill "foods"|id:spqeL2otntJD>
+<lesson:1|id:l1IBEqAb8T3K>
+{type:FlashCard|front:Nus mangiain|back:We eat|id:KfHeOHOEv5QA}
+{type:PickOne|question:Senza|options:[With][Or][Without]|answer:Without|id:xjj9MGWpJM4Q}
+{type:PickOne|question:Els mangian|options:[They eat][I eat][She eats]|answer:They eat|id:4o2V3v7ioHH9}
+{type:FlashCard|front:You eat|back:Ti mangias|id:7vob9jpz3i0c}
+{type:FlashCard|front:You (pl) eat|back:Vus mangiais|id:FXV6qnGxOIVJ}
+{type:PickOne|question:Vus mangiais|options:[You (pl) eat][You eat][Or]|answer:You (pl) eat|id:uIKJTbJdjFbi}
+{type:PickOne|question:Ti mangias|options:[You eat][With][They eat]|answer:You eat|id:mXh4d3q0mbaC}
+</lesson>
+<lesson:2|id:JIENrbkzXR5P>
+{type:PickOne|question:Ella mangia|options:[She eats][You eat][With]|answer:She eats|id:DiGMewrHxjIr}
+{type:PickMissingWord|question:Ella mangia ______ e ris cun ina tomata|options:[Jau mangel][pasta][Vus mangiais][El mangia]|answer:pasta|id:oPTMlMYI8Ltr}
+{type:Match|question:Select the matching words|options:[Nus mangiain:We eat][Senza:Without][Cun:With][Els mangian:They eat]|id:S1fPO9YaJzBH}
+{type:Match|question:Select the matching words|options:[Ella mangia:She eats][Els mangian:They eat][El mangia:He eats][Nus mangiain:We eat]|id:Ws9e9gJ5Usru}
+{type:PickMissingWord|question:Ella mangia pasta ______ ris cun ina tomata|options:[Ella mangia][El mangia][Jau][e]|answer:e|id:uC3kDv2AKGHs}
+{type:Match|question:Select the matching words|options:[Nus mangiain:We eat][Cun:With][Ti mangias:You eat][U:Or]|id:OxeF2yBTq6Ng}
+</lesson>
+<lesson:3|id:VsSbSwtwWZ46>
+{type:WriteWords|question:El vegn a mangiar zutger senza sal|answer:He will eat sugar without salt|id:RqbVFgnaszR6}
+{type:Match|question:Select the matching words|options:[Senza:Without][U:Or][Cun:With][Jau mangel:I eat]|id:3lQ6rXJlCxmK}
+{type:WriteWords|question:They eat pasta with milk|answer:Els mangian pasta cun latg|id:aw2NQxP6Fy8H}
+{type:WriteWords|question:We eat an onion without garlic|answer:Nus mangiain ina tschagula senza agl|id:dpiqL2geJ6RQ}
+{type:WriteWords|question:We eat an onion without garlic|answer:Nus mangiain ina tschagula senza agl|id:a4NUEER9rJVV}
+{type:WriteWords|question:Els mangian pasta cun latg|answer:They eat pasta with milk|id:hVoafEvpU3Bq}
+{type:Match|question:Select the matching words|options:[Vus mangiais:You (pl) eat][Senza:Without][Cun:With][El mangia:He eats]|id:CY5HMefFtiUK}
+{type:PickOne|question:Cun|options:[You (pl) eat][With][Without]|answer:With|id:QntFzHoxlXaM}
+{type:WriteWords|question:Mangias ti ina carotta u in tartuffel?|answer:Do you eat a carrot or a potato?|id:QnCCQVXbVPmw}
+{type:PickMissingWord|question:Ella mangia pasta e ris cun ina ______|options:[El mangia][Ti mangias][Cun][tomata]|answer:tomata|id:njaa41qSTz4Z}
+{type:PickMissingWord|question:Nus mangiain ______ tschagula senza agl|options:[Nus mangiain][Vus mangiais][ina][Senza]|answer:ina|id:KsaI5R7j534X}
+{type:PickMissingWord|question:Jau mangel ina ____|options:[Jau mangel][Nus mangiain][tschagula][El mangia]|answer:tschagula|id:gk0E2nOyVtVC}
+</lesson>
+<lesson:4|id:WylSYrXAjKqh>
+{type:WriteWords|question:We eat an onion without garlic|answer:Nus mangiain ina tschagula senza agl|id:2g7BgVuLEMLo}
+{type:PickMissingWord|question:El mangia zutger ______ sal|options:[Cun][Ti mangias][Jau mangel][senza]|answer:senza|id:8IohCJttTsex}
+{type:Match|question:Select the matching words|options:[Els mangian:They eat][Jau mangel:I eat][Senza:Without][El mangia:He eats]|id:JElDZtf92Zxm}
+{type:Match|question:Select the matching words|options:[Nus mangiain:We eat][Cun:With][El mangia:He eats][U:Or]|id:Px4PciG7EVBv}
+{type:WriteWords|question:We eat an onion without garlic|answer:Nus mangiain ina tschagula senza agl|id:dl7O1tFgvhrY}
+{type:PickOne|question:Cun|options:[You (pl) eat][With][They eat]|answer:With|id:CBnMvp7LPrPf}
+{type:WriteWords|question:Els mangian pasta cun latg|answer:They eat pasta with milk|id:XSsvigYADIbD}
+{type:WriteWords|question:El mangia zutger senza sal|answer:He eats sugar without salt|id:FdeC7ddzR9rq}
+{type:WriteWords|question:Mangiais vus in tartuffel?|answer:[Do you (pl) eat a potato?][Do you eat a potato?]|id:eRRqsiLT2qlM}
+{type:WriteWords|question:She eats pasta and rice with a tomato|answer:Ella mangia pasta e ris cun ina tomata|id:fMky2044m9M2}
+{type:WriteWords|question:I eat an onion|answer:Jau mangel ina tschagula|id:Rn0ZMhiGtu9Y}
+{type:PickMissingWord|question:Nus mangiain ina tschagula senza ______|options:[Ti mangias][Nus mangiain][agl][Vus mangiais]|answer:agl|id:6DtgcWAqUpDp}
+{type:WriteWords|question:Jau mangel ina tschagula|answer:I eat an onion|id:2JBUtwdKykYH}
+</lesson>
+<lesson:5|id:E7REBI8s50Wu>
+{type:WriteWords|question:You (pl) will eat a potato|answer:Vus vegnis a mangiar ina tomata|id:tkG7cTYWP3NT}
+{type:Match|question:Select the matching words|options:[Ti mangias:You eat][Senza:Without][Nus mangiain:We eat][U:Or]|id:A5RXUn5s8Wfn}
+{type:WriteWords|question:El mangia zutger senza sal|answer:He eats sugar without salt|id:NAVVq1LAD7qw}
+{type:Match|question:Select the matching words|options:[Jau mangel:I eat][Ella mangia:She eats][Ti mangias:You eat][Senza:Without]|id:DGaDBaTOOmxo}
+{type:WriteWords|question:They eat pasta with milk|answer:Els mangian pasta cun latg|id:u2LEkQDgyvRJ}
+{type:PickOne|question:Els mangian|options:[They eat][You eat][She eats]|answer:They eat|id:prZKb6Jj5I7t}
+{type:PickMissingWord|question:______ mangia pasta e ris cun ina tomata|options:[Vus mangiais][U][Ella][Jau mangel]|answer:Ella|id:LBhHS0rFd74k}
+{type:WriteWords|question:Do you (pl) eat a potato|answer:Mangiais vus in tartuffel?|id:3q0M8JvRajyV}
+{type:WriteWords|question:Mangias ti ina carotta u in tartuffel?|answer:Do you eat a carrot or a potato?|id:uBQnsPPFSyjY}
+{type:PickMissingWord|question:Els mangian ______ cun latg|options:[pasta][Ti mangias][Ella mangia][Nus mangiain]|answer:pasta|id:d7EH7ifjtaJR}
+{type:WriteWords|question:Els mangian pasta cun latg|answer:They eat pasta with milk|id:K6ysgoAsoZIe}
+{type:WriteWords|question:They eat pasta with milk|answer:Els mangian pasta cun latg|id:SzXQA747WuGU}
+{type:WriteWords|question:Do you (pl) eat a potato|answer:Mangiais vus in tartuffel?|id:lFBUpWpz7WkP}
+{type:WriteWords|question:Els mangian pasta cun latg|answer:They eat pasta with milk|id:xJQZPyejKBB6}
+{type:WriteWords|question:Jau mangel ina tschagula|answer:I eat an onion|id:SrwHi7bOH12g}
+</lesson>
+</skill>
+<skill:To want|image:need_want|lessonsperlevel:1|strokecolor:230,74,25|fillcolor:194,24,91|position:11|description:Learn how to use the verb "To want" in Romansh|id:b9b8UMiUOlp8>
+<lesson:1|id:qJ5jsdavf0b1>
+{type:FlashCard|front:She wants|back:Ella vul|id:ydZwV3H7nkcr}
+{type:FlashCard|front:Els vulan|back:They want|id:QfNlBubySdL3}
+{type:PickOne|question:Vus vulais|options:[Without][You (pl) want][You (pl) eat]|answer:You (pl) want|id:j4ozNO8baM4j}
+{type:PickOne|question:El vul|options:[I eat][Or][He wants]|answer:He wants|id:Z03Sha7hTchh}
+{type:FlashCard|front:You (pl) want|back:Vus vulais|id:snQye2txQypf}
+{type:PickOne|question:Ti vuls|options:[You want][Without][You eat]|answer:You want|id:BtSKJNlmCNHB}
+{type:PickOne|question:Jau vi|options:[With][Without][I want]|answer:I want|id:m4Xbf31GQM8t}
+</lesson>
+<lesson:2|id:TjrM5Wsmyta6>
+{type:PickMissingWord|question:Ti vuls in ______|options:[Cun][U][pulschain][Senza]|answer:pulschain|id:3MukAAbhjphO}
+{type:Match|question:Select the matching words|options:[Vus vulais:You (pl) want][Els vulan:They want][Ti vuls:You want][Nus vulain:We want]|id:l8ZyvyMy7PDv}
+{type:Match|question:Select the matching words|options:[Ti vuls:You want][Ella vul:She wants][Nus vulain:We want][El vul:He wants]|id:JNi176xqaaWk}
+{type:PickOne|question:El vul|options:[We want][He wants][You (pl) want]|answer:He wants|id:YTN1JtrWLnsg}
+{type:Match|question:Select the matching words|options:[U:Or][Els mangian:They eat][Nus vulain:We want][El mangia:He eats]|id:2nGiroMBbY15}
+{type:PickMissingWord|question:El vul ______ chogna|options:[ina][Nus mangiain][U][Ella vul]|answer:ina|id:QiWONvHcgiO0}
+</lesson>
+<lesson:3|id:KxDfixJQXkeI>
+{type:PickOne|question:Ella vul|options:[You (pl) want][She wants][I want]|answer:She wants|id:dvoIdLGgAjM3}
+{type:PickMissingWord|question:Ti vuls in ______|options:[El vul][Cun][pulschain][Ti mangias]|answer:pulschain|id:3bYpHTH9792w}
+{type:Match|question:Select the matching words|options:[Els vulan:They want][El vul:He wants][Vus vulais:You (pl) want][Ella vul:She wants]|id:KAqJShI8DrIz}
+{type:PickMissingWord|question:______ vulan in giat senza agl|options:[Ti mangias][U][Els vulan][Els]|answer:Els|id:ww3nNs04Smbp}
+{type:WriteWords|question:I want pasta with milk, please|answer:Jau vi pasta cun latg, per plaschair|id:YQ2YwNfysp7k}
+{type:WriteWords|question:El vul ina chogna|answer:He wants a female dog|id:Zc3CCtwY98iM}
+{type:WriteWords|question:They want a cat without garlic|answer:Els vulan in giat senza agl|id:ytEZFVaIuabP}
+{type:PickMissingWord|question:Jau vi pasta cun latg, per ______|options:[plaschair][Jau vi][Nus mangiain][Cun]|answer:plaschair|id:i1p7A0aLTKWe}
+{type:WriteWords|question:Ella vul ina tomata e ina carotta|answer:She wants a tomato and a carrot|id:hAgbqgJrgCXM}
+{type:Match|question:Select the matching words|options:[Ella vul:She wants][Els vulan:They want][Jau vi:I want][El vul:He wants]|id:WsACafxx49V9}
+{type:WriteWords|question:Ti vuls in chaun|answer:[You want a male dog][You want a dog]|id:aFwj7069mg79}
+{type:WriteWords|question:He wants a female dog|answer:El vul ina chogna|id:KNorNLhHzPtV}
+</lesson>
+<lesson:4|id:A6RgbZpP643l>
+{type:Match|question:Select the matching words|options:[Jau vi:I want][Els vulan:They want][El vul:He wants][Nus vulain:We want]|id:Z14fvTxuBpSg}
+{type:PickMissingWord|question:______ vuls in chaun|options:[U][Ti][Jau vi][Ti mangias]|answer:Ti|id:kLQo1IGPugfU}
+{type:PickOne|question:Ti vuls|options:[We want][You (pl) want][You want]|answer:You want|id:TYxiAXC0IdeA}
+{type:WriteWords|question:Ti vuls ina pulschaina|answer:[You want a chicken][You want a female chicken]|id:dQ1TQPlx4o1Y}
+{type:WriteWords|question:Do they want an onion?|answer:Vulan els ina tschagula?|id:3Ro2Wc1tkdCo}
+{type:WriteWords|question:Does she want rice or onion?|answer:Vul ella ris u tschagula?|id:cP1ZCdUGKPLs}
+{type:WriteWords|question:They want a cat without garlic|answer:Els vulan in giat senza agl|id:PuYjufESXOsy}
+{type:WriteWords|question:Does she want rice or onion?|answer:Vul ella ris u tschagula?|id:VbdQA7pT1RUd}
+{type:WriteWords|question:Vus vulais in giat e nus vulain ina giatta|answer:[You (pl) want a male cat and we want a female cat][You (pl) want a cat and we want a female cat][You (pl) want a male cat and we want a cat][You want a male cat and we want a female cat][You want a cat and we want a female cat][You want a male cat and we want a cat]|id:6KnsAe6ilT6p}
+{type:WriteWords|question:Ella vul ina tomata e ina carotta|answer:She wants a tomato and a carrot|id:moCQIgOBjeeG}
+{type:Match|question:Select the matching words|options:[Nus vulain:We want][El vul:He wants][Ti vuls:You want][Vus vulais:You (pl) want]|id:tf4bD4k4no0b}
+{type:WriteWords|question:Els vulan in giat senza agl|answer:They want a cat without garlic|id:dmhnwfyABSH8}
+{type:PickMissingWord|question:Vul ella ris ______ tschagula?|options:[Ella vul][Ella mangia][El mangia][u]|answer:u|id:puRaNmkRoT6y}
+</lesson>
+<lesson:5|id:zw9ZLHIEIgNb>
+{type:Match|question:Select the matching words|options:[Jau vi:I want][Nus vulain:We want][Vus vulais:You (pl) want][Els vulan:They want]|id:AjeFpYgfcDgM}
+{type:PickOne|question:Vus vulais|options:[You (pl) want][He wants][They want]|answer:You (pl) want|id:iUAQiEU7qeRB}
+{type:WriteWords|question:She wants a tomato and a carrot|answer:Ella vul ina tomata e ina carotta|id:IqH8jHgwEwsc}
+{type:WriteWords|question:Vus vulais in giat e nus vulain ina giatta|answer:[You want a male cat and we want a female cat][You (pl) want a male cat and we want a female cat]|id:SKY6JBA9CKq0}
+{type:WriteWords|question:Vul ella ris u tschagula?|answer:Does she want rice or onion?|id:ALNBjcLq6jpq}
+{type:WriteWords|question:Vulan els ina tschagula?|answer:Do they want an onion?|id:w25zBSMkaZwH}
+{type:PickMissingWord|question:Els vulan in giat ______ agl|options:[Vus vulais][U][senza][Ella vul]|answer:senza|id:OuRJ2nk36zZV}
+{type:WriteWords|question:She wants a tomato and a carrot|answer:Ella vul ina tomata e ina carotta|id:lQ4jPHLICTB9}
+{type:WriteWords|question:Vus vulais in giat e nus vulain ina giatta|answer:[You (pl) want a male cat and we want a female cat][You want a male cat and we want a female cat]|id:3IA6jj6apbWE}
+{type:WriteWords|question:You want a male dog|answer:Ti vuls in chaun|id:7zVXO0Mjhu5N}
+{type:WriteWords|question:Do they want an onion?|answer:Vulan els ina tschagula?|id:Ghe85FPx4U16}
+{type:PickMissingWord|question:El ______ ina chogna|options:[Jau mangel][El vul][vul][Vus vulais]|answer:vul|id:4r5Cpbp5dq4Y}
+{type:WriteWords|question:Vul ella ris u tschagula?|answer:Does she want rice or onion?|id:JSsj1MvMT5fc}
+{type:Match|question:Select the matching words|options:[Jau vi:I want][Vus vulais:You (pl) want][Nus vulain:We want][Els vulan:They want]|id:ERNM4ElazcRt}
+{type:WriteWords|question:I want pasta with milk, please|answer:Jau vi pasta cun latg, per plaschair|id:Nt7EVHxLmb7W}
+</lesson>
+</skill>
+</unit>
