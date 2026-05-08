@@ -168,7 +168,7 @@ def render_question(line, question):
                 st.error("Try again!")
                 return "incorrect"
     else:
-        pass
+        return "error"
 
 
 

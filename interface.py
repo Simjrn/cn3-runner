@@ -1,5 +1,21 @@
 import streamlit as st
 import questions as q
+from streamlit_extras.card_selector import *
+import re
+import pandas as pd
+
+
+def translate_to_standard_md(text):
+    #<image:img_LMJskZwdHsKZ_1764187126150.png/>
+    if not text.startswith("<image:"):
+        text = re.sub(r'\^\^(.+?)\^\^', r'# \1', text)
+        text = re.sub(r'(?<!\^)\^([^\^]+?)\^(?!\^)', r'## \1', text)
+        text = re.sub(r'\*(?!\s)(.+?)(?<!\s)\*', r'**\1**', text)
+        text = re.sub(r'_([^_]+?)_', r'*\1*', text)
+        return text
+
+
+
 
 def split_list_by_string(original_list, trigger_string):
     sections = []
@@ -24,7 +40,7 @@ def split_list_by_string(original_list, trigger_string):
 
 
 @st.fragment
-def create_path():
+def create_path(unit, course):
     # Initialize state to track what to show
     if "current_view" not in st.session_state:
         st.session_state.current_view = "main"
@@ -34,7 +50,7 @@ def create_path():
     with placeholder.container():
         # --- VIEW 1: Main Path ---
         if st.session_state.current_view == "main":
-            with open("course/unit0.nml", "r") as f:
+            with open(f"{course}/unit{unit}.nml", "r") as f:
                 for line in f:
                     if line.startswith("<unit:"):
                         st.header(line[1:-2].replace(":", " "))
@@ -51,9 +67,11 @@ def create_path():
             lessons = st.session_state.lessons
             num = st.session_state.num
             if not num >= len(lessons[counter-1]):
-                q.render_question(lessons[counter-1][num], str(num))
+                error = q.render_question(lessons[counter-1][num], str(num))
                 num += 1
                 st.session_state.num = num
+                if error:
+                    st.rerun()
                 if st.button("Next", width="stretch"):
                     st.rerun()
             else:
@@ -68,7 +86,7 @@ def create_path():
         else:
             skill_name = st.session_state.current_view
             st.write(f"### {skill_name}")
-            with open("course/unit0.nml", "r") as f:
+            with open(f"{course}/unit{unit}.nml", "r") as f:
                 for line in f:
                     if line.startswith("<skill:"+skill_name):
                         st.write("**"+line.split("|")[6][12:]+"**")
@@ -76,7 +94,7 @@ def create_path():
                         end_marker = "</skill>" # Looking for the next unit tag regardless of number
                         inside = False
                         results = []
-                        with open("course/unit0.nml", "r") as f:
+                        with open(f"{course}/unit{unit}.nml", "r") as f:
                             for line in f:
                                 if line.startswith(start_marker):
                                     inside = True
@@ -94,10 +112,59 @@ def create_path():
                             st.session_state.current_view = "questions"
                             st.session_state["counter"] = counter
                             st.session_state["lessons"] = lessons
-                            st.session_state.num = 0
+                            st.session_state.num = 1
                             st.rerun()
+            page = card_selector(
+                [
+                    dict(icon="📚", title="Notes", description="See the notes for this skill"),
+                    dict(icon="🗨", title="Sentences", description="See the sentences you will be tested on in this skill"),
+                    dict(icon="🔤", title="Words", description="See the words and phrases introduced in this section")
+                ]
+            )
+            if page == 0:
+                with open(f"{course}/unit{unit}.nml") as f:
+                    for line in f:
+                        if line.startswith("<skill:"+skill_name):
+                            line = line.split("|")
+                            id = line[-1][3:-2]
+                            with open(f"{course}/{id}.ntf") as notes:
+                                for line in notes:
+                                    md = translate_to_standard_md(line)
+                                    if md:
+                                        st.markdown(md)
+                                    else:
+                                        st.image(f"{course}/"+line[7:-3].replace("*", "_"))
+            if page == 1:
+                with open(f"{course}/unit{unit}.nml") as f:
+                    for line in f:
+                        if line.startswith("<skill:"+skill_name):
+                            line = line.split("|")
+                            id = line[-1][3:-2]
+                            with open(f"{course}/{id}.sentences") as sentences:
+                                base = {}
+                                for line in sentences:
+                                    if not counter == 0:
+                                        line = line.split("|")
+                                        base[line[0]] = line[1]
+                                # Creates a table with 2 columns: "ID" and "Sentence"
+                                df = pd.DataFrame(base.items(), columns=['Romansh', 'English'])
+                                df = df[1:]
+                                st.dataframe(df)
+            elif page == 2:
+                with open(f"{course}/unit{unit}.nml") as f:
+                    for line in f:
+                        if line.startswith("<skill:"+skill_name):
+                            line = line.split("|")
+                            id = line[-1][3:-2]
+                            with open(f"{course}/{id}.vocab") as vocab:
+                                base = {}
+                                for line in vocab:
+                                    line = line[2:-3].split("}{")
+                                    base[line[0]] = line[1]
+                                df = pd.DataFrame(base.items(), columns=['Term', 'Translation'])
+                                df = df[1:]
+                                st.dataframe(df)
             if st.button("Back to Path", type="primary"):
                 st.session_state.current_view = "main"
                 st.rerun()
 
-create_path()
