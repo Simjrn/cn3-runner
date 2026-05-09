@@ -1,0 +1,1612 @@
+<unit:2>
+<skill:Animals|image:cat|lessonsperlevel:5|strokecolor:93,64,55|fillcolor:244,81,30|position:1|description:names of animals|id:6ImMGnOu0gYd>
+<lesson:1|id:NkD8CZE7whCM>
+{type:PickOne|question:sammako|options:[less][frog][to play, call]|answer:frog|id:yxaIMVUkpTib}
+{type:AudioMatch|question:Listen and match|options:[kävely, kävelyn:PdX3tL9RqZzx][ennen:ehJrtNFlnkd7][raha, rahan:SISnmmvzZobi][tiikeri:Mhp0CNs1hLLu]|id:KH0IpVSjtuJc}
+{type:PickOne|question:susi|options:[to remember][to promise][wolf]|answer:wolf|id:5PGJFWm4vluv}
+{type:FlashCard|front:fish|back:kala|id:1QfJASPYCedO}
+{type:ImagePick|question:sika|options:[mouse:bread][seal:bread][pig:bread][insect:bread]|answerCount:1|answer:pig|answercount:1|id:XzlHytjj4bqR}
+{type:AudioMatch|question:Listen and match|options:[kävely, kävelyn:s1ImTPqzTWX0][heti:MagBIRYJjPYf][oppilas, oppilaan:EbNY6hOOepK9][lammas:HjH1EUUejrC2]|id:FkYVdEh6FDBb}
+{type:PickOne|question:lehmä|options:[madame][to take [somewhere]][cow]|answer:cow|id:8vUvF5XQrvaD}
+{type:SpellingPick|text:hylje|options:[susi][hylje][lohi][lammas]|answer:hylje|id:0bB2DZZ7Sr5Y}
+{type:ImagePick|question:hylje|options:[bug:bread][pig:bread][seal:bread][wolf:bread]|answerCount:1|answer:seal|answercount:1|id:Lc3mjacBsrj1}
+{type:AudioMatch|question:Listen and match|options:[sammako:W2tDjuBCgrmr][heti:lH77XtaohI16][pestä, pesen:qwtFyjQnhvEC][oppilas, oppilaan:5Z3iqG5yfisV]|id:QofUxTILc1d4}
+{type:AudioMatch|question:Listen and match|options:[pestä, pesen:3UvpUYDHCbk2][lähettää, lähetän:FjzUiCr4Ayxf][saada, saan:WuGvqx4bsmTp][lehmä:dOvFaU98rqBF]|id:8uQ6T6Jn6BFJ}
+{type:ImagePick|question:lehmä|options:[lion:bread][owl:bread][sheep:bread][cow:bread]|answerCount:1|answer:cow|answercount:1|id:mjReeYPE81ht}
+{type:AudioMatch|question:Listen and match|options:[lähettää, lähetän:nSbbPesgHHP7][pitää, pidän:sqpV4uLJNYlQ][päättyä:ifx628tAQ8JH][pupu:EwuCECCBZ4cd]|id:u2xdq65M32e7}
+{type:FlashCard|front:goat|back:vuohi|id:tKDfndyDCPvo}
+{type:FlashCard|front:käärme|back:snake|id:V7Uf145ZEyhQ}
+{type:ImagePick|question:lintu|options:[bird:bread][snake:bread][frog:bread][rat:bread]|answerCount:1|answer:bird|answercount:1|id:T0gm0LmMIHmk}
+{type:PickOne|question:ötökkä|options:[to show][a walk][bug]|answer:bug|id:NzF7c33hAcMB}
+{type:SpellingPick|text:pupu|options:[pupu][hyönteinen][kettu][hylje]|answer:pupu|id:soCMxjZn07XP}
+{type:ImagePick|question:lehmä|options:[frog:bread][bear:bread][goat:bread][cow:bread]|answerCount:1|answer:cow|answercount:1|id:CK0pHAc2iMA2}
+{type:PickOneMeaning|question:The speaker is saying:|speech:vähemmän|options:[monkey][less][bird]|answer:less|id:QULF6bYLt4Uq}
+</lesson>
+<lesson:2|id:ufhd4xo6U1D7>
+{type:FlashCard|front:spider|back:hämähäkki|id:FmWcbJrHXdmw}
+{type:ImagePick|question:karhu|options:[bug:bread][bear:bread][mouse:bread][insect:bread]|answerCount:1|answer:bear|answercount:1|id:PDfcS5q2j6Bm}
+{type:AudioMatch|question:Listen and match|options:[unohtaa, unohdan:u0A9KgtIQULH][lintu:mjLzIY1mtKO9][rouva:0DkqO3ga22Xo][raja, rajan:2NKUEFQrKwKX]|id:scQ40eGfglzS}
+{type:FlashCard|front:chicken|back:kana|id:TzX5FZNrAgyg}
+{type:PickOne|question:hevonen|options:[to remember][horse][to renew]|answer:horse|id:6vmVSmyISTm4}
+{type:ImagePick|question:karhu|options:[rat:bread][owl:bread][wolf:bread][bear:bread]|answerCount:1|answer:bear|answercount:1|id:JNkWGcpFJKin}
+{type:ImagePick|question:karhu|options:[frog:bread][seal:bread][bear:bread][chicken:bread]|answerCount:1|answer:bear|answercount:1|id:X38rrs7gJUZ4}
+{type:PickOne|question:hämähäkki|options:[spider][money][to listen]|answer:spider|id:zrhI7eGa5Vyn}
+{type:ImagePick|question:susi|options:[sheep:bread][seal:bread][spider:bread][wolf:bread]|answerCount:1|answer:wolf|answercount:1|id:QrIh4H5WLb10}
+{type:SpellingPick|text:ankka|options:[ankka][susi][hämähäkki][karhu]|answer:ankka|id:0emkSEj4lrIT}
+{type:AudioMatch|question:Listen and match|options:[päättyä:FVij9A8Co17G][hevonen:hmMDEwBiZI4w][taakse:Of4I901U5Fe4][takki, takin:YEk4b2t45DZf]|id:xDLOS9gWfwMF}
+{type:PickOneMeaning|question:The speaker is saying:|speech:hämähäkki|options:[wolf][spider][to depart, go away]|answer:spider|id:klof8UtcnrCk}
+{type:AudioMatch|question:Listen and match|options:[takki, takin:7aSop5sNvxi2][muistaa, muistan:8d3bEviNAJGh][kettu:fCcau4euWbXR][saada, saan:2P0TBJCMUm16]|id:x9AsItEi9ud7}
+{type:ImagePick|question:sammako|options:[mouse:bread][frog:bread][swan:bread][goat:bread]|answerCount:1|answer:frog|answercount:1|id:QBXh4MXGY3r6}
+{type:AudioMatch|question:Listen and match|options:[kettu:oGHSuDU7z0cO][peppu, pepun:F8aYCj7gxv0t][kävely, kävelyn:MjG8vtv2eFlg][ostaa, ostan:9fCc5x54kZ2J]|id:UmxGrsuIVriT}
+{type:SpellingPick|text:ankka|options:[ankka][karhu][kettu][hämähäkki]|answer:ankka|id:1gJygaJVma0z}
+{type:AudioMatch|question:Listen and match|options:[leijona:YEgMVEzhqKn6][peppu, pepun:M4QEQNiCJ38V][passi, passin:EiVO5hlT8AVv][viini, viinin:LQQZkf5TArIL]|id:rJK6TCriumWy}
+{type:PickOne|question:käärme|options:[snake][to end][homework]|answer:snake|id:8g61F3fbSTP0}
+{type:PickOne|question:rotta|options:[rat][more][homework]|answer:rat|id:zbXSCSuO6gxc}
+{type:FlashCard|front:horse|back:hevonen|id:wPQusNNBgeCi}
+</lesson>
+<lesson:3|id:8fTTQcUJFTnm>
+{type:ImagePick|question:susi|options:[mouse:bread][wolf:bread][salmon:bread][cow:bread]|answerCount:1|answer:wolf|answercount:1|id:FOkJwirvo7cs}
+{type:AudioMatch|question:Listen and match|options:[ennen:ZhNalrT2VGu1][päättyä:rlH8PbSVmbYI][karhu:J8mn63vqrML2][peppu, pepun:OTc09lxwzFmh]|id:k82A5pGZ2YTZ}
+{type:FlashCard|front:käärme|back:snake|id:wGGUnkeSCirD}
+{type:FlashCard|front:hiiri|back:mouse|id:IzvqZTGtgbae}
+{type:PickOne|question:kana|options:[to do][homework][chicken]|answer:chicken|id:Arckis7Ky13m}
+{type:AudioMatch|question:Listen and match|options:[hiiri:1f25NDxWsB51][rautatieasema:Ei18mGUMdxsW][rouva:lrauY7lASGug][taakse:yq1Z7IuywzDk]|id:59dn4ANBGQxB}
+{type:PickOne|question:lohi|options:[passport][to renew][salmon]|answer:salmon|id:iO0e2YXQUar4}
+{type:PickOneMeaning|question:The speaker is saying:|speech:rouva|options:[madame][fish][insect]|answer:madame|id:RgBwFnskt6d1}
+{type:ImagePick|question:sammako|options:[duck:bread][wolf:bread][cow:bread][frog:bread]|answerCount:1|answer:frog|answercount:1|id:OOUcRVLiZDuV}
+{type:SpellingPick|text:sammako|options:[lintu][sammako][pupu][leijona]|answer:sammako|id:xMuVMgiPeU6e}
+{type:FlashCard|front:cow|back:lehmä|id:qFj8NNRNr3aY}
+{type:AudioMatch|question:Listen and match|options:[hiiri:lRipxqce7uQJ][unohtaa, unohdan:0bj9MJvJsXJN][viini, viinin:8qegDgdLnFpf][kuunnella, kuuntelen:XoarYDwaYeVL]|id:JSwKhGn4IDgB}
+{type:AudioMatch|question:Listen and match|options:[oppilas, oppilaan:V0P25meUR6tp][poistua, poistun:UvFPIK7lqjYM][kävely, kävelyn:4daV5eIzlkSu][apina:pTrc0SWHRuz0]|id:rC776VQvFMnI}
+{type:PickOne|question:hyönteinen|options:[before][to give][insect]|answer:insect|id:uBm26ML8wT1i}
+{type:ImagePick|question:lehmä|options:[rat:bread][tiger:bread][cow:bread][bunny:bread]|answerCount:1|answer:cow|answercount:1|id:xF7XC3antgEN}
+{type:SpellingPick|text:pupu|options:[hämähäkki][hylje][pupu][kettu]|answer:pupu|id:XFRoTh2WJIsj}
+{type:AudioMatch|question:Listen and match|options:[tiikeri:ZRUBxJbz9IDO][enemmän:m375O26yV9jL][poistua, poistun:DSLHzIZLAGwP][päättyä:yEg9230nV6o4]|id:7wvLSp6IbLZM}
+{type:ImagePick|question:hiiri|options:[seal:bread][insect:bread][mouse:bread][fish:bread]|answerCount:1|answer:mouse|answercount:1|id:FTInvatrTPIS}
+{type:ImagePick|question:hämähäkki|options:[spider:bread][goat:bread][monkey:bread][fox:bread]|answerCount:1|answer:spider|answercount:1|id:vCPJ9SMaIvIP}
+{type:PickOne|question:ankka|options:[home][passport][duck]|answer:duck|id:4NdFqAxP04wn}
+</lesson>
+<lesson:4|id:juVLgw5VUt5F>
+{type:AudioMatch|question:Listen and match|options:[rouva:AgLW3XvRqgNg][saada, saan:s8hvAIO3TdOj][lammas:I67GPHDrP4NI][raha, rahan:ChHdwerqVcty]|id:pVSny5JKWG8r}
+{type:ImagePick|question:pöllö|options:[fox:bread][bird:bread][owl:bread][bunny:bread]|answerCount:1|answer:owl|answercount:1|id:uHYEn8T4cXEO}
+{type:ImagePick|question:lammas|options:[fish:bread][bug:bread][goat:bread][sheep:bread]|answerCount:1|answer:sheep|answercount:1|id:UvjPaVItoE7b}
+{type:FlashCard|front:spider|back:hämähäkki|id:tSwkixJ0YrXb}
+{type:FlashCard|front:pöllö|back:owl|id:J3VIPqthiNbQ}
+{type:ImagePick|question:apina|options:[salmon:bread][bug:bread][seal:bread][monkey:bread]|answerCount:1|answer:monkey|answercount:1|id:XZUT4KJeVwTd}
+{type:ImagePick|question:ankka|options:[pig:bread][duck:bread][insect:bread][bird:bread]|answerCount:1|answer:duck|answercount:1|id:vAieMDVDanLV}
+{type:PickOne|question:kettu|options:[to send][to sit][fox]|answer:fox|id:LRWnDEkATaus}
+{type:SpellingPick|text:lohi|options:[vuohi][lohi][lammas][hylje]|answer:lohi|id:2Tb5WWV8tiuC}
+{type:FlashCard|front:ötökkä|back:bug|id:553HDQKabvWU}
+{type:AudioMatch|question:Listen and match|options:[hämähäkki:X5Hl0kaOQ60F][oppilas, oppilaan:NIEkI4fJp90g][rouva:TpA3Q0ONE8WC][antaa, annan:M43Gjrb2G3s5]|id:smtyvioSll1H}
+{type:PickOne|question:pöllö|options:[before][to send][owl]|answer:owl|id:rEJlTjJRI98l}
+{type:SpellingPick|text:sammako|options:[vuohi][lohi][tiikeri][sammako]|answer:sammako|id:hj0CMWzkL7zx}
+{type:ImagePick|question:tiikeri|options:[seal:bread][bug:bread][tiger:bread][mouse:bread]|answerCount:1|answer:tiger|answercount:1|id:gu5E7kIQyfFQ}
+{type:PickOne|question:hyönteinen|options:[insect][to wash][more]|answer:insect|id:Y0fx3cJ0YxaL}
+{type:AudioMatch|question:Listen and match|options:[apina:t8KzIIjqFpXB][saada, saan:UDjpUl5u11HV][kävely, kävelyn:UZyYhWi5szss][enemmän:8RJ7jFZO18u6]|id:xKLNJrrJfguC}
+{type:AudioMatch|question:Listen and match|options:[vähemmän:3ZZzn3I512IL][ennen:jI2prxfIOFnl][rautatieasema:KQV9XMRG0xCl][vuohi:kUOExyVKo7Px]|id:A0lvuMB1uTay}
+{type:PickOne|question:kala|options:[to promise][fish][to show]|answer:fish|id:Odo4cFpaGgla}
+{type:PickOneMeaning|question:The speaker is saying:|speech:istua, istun|options:[tiger][to sit][duck]|answer:to sit|id:X214pJMJDCRM}
+{type:AudioMatch|question:Listen and match|options:[kana:2SLhJx5bzvaM][oppilas, oppilaan:O1T7iC5SfZQ9][takki, takin:vDSzEVt0JS3N][passi, passin:mF98shaVRazF]|id:EEa6NCUebRiX}
+</lesson>
+<lesson:5|id:H4sMejvwHwCm>
+{type:PickOneMeaning|question:The speaker is saying:|speech:kala|options:[fish][home][to take [somewhere]]|answer:fish|id:gPgkfS1cd7q8}
+{type:FlashCard|front:ankka|back:duck|id:IIXkyzxga6ke}
+{type:ImagePick|question:joutsen|options:[swan:bread][monkey:bread][spider:bread][duck:bread]|answerCount:1|answer:swan|answercount:1|id:5zjU6mUgLgDb}
+{type:ImagePick|question:leijona|options:[lion:bread][insect:bread][rat:bread][mouse:bread]|answerCount:1|answer:lion|answercount:1|id:i6kYawkMWIaZ}
+{type:ImagePick|question:ötökkä|options:[bug:bread][cow:bread][lion:bread][horse:bread]|answerCount:1|answer:bug|answercount:1|id:4Qa74IBDRXp9}
+{type:AudioMatch|question:Listen and match|options:[lammas:m0hZxZhD9l45][taakse:cAIPhLbcYQzW][poistua, poistun:QxCxFuN9vlrE][luvata, lupaan:dEHMpEzDN5Gm]|id:w91p7VshNT6q}
+{type:AudioMatch|question:Listen and match|options:[enemmän:LHI6zUGIrJ28][vähemmän:Sxbhe5f1wSiv][taakse:cfg2BLvXhrhe][kana:Y36e1tlWhudq]|id:eHAFJKPxVWsx}
+{type:AudioMatch|question:Listen and match|options:[vuohi:AXhc9RlZU8WD][rouva:CreJpen9NzpX][läksy, läksyn:2wbCNhoPQGfx][soittaa, soitan:OHw7RuQ21zEo]|id:pUQQdrRebgJk}
+{type:ImagePick|question:lintu|options:[duck:bread][monkey:bread][tiger:bread][bird:bread]|answerCount:1|answer:bird|answercount:1|id:X0in3KB2qSEi}
+{type:PickOne|question:lohi|options:[to behind][to remember][salmon]|answer:salmon|id:hyxJu0X8LuBe}
+{type:PickOne|question:karhu|options:[to play, call][bear][to receive]|answer:bear|id:KqpSw7196TDS}
+{type:AudioMatch|question:Listen and match|options:[rotta:4FPGBzPJfZCR][enemmän:9idOYdKukE1L][tehdä, teen:71abPjWgoODI][oppilas, oppilaan:NC2xMDu4I7Fv]|id:Kg6JWfiVLHgt}
+{type:PickOne|question:lehmä|options:[wine][to hold, keep][cow]|answer:cow|id:3H92nGCDLrrF}
+{type:FlashCard|front:sika|back:pig|id:3fVnMmdosAmE}
+{type:ImagePick|question:apina|options:[spider:bread][monkey:bread][frog:bread][lion:bread]|answerCount:1|answer:monkey|answercount:1|id:g4fuTiJUMX0A}
+{type:SpellingPick|text:karhu|options:[karhu][sammako][leijona][hylje]|answer:karhu|id:diDJPPwJs29u}
+{type:SpellingPick|text:pöllö|options:[joutsen][sika][pöllö][lammas]|answer:pöllö|id:yyUyAlp1h0j1}
+{type:FlashCard|front:horse|back:hevonen|id:R52Bows8ZwOU}
+{type:PickOne|question:lehmä|options:[cow][border][butt]|answer:cow|id:vRErQB8lPTBb}
+{type:AudioMatch|question:Listen and match|options:[uusia, uusin:VGUWr4aOS4vR][luvata, lupaan:I2m0SzdwLT2i][muistaa, muistan:dw0cXcBxbXOz][hämähäkki:Be8N1bby9WLg]|id:TFGnZitholR3}
+</lesson>
+<lesson:6|id:kwLdZ6dt7DC5>
+{type:PickWords|question:the wolf and the sheep|options:ja,uusia uusin,pitää pidän,susi,lammas,rautatieasema,heti|answer:susijalammas|id:w8IqnaVpVHU2}
+{type:PickWords|question:Minä olen koira.|options:money,I,am,to end,border,train station,dog,a|answer:Iamadog.|id:90s4q9RxOdC2}
+{type:PickOneMeaning|question:The speaker is saying:|speech:läksy, läksyn|options:[homework][to forget][train station]|answer:homework|id:DBqcjvhFbDka}
+{type:AudioMatch|question:Listen and match|options:[käärme:L2vZIiahhUVG][raja, rajan:xJewqwflBhOS][viedä, vien:AxrTFKY1IDZt][takki, takin:ic2lhfPgiBAw]|id:IP8wBuZH3QBJ}
+{type:SpellingPick|text:hyönteinen|options:[hevonen][hiiri][pöllö][hyönteinen]|answer:hyönteinen|id:vCfCouqbWXnB}
+{type:Match|question:Select the matching words|options:[tiikeri:tiger][hylje:seal][apina:monkey][pöllö:owl]|id:ZuRzGVm46qxu}
+{type:PickWords|question:the wolf and the sheep|options:kuunnella kuuntelen,soittaa soitan,lammas,uusia uusin,oppilas oppilaan,susi,näyttää näytän,ja|answer:susijalammas|id:LEnZ1FH0GZyj}
+{type:PickWords|question:Kala ui.|options:swims,fish,The|answer:Thefishswims.|id:xp4EMwOou5FL}
+{type:Match|question:Select the matching words|options:[hylje:seal][näyttää, näytän:to show][peppu, pepun:butt][ennen:before]|id:zmYjeWv6zN12}
+{type:PickMissingWord|question:______ olen koira.|options:[raja, rajan][Minä][heti][ötökkä]|answer:Minä|id:OKUBGqQcTx0C}
+{type:PickWords|question:The snake is eating fish.|options:Käärme,kalaa,syö|answer:Käärmesyökalaa.|id:Vdf2Tel93knx}
+{type:AudioMatch|question:Listen and match|options:[ankka:sRoZfFlrelC3][lehmä:EGaV6hf1TxxR][tiikeri:iw69bEiQYxi9][karhu:KWixrItLuFYH]|id:LeuRrgt7wYuu}
+{type:AudioMatch|question:Listen and match|options:[lehmä:evlaQn7Wf3CS][kala:3pAp9UAPkJ9P][käärme:r0LSENS1WFBg][lammas:I61XTuZI2JMP]|id:NTEawGP7K0c2}
+{type:Match|question:Select the matching words|options:[susi:wolf][pupu:bunny][lohi:salmon][ötökkä:bug]|id:05pVwwMqzfQU}
+{type:PickWords|question:Käärme syö kalaa.|options:snake,is,The,fish,eating,jacket|answer:Thesnakeiseatingfish.|id:uqGrKHc7r5pn}
+{type:PickWords|question:I am a dog.|options:koira,Minä,olen|answer:Minäolenkoira.|id:ohS5WA5hIWoW}
+{type:AudioMatch|question:Listen and match|options:[takki, takin:Ly8g4OIAjktF][pöllö:naTiRxnSq1kI][viini, viinin:IfZHKeC7802t][luvata, lupaan:JRmLZp5Zckle]|id:fY51EHsIniAN}
+{type:PickMissingWord|question:kissa ja ______|options:[antaa, annan][heti][joutsen][hiiri]|answer:hiiri|id:lMSINqTR7GRN}
+{type:SpellingPick|text:pupu|options:[pupu][joutsen][ankka][karhu]|answer:pupu|id:nQqewkKqBi5x}
+{type:PickOne|question:karhu|options:[bear][insect][fox]|answer:bear|id:LM8x7P6UwFPW}
+</lesson>
+<lesson:7|id:kvlYWEvML6E8>
+{type:PickWords|question:the wolf and the sheep|options:susi,lammas,kävely kävelyn,näyttää näytän,ja,muistaa muistan|answer:susijalammas|id:y701vyBYmX7M}
+{type:AudioMatch|question:Listen and match|options:[rotta:fQ7vJqQLTJUz][hylje:Qck7nNbVLCXX][ankka:ZKIRSkfuZGAp][sammako:hNV0ieHAPkXQ]|id:Pg1iYroAMymH}
+{type:PickWords|question:susi ja lammas|options:the,and,wolf,the,sheep|answer:thewolfandthesheep|id:IghOGjdonjGg}
+{type:PickWords|question:The snake is eating fish.|options:Käärme,kalaa,syö|answer:Käärmesyökalaa.|id:ZGtmwrPzL3SQ}
+{type:Match|question:Select the matching words|options:[lohi:salmon][käärme:snake][apina:monkey][tiikeri:tiger]|id:aWafFLmtt2eH}
+{type:PickWords|question:leijona vai tiikeri|options:to show,lion,to behind,immediately,to do,or,tiger|answer:lionortiger|id:J0Gl4IuSFpsr}
+{type:PickWords|question:The snake is eating fish.|options:syö,Käärme,kalaa|answer:Käärmesyökalaa.|id:6UFNrfmFkF4I}
+{type:PickWords|question:susi ja lammas|options:the,wolf,sheep,and,the|answer:thewolfandthesheep|id:g5VcZzIxvB5c}
+{type:SpellingPick|text:ankka|options:[lammas][rotta][susi][ankka]|answer:ankka|id:H8adl6kHWnS4}
+{type:PickOneMeaning|question:The speaker is saying:|speech:raha, rahan|options:[frog][money][sheep]|answer:money|id:OSKJrZYh2Wfy}
+{type:PickOne|question:kana|options:[chicken][insect][goat]|answer:chicken|id:bJiVZ3kh92bE}
+{type:SpellingPick|text:lammas|options:[ötökkä][lohi][lammas][vuohi]|answer:lammas|id:EtEwA8ufUS0x}
+{type:PickMissingWord|question:______ on hevonen.|options:[vähemmän][leijona][vuohi][Minulla]|answer:Minulla|id:EZJOb75V5p9n}
+{type:AudioMatch|question:Listen and match|options:[hyönteinen:hB5BEWmX7WeT][hylje:egI0BFxtgLtr][käärme:gtJfERBPrMgc][sammako:cybcFJ2aZZVc]|id:AcCXdOy8rdLp}
+{type:PickWords|question:The snake is eating fish.|options:syö,vähemmän,oppilas oppilaan,kalaa,unohtaa unohdan,Käärme|answer:Käärmesyökalaa.|id:QlP3Ts2ZYSyI}
+{type:PickMissingWord|question:Minulla ______ hevonen.|options:[on][tehdä, teen][hämähäkki][kuunnella, kuuntelen]|answer:on|id:c27OCN6yW8Fb}
+{type:AudioMatch|question:Listen and match|options:[takki, takin:XJH9RClBBuXH][viini, viinin:4EQfZ9yhYree][näyttää, näytän:NwIf63i3U1YZ][kala:bVsRKv4q30OS]|id:7gd3np3EgZeG}
+{type:AudioMatch|question:Listen and match|options:[pitää, pidän:jHnjOqdOOGut][lintu:Cxg1uhANrGqP][muistaa, muistan:eE8eo3wvZM3n][viini, viinin:Wa31zmBxrW2p]|id:pxDmy7V4nSxo}
+{type:Match|question:Select the matching words|options:[lintu:bird][raja, rajan:border][ostaa, ostan:to buy][poistua, poistun:to depart, go away]|id:lFHxlMaz2UvY}
+{type:Match|question:Select the matching words|options:[ankka:duck][lehmä:cow][lammas:sheep][hiiri:mouse]|id:JKMxw5heKs0t}
+</lesson>
+<lesson:8|id:gqQI9127sa6U>
+{type:PickOneMeaning|question:The speaker is saying:|speech:unohtaa, unohdan|options:[to forget][sheep][passport]|answer:to forget|id:VROJLcePzhhl}
+{type:PickWords|question:The fish swims.|options:Kala,ui|answer:Kalaui.|id:nIkLmYrkCWLQ}
+{type:PickWords|question:lammas ja vuohi|options:sheep,a,a,and,goat|answer:asheepandagoat|id:oPthObJ2iWl1}
+{type:PickMissingWord|question:Kala ______.|options:[lohi][joutsen][ui][päättyä]|answer:ui|id:dDMPjE7ysd6w}
+{type:AudioMatch|question:Listen and match|options:[pitää, pidän:hKLKWLvCglMI][soittaa, soitan:OGxiCMRZejSt][karhu:6HKxa26gEZ8f][taakse:ZDzOcPNwGgKV]|id:fzMBfbwd6MLt}
+{type:SpellingPick|text:lehmä|options:[sika][käärme][lehmä][pöllö]|answer:lehmä|id:xT1qMO8oRZJr}
+{type:PickWords|question:susi ja lammas|options:the,the,before,and,jacket,sheep,wolf|answer:thewolfandthesheep|id:teh83yDkX1DW}
+{type:AudioMatch|question:Listen and match|options:[enemmän:PIjln1Z7Q8Gv][rouva:jwwN7GStMglK][vuohi:wIGB6jXR4Uq1][unohtaa, unohdan:xpY26oaxvq38]|id:IFeBWbfOW8rE}
+{type:PickWords|question:I am a dog.|options:läksy läksyn,Minä,koira,pitää pidän,olen,raha rahan,vähemmän|answer:Minäolenkoira.|id:YXRirFqtjeNl}
+{type:SpellingPick|text:karhu|options:[karhu][susi][ötökkä][hiiri]|answer:karhu|id:58PEwwsGCoVK}
+{type:AudioMatch|question:Listen and match|options:[rotta:IsElWzi7LJiI][hyönteinen:uzDdaScIPUVb][ankka:6M3TPCyUjwfj][sammako:6Ej2EshmS1Pr]|id:2h8zG0Ir8cbV}
+{type:PickWords|question:I am a dog.|options:unohtaa unohdan,koira,Minä,oppilas oppilaan,olen|answer:Minäolenkoira.|id:lQZhCG1d4XcQ}
+{type:Match|question:Select the matching words|options:[leijona:lion][lohi:salmon][pupu:bunny][hämähäkki:spider]|id:je5j23L74nM5}
+{type:Match|question:Select the matching words|options:[sika:pig][kana:chicken][apina:monkey][käärme:snake]|id:PKCq35iP8LWk}
+{type:Match|question:Select the matching words|options:[vähemmän:less][muistaa, muistan:to remember][näyttää, näytän:to show][ötökkä:bug]|id:CVra3YPQK4d7}
+{type:PickOne|question:käärme|options:[frog][snake][pig]|answer:snake|id:4zQeZjeZsjB5}
+{type:PickWords|question:kissa ja hiiri|options:to remember,and,to listen,a,to send,a,cat,mouse|answer:acatandamouse|id:PY7gQOe8Gb0l}
+{type:PickWords|question:The snake is eating fish.|options:syö,pitää pidän,istua istun,ennen,kalaa,Käärme,tehdä teen,vähemmän|answer:Käärmesyökalaa.|id:molCNNWhya3y}
+{type:PickMissingWord|question:Minulla on ______.|options:[hevonen][viini, viinin][hylje][rotta]|answer:hevonen|id:P3QMJKjJDyMB}
+{type:AudioMatch|question:Listen and match|options:[sammako:xYGeo9LJKiBv][kana:j2hpDJBZNKvk][lammas:LtK0fyd577N2][lintu:iY0lE4RNIqYQ]|id:RVPEpD6NVpwn}
+</lesson>
+<lesson:9|id:UG1PcQftWp4h>
+{type:PickWords|question:I am eating chicken.|options:Minä,peppu pepun,syön,viedä vien,kanaa,saada saan|answer:Minäsyönkanaa.|id:jYrhhIaX9WGa}
+{type:PickOneMeaning|question:The speaker is saying:|speech:hylje|options:[to depart, go away][monkey][seal]|answer:seal|id:tmq1Uk5JjWvn}
+{type:PickMissingWord|question:______ syö kalaa.|options:[Käärme][muistaa, muistan][leijona][lohi]|answer:Käärme|id:BsYEe0tsM2Je}
+{type:PickWords|question:kissa ja hiiri|options:butt,to behind,a,to give,and,a,mouse,cat,to hold keep|answer:acatandamouse|id:93P1YutDqUGA}
+{type:Match|question:Select the matching words|options:[käärme:snake][rotta:rat][apina:monkey][vuohi:goat]|id:sur7DarP4Dwq}
+{type:AudioMatch|question:Listen and match|options:[kala:OjonTNHqp57x][kettu:iuCv9h0Uljx4][joutsen:BYMLYCZXuWFy][lintu:lIwk3isv0Pwc]|id:7PNGjG4OIo3D}
+{type:Match|question:Select the matching words|options:[lähettää, lähetän:to send][kävely, kävelyn:a walk][viini, viinin:wine][käärme:snake]|id:6e2JPbzdNl1a}
+{type:PickWords|question:a sheep and a goat|options:lammas,vuohi,ja|answer:lammasjavuohi|id:QpBZGqtPWnje}
+{type:PickOne|question:kettu|options:[fox][swan][rat]|answer:fox|id:3s9wekoOgpxX}
+{type:SpellingPick|text:sammako|options:[hylje][sammako][lohi][apina]|answer:sammako|id:qKSAHD3M0IlG}
+{type:Match|question:Select the matching words|options:[lohi:salmon][sammako:frog][sika:pig][pöllö:owl]|id:PbbEptl5AghN}
+{type:PickWords|question:susi ja lammas|options:wolf,butt,to hold keep,sheep,money,the,and,the|answer:thewolfandthesheep|id:Ar76bXBQ2LMd}
+{type:PickWords|question:susi ja lammas|options:and,the,the,sheep,wolf|answer:thewolfandthesheep|id:RWijlAdaUKgi}
+{type:AudioMatch|question:Listen and match|options:[vuohi:eb5WlwAMn1Rg][joutsen:VSEt1ARIww8F][käärme:AqBDSqBafBVE][leijona:NPqm8ltrPEko]|id:eZxCddXWB8gd}
+{type:PickWords|question:a cat and a mouse|options:passi passin,hiiri,kissa,ja|answer:kissajahiiri|id:XlLaTQN7M9E7}
+{type:PickWords|question:the wolf and the sheep|options:luvata lupaan,ja,pitää pidän,lammas,susi|answer:susijalammas|id:AgeIc2LEYhxB}
+{type:SpellingPick|text:lehmä|options:[pupu][leijona][lehmä][käärme]|answer:lehmä|id:dv3x3ckKB5qm}
+{type:PickMissingWord|question:Minä ______ koira.|options:[olen][hämähäkki][joutsen][tiikeri]|answer:olen|id:LVamF2lyL725}
+{type:AudioMatch|question:Listen and match|options:[viini, viinin:tl6EqhjsXFxd][tiikeri:5xzidhyJYelI][ostaa, ostan:ECLojEjTU3Gd][oppilas, oppilaan:0myQgm41oclF]|id:XlidAWIOqA5T}
+{type:AudioMatch|question:Listen and match|options:[uusia, uusin:ThHNFmTW0EDX][peppu, pepun:oBOU1OKiFWgJ][viedä, vien:tNtJ7HIbWyqM][hevonen:fk2aI5LUP5J8]|id:KvK01yNXjczH}
+</lesson>
+<lesson:10|id:lxnD5heQPNZl>
+{type:PickWords|question:susi ja lammas|options:the,and,wolf,sheep,the|answer:thewolfandthesheep|id:3av7jBSkC4Zt}
+{type:Match|question:Select the matching words|options:[kana:chicken][käärme:snake][sika:pig][lintu:bird]|id:KS5OQpfsTkeV}
+{type:AudioMatch|question:Listen and match|options:[enemmän:frjRo5RDCXZY][soittaa, soitan:DxrLgY743pSd][kala:4wIynReecSjI][näyttää, näytän:CiqeZ2wEXKXl]|id:xecuvG0P7udU}
+{type:Match|question:Select the matching words|options:[lammas:sheep][lehmä:cow][hämähäkki:spider][lohi:salmon]|id:yiMenUa2qwts}
+{type:PickWords|question:I am a dog.|options:ennen,koira,olen,raja rajan,Minä,ostaa ostan|answer:Minäolenkoira.|id:y4XHKsTt0zaM}
+{type:PickMissingWord|question:Kala ______.|options:[joutsen][sammako][ui][muistaa, muistan]|answer:ui|id:WLGpNRmWpFYo}
+{type:SpellingPick|text:susi|options:[sammako][susi][pöllö][lehmä]|answer:susi|id:k8IHmM3u9Rgu}
+{type:Match|question:Select the matching words|options:[kävely, kävelyn:a walk][raha, rahan:money][lohi:salmon][takki, takin:jacket]|id:q6YVTj6qnkQt}
+{type:SpellingPick|text:käärme|options:[käärme][lohi][pupu][hylje]|answer:käärme|id:2r4sM4TuCHdW}
+{type:PickWords|question:susi ja lammas|options:wolf,sheep,the,and,the|answer:thewolfandthesheep|id:oWDNc7ipkPmX}
+{type:PickWords|question:Kala ui.|options:to receive,to show,fish,The,swims,more,to renew|answer:Thefishswims.|id:ES0LngJoVYAi}
+{type:AudioMatch|question:Listen and match|options:[pöllö:uN1v4Uvy84o0][hiiri:EDlduQEatrLZ][käärme:j5TCjKz2bTwF][hylje:g6kbUrxQhDJf]|id:WSUSQhzZ5UIq}
+{type:AudioMatch|question:Listen and match|options:[rotta:OUWINshDo2HY][hämähäkki:msPzdksg15Vm][hiiri:1VeOSOoTI5OV][lehmä:slfQISICh6VB]|id:FAwKAkKjUolx}
+{type:PickWords|question:lion or tiger|options:vai,tiikeri,leijona,raja rajan|answer:leijonavaitiikeri|id:MSpJapDTTUU6}
+{type:PickOne|question:vuohi|options:[bug][salmon][goat]|answer:goat|id:d9P4Fi5hZ0N9}
+{type:PickMissingWord|question:susi ja ______|options:[unohtaa, unohdan][uusia, uusin][lintu][lammas]|answer:lammas|id:zEI0xYTJ2JRh}
+{type:AudioMatch|question:Listen and match|options:[hylje:UIzi8aNTr76p][lähettää, lähetän:ulUaLtOmuJe2][päättyä:2TAXf4L7EdYn][poistua, poistun:UgsLZJaq9HKf]|id:9VnTcRxgfG98}
+{type:PickWords|question:lion or tiger|options:rautatieasema,tiikeri,heti,leijona,oppilas oppilaan,vai|answer:leijonavaitiikeri|id:uPNCMUTPLP1A}
+{type:PickOneMeaning|question:The speaker is saying:|speech:poistua, poistun|options:[to depart, go away][a walk][to receive]|answer:to depart, go away|id:BYfbpHufHJQp}
+{type:PickWords|question:the wolf and the sheep|options:lammas,ja,susi|answer:susijalammas|id:yoGkWVuMJaap}
+</lesson>
+<lesson:11|id:E5oFEAgFmNJ0>
+{type:AudioMatch|question:Listen and match|options:[pupu:KuQZfqaVCxpw][vuohi:Da2hxuoOlOEo][sammako:ta2VZ7QleCNX][lintu:1uWJlbXia5Yu]|id:7O7E4wuoEbru}
+{type:AudioMatch|question:Listen and match|options:[hylje:iimMZQw8qBto][pöllö:tXOuplmDKoyY][lehmä:a5ZwCbetOsCG][kettu:q43dPi27KoaF]|id:eYTLq9jsXFe7}
+{type:WriteWords|question:leijona vai tiikeri|answer:lion or tiger|id:kQovLtZDKICo}
+{type:PickOne|question:pöllö|options:[bunny][owl][seal]|answer:owl|id:mzExEjVDyzvk}
+{type:PickWords|question:Minulla on hevonen.|options:horse,a,have,more,I|answer:Ihaveahorse.|id:K8jE5xBppngM}
+{type:Match|question:Select the matching words|options:[tiikeri:tiger][hyönteinen:insect][sammako:frog][hylje:seal]|id:hv00mvzAHW7x}
+{type:Match|question:Select the matching words|options:[hiiri:mouse][susi:wolf][ankka:duck][tiikeri:tiger]|id:wBFjRH1A484l}
+{type:PickWords|question:the wolf and the sheep|options:ja,lammas,susi,kuunnella kuuntelen|answer:susijalammas|id:Dqw0a8TAXqli}
+{type:SpellingPick|text:pupu|options:[kettu][apina][joutsen][pupu]|answer:pupu|id:3eK3OxxaAC0m}
+{type:SpellingPick|text:hyönteinen|options:[hyönteinen][pöllö][vuohi][lehmä]|answer:hyönteinen|id:y2kxAPTxXDO4}
+{type:WriteWords|question:Käärme syö kalaa.|answer:The snake is eating fish.|id:efzC7LaCM74w}
+{type:PickMissingWord|question:Kala ______.|options:[vuohi][ui][kävely, kävelyn][taakse]|answer:ui|id:Vbm0mfhC66vB}
+{type:WriteWords|question:a cat and a mouse|answer:kissa ja hiiri|id:3uFWEMGHQfwD}
+{type:PickMissingWord|question:susi ______ lammas|options:[hylje][sika][ja][hyönteinen]|answer:ja|id:chaiKtadB4vA}
+{type:WriteWords|question:I am a dog.|answer:Minä olen koira.|id:P78p2G4gmoiV}
+{type:PickMissingWord|question:susi ______ lammas|options:[unohtaa, unohdan][lintu][ja][pöllö]|answer:ja|id:uUH34Em3jTuM}
+{type:PickOneMeaning|question:The speaker is saying:|speech:kettu|options:[duck][to do][fox]|answer:fox|id:V7XjVTHkfZfw}
+{type:PickWords|question:I am eating chicken.|options:näyttää näytän,syön,kanaa,saada saan,viedä vien,Minä|answer:Minäsyönkanaa.|id:B9SLSnHNLL8L}
+{type:WriteWords|question:kissa ja hiiri|answer:a cat and a mouse|id:pfsG5Xl5FnWE}
+{type:WriteWords|question:I am a dog.|answer:Minä olen koira.|id:Kwgiwuhtv9Cl}
+</lesson>
+<lesson:12|id:cxxBBDpHaKUP>
+{type:SpellingPick|text:sika|options:[lintu][sika][vuohi][kala]|answer:sika|id:19gPJHsOcqGI}
+{type:PickOne|question:hylje|options:[sheep][horse][seal]|answer:seal|id:gqn4DjZSb6Tr}
+{type:WriteWords|question:leijona vai tiikeri|answer:lion or tiger|id:bQO1f7YZIy0D}
+{type:PickWords|question:Minä olen koira.|options:dog,to take somewhere,am,a,immediately,I,to buy|answer:Iamadog.|id:GyCb7iEp77mR}
+{type:WriteWords|question:a sheep and a goat|answer:lammas ja vuohi|id:joFkN5dxVNMA}
+{type:WriteWords|question:The snake is eating fish.|answer:Käärme syö kalaa.|id:PM5Bw8XzwC87}
+{type:PickWords|question:a sheep and a goat|options:ja,lammas,oppilas oppilaan,koti kodin,vuohi,enemmän,päättyä,ostaa ostan|answer:lammasjavuohi|id:qKK2qqPjmyJF}
+{type:PickOneMeaning|question:The speaker is saying:|speech:soittaa, soitan|options:[to remember][money][to play, call]|answer:to play, call|id:vZL31U2Z196S}
+{type:WriteWords|question:Minulla on hevonen.|answer:I have a horse.|id:8fNDYrIqE1sd}
+{type:SpellingPick|text:kala|options:[sika][kettu][kala][lammas]|answer:kala|id:9E2mMVjj7dbO}
+{type:WriteWords|question:leijona vai tiikeri|answer:lion or tiger|id:GJjgXto44M68}
+{type:WriteWords|question:I am a dog.|answer:Minä olen koira.|id:Cgms8UWULVAa}
+{type:AudioMatch|question:Listen and match|options:[lehmä:SuRYZx4gOgQk][apina:jaJJAPjGP9Op][rotta:eH2FqGUeqf9v][hylje:htzH9WPlMe20]|id:DYldtL9xe5g2}
+{type:PickMissingWord|question:______ on hevonen.|options:[ankka][vähemmän][pöllö][Minulla]|answer:Minulla|id:HMDscmoHXest}
+{type:AudioMatch|question:Listen and match|options:[joutsen:u4xBZkezjzQx][leijona:RqxrcC6XioLR][ankka:w5FxuQsAqxW5][kettu:FFDguZxzL91I]|id:VQIy0i8dm2Dn}
+{type:Match|question:Select the matching words|options:[kala:fish][ötökkä:bug][lammas:sheep][joutsen:swan]|id:yl3pVMiR6W7s}
+{type:PickWords|question:the wolf and the sheep|options:lammas,susi,ja|answer:susijalammas|id:Hr2DWb8jbvYl}
+{type:Match|question:Select the matching words|options:[karhu:bear][pöllö:owl][apina:monkey][lohi:salmon]|id:stz3oDVLv9AX}
+{type:PickMissingWord|question:______ vai tiikeri|options:[raja, rajan][leijona][sika][hevonen]|answer:leijona|id:6odMbLVe05sz}
+{type:PickMissingWord|question:Minä ______ koira.|options:[poistua, poistun][olen][pöllö][viini, viinin]|answer:olen|id:odvzVL9p7IF8}
+</lesson>
+<lesson:13|id:yQoJiPR0yHVm>
+{type:AudioMatch|question:Listen and match|options:[pöllö:WP5acKtgZixK][kala:BqFp8nsNBz86][käärme:BkQDCimrXKNL][ötökkä:8CJ4rdbd36Z1]|id:5BRWTvGR2hia}
+{type:Match|question:Select the matching words|options:[vuohi:goat][rotta:rat][lehmä:cow][pupu:bunny]|id:di7IPhQUix3v}
+{type:Match|question:Select the matching words|options:[lohi:salmon][lehmä:cow][susi:wolf][sammako:frog]|id:lNrxXFuKd2mw}
+{type:WriteWords|question:Kala ui.|answer:The fish swims.|id:fcE4lk4uM7iI}
+{type:WriteWords|question:The fish swims.|answer:Kala ui.|id:N8ZfH0Tzvt6d}
+{type:PickOneMeaning|question:The speaker is saying:|speech:vuohi|options:[to give][to depart, go away][goat]|answer:goat|id:VTDd72YAXYNV}
+{type:PickMissingWord|question:______ vai tiikeri|options:[luvata, lupaan][tehdä, teen][sammako][leijona]|answer:leijona|id:uxyviJAsyE03}
+{type:PickWords|question:Käärme syö kalaa.|options:fish,snake,eating,The,is|answer:Thesnakeiseatingfish.|id:10Y5E5lKE75u}
+{type:PickMissingWord|question:Kala ______.|options:[heti][oppilas, oppilaan][passi, passin][ui]|answer:ui|id:Zd0LbISZ7bTD}
+{type:AudioMatch|question:Listen and match|options:[hylje:YCFYwyL9uYb6][hyönteinen:zH0fbNfwuNgC][rotta:IGjsFbCfGx5k][pöllö:Jql0Wh9WOiQK]|id:ygr6MGAdKTqM}
+{type:WriteWords|question:Minä olen koira.|answer:I am a dog.|id:6oC3PIyL5aq3}
+{type:WriteWords|question:the wolf and the sheep|answer:susi ja lammas|id:wOAaE6yxjZ28}
+{type:SpellingPick|text:leijona|options:[rotta][leijona][hämähäkki][susi]|answer:leijona|id:UticOScfKvSu}
+{type:PickWords|question:The snake is eating fish.|options:tehdä teen,syö,Käärme,kalaa|answer:Käärmesyökalaa.|id:xUiC6beFzR9e}
+{type:SpellingPick|text:ötökkä|options:[pöllö][ötökkä][kana][hyönteinen]|answer:ötökkä|id:5W3c2Zbo3joR}
+{type:WriteWords|question:Kala ui.|answer:The fish swims.|id:yAKKpioLbwmd}
+{type:PickOne|question:ankka|options:[chicken][snake][duck]|answer:duck|id:Dam7i5JESgkB}
+{type:WriteWords|question:I have a horse.|answer:Minulla on hevonen.|id:GqPvXb1frFyq}
+{type:PickWords|question:a sheep and a goat|options:istua istun,vuohi,lammas,ja,heti|answer:lammasjavuohi|id:8tecjF112lLU}
+{type:PickMissingWord|question:Minä syön ______.|options:[viini, viinin][viedä, vien][hiiri][kanaa]|answer:kanaa|id:YQDu2lYnCH8k}
+</lesson>
+<lesson:14|id:7ljkuMWNbB85>
+{type:AudioMatch|question:Listen and match|options:[sammako:gBkYXB2fMrAq][hylje:QbgoSBYDUnXz][susi:MEyyPtvPxIN1][ankka:XuhkSaCoDZN3]|id:WoEyLOvxzgQG}
+{type:SpellingPick|text:susi|options:[kettu][pöllö][leijona][susi]|answer:susi|id:FPbspkMPWLrz}
+{type:WriteWords|question:I am eating chicken.|answer:Minä syön kanaa.|id:vqQ1mWuTjhtX}
+{type:WriteWords|question:lammas ja vuohi|answer:a sheep and a goat|id:nIxKWjtm2QE2}
+{type:PickMissingWord|question:leijona ______ tiikeri|options:[rouva][koti, kodin][heti][vai]|answer:vai|id:rKG6JWOsgBbk}
+{type:PickMissingWord|question:Minä syön ______.|options:[läksy, läksyn][unohtaa, unohdan][kanaa][näyttää, näytän]|answer:kanaa|id:hGLctkF4HUpg}
+{type:WriteWords|question:a sheep and a goat|answer:lammas ja vuohi|id:yqcjBrrLx1nH}
+{type:PickOne|question:rotta|options:[rat][swan][fox]|answer:rat|id:9S6lRTR0G6e2}
+{type:PickMissingWord|question:______ olen koira.|options:[Minä][uusia, uusin][vähemmän][näyttää, näytän]|answer:Minä|id:m5n7Wd1I0Tap}
+{type:AudioMatch|question:Listen and match|options:[lammas:O6JAHb48yKuW][karhu:tA8lb4TG9FjT][hevonen:AjbF2iG0auWQ][leijona:u6bbmhOqFa1v]|id:v6HOonh9SOln}
+{type:PickWords|question:I am eating chicken.|options:luvata lupaan,syön,kanaa,istua istun,heti,poistua poistun,Minä|answer:Minäsyönkanaa.|id:KJwZ3wsVXFPf}
+{type:PickOneMeaning|question:The speaker is saying:|speech:viedä, vien|options:[tiger][to take [somewhere]][insect]|answer:to take [somewhere]|id:Bb6CVmG10mRy}
+{type:Match|question:Select the matching words|options:[susi:wolf][hämähäkki:spider][lintu:bird][hyönteinen:insect]|id:bkdi0wyInG56}
+{type:PickWords|question:a cat and a mouse|options:ja,läksy läksyn,hiiri,kissa|answer:kissajahiiri|id:yi6dz4RXya8J}
+{type:Match|question:Select the matching words|options:[leijona:lion][lohi:salmon][apina:monkey][joutsen:swan]|id:1x1emEHKZ83P}
+{type:PickWords|question:lammas ja vuohi|options:sheep,a,and,homework,more,goat,to depart go away,before,border,a|answer:asheepandagoat|id:WCQVFu2pNJMK}
+{type:WriteWords|question:Käärme syö kalaa.|answer:The snake is eating fish.|id:4g8WNFilLw9r}
+{type:WriteWords|question:a cat and a mouse|answer:kissa ja hiiri|id:umCIN93EYfQ7}
+{type:WriteWords|question:Minulla on hevonen.|answer:I have a horse.|id:nIqQQVS7OXxx}
+{type:SpellingPick|text:kala|options:[lohi][hämähäkki][susi][kala]|answer:kala|id:wJCRymOoqy0k}
+</lesson>
+<lesson:15|id:LSKWDwwmhJl6>
+{type:PickWords|question:I have a horse.|options:viini viinin,passi passin,soittaa soitan,hevonen,on,Minulla,raha rahan|answer:Minullaonhevonen.|id:wvDzpS0IVCJK}
+{type:WriteWords|question:Kala ui.|answer:The fish swims.|id:weNmqwKYUlE3}
+{type:PickWords|question:Minä syön kanaa.|options:to do,to remember,to listen,am,eating,chicken,I|answer:Iameatingchicken.|id:gmI8O1zhprRu}
+{type:PickOneMeaning|question:The speaker is saying:|speech:käärme|options:[to behind][snake][chicken]|answer:snake|id:8Q9CUGQGAeFQ}
+{type:PickOne|question:pupu|options:[cow][sheep][bunny]|answer:bunny|id:M3ZUrDz0GnGX}
+{type:PickMissingWord|question:______ on hevonen.|options:[näyttää, näytän][Minulla][luvata, lupaan][ötökkä]|answer:Minulla|id:Ijs52broFzPc}
+{type:SpellingPick|text:karhu|options:[karhu][leijona][hylje][käärme]|answer:karhu|id:ciLvjMlRqH4u}
+{type:PickMissingWord|question:leijona ______ tiikeri|options:[raha, rahan][taakse][viini, viinin][vai]|answer:vai|id:F46PS6c1ba8N}
+{type:WriteWords|question:the wolf and the sheep|answer:susi ja lammas|id:n4ny2keBMpXw}
+{type:PickMissingWord|question:Minä syön ______.|options:[koti, kodin][pöllö][läksy, läksyn][kanaa]|answer:kanaa|id:DqFua1oMOzJA}
+{type:AudioMatch|question:Listen and match|options:[susi:dlbIUS0vLj87][käärme:E8FWWV9QfQDL][sika:lFzR7d4IFQm3][hämähäkki:QqG7twUmTVKp]|id:DtbKpGOqpyyy}
+{type:WriteWords|question:I am a dog.|answer:Minä olen koira.|id:lUjAh62zPMYp}
+{type:WriteWords|question:Minä olen koira.|answer:I am a dog.|id:HF7nMGEStVnA}
+{type:WriteWords|question:a cat and a mouse|answer:kissa ja hiiri|id:y5aTuomaUr3G}
+{type:Match|question:Select the matching words|options:[kala:fish][pöllö:owl][lohi:salmon][tiikeri:tiger]|id:mgVK4oVnNG5w}
+{type:WriteWords|question:Kala ui.|answer:The fish swims.|id:nx7yhNOadbwp}
+{type:PickWords|question:The snake is eating fish.|options:passi passin,tehdä teen,kalaa,näyttää näytän,Käärme,luvata lupaan,enemmän,syö|answer:Käärmesyökalaa.|id:VUT1uJCAJ0Yb}
+{type:AudioMatch|question:Listen and match|options:[ankka:q01IxLbu5dlU][hämähäkki:IC9lZX2qt996][susi:ZotoVAxsAteb][apina:sA72Xw5RbuzA]|id:iqPthgqSonpt}
+{type:SpellingPick|text:kana|options:[hiiri][kana][sammako][käärme]|answer:kana|id:3oucFcLbM5Kz}
+{type:Match|question:Select the matching words|options:[käärme:snake][kana:chicken][karhu:bear][kettu:fox]|id:RZRmw3UVLGrG}
+</lesson>
+<lesson:16|id:7TViYpBQqo9t>
+{type:PickOne|question:ötökkä|options:[cow][bird][bug]|answer:bug|id:WDEkyvSG9rEu}
+{type:WriteWords|question:Minulla on hevonen.|answer:I have a horse.|id:kcr6U6bWWKen}
+{type:WriteWords|question:Kala ui.|answer:The fish swims.|id:g5c4CkXvwFf2}
+{type:SpellingPick|text:pöllö|options:[joutsen][rotta][pöllö][hyönteinen]|answer:pöllö|id:yCLpdf8vnt6p}
+{type:PickWords|question:leijona vai tiikeri|options:to remember,or,tiger,to hold keep,lion|answer:lionortiger|id:UykWAZBA4dXh}
+{type:PickMissingWord|question:______ ja vuohi|options:[sammako][lammas][antaa, annan][hylje]|answer:lammas|id:8qXNGzMzwZen}
+{type:Match|question:Select the matching words|options:[hevonen:horse][leijona:lion][käärme:snake][pöllö:owl]|id:JsxX8oJ0PqZb}
+{type:WriteWords|question:I have a horse.|answer:Minulla on hevonen.|id:wYjk4aHx6DVD}
+{type:SpellingPick|text:joutsen|options:[pupu][hämähäkki][joutsen][apina]|answer:joutsen|id:InxCtNx81sxg}
+{type:PickWords|question:The snake is eating fish.|options:syö,istua istun,kalaa,raja rajan,Käärme|answer:Käärmesyökalaa.|id:3jVsPwIM727j}
+{type:WriteWords|question:a cat and a mouse|answer:kissa ja hiiri|id:rMtDOZkHWaIg}
+{type:WriteWords|question:lammas ja vuohi|answer:a sheep and a goat|id:uuehLzAVK1DF}
+{type:PickMissingWord|question:______ on hevonen.|options:[Minulla][päättyä][ennen][joutsen]|answer:Minulla|id:KRULBI6DAyzh}
+{type:Match|question:Select the matching words|options:[kala:fish][hiiri:mouse][hyönteinen:insect][lehmä:cow]|id:bQntMxqcLuRQ}
+{type:WriteWords|question:I am eating chicken.|answer:Minä syön kanaa.|id:d45Dtpqy3i2x}
+{type:WriteWords|question:a sheep and a goat|answer:lammas ja vuohi|id:qhYgZoasMgdj}
+{type:WriteWords|question:Minulla on hevonen.|answer:I have a horse.|id:iD80fEVlhHvV}
+{type:AudioMatch|question:Listen and match|options:[lehmä:2yhaklYujBh8][lammas:TQorLOKsv1F0][kala:O3B2kpTvVUWq][vuohi:hX90ZZfLmaGe]|id:qkEfJrKychDA}
+{type:AudioMatch|question:Listen and match|options:[lohi:f9v16965PF8k][kana:1kQdYPqSGflW][ankka:z2HCghun5hxt][hämähäkki:79u01ZDpyvol]|id:dAS4nfvqJywr}
+{type:PickOneMeaning|question:The speaker is saying:|speech:vähemmän|options:[to renew][less][to give]|answer:less|id:8N8UB0R6vsra}
+</lesson>
+<lesson:17|id:SytL9XH3LilI>
+{type:WriteWords|question:I am eating chicken.|answer:Minä syön kanaa.|id:FcSjKoLNN86I}
+{type:PickMissingWord|question:Minä ______ koira.|options:[karhu][poistua, poistun][joutsen][olen]|answer:olen|id:k0Jut5RRrVHp}
+{type:Match|question:Select the matching words|options:[tiikeri:tiger][kala:fish][leijona:lion][lintu:bird]|id:RWcXLY2wLxht}
+{type:PickWords|question:lion or tiger|options:ostaa ostan,tiikeri,leijona,vai|answer:leijonavaitiikeri|id:HbSuJjFNF51i}
+{type:SpellingPick|text:apina|options:[lintu][lohi][kettu][apina]|answer:apina|id:UB8F5BnchZXI}
+{type:WriteWords|question:lion or tiger|answer:leijona vai tiikeri|id:MtCW3a9aQNh5}
+{type:PickMissingWord|question:kissa ______ hiiri|options:[kävely, kävelyn][ja][vuohi][kuunnella, kuuntelen]|answer:ja|id:P02kJ3SAca2e}
+{type:AudioMatch|question:Listen and match|options:[hyönteinen:S5VPngk8EaaA][hämähäkki:gtXqF6tPDMDB][hevonen:sK83ZrX0wTlW][kettu:pAr5yMhP3TBS]|id:n8jGq0hnlv8o}
+{type:WriteWords|question:the wolf and the sheep|answer:susi ja lammas|id:lsPFfL77pJdm}
+{type:PickOneMeaning|question:The speaker is saying:|speech:kana|options:[frog][chicken][to renew]|answer:chicken|id:yjpT11nYWBBY}
+{type:PickWords|question:Kala ui.|options:to listen,fish,train station,The,swims|answer:Thefishswims.|id:zHjs0wb5a9FG}
+{type:WriteWords|question:The fish swims.|answer:Kala ui.|id:GXZ7A26ZoUqu}
+{type:WriteWords|question:susi ja lammas|answer:the wolf and the sheep|id:k1SUMdLpLEFI}
+{type:AudioMatch|question:Listen and match|options:[apina:pX1aQcz2jtJD][hyönteinen:ok5FVywmqpAb][kettu:FalWWmsGSmXP][tiikeri:lTXGiTGg3Zsm]|id:mXZ4bbnDwCDy}
+{type:WriteWords|question:leijona vai tiikeri|answer:lion or tiger|id:2h4F6p6qCL21}
+{type:WriteWords|question:kissa ja hiiri|answer:a cat and a mouse|id:ZUKHrsXEZ8yt}
+{type:Match|question:Select the matching words|options:[lohi:salmon][käärme:snake][apina:monkey][hiiri:mouse]|id:JLYqCTkmV90m}
+{type:SpellingPick|text:pöllö|options:[pöllö][lintu][hiiri][kala]|answer:pöllö|id:ni3uevexzxs5}
+{type:PickOne|question:lammas|options:[sheep][monkey][swan]|answer:sheep|id:RYDDblP4DT49}
+{type:WriteWords|question:lammas ja vuohi|answer:a sheep and a goat|id:lL1zl5703kPy}
+</lesson>
+<lesson:18|id:Oen6946CntMp>
+{type:PickWords|question:Kala ui.|options:before,swims,to depart go away,to take somewhere,The,to show,fish,border|answer:Thefishswims.|id:YCoy65sIe4gK}
+{type:WriteWords|question:lammas ja vuohi|answer:a sheep and a goat|id:6cD9exBG5ydy}
+{type:AudioMatch|question:Listen and match|options:[rotta:i3c31nsMrlo5][karhu:1hRAOG3rKwDD][hylje:4sGyn3RWjaJi][ankka:hzoXbWqsO2Eb]|id:LFMmpo7piSEw}
+{type:WriteWords|question:Kala ui.|answer:The fish swims.|id:lttqFju2LUYJ}
+{type:Match|question:Select the matching words|options:[lammas:sheep][ankka:duck][ötökkä:bug][pupu:bunny]|id:BlxbT96hia07}
+{type:PickOneMeaning|question:The speaker is saying:|speech:pestä, pesen|options:[to sit][to do][to wash]|answer:to wash|id:jPJmQqgkfdKW}
+{type:WriteWords|question:lion or tiger|answer:leijona vai tiikeri|id:Gbl7iCFpDxyH}
+{type:PickWords|question:a cat and a mouse|options:koti kodin,ja,hiiri,kissa|answer:kissajahiiri|id:60qciDefITEc}
+{type:SpellingPick|text:lohi|options:[pöllö][rotta][lohi][ötökkä]|answer:lohi|id:kDM7cG42zcUd}
+{type:AudioMatch|question:Listen and match|options:[joutsen:cEecYGFQrG9M][pöllö:aedYHH8ZUvlM][hylje:0kjcrOAiqiuZ][karhu:AHjI6ApLYqRy]|id:1BxvJoSKxDur}
+{type:PickMissingWord|question:Kala ______.|options:[ui][peppu, pepun][antaa, annan][lammas]|answer:ui|id:DRM856LDffEu}
+{type:WriteWords|question:I have a horse.|answer:Minulla on hevonen.|id:qx7oCTIXZvEE}
+{type:WriteWords|question:I am eating chicken.|answer:Minä syön kanaa.|id:yayDyxf6QOYo}
+{type:WriteWords|question:a sheep and a goat|answer:lammas ja vuohi|id:503BN8bR0Env}
+{type:WriteWords|question:susi ja lammas|answer:the wolf and the sheep|id:nBjtuktlRkbK}
+{type:PickMissingWord|question:______ vai tiikeri|options:[susi][lohi][hiiri][leijona]|answer:leijona|id:vzYukatsYqRz}
+{type:PickOne|question:hämähäkki|options:[swan][spider][goat]|answer:spider|id:d92DJtBoc1Ls}
+{type:WriteWords|question:lammas ja vuohi|answer:a sheep and a goat|id:6FoAcyLhxbDa}
+{type:Match|question:Select the matching words|options:[ankka:duck][sika:pig][käärme:snake][karhu:bear]|id:cb0hUKSPyGPs}
+{type:SpellingPick|text:hevonen|options:[lintu][lammas][sika][hevonen]|answer:hevonen|id:69ZS3aMZF4I5}
+</lesson>
+<lesson:19|id:0vFMappS0sPx>
+{type:AudioMatch|question:Listen and match|options:[ankka:E8gKowZq3Q3H][lehmä:R3QbfuWDmHB7][hämähäkki:WZad5N2rG6yk][tiikeri:fgTdebZ9YixG]|id:GY1FHbz0P3q6}
+{type:WriteWords|question:Kala ui.|answer:The fish swims.|id:l7u8PLp1jUH1}
+{type:AudioMatch|question:Listen and match|options:[lohi:iNA50yWyhMch][kana:dkVw3DSrGhmY][sika:kNhmG9XGGhde][tiikeri:0s7GvHQ82nTZ]|id:DDiLgZ8nQmNQ}
+{type:PickOneMeaning|question:The speaker is saying:|speech:unohtaa, unohdan|options:[a walk][tiger][to forget]|answer:to forget|id:MMOYW3bmYcOZ}
+{type:WriteWords|question:Minulla on hevonen.|answer:I have a horse.|id:udfKEA4pJPTr}
+{type:PickMissingWord|question:______ ui.|options:[raha, rahan][hylje][Kala][luvata, lupaan]|answer:Kala|id:btXqoPTSx54a}
+{type:Match|question:Select the matching words|options:[joutsen:swan][ankka:duck][lammas:sheep][leijona:lion]|id:ZYLCmuhBY28s}
+{type:WriteWords|question:The fish swims.|answer:Kala ui.|id:PfXHB736Uqz3}
+{type:WriteWords|question:Kala ui.|answer:The fish swims.|id:pV1kyIF0R52d}
+{type:WriteWords|question:I have a horse.|answer:Minulla on hevonen.|id:NkN8wb0FsCt4}
+{type:Match|question:Select the matching words|options:[leijona:lion][ankka:duck][lohi:salmon][hyönteinen:insect]|id:eS3M40W8zd1p}
+{type:PickOne|question:kala|options:[wolf][swan][fish]|answer:fish|id:9YEvA3ZBoZz2}
+{type:PickWords|question:The snake is eating fish.|options:syö,kalaa,Käärme|answer:Käärmesyökalaa.|id:I0Rs37fO33dU}
+{type:SpellingPick|text:hiiri|options:[kettu][apina][hiiri][rotta]|answer:hiiri|id:woilDlL28gwj}
+{type:PickWords|question:Minä olen koira.|options:to show,a,I,to end,dog,to give,to play call,train station,am|answer:Iamadog.|id:lZB6JCVdXWik}
+{type:PickMissingWord|question:______ ja lammas|options:[ostaa, ostan][susi][soittaa, soitan][kana]|answer:susi|id:xV2zvdeKYFgW}
+{type:WriteWords|question:a cat and a mouse|answer:kissa ja hiiri|id:z3nF2RFJYSO3}
+{type:SpellingPick|text:karhu|options:[kala][ankka][karhu][hiiri]|answer:karhu|id:W4QePGtmaYyZ}
+{type:WriteWords|question:Minä olen koira.|answer:I am a dog.|id:cWuCjX04tQph}
+{type:WriteWords|question:a sheep and a goat|answer:lammas ja vuohi|id:NkLmhnAre0Jq}
+</lesson>
+<lesson:20|id:N16QWOn2ZlRy>
+{type:WriteWords|question:kissa ja hiiri|answer:a cat and a mouse|id:vynCyVj2bKB2}
+{type:AudioMatch|question:Listen and match|options:[lohi:Ff5CEqyuQqFq][apina:Od10sZLmkBWZ][käärme:ALZ0wAlq5BiT][vuohi:BnnPUVTXWrLs]|id:bdArvHDUxX78}
+{type:PickMissingWord|question:lammas ______ vuohi|options:[unohtaa, unohdan][ja][rautatieasema][istua, istun]|answer:ja|id:xEVgx9m0oh54}
+{type:PickWords|question:The snake is eating fish.|options:istua istun,takki takin,Käärme,lähettää lähetän,kalaa,peppu pepun,syö|answer:Käärmesyökalaa.|id:5FCGmRVNVnpD}
+{type:SpellingPick|text:ötökkä|options:[ankka][apina][kettu][ötökkä]|answer:ötökkä|id:f4DaONQ5nt0t}
+{type:PickWords|question:Käärme syö kalaa.|options:eating,to wash,The,snake,border,is,to take somewhere,before,to hold keep,fish|answer:Thesnakeiseatingfish.|id:1ui4z6WOd1Tc}
+{type:Match|question:Select the matching words|options:[hämähäkki:spider][hylje:seal][susi:wolf][kettu:fox]|id:kx3OfJfIPrJl}
+{type:WriteWords|question:The snake is eating fish.|answer:Käärme syö kalaa.|id:VHlwTJdHiZLP}
+{type:WriteWords|question:susi ja lammas|answer:the wolf and the sheep|id:0xaJQUhgxq8V}
+{type:WriteWords|question:I am eating chicken.|answer:Minä syön kanaa.|id:4NaMIxM6bb6i}
+{type:SpellingPick|text:sammako|options:[lohi][sammako][hämähäkki][rotta]|answer:sammako|id:B3tbMJDZvNao}
+{type:AudioMatch|question:Listen and match|options:[karhu:xiPiZRqwpC4S][lintu:jfqOnFBE6wEG][lohi:IeE9BTcxqlNi][hiiri:dESDInCFlBnf]|id:AhcKPJJNO0Up}
+{type:PickMissingWord|question:______ syön kanaa.|options:[uusia, uusin][kala][viedä, vien][Minä]|answer:Minä|id:OUIuNMI9WFEy}
+{type:WriteWords|question:I am a dog.|answer:Minä olen koira.|id:3sPdlMlBuZsb}
+{type:Match|question:Select the matching words|options:[karhu:bear][tiikeri:tiger][hiiri:mouse][hevonen:horse]|id:YAqJmutP3NUv}
+{type:PickOne|question:tiikeri|options:[tiger][swan][fish]|answer:tiger|id:8H0FcbJHekrP}
+{type:WriteWords|question:I am a dog.|answer:Minä olen koira.|id:buCEt9eFikJt}
+{type:WriteWords|question:Minä syön kanaa.|answer:I am eating chicken.|id:yh10iPF2gycd}
+{type:WriteWords|question:Minulla on hevonen.|answer:I have a horse.|id:kUWQslNXIfGX}
+{type:PickOneMeaning|question:The speaker is saying:|speech:lammas|options:[to hold, keep][to play, call][sheep]|answer:sheep|id:Dcpw611ewym7}
+</lesson>
+<lesson:21|id:eappTxWbQX5V>
+{type:WriteWords|question:The snake is eating fish.|answer:Käärme syö kalaa.|id:gEAs1lQSjeni}
+{type:WriteWords|question:kissa ja hiiri|answer:a cat and a mouse|id:EA0c4i76A9Vc}
+{type:SpellingPick|text:hämähäkki|options:[kana][hylje][hämähäkki][lohi]|answer:hämähäkki|id:J43SIrQRIkUN}
+{type:PickMissingWord|question:______ vai tiikeri|options:[sammako][ostaa, ostan][leijona][hevonen]|answer:leijona|id:ZYcRAfltJ0Fv}
+{type:PickMissingWord|question:______ on hevonen.|options:[lammas][luvata, lupaan][oppilas, oppilaan][Minulla]|answer:Minulla|id:1uizIsceMFRZ}
+{type:SpellingPick|text:pöllö|options:[hyönteinen][hylje][pöllö][karhu]|answer:pöllö|id:wZw2JlaCTGgy}
+{type:WriteWords|question:kissa ja hiiri|answer:a cat and a mouse|id:AS0Y1Abq0ZdQ}
+{type:AudioMatch|question:Listen and match|options:[lammas:MjqcyyNT6sHk][vuohi:zQOPEijexbxO][ötökkä:7G6FxJaAxSbk][hyönteinen:KVpx03mIx2ny]|id:kL5wBaBNqSLK}
+{type:PickWords|question:I am eating chicken.|options:Minä,kanaa,syön,lähettää lähetän|answer:Minäsyönkanaa.|id:uXrKZHky9BIh}
+{type:WriteWords|question:Minulla on hevonen.|answer:I have a horse.|id:Nd8riONs3UVh}
+{type:WriteWords|question:a sheep and a goat|answer:lammas ja vuohi|id:aaSahJGnHXbn}
+{type:Match|question:Select the matching words|options:[hiiri:mouse][pöllö:owl][pupu:bunny][hylje:seal]|id:d4Qi2eJFnpsM}
+{type:WriteWords|question:leijona vai tiikeri|answer:lion or tiger|id:iMe3B34Snlvv}
+{type:WriteWords|question:I am eating chicken.|answer:Minä syön kanaa.|id:xZLYomvqxTPy}
+{type:PickOneMeaning|question:The speaker is saying:|speech:lintu|options:[horse][bird][home]|answer:bird|id:G3MBO9RixlbX}
+{type:PickWords|question:Minä olen koira.|options:am,I,dog,a|answer:Iamadog.|id:tDyaj62GsKmP}
+{type:WriteWords|question:leijona vai tiikeri|answer:lion or tiger|id:fTaDP8MPwMZo}
+{type:PickOne|question:lohi|options:[bear][salmon][spider]|answer:salmon|id:Ru1EnzOOaHIA}
+{type:WriteWords|question:I am a dog.|answer:Minä olen koira.|id:u64PxddS9sKL}
+{type:Match|question:Select the matching words|options:[sammako:frog][lintu:bird][lammas:sheep][pupu:bunny]|id:dYw8nvQYbT7y}
+{type:AudioMatch|question:Listen and match|options:[leijona:nSxCQKjhQ8UU][susi:X9dh5kVtxooA][lintu:qy26dl62TFWx][kettu:Kof7VmxqMTVm]|id:QUFavyOZfdkj}
+{type:WriteWords|question:I am a dog.|answer:Minä olen koira.|id:c6gPoWcQpNIt}
+</lesson>
+<lesson:22|id:J4TK4LyOWi4E>
+{type:WriteWords|question:I have a horse.|answer:Minulla on hevonen.|id:Dm1l72Kw2ueD}
+{type:SpellingPick|text:lehmä|options:[käärme][sammako][lehmä][hyönteinen]|answer:lehmä|id:3GqCMf49Wc84}
+{type:PickWords|question:a sheep and a goat|options:ja,viedä vien,lammas,heti,tehdä teen,viini viinin,vuohi,ostaa ostan|answer:lammasjavuohi|id:QoNYANzTOKeO}
+{type:PickMissingWord|question:lammas ______ vuohi|options:[ankka][oppilas, oppilaan][ja][unohtaa, unohdan]|answer:ja|id:xmqoLJFWXmJG}
+{type:PickOne|question:kettu|options:[bunny][horse][fox]|answer:fox|id:sucLEroJJ50G}
+{type:WriteWords|question:the wolf and the sheep|answer:susi ja lammas|id:rU0nGF1XVWq8}
+{type:PickMissingWord|question:kissa ______ hiiri|options:[ennen][antaa, annan][unohtaa, unohdan][ja]|answer:ja|id:g5MVtrOdQ8ek}
+{type:WriteWords|question:the wolf and the sheep|answer:susi ja lammas|id:d6gpIGFSmomA}
+{type:Match|question:Select the matching words|options:[hyönteinen:insect][rotta:rat][pupu:bunny][hylje:seal]|id:UhtmrbSOYtvb}
+{type:WriteWords|question:lammas ja vuohi|answer:a sheep and a goat|id:1gliF96QGa8W}
+{type:AudioMatch|question:Listen and match|options:[lehmä:mr0axYy8L5fv][rotta:WJQoUyOFiNm5][hylje:0GjGxc8Cobec][pöllö:5NzPeu0KjwfE]|id:2P3sVxAZGMKA}
+{type:WriteWords|question:a sheep and a goat|answer:lammas ja vuohi|id:cbyvFAMjx7K4}
+{type:WriteWords|question:kissa ja hiiri|answer:a cat and a mouse|id:C3apln7VIA9j}
+{type:WriteWords|question:Minä olen koira.|answer:I am a dog.|id:LHjwXKPsuExW}
+{type:AudioMatch|question:Listen and match|options:[joutsen:eGw3Zkcn14k3][leijona:FYhXmp0rdMGH][vuohi:OxyJnd3IsvIH][kana:bVQpDmUtX6hc]|id:XFiU1nInPdQm}
+{type:PickOneMeaning|question:The speaker is saying:|speech:kala|options:[fish][butt][mouse]|answer:fish|id:ZSEVvjuA3U8c}
+{type:WriteWords|question:kissa ja hiiri|answer:a cat and a mouse|id:sjCDyXUklULV}
+{type:Match|question:Select the matching words|options:[kettu:fox][kala:fish][hevonen:horse][lammas:sheep]|id:LV3CiDHkcCks}
+{type:WriteWords|question:Kala ui.|answer:The fish swims.|id:THOX6OKUSo2p}
+{type:PickWords|question:Minä olen koira.|options:to play call,to do,am,to buy,I,madame,a,dog|answer:Iamadog.|id:XorscvixRGPY}
+{type:SpellingPick|text:hylje|options:[lehmä][karhu][hylje][tiikeri]|answer:hylje|id:xnweuB4Rxy2v}
+{type:WriteWords|question:I am eating chicken.|answer:Minä syön kanaa.|id:8Bx6t7Rt30KH}
+</lesson>
+<lesson:23|id:7efIzpMu7aRo>
+{type:WriteWords|question:Minulla on hevonen.|answer:I have a horse.|id:KSYJiPQBoXVt}
+{type:PickOne|question:karhu|options:[pig][monkey][bear]|answer:bear|id:1wETdUpsgACe}
+{type:WriteWords|question:The snake is eating fish.|answer:Käärme syö kalaa.|id:jd18hBsPOR2F}
+{type:AudioMatch|question:Listen and match|options:[ankka:jrnlo6eSXTFK][lohi:TMAvR6hqOQEV][sika:hSbQYFvCRn1L][hyönteinen:Dxe23EMK5Z0q]|id:CeXom70ofiwg}
+{type:WriteWords|question:I am eating chicken.|answer:Minä syön kanaa.|id:PuL9AJVDIljB}
+{type:WriteWords|question:susi ja lammas|answer:the wolf and the sheep|id:E6hoobCbMlKG}
+{type:PickWords|question:Minä olen koira.|options:to receive,to promise,dog,a,am,to play call,I,to sit|answer:Iamadog.|id:ExduCI8i9gBp}
+{type:PickMissingWord|question:______ ja hiiri|options:[lintu][kissa][rouva][rotta]|answer:kissa|id:4XLq930ciNOg}
+{type:WriteWords|question:Minä olen koira.|answer:I am a dog.|id:ap8Ulro6A3lv}
+{type:WriteWords|question:I have a horse.|answer:Minulla on hevonen.|id:zPKj95u6dyR1}
+{type:PickMissingWord|question:Minä olen ______.|options:[hiiri][peppu, pepun][koira][hylje]|answer:koira|id:dcV47LDgaW4i}
+{type:Match|question:Select the matching words|options:[tiikeri:tiger][ötökkä:bug][lammas:sheep][kana:chicken]|id:RFG3n52UKtXq}
+{type:SpellingPick|text:leijona|options:[hyönteinen][leijona][karhu][ankka]|answer:leijona|id:OvoF3OcCw8aa}
+{type:PickWords|question:I am eating chicken.|options:ennen,viedä vien,Minä,kanaa,syön|answer:Minäsyönkanaa.|id:tdzcV50UKLHO}
+{type:WriteWords|question:lammas ja vuohi|answer:a sheep and a goat|id:ZXLwmBrj0HK6}
+{type:WriteWords|question:The snake is eating fish.|answer:Käärme syö kalaa.|id:7FGYTQif8e92}
+{type:PickOneMeaning|question:The speaker is saying:|speech:leijona|options:[to hold, keep][lion][to give]|answer:lion|id:ej3WgUE1iYQ4}
+{type:AudioMatch|question:Listen and match|options:[lammas:KCLK1xFqm92d][hevonen:JI2eYxeq4ZaT][leijona:v766v7MJy7i7][hyönteinen:99BDGnXUVGRa]|id:iAtjMTDGK9rW}
+{type:WriteWords|question:I have a horse.|answer:Minulla on hevonen.|id:PFyEWxbhxr2q}
+{type:SpellingPick|text:lehmä|options:[lehmä][karhu][ötökkä][rotta]|answer:lehmä|id:dJxHSK2tLPtB}
+{type:Match|question:Select the matching words|options:[apina:monkey][lohi:salmon][kala:fish][kettu:fox]|id:D4SM31xhgV3D}
+{type:WriteWords|question:lammas ja vuohi|answer:a sheep and a goat|id:EYmaybMJE1JM}
+</lesson>
+<lesson:24|id:UAL7kkvjZjxj>
+{type:Match|question:Select the matching words|options:[vuohi:goat][hiiri:mouse][hylje:seal][kala:fish]|id:U1s58AE999Bh}
+{type:PickWords|question:I have a horse.|options:tehdä teen,päättyä,hevonen,Minulla,pestä pesen,on,taakse|answer:Minullaonhevonen.|id:jwe3hFyANvNs}
+{type:Match|question:Select the matching words|options:[kettu:fox][lintu:bird][pupu:bunny][apina:monkey]|id:7wD69YAk50qp}
+{type:SpellingPick|text:hylje|options:[hämähäkki][hylje][rotta][käärme]|answer:hylje|id:8b7stiRpkQnq}
+{type:WriteWords|question:a sheep and a goat|answer:lammas ja vuohi|id:vF4uyGKlmFEr}
+{type:PickWords|question:Kala ui.|options:The,swims,fish|answer:Thefishswims.|id:wvah9NkRTOgv}
+{type:WriteWords|question:Minulla on hevonen.|answer:I have a horse.|id:ffbnaaSTGPfZ}
+{type:WriteWords|question:the wolf and the sheep|answer:susi ja lammas|id:izF5belLbdan}
+{type:WriteWords|question:lion or tiger|answer:leijona vai tiikeri|id:i2SZ2cNu5ehf}
+{type:PickOneMeaning|question:The speaker is saying:|speech:passi, passin|options:[to forget][passport][monkey]|answer:passport|id:fScsYCXtBDHX}
+{type:SpellingPick|text:lammas|options:[lehmä][lintu][pöllö][lammas]|answer:lammas|id:r1dk75FOcwfe}
+{type:WriteWords|question:The fish swims.|answer:Kala ui.|id:HTQQ229rsfsn}
+{type:PickMissingWord|question:Minulla ______ hevonen.|options:[raja, rajan][pupu][tehdä, teen][on]|answer:on|id:T0pek9h7LDo2}
+{type:AudioMatch|question:Listen and match|options:[lehmä:rpF1dExc5PtO][susi:0EIrXIKIl04U][hiiri:36oXzZiCOZcY][kettu:WQkMY8RJIjFt]|id:6lzUcczKPBNe}
+{type:PickOne|question:kana|options:[chicken][mouse][swan]|answer:chicken|id:BuAqUOFoDwWv}
+{type:AudioMatch|question:Listen and match|options:[vuohi:rtUzsFLQedKW][lehmä:tKFrHVqqnzRZ][ötökkä:oQi7sk3XMIIQ][hämähäkki:ZhUybgDPTodW]|id:0dMWAARr5Pmj}
+{type:WriteWords|question:susi ja lammas|answer:the wolf and the sheep|id:rPlMkp5ZR36e}
+{type:WriteWords|question:The snake is eating fish.|answer:Käärme syö kalaa.|id:6sTKGBVOmz7O}
+{type:WriteWords|question:Käärme syö kalaa.|answer:The snake is eating fish.|id:9mFtr7QehzJo}
+{type:PickMissingWord|question:______ syön kanaa.|options:[lohi][Minä][poistua, poistun][viini, viinin]|answer:Minä|id:qamj31oKmYuj}
+{type:WriteWords|question:kissa ja hiiri|answer:a cat and a mouse|id:NI3lV4tvQDsK}
+{type:WriteWords|question:Minulla on hevonen.|answer:I have a horse.|id:N4mls5c73xea}
+</lesson>
+<lesson:25|id:vgBLR81h54u3>
+{type:WriteWords|question:Minulla on hevonen.|answer:I have a horse.|id:03FyItfY0MMZ}
+{type:WriteWords|question:susi ja lammas|answer:the wolf and the sheep|id:dZX046tFXln9}
+{type:WriteWords|question:Minä olen koira.|answer:I am a dog.|id:tWOlG6vk0Jjg}
+{type:PickMissingWord|question:lammas ______ vuohi|options:[lehmä][ja][päättyä][lähettää, lähetän]|answer:ja|id:45I5f9q1GEwz}
+{type:WriteWords|question:the wolf and the sheep|answer:susi ja lammas|id:thjGoN7zKNg5}
+{type:SpellingPick|text:susi|options:[ankka][leijona][lohi][susi]|answer:susi|id:7oqSy9Qqde2F}
+{type:PickWords|question:The fish swims.|options:vähemmän,Kala,istua istun,rautatieasema,ui|answer:Kalaui.|id:Nak3movCbuQb}
+{type:WriteWords|question:a cat and a mouse|answer:kissa ja hiiri|id:yon7refeRdVd}
+{type:PickOneMeaning|question:The speaker is saying:|speech:kettu|options:[to hold, keep][bird][fox]|answer:fox|id:0BiXNJiEX6W0}
+{type:WriteWords|question:a cat and a mouse|answer:kissa ja hiiri|id:P2Jp0aHkxUGq}
+{type:SpellingPick|text:tiikeri|options:[lammas][tiikeri][lintu][sika]|answer:tiikeri|id:fyUujl2Y9pwJ}
+{type:WriteWords|question:The snake is eating fish.|answer:Käärme syö kalaa.|id:NLKBp96rvVw5}
+{type:WriteWords|question:kissa ja hiiri|answer:a cat and a mouse|id:Q7yusT3wrtnb}
+{type:AudioMatch|question:Listen and match|options:[leijona:EPdgHipJEr99][hylje:NGKicaPciIt4][lammas:HpVctlKz3giX][apina:slvaEWSJLK1T]|id:qt809P3ppzG6}
+{type:Match|question:Select the matching words|options:[ötökkä:bug][sika:pig][apina:monkey][hyönteinen:insect]|id:O4Hfl2e6C84W}
+{type:Match|question:Select the matching words|options:[kana:chicken][ankka:duck][kala:fish][sika:pig]|id:M2Mn2Qa4TGIC}
+{type:WriteWords|question:I am a dog.|answer:Minä olen koira.|id:PdAHESh0RsOL}
+{type:PickMissingWord|question:Käärme ______ kalaa.|options:[syö][pupu][ötökkä][rautatieasema]|answer:syö|id:4W4EtA2MtkkL}
+{type:PickWords|question:Minä syön kanaa.|options:eating,to behind,I,chicken,to do,am,to renew|answer:Iameatingchicken.|id:q9iyuAfjnAw5}
+{type:PickOne|question:hevonen|options:[horse][wolf][goat]|answer:horse|id:Z6jdQ5ILlbSm}
+{type:AudioMatch|question:Listen and match|options:[sika:Wt62mJmbTQZp][lammas:AcTEsfDGPcUD][hyönteinen:fS4FVuxWOf0N][pupu:9XMKFbfZRUGI]|id:3xSCfrPJg3AZ}
+{type:WriteWords|question:Kala ui.|answer:The fish swims.|id:KrS4TqU6EQKE}
+</lesson>
+</skill>
+<skill:Family|image:dad|lessonsperlevel:3|strokecolor:78,52,46|fillcolor:141,110,99|position:1|description:Enter skill description here.|id:ovupz56aW8IB>
+<lesson:1|id:uHFaUaFUQup5>
+{type:PickOne|question:New PickOne Question?|options:[Option A][Option B][Option C]|answer:Option A|id:xkqYx8gtCjb2}
+{type:FlashCard|front:New FlashCard Front|back:New FlashCard Back|id:j3zCZdOwg2Qc}
+</lesson>
+</skill>
+<skill:Also and neither|image:apple|lessonsperlevel:3|strokecolor:65,71,155|fillcolor:255,75,85|position:1|description:Enter skill description here.|id:nHiKggE6sI0h>
+<lesson:1|id:I2hTJa4Z8860>
+{type:PickOne|question:New PickOne Question?|options:[Option A][Option B][Option C]|answer:Option A|id:0wobzfCTtZze}
+{type:FlashCard|front:New FlashCard Front|back:New FlashCard Back|id:Sg9bWTk80xja}
+</lesson>
+</skill>
+<skill:Describing yourself|image:apple|lessonsperlevel:3|strokecolor:65,71,155|fillcolor:255,75,85|position:1|description:Enter skill description here.|id:ZQBetGbuI1fE>
+<lesson:1|id:ZZVdyaml49tz>
+{type:PickOne|question:New PickOne Question?|options:[Option A][Option B][Option C]|answer:Option A|id:OpVOYxUXpFVC}
+{type:FlashCard|front:New FlashCard Front|back:New FlashCard Back|id:zazappkQ2Ctl}
+</lesson>
+</skill>
+<skill:This and that|image:hand-love|lessonsperlevel:3|strokecolor:65,71,155|fillcolor:129,212,250|position:4|description:Enter skill description here.|id:klliX8LTEpGI>
+<lesson:1|id:kU0ZgW5yfgiP>
+{type:PickOne|question:New PickOne Question?|options:[Option A][Option B][Option C]|answer:Option A|id:do4zqblFU9uQ}
+{type:FlashCard|front:New FlashCard Front|back:New FlashCard Back|id:IJTYdPHntHTd}
+</lesson>
+</skill>
+<skill:Adpositions 1|image:number-1|lessonsperlevel:3|strokecolor:255,179,0|fillcolor:255,213,79|position:5|description:Enter skill description here.|id:xxLtlOsTyshr>
+<lesson:1|id:tvAu5CX2Jyej>
+{type:PickOne|question:New PickOne Question?|options:[Option A][Option B][Option C]|answer:Option A|id:1ASCPwkXrKlC}
+{type:FlashCard|front:New FlashCard Front|back:New FlashCard Back|id:YJ2yZlx1KEVV}
+</lesson>
+</skill>
+<skill:Adpositions 2|image:number-2|lessonsperlevel:3|strokecolor:255,179,0|fillcolor:255,213,79|position:6|description:Enter skill description here.|id:wL4j9K3s8do4>
+<lesson:1|id:Mu95FfcSG8zo>
+{type:PickOne|question:New PickOne Question?|options:[Option A][Option B][Option C]|answer:Option A|id:rbEgbULwxcaz}
+{type:FlashCard|front:New FlashCard Front|back:New FlashCard Back|id:KPZb6RgCxD8C}
+</lesson>
+</skill>
+<skill:Adpositions 3|image:number-3|lessonsperlevel:3|strokecolor:255,179,0|fillcolor:255,213,79|position:7|description:Enter skill description here.|id:jBFxCEJyK2v1>
+<lesson:1|id:H3LLI78RDkJc>
+{type:PickOne|question:New PickOne Question?|options:[Option A][Option B][Option C]|answer:Option A|id:Kn1bELlDG5Ci}
+{type:FlashCard|front:New FlashCard Front|back:New FlashCard Back|id:K6UebN7krVNp}
+</lesson>
+</skill>
+<skill:At the store|image:fruit|lessonsperlevel:3|strokecolor:65,71,155|fillcolor:165,214,167|position:2|description:Enter skill description here.|id:jaYxrKuQftPA>
+<lesson:1|id:O0h6oL3cJgHz>
+{type:PickOne|question:New PickOne Question?|options:[Option A][Option B][Option C]|answer:Option A|id:r3vVAmxSndia}
+{type:FlashCard|front:New FlashCard Front|back:New FlashCard Back|id:brF1UDjdaLeG}
+</lesson>
+</skill>
+<skill:At the office|image:computer|lessonsperlevel:3|strokecolor:65,71,155|fillcolor:187,222,251|position:3|description:Enter skill description here.|id:badvEP5oGI7m>
+<lesson:1|id:hyaqZAmmsjLB>
+{type:PickOne|question:New PickOne Question?|options:[Option A][Option B][Option C]|answer:Option A|id:ySZkBbMBSiWv}
+{type:FlashCard|front:New FlashCard Front|back:New FlashCard Back|id:oLogzqAesRl0}
+</lesson>
+</skill>
+<skill:Verbs in perfect tense|image:night|lessonsperlevel:8|strokecolor:65,71,155|fillcolor:79,195,247|position:2|description:Enter skill description here.|id:RIyJilCxYe9a>
+<lesson:1|id:BBICeynvLvXw>
+{type:FlashCard|front:have come [singular]|back:tullut|id:PlKrQ8oPu0FQ}
+{type:ImagePick|question:nähneet|options:[have done [singular]:bread][have gone [plural]:bread][have seen [plural]:bread][permission:bread]|answerCount:1|answer:have seen [plural]|answercount:1|id:4c1MZWoGKGF1}
+{type:PickOne|question:ostanut|options:[have bought [singular]][example translation][FallbackOpt1]|answer:have bought [singular]|id:Gof3FbDsmmnw}
+{type:AudioMatch|question:Listen and match|options:[example term:ESc3ffBeOPxP][odottaneet:k9qtyb6XifNK][menneet:K13QONGQB7Ts][pelastaja:ZEiiAYqZN7Py]|id:47c9QY3MXI9t}
+{type:PickOne|question:luvata|options:[to promise][FallbackOpt1][example translation]|answer:to promise|id:AEnJRFlnCnUG}
+{type:ImagePick|question:alasti|options:[naked:bread][saviour:bread][tiger:bread][have bought [singular]:bread]|answerCount:1|answer:naked|answercount:1|id:IbADMrFxyYE7}
+{type:FlashCard|front:saviour|back:pelastaja|id:gLLXdZqFxWCO}
+{type:FlashCard|front:ostaneet|back:have bought [plural]|id:jwyLqBOIniCS}
+{type:AudioMatch|question:Listen and match|options:[eksynyt:m036TQC7dcs0][juonut:MvAm16Umkt4G][pelastaja:GVRQgETjLStZ][example term:cZosY5QAdwVZ]|id:OP6r6odPeOMv}
+{type:PickOneMeaning|question:The speaker is saying:|speech:syönyt|options:[stuff [singular]][have waited [plural]][have eaten [singular]]|answer:have eaten [singular]|id:eEpOFE91WkwL}
+{type:AudioMatch|question:Listen and match|options:[example term:PZGd9quV2JaN][syöneet:KOLOVnNqNY2v][lupa:QGqODLHFR5FT][juoneet:2g9qfUSDGGJ2]|id:OGM4aabyGXF3}
+{type:AudioMatch|question:Listen and match|options:[kuulleet:PYZ0wOVy3j28][menneet:rK4ady80JjR7][tehnyt:XyJ6x17tyBep][example term:dA4zQYOkj9gB]|id:thiAN1v4fZqu}
+{type:ImagePick|question:lupa|options:[permission:bread][have gone [plural]:bread][have given [singular]:bread][have waited [singular]:bread]|answerCount:1|answer:permission|answercount:1|id:7V0769dYwmuz}
+{type:PickOne|question:odottanut|options:[FallbackOpt1][have waited [singular]][example translation]|answer:have waited [singular]|id:ceCtS78Z07kn}
+{type:ImagePick|question:luvata|options:[have gone [singualr]:bread][have drunk [plural]:bread][saviour:bread][to promise:bread]|answerCount:1|answer:to promise|answercount:1|id:6oe6Zmfm72PQ}
+{type:SpellingPick|text:mennyt|options:[juonut][mennyt][kuullut][nähneet]|answer:mennyt|id:1hV19glCsxgP}
+{type:ImagePick|question:alasti|options:[have seen [plural]:bread][naked:bread][have bought [singular]:bread][have given [singular]:bread]|answerCount:1|answer:naked|answercount:1|id:RFq7PFgeYvJb}
+{type:PickOne|question:tullut|options:[have come [singular]][example translation][FallbackOpt1]|answer:have come [singular]|id:el24eO87HF7v}
+{type:AudioMatch|question:Listen and match|options:[tullut:g0pmzzdzeDvp][kuullut:TcuQpHA4bFud][example term:eQwuIGqqNBA7][nähnyt:G8vWSQ5pHUXH]|id:0IIOzkUIgjSU}
+{type:SpellingPick|text:antaneet|options:[tavara][eksyneet][saanut][antaneet]|answer:antaneet|id:szWQm8iw5exP}
+</lesson>
+<lesson:2|id:VmKuFdwvWXXj>
+{type:PickOne|question:tiikeri|options:[FallbackOpt1][example translation][tiger]|answer:tiger|id:kCO3tM6Q0sNE}
+{type:PickOne|question:tehneet|options:[example translation][have done [plural]][FallbackOpt1]|answer:have done [plural]|id:R2G6jCOpxcET}
+{type:FlashCard|front:have come [singular]|back:tullut|id:CPUpLdGhK3Hr}
+{type:AudioMatch|question:Listen and match|options:[nähneet:eyvgLgViMxqY][lupa:bmx2FPHiVdEI][ostanut:xD2H9sjO25rk][example term:OUy7DKsPTnTe]|id:maV1cOhZDTEX}
+{type:ImagePick|question:tullut|options:[have drunk [plural]:bread][have gotten [singular]:bread][saviour:bread][have come [singular]:bread]|answerCount:1|answer:have come [singular]|answercount:1|id:f6wHzJ6Fhl8s}
+{type:PickOneMeaning|question:The speaker is saying:|speech:ostaneet|options:[have bought [plural]][stuff [singular]][have drunk [singular]]|answer:have bought [plural]|id:xyup1ffodMrV}
+{type:FlashCard|front:have eaten [plural]|back:syöneet|id:X3N5qW3mULJ7}
+{type:AudioMatch|question:Listen and match|options:[example term:477WGpYddLlr][saaneet:zduuqW1rTRub][saanut:5ycS7xaNSw6e][nähnyt:xXf2y5hiiE4N]|id:aeLax98KNnMI}
+{type:SpellingPick|text:pelastaja|options:[antanut][pelastaja][saanut][juonut]|answer:pelastaja|id:Eu9Aloyr4SpO}
+{type:ImagePick|question:mennyt|options:[piece, song:bread][have gone [singualr]:bread][have waited [plural]:bread][have gotten [singular]:bread]|answerCount:1|answer:have gone [singualr]|answercount:1|id:DzNFC7a0vchf}
+{type:ImagePick|question:nähneet|options:[have heard [plural]:bread][have heard [singular]:bread][have gone [plural]:bread][have seen [plural]:bread]|answerCount:1|answer:have seen [plural]|answercount:1|id:23bmgwXogGYu}
+{type:ImagePick|question:tehnyt|options:[have done [singular]:bread][saviour:bread][have gotten lost [plural]:bread][have bought [plural]:bread]|answerCount:1|answer:have done [singular]|answercount:1|id:dw4FupODpSpo}
+{type:PickOne|question:eksyneet|options:[example translation][have gotten lost [plural]][FallbackOpt1]|answer:have gotten lost [plural]|id:iPVPbOlPqtUE}
+{type:ImagePick|question:mennyt|options:[have gone [singualr]:bread][naked:bread][saviour:bread][have gotten [singular]:bread]|answerCount:1|answer:have gone [singualr]|answercount:1|id:KbFdT3DIdjps}
+{type:PickOne|question:nähneet|options:[have seen [plural]][FallbackOpt1][example translation]|answer:have seen [plural]|id:j1lx35nYh3I8}
+{type:AudioMatch|question:Listen and match|options:[eksyneet:koQEx3ByztlY][tiikeri:amd8bGznpP0x][eksynyt:ck6Bb8Re4ysI][example term:VJaEuvXRIMEH]|id:n9IVxI1aiyzf}
+{type:AudioMatch|question:Listen and match|options:[ostanut:mLy5I8kQezO9][eksyneet:DdnNKtqnzT7T][example term:FhSJdh1TlonT][luvata:56gr0fs9t39T]|id:Tro1Z1KOy9qY}
+{type:SpellingPick|text:syöneet|options:[syöneet][tavara][pelastaja][kuulleet]|answer:syöneet|id:naYeLvFO9JTv}
+{type:AudioMatch|question:Listen and match|options:[kappale:hTaad1b7kmcl][odottanut:6g1GrFKnPFMo][example term:eLx5ZSfQTeiN][eksynyt:gBke76Ox2D3j]|id:6G7Q3UZAyqJ8}
+{type:FlashCard|front:have gotten [plural]|back:saaneet|id:JAqE6GqP8NsJ}
+</lesson>
+<lesson:3|id:btnUsuWWePGH>
+{type:AudioMatch|question:Listen and match|options:[tehneet:H9XPkekyJtFZ][example term:3WjMp1O2B8wH][nähneet:zVcoqFYHiXxq][syönyt:E3bMz6pJd4m9]|id:M1191ZAfaQUI}
+{type:FlashCard|front:have eaten [singular]|back:syönyt|id:HYKy4rByVQhE}
+{type:PickOneMeaning|question:The speaker is saying:|speech:syönyt|options:[have gotten lost [plural]][have eaten [singular]][example translation]|answer:have eaten [singular]|id:BiK6ekD8mKTm}
+{type:PickOne|question:ostaneet|options:[example translation][FallbackOpt1][have bought [plural]]|answer:have bought [plural]|id:upc1c9DdGEUP}
+{type:PickOne|question:odottanut|options:[example translation][FallbackOpt1][have waited [singular]]|answer:have waited [singular]|id:zrNRimSWx7oS}
+{type:AudioMatch|question:Listen and match|options:[juonut:WVl7R7F1g5Ya][example term:Soa6IDLg75kV][odottaneet:4Ndmzhkntj5d][saaneet:Apnbx7n6egVL]|id:OPJPZRN4t4jZ}
+{type:FlashCard|front:have gone [plural]|back:menneet|id:Hq5yRvXw5DdQ}
+{type:ImagePick|question:tiikeri|options:[have gone [plural]:bread][have come [singular]:bread][have bought [singular]:bread][tiger:bread]|answerCount:1|answer:tiger|answercount:1|id:AoWoPOfZSnvG}
+{type:PickOne|question:eksyneet|options:[have gotten lost [plural]][FallbackOpt1][example translation]|answer:have gotten lost [plural]|id:RmGVBbP5krjo}
+{type:SpellingPick|text:ostanut|options:[eksynyt][ostanut][tiikeri][tulleet]|answer:ostanut|id:S6aB7IpH66sU}
+{type:ImagePick|question:alasti|options:[have eaten [singular]:bread][naked:bread][stuff [singular]:bread][have eaten [plural]:bread]|answerCount:1|answer:naked|answercount:1|id:m68qOCwb74uN}
+{type:AudioMatch|question:Listen and match|options:[example term:LoLuvOqCx1et][ostaneet:GaNsrcIbaFIT][lupa:zn9nHyufMvdA][saaneet:hsz6KLhb1e8A]|id:T1lwpjJMfFd7}
+{type:ImagePick|question:odottanut|options:[have eaten [plural]:bread][have given [plural]:bread][have waited [singular]:bread][have drunk [plural]:bread]|answerCount:1|answer:have waited [singular]|answercount:1|id:iqbuWiZi2P3P}
+{type:ImagePick|question:ostanut|options:[have eaten [plural]:bread][have waited [singular]:bread][have eaten [singular]:bread][have bought [singular]:bread]|answerCount:1|answer:have bought [singular]|answercount:1|id:LkT3pn0kX6c4}
+{type:FlashCard|front:kappale|back:piece, song|id:L1YlMpBcO42g}
+{type:ImagePick|question:luvata|options:[to promise:bread][have waited [plural]:bread][have gone [singualr]:bread][have done [singular]:bread]|answerCount:1|answer:to promise|answercount:1|id:AKL9QAIf5RqI}
+{type:SpellingPick|text:antanut|options:[antanut][odottaneet][alasti][ostaneet]|answer:antanut|id:xCIRwuWSviKh}
+{type:AudioMatch|question:Listen and match|options:[tehneet:kbkwKrvdO0QD][alasti:yUyPn7sKkF0J][saaneet:pa4wfB0tpb9o][example term:RFCUbfw3UuaG]|id:aqQK3PD7fPzf}
+{type:AudioMatch|question:Listen and match|options:[syöneet:DYdTq8y6tVGT][syönyt:sTll9XMnHTi6][example term:Xl5OZ1xf8GAJ][nähneet:yfMUQaypy6AR]|id:ThFhRnGoGYaF}
+{type:PickOne|question:nähneet|options:[have seen [plural]][example translation][FallbackOpt1]|answer:have seen [plural]|id:BqgQZGnba2VZ}
+</lesson>
+<lesson:4|id:41LzMS2hkplp>
+{type:ImagePick|question:tiikeri|options:[have drunk [singular]:bread][tiger:bread][have come [singular]:bread][have seen [plural]:bread]|answerCount:1|answer:tiger|answercount:1|id:nZoelVGJx8D4}
+{type:FlashCard|front:alasti|back:naked|id:K8yN1CqhF8bH}
+{type:AudioMatch|question:Listen and match|options:[mennyt:EbcW4fQH5VNf][tehnyt:4it2Wz5AcXen][kuulleet:lcUs0sNHneXO][example term:hAIupeCY3g6S]|id:aOOuzSgQDQ2n}
+{type:SpellingPick|text:mennyt|options:[tavara][juoneet][tehneet][mennyt]|answer:mennyt|id:KMndJ5k9lOcx}
+{type:PickOneMeaning|question:The speaker is saying:|speech:alasti|options:[have done [singular]][naked][have seen [singular]]|answer:naked|id:dpESwCGHTyF5}
+{type:AudioMatch|question:Listen and match|options:[saaneet:9TF2nhDkWRlS][kuulleet:wjFTf0xZ1rgg][syöneet:w3q2yFb428Rj][example term:cTzxl4pOfGcG]|id:nu4tfHBrW7ls}
+{type:ImagePick|question:kappale|options:[have come [singular]:bread][have come [plural]:bread][have given [singular]:bread][piece, song:bread]|answerCount:1|answer:piece, song|answercount:1|id:24BFQkWphVaG}
+{type:PickOne|question:tulleet|options:[have come [plural]][FallbackOpt1][example translation]|answer:have come [plural]|id:RlY3UqV04uF4}
+{type:ImagePick|question:lupa|options:[have done [singular]:bread][permission:bread][have seen [singular]:bread][have come [plural]:bread]|answerCount:1|answer:permission|answercount:1|id:k2iF48Rzs1BL}
+{type:FlashCard|front:have seen [singular]|back:nähnyt|id:wfTMAkAVUSME}
+{type:ImagePick|question:kuullut|options:[naked:bread][permission:bread][have heard [singular]:bread][tiger:bread]|answerCount:1|answer:have heard [singular]|answercount:1|id:03H2Nb7wvBWV}
+{type:FlashCard|front:have waited [singular]|back:odottanut|id:f8CEjgbB9y8A}
+{type:AudioMatch|question:Listen and match|options:[odottanut:u7Mxx3vEdGaS][tehnyt:OS1k5fL40lhZ][tehneet:AwuHurC0x08O][example term:5ThWQ64x6gS6]|id:pDLBKtJFXdQ5}
+{type:ImagePick|question:tiikeri|options:[tiger:bread][have eaten [plural]:bread][have bought [plural]:bread][piece, song:bread]|answerCount:1|answer:tiger|answercount:1|id:6Lz0AcLW549c}
+{type:PickOne|question:syöneet|options:[have eaten [plural]][FallbackOpt1][example translation]|answer:have eaten [plural]|id:doSXpcUORg2z}
+{type:SpellingPick|text:tavara|options:[tulleet][odottaneet][antanut][tavara]|answer:tavara|id:U2jBUyPeXsPG}
+{type:PickOne|question:alasti|options:[FallbackOpt1][naked][example translation]|answer:naked|id:kdiW4OG53oCQ}
+{type:AudioMatch|question:Listen and match|options:[example term:Mg3Zi8PUBTvT][odottaneet:kqHC81MruU2Z][mennyt:1on6GN3FmCqI][tavara:AkfOmcfkmEil]|id:gb2XQzDVRGah}
+{type:PickOne|question:mennyt|options:[example translation][FallbackOpt1][have gone [singualr]]|answer:have gone [singualr]|id:pZnZUhLI74O9}
+{type:AudioMatch|question:Listen and match|options:[example term:zgjoc9VfyTiB][ostaneet:pTdj5yehfSu8][alasti:MPEsFxRnjkbp][saanut:ZwoQ8TsfNuvG]|id:wFPnIHxN7uJe}
+</lesson>
+<lesson:5|id:T4R16lEnPY7z>
+{type:SpellingPick|text:saanut|options:[luvata][eksyneet][saanut][odottaneet]|answer:saanut|id:KvwnQ12bJGqY}
+{type:PickOne|question:ostaneet|options:[example translation][have bought [plural]][FallbackOpt1]|answer:have bought [plural]|id:9f2qPmkWgx1v}
+{type:AudioMatch|question:Listen and match|options:[lupa:cuxjbgvXgVH6][saanut:fkglIWaXrtW9][pelastaja:GFPEeZJLL8fM][example term:U0dWfZkPozi8]|id:a57qW6G0IGbb}
+{type:PickOne|question:antaneet|options:[example translation][have given [plural]][FallbackOpt1]|answer:have given [plural]|id:p7QeT1IIo0Ht}
+{type:ImagePick|question:ostaneet|options:[have come [plural]:bread][have bought [plural]:bread][saviour:bread][stuff [singular]:bread]|answerCount:1|answer:have bought [plural]|answercount:1|id:Un7q6U2aTt8A}
+{type:SpellingPick|text:saaneet|options:[odottaneet][juonut][saaneet][ostaneet]|answer:saaneet|id:WuZijTPjEqqZ}
+{type:FlashCard|front:have gotten [plural]|back:saaneet|id:7vZ0AdOS5bMN}
+{type:ImagePick|question:kuulleet|options:[have heard [plural]:bread][have eaten [singular]:bread][have waited [plural]:bread][have seen [plural]:bread]|answerCount:1|answer:have heard [plural]|answercount:1|id:mXHj2JCQ8GDG}
+{type:FlashCard|front:menneet|back:have gone [plural]|id:URkpGPrXielN}
+{type:AudioMatch|question:Listen and match|options:[syönyt:SikuMoo9ilQg][eksyneet:1cIVQsO0f1Jm][tulleet:LHbE3VrM4cD3][example term:vXMEMsf1lkUd]|id:QJidOPoL0oqZ}
+{type:PickOne|question:tavara|options:[FallbackOpt1][example translation][stuff [singular]]|answer:stuff [singular]|id:V45VEVSgZuoG}
+{type:AudioMatch|question:Listen and match|options:[syöneet:olEII6RmLcij][juoneet:7Ca7XdI47Mqv][kuulleet:ZSqktyVwLRBe][example term:IB9ImG0frgSc]|id:goh8CrQ5S8mP}
+{type:AudioMatch|question:Listen and match|options:[example term:Lrh85KuI0nID][tehnyt:bLDxRMW0l6D9][juoneet:hRi1UU63OeRp][luvata:vCqvedr8Ct4y]|id:1xUWwBVroYJ1}
+{type:AudioMatch|question:Listen and match|options:[odottaneet:I88xJPl2CBWz][kuulleet:pDOKBVX7R6kJ][mennyt:cWTc5wjfE9r5][example term:uk3zPnLoRBjm]|id:77FWJqstPM70}
+{type:ImagePick|question:antanut|options:[have heard [singular]:bread][have seen [plural]:bread][piece, song:bread][have given [singular]:bread]|answerCount:1|answer:have given [singular]|answercount:1|id:tu8TRC085cz0}
+{type:ImagePick|question:tiikeri|options:[have drunk [plural]:bread][tiger:bread][have eaten [singular]:bread][have waited [plural]:bread]|answerCount:1|answer:tiger|answercount:1|id:RV4ImweO8B57}
+{type:PickOne|question:kuullut|options:[have heard [singular]][FallbackOpt1][example translation]|answer:have heard [singular]|id:fO0A5cTKOX8x}
+{type:PickOneMeaning|question:The speaker is saying:|speech:tullut|options:[have come [plural]][example translation][have come [singular]]|answer:have come [singular]|id:rIRbIy1sztG7}
+{type:FlashCard|front:have eaten [plural]|back:syöneet|id:uyrHMJW5RzyO}
+{type:ImagePick|question:tiikeri|options:[have gotten [singular]:bread][tiger:bread][have gone [plural]:bread][have gotten lost [singular]:bread]|answerCount:1|answer:tiger|answercount:1|id:7cO4Jlht0txr}
+</lesson>
+<lesson:6|id:9C5Rx4zXG2aP>
+{type:ImagePick|question:menneet|options:[have gone [plural]:bread][have gotten lost [plural]:bread][have gone [singualr]:bread][have waited [singular]:bread]|answerCount:1|answer:have gone [plural]|answercount:1|id:oV148pI6MojF}
+{type:ImagePick|question:menneet|options:[have gone [plural]:bread][have gotten [singular]:bread][have given [plural]:bread][have waited [singular]:bread]|answerCount:1|answer:have gone [plural]|answercount:1|id:6i8R1hxTwerz}
+{type:PickOne|question:kuullut|options:[have heard [singular]][example translation][FallbackOpt1]|answer:have heard [singular]|id:V323TjX8a0iu}
+{type:SpellingPick|text:luvata|options:[luvata][odottanut][antanut][alasti]|answer:luvata|id:Irjbp55hgbv4}
+{type:PickOne|question:tehnyt|options:[example translation][have done [singular]][FallbackOpt1]|answer:have done [singular]|id:RZtUZ1mG7qUN}
+{type:FlashCard|front:tiikeri|back:tiger|id:HQVjeOztTcbt}
+{type:ImagePick|question:lupa|options:[permission:bread][naked:bread][have come [plural]:bread][have given [plural]:bread]|answerCount:1|answer:permission|answercount:1|id:10t927zMu39D}
+{type:AudioMatch|question:Listen and match|options:[syöneet:uJqrShDMhHtl][odottaneet:CzKYVIW2ZaAy][luvata:glllnVYk1ijF][example term:CHQchAF3nhG2]|id:S4CSuhLJ1aEy}
+{type:SpellingPick|text:saaneet|options:[saaneet][tullut][mennyt][kuulleet]|answer:saaneet|id:azVesvl2XLpy}
+{type:ImagePick|question:kuullut|options:[have drunk [singular]:bread][have heard [singular]:bread][have gone [plural]:bread][have gotten [singular]:bread]|answerCount:1|answer:have heard [singular]|answercount:1|id:WUjiO2biNwGp}
+{type:AudioMatch|question:Listen and match|options:[nähnyt:pyT3SxtVjgUu][ostaneet:sfb3hYifbAt3][example term:O2XtBG6F5Gsq][antanut:puhAKbSc6rVo]|id:RjWZy0JlIpTQ}
+{type:ImagePick|question:tehneet|options:[have heard [plural]:bread][have gotten [plural]:bread][have done [plural]:bread][have seen [singular]:bread]|answerCount:1|answer:have done [plural]|answercount:1|id:URhn1iZDndkL}
+{type:FlashCard|front:juonut|back:have drunk [singular]|id:NjPbNgBGDg7T}
+{type:AudioMatch|question:Listen and match|options:[eksyneet:J6Y2twqiFm8Z][juonut:bSOyZsN9Dpto][mennyt:NcTDwtfFs7rw][example term:8sfBLwnhvTMI]|id:9fUZXredbQdZ}
+{type:FlashCard|front:kuullut|back:have heard [singular]|id:0iHv9BtRzAWl}
+{type:AudioMatch|question:Listen and match|options:[kappale:luMwVCAjEGWl][menneet:eegJ1RrrM6ru][example term:wpIhajkoHMhh][odottanut:OnWzN520uJz3]|id:zFMQErUob1r5}
+{type:PickOne|question:nähneet|options:[have seen [plural]][example translation][FallbackOpt1]|answer:have seen [plural]|id:z8xSZutQlg9R}
+{type:PickOneMeaning|question:The speaker is saying:|speech:example term|options:[example translation][naked][permission]|answer:example translation|id:KNNL07JIE57L}
+{type:PickOne|question:eksynyt|options:[have gotten lost [singular]][FallbackOpt1][example translation]|answer:have gotten lost [singular]|id:avLTxFYRFyVo}
+{type:AudioMatch|question:Listen and match|options:[juonut:gJj39laA3Xn5][example term:7de9W2r7RaCJ][juoneet:HnDN2zGTbgeg][eksyneet:rmvruJvqdWSM]|id:BRlNiayDlwk3}
+</lesson>
+<lesson:7|id:JlwGKgEH7m0l>
+{type:ImagePick|question:tullut|options:[have eaten [singular]:bread][to promise:bread][have come [plural]:bread][have come [singular]:bread]|answerCount:1|answer:have come [singular]|answercount:1|id:cASBCC4vKMYd}
+{type:SpellingPick|text:tehneet|options:[tehneet][lupa][kuullut][antanut]|answer:tehneet|id:cp2eKp5T9RO0}
+{type:PickOne|question:pelastaja|options:[saviour][example translation][FallbackOpt1]|answer:saviour|id:QTRe4a8UQHxy}
+{type:AudioMatch|question:Listen and match|options:[juonut:GiEcLUdreXh3][nähnyt:8eXMYiYjBuvY][tiikeri:WnLpZxfnVxMT][example term:O2FapmRkevd9]|id:2BGaPddYV7zz}
+{type:FlashCard|front:odottanut|back:have waited [singular]|id:FC1RSsc9jBan}
+{type:AudioMatch|question:Listen and match|options:[saanut:juuWTFS74u8d][example term:mgGKPJp13nKI][kuullut:IScBapqXgRFw][tehnyt:HwZLKIukiPB3]|id:qJdpzfuekXb9}
+{type:ImagePick|question:nähnyt|options:[have waited [plural]:bread][have heard [plural]:bread][have drunk [plural]:bread][have seen [singular]:bread]|answerCount:1|answer:have seen [singular]|answercount:1|id:UhvopzRz9AEg}
+{type:ImagePick|question:juonut|options:[naked:bread][have heard [singular]:bread][have given [singular]:bread][have drunk [singular]:bread]|answerCount:1|answer:have drunk [singular]|answercount:1|id:EIAK2CYVqM9o}
+{type:ImagePick|question:syöneet|options:[have eaten [plural]:bread][stuff [singular]:bread][have seen [singular]:bread][have given [singular]:bread]|answerCount:1|answer:have eaten [plural]|answercount:1|id:YfsN0xXHWL6E}
+{type:FlashCard|front:have waited [singular]|back:odottanut|id:kvSSqbnDIHg9}
+{type:SpellingPick|text:kuullut|options:[odottanut][tehneet][kuullut][nähneet]|answer:kuullut|id:1uPdCgTCoQDA}
+{type:AudioMatch|question:Listen and match|options:[example term:aKVJ0Wq2sB2x][ostaneet:pdxZpbHAphw5][syönyt:s1sr3kL9DtNx][odottaneet:JzuEligSBNDX]|id:hPGU8JDSXYvg}
+{type:PickOne|question:eksynyt|options:[example translation][have gotten lost [singular]][FallbackOpt1]|answer:have gotten lost [singular]|id:K5Mle6Ee4t5o}
+{type:PickOneMeaning|question:The speaker is saying:|speech:ostaneet|options:[have given [singular]][saviour][have bought [plural]]|answer:have bought [plural]|id:jUMzZz5XLW1B}
+{type:AudioMatch|question:Listen and match|options:[antanut:wTFk86M2Y9on][tehnyt:dLeeBVBgZaeM][example term:eiqeb6Q63tdj][mennyt:QZIOzjy8B2Iq]|id:9ohbTcZAxhs3}
+{type:PickOne|question:antaneet|options:[have given [plural]][FallbackOpt1][example translation]|answer:have given [plural]|id:ilYEXQ7k1W3w}
+{type:PickOne|question:nähneet|options:[have seen [plural]][FallbackOpt1][example translation]|answer:have seen [plural]|id:ufPCMSki4zh1}
+{type:AudioMatch|question:Listen and match|options:[alasti:UfROsFcuGuwE][ostaneet:shcGxC86Qph5][syönyt:L1izMGMP4IeE][example term:sSOEml6xLDLz]|id:aAspcnBIUDtD}
+{type:FlashCard|front:ostaneet|back:have bought [plural]|id:D94yBcMMCZkV}
+{type:ImagePick|question:antaneet|options:[naked:bread][have drunk [singular]:bread][have come [plural]:bread][have given [plural]:bread]|answerCount:1|answer:have given [plural]|answercount:1|id:dAF37pVR9xMk}
+</lesson>
+<lesson:8|id:aXMLS94Goio6>
+{type:ImagePick|question:juoneet|options:[have drunk [plural]:bread][have bought [plural]:bread][have given [singular]:bread][tiger:bread]|answerCount:1|answer:have drunk [plural]|answercount:1|id:Uw6AcqHpVPMO}
+{type:PickOne|question:odottaneet|options:[example translation][have waited [plural]][FallbackOpt1]|answer:have waited [plural]|id:aIF7JeTwz24p}
+{type:AudioMatch|question:Listen and match|options:[tulleet:5CO1b891DPQ7][odottanut:nXrqSZPHRhbj][example term:J9YHd6lNxL5B][tavara:esCt6Povoi5v]|id:gYi7D5ZWoFfY}
+{type:PickOne|question:syöneet|options:[example translation][have eaten [plural]][FallbackOpt1]|answer:have eaten [plural]|id:wTuPR4a10Sdw}
+{type:AudioMatch|question:Listen and match|options:[tehnyt:Gtx5lbgWDoML][saanut:HbmW3BIs8Keq][example term:cunI8i9Lp5UQ][ostanut:4QuOl58qhWKg]|id:tukqVUcjZ1Fg}
+{type:PickOneMeaning|question:The speaker is saying:|speech:eksyneet|options:[piece, song][have gotten lost [plural]][have given [plural]]|answer:have gotten lost [plural]|id:YNAxHgj5gbuv}
+{type:PickOne|question:tullut|options:[FallbackOpt1][have come [singular]][example translation]|answer:have come [singular]|id:Ha2A9xGU8vs3}
+{type:FlashCard|front:have done [plural]|back:tehneet|id:NeicydmTKZ2N}
+{type:FlashCard|front:tulleet|back:have come [plural]|id:kzvmULGDspT4}
+{type:AudioMatch|question:Listen and match|options:[tehneet:SduHOyAHIkzM][lupa:HXXtYZwq8kPI][nähneet:Yh5UOMkSRrPp][example term:Ry9KvUlXjS1N]|id:GVrhndoRNT71}
+{type:SpellingPick|text:pelastaja|options:[tiikeri][mennyt][pelastaja][tulleet]|answer:pelastaja|id:my2SOulsdIdx}
+{type:SpellingPick|text:alasti|options:[kuullut][juoneet][nähnyt][alasti]|answer:alasti|id:XENek3pi4jeM}
+{type:AudioMatch|question:Listen and match|options:[eksynyt:oz0DLHJay6y5][example term:tWNPXmz7bS5H][tulleet:GS2w6jXSDwcS][lupa:CAb4JwYLzntQ]|id:PwusJ3Uly2Xv}
+{type:ImagePick|question:ostaneet|options:[have gotten lost [plural]:bread][have bought [plural]:bread][naked:bread][have eaten [plural]:bread]|answerCount:1|answer:have bought [plural]|answercount:1|id:IInKUWXqvcT3}
+{type:ImagePick|question:antanut|options:[piece, song:bread][have waited [plural]:bread][have eaten [singular]:bread][have given [singular]:bread]|answerCount:1|answer:have given [singular]|answercount:1|id:ido8o7mKGe3A}
+{type:PickOne|question:ostanut|options:[FallbackOpt1][example translation][have bought [singular]]|answer:have bought [singular]|id:Oi7FHY4YxaaO}
+{type:ImagePick|question:nähnyt|options:[have gone [plural]:bread][have come [singular]:bread][have waited [plural]:bread][have seen [singular]:bread]|answerCount:1|answer:have seen [singular]|answercount:1|id:tK71h3ciCME0}
+{type:AudioMatch|question:Listen and match|options:[lupa:cDsOBpBn6Hvc][saaneet:K9vzNGIXWQgx][alasti:P8tKjdCRpd3j][example term:X8pgHNDaOzde]|id:rAYPEc02OjCw}
+{type:ImagePick|question:odottaneet|options:[have gone [plural]:bread][have waited [plural]:bread][have bought [singular]:bread][have heard [singular]:bread]|answerCount:1|answer:have waited [plural]|answercount:1|id:wnO420hKUlWd}
+{type:FlashCard|front:have done [singular]|back:tehnyt|id:bzAjfnLm2h9t}
+</lesson>
+<lesson:9|id:KNww1jvFgZNa>
+{type:PickWords|question:I have come to that conclusion.|options:tulokseen,Olen,siihen,tullut|answer:Olentullutsiihentulokseen.|id:SddV6xktmqOT}
+{type:SpellingPick|text:tulleet|options:[tulleet][lupa][ostanut][luvata]|answer:tulleet|id:MRed0W09Wy9Y}
+{type:AudioMatch|question:Listen and match|options:[alasti:cq9tRNQl0jrX][tavara:guQjzHCPwf7v][luvata:5ILXo0Xa1YU4][kuulleet:RdoWs7KEzKRA]|id:k9oRD804dtPi}
+{type:PickOne|question:pelastaja|options:[have given [singular]][saviour][have waited [plural]]|answer:saviour|id:rnnhZ5E88r1K}
+{type:PickMissingWord|question:______ odottaneet sinua.|options:[Olemme][lupa][tullut][odottanut]|answer:Olemme|id:asAWxognGiyP}
+{type:SpellingPick|text:tavara|options:[kuulleet][tavara][eksynyt][odottanut]|answer:tavara|id:p3wdopOggLib}
+{type:AudioMatch|question:Listen and match|options:[lupa:nsQPfR76ATFd][example term:jnFqsASiX563][juonut:WpTxkGcQ4kLa][eksynyt:SoiAS4SdDfDA]|id:L2Oywkyu32yi}
+{type:PickWords|question:They have eaten too much.|options:example term,He,liikaa,syöneet,ovat|answer:Heovatsyöneetliikaa.|id:OO3asAcEv9dj}
+{type:PickWords|question:Me olemme menneet töihin joka maanantai.|options:work,Monday,have,We,to,every,gone|answer:WehavegonetoworkeveryMonday.|id:uaY9VLr8s6bN}
+{type:PickWords|question:We have heard enough.|options:example term,tarpeeksi,olemme,kuulleet,Me|answer:Meolemmekuulleettarpeeksi.|id:2I3vQhyFJJqZ}
+{type:PickOneMeaning|question:The speaker is saying:|speech:pelastaja|options:[have waited [plural]][saviour][have eaten [singular]]|answer:saviour|id:FDW6qrL9MM2m}
+{type:PickWords|question:Me olemme tulleet hyvin toimeen.|options:well,have,by,We,gotten,example translation|answer:Wehavegottenbywell.|id:fko16BIpzkAt}
+{type:Match|question:Select the matching words|options:[lupa:permission][eksynyt:have gotten lost [singular]][odottaneet:have waited [plural]][tullut:have come [singular]]|id:fi2u8txx9PK7}
+{type:PickWords|question:We have gone to work every Monday.|options:maanantai,töihin,joka,menneet,olemme,example term,Me|answer:Meolemmemenneettöihinjokamaanantai.|id:M2sAvLm9YzUg}
+{type:PickMissingWord|question:Te olette nähneet ______ vähän.|options:[nähnyt][ostaneet][liian][lupa]|answer:liian|id:sTQ9ywQu5Ujr}
+{type:AudioMatch|question:Listen and match|options:[lupa:nUHUNODlsBGU][antanut:rNBcC4WzPq18][alasti:vGZqQdl2cXgH][nähneet:gGhd63WovgF4]|id:6Rcv9Erj2DIu}
+{type:Match|question:Select the matching words|options:[nähneet:have seen [plural]][eksyneet:have gotten lost [plural]][ostanut:have bought [singular]][example term:example translation]|id:k0NPLA4DmREC}
+{type:AudioMatch|question:Listen and match|options:[luvata:5XMZdI5Iro4i][syöneet:wd1gjC4bYnAs][example term:yP0EFIripu5J][tehneet:SKVLwyTYCJrE]|id:QHxqgAN0AQcA}
+{type:PickWords|question:Me olemme kuulleet tarpeeksi.|options:heard,have,example translation,We,enough|answer:Wehaveheardenough.|id:CCogOp0u8ZBy}
+{type:Match|question:Select the matching words|options:[syöneet:have eaten [plural]][tavara:stuff [singular]][saanut:have gotten [singular]][ostanut:have bought [singular]]|id:YgN993gSu5gC}
+</lesson>
+<lesson:10|id:LN56vmrIIGEr>
+{type:AudioMatch|question:Listen and match|options:[juoneet:1djd06NGRnjo][antaneet:iirU9Jj5lWqO][eksyneet:blznbHqNrafK][example term:9UOyN2zHy6aS]|id:RKkvsObvibKA}
+{type:PickMissingWord|question:Olen ostanut tietokoneelleni ______.|options:[nähnyt][menneet][varaosia][odottanut]|answer:varaosia|id:YlyNxTIA9j3j}
+{type:AudioMatch|question:Listen and match|options:[example term:taHKWMHePGbJ][saanut:PGwFkySnmKrH][saaneet:cjQCZTJNuXLA][odottanut:FDZxRX9lljrQ]|id:wbDl8uVJgU7c}
+{type:Match|question:Select the matching words|options:[lupa:permission][example term:example translation][menneet:have gone [plural]][syöneet:have eaten [plural]]|id:aOF4haXKtCSy}
+{type:AudioMatch|question:Listen and match|options:[menneet:F4D74tvsJyao][odottanut:5ACCrrxQkk5K][ostanut:F5eHWzfW1M6G][antanut:5XhEsgrnHXKL]|id:eFPm62KrUezu}
+{type:PickWords|question:Olen mennyt töihin joka päivä.|options:every,day,have,example translation,I,to,work,gone|answer:Ihavegonetoworkeveryday.|id:K5zAN3xWwSae}
+{type:Match|question:Select the matching words|options:[syönyt:have eaten [singular]][saanut:have gotten [singular]][nähneet:have seen [plural]][kuulleet:have heard [plural]]|id:32gE2Gr5T8H7}
+{type:PickWords|question:Te olette nähneet liian vähän.|options:too,seen,have,You,little|answer:Youhaveseentoolittle.|id:t5ar39osCCEH}
+{type:PickOneMeaning|question:The speaker is saying:|speech:eksynyt|options:[have bought [singular]][permission][have gotten lost [singular]]|answer:have gotten lost [singular]|id:KIz9vH1FF70N}
+{type:PickMissingWord|question:lupa, ______|options:[luvan][alasti][tulleet][ostaneet]|answer:luvan|id:YGOM2mQ7PBu9}
+{type:PickWords|question:Have you gone completely nuts?|options:Oletko,sekaisin,mennyt,ihan|answer:Oletkomennytihansekaisin?|id:FS3pbp39StHu}
+{type:AudioMatch|question:Listen and match|options:[ostaneet:U9sVmTcnhJ5j][alasti:TxmSr6Zpw7rI][menneet:IffsvPVLSHrt][saanut:ThxlZSeVomgD]|id:NFfv9UN5mexj}
+{type:PickOne|question:eksynyt|options:[have seen [plural]][permission][have gotten lost [singular]]|answer:have gotten lost [singular]|id:NWTo9EU1BJnq}
+{type:PickWords|question:I have already heard that song.|options:Olen,tuon,kuullut,jo,example term,kappaleen|answer:Olenjokuulluttuonkappaleen.|id:4aaIT3Kwtj8P}
+{type:SpellingPick|text:tavara|options:[kappale][nähneet][tavara][kuullut]|answer:tavara|id:NqEufyB3i5Ur}
+{type:SpellingPick|text:kuulleet|options:[tavara][menneet][tulleet][kuulleet]|answer:kuulleet|id:amoQRvugREu7}
+{type:PickWords|question:I have found out about it.|options:siitä,Minä,example term,saanut,olen,tietää|answer:Minäolensaanuttietääsiitä.|id:kkjRSX5ogoWZ}
+{type:PickWords|question:I have gone to work every day.|options:mennyt,Olen,example term,joka,töihin,päivä|answer:Olenmennyttöihinjokapäivä.|id:CGOleOpJssGv}
+{type:Match|question:Select the matching words|options:[saanut:have gotten [singular]][syöneet:have eaten [plural]][alasti:naked][kuullut:have heard [singular]]|id:EqHxSfExcLMu}
+{type:PickWords|question:Olen antanut hänelle kaiken.|options:her,have,I,example translation,given,everything|answer:Ihavegivenhereverything.|id:uwkJYLPD2Q4j}
+</lesson>
+<lesson:11|id:lU14xF9qDtHq>
+{type:AudioMatch|question:Listen and match|options:[saaneet:UukywVfS28Hy][example term:hALDRhE3e4BW][tavara:QIgmVQHAym2I][eksyneet:dct5NJHnUlrX]|id:6Tf0SPw0EQWW}
+{type:PickMissingWord|question:Koira on ______ minua koko päivän.|options:[syönyt][mennyt][odottanut][juoneet]|answer:odottanut|id:bxYXSXhSw4AB}
+{type:SpellingPick|text:syönyt|options:[lupa][syönyt][antanut][alasti]|answer:syönyt|id:T7I6ft9qx8Dg}
+{type:PickWords|question:We have given our money to charity.|options:Me,rahamme,antaneet,hyväntekeväisyyteen,olemme|answer:Meolemmeantaneetrahammehyväntekeväisyyteen.|id:pcGcpL8UWEFE}
+{type:PickMissingWord|question:Oletko ______ pelastajastamme?|options:[kuullut][menneet][antanut][odottaneet]|answer:kuullut|id:gpuS6jn9YWhs}
+{type:PickOne|question:ostaneet|options:[have bought [plural]][naked][have heard [plural]]|answer:have bought [plural]|id:5MKEDWLdBMva}
+{type:Match|question:Select the matching words|options:[alasti:naked][tehneet:have done [plural]][antanut:have given [singular]][pelastaja:saviour]|id:hOoEEUgpA5js}
+{type:Match|question:Select the matching words|options:[antaneet:have given [plural]][example term:example translation][saanut:have gotten [singular]][tehneet:have done [plural]]|id:eiLz7MWNogMG}
+{type:PickOneMeaning|question:The speaker is saying:|speech:menneet|options:[have seen [singular]][have gone [plural]][have come [singular]]|answer:have gone [plural]|id:GBEwTcvLbBTV}
+{type:PickWords|question:Me olemme tehneet suurimman osan työstä.|options:work,example translation,have,the,We,most,done,of|answer:Wehavedonemostofthework.|id:T36CVRIGHqz8}
+{type:PickWords|question:Me olemme menneet töihin joka maanantai.|options:to,every,work,We,have,Monday,gone|answer:WehavegonetoworkeveryMonday.|id:8WlaYgdDVkj1}
+{type:PickWords|question:Olen nähnyt hänet muutmaan kerran.|options:her,have,few,a,times,I,seen|answer:Ihaveseenherafewtimes.|id:RR0Fd2Mqsc6D}
+{type:AudioMatch|question:Listen and match|options:[kuullut:jPmbaxtXiqmZ][kappale:73VmUfarOEuW][tavara:LZlxvkRVpvoG][tehneet:LJWda621qHes]|id:RPFdNygYlWVB}
+{type:AudioMatch|question:Listen and match|options:[ostaneet:OdzB6tjWCU9l][mennyt:JFyMCSKEcvRs][nähnyt:ZoZaWUMgtdwC][nähneet:XSXHQDguOpVL]|id:sLEjvbeBh2iO}
+{type:PickWords|question:We have seen the world.|options:maailmaa,Me,olemme,nähneet,example term|answer:Meolemmenähneetmaailmaa.|id:Zpzd3ojRmJkk}
+{type:PickWords|question:I have come to that conclusion.|options:siihen,Olen,tulokseen,example term,tullut|answer:Olentullutsiihentulokseen.|id:AjQHMc5EpGg4}
+{type:PickWords|question:I have made it ready.|options:valmiiksi,Minä,tehnyt,olen,sen|answer:Minäolentehnytsenvalmiiksi.|id:ayydkOp9Gx8x}
+{type:AudioMatch|question:Listen and match|options:[odottaneet:psuNfiI4AxVS][example term:lMYZORH34ZF2][odottanut:Mps5x06Bk1Mj][saaneet:RSj3xPBzgo7L]|id:ubCggQnF51sZ}
+{type:SpellingPick|text:antanut|options:[eksynyt][mennyt][antanut][odottaneet]|answer:antanut|id:fyc1ZDEjeBfC}
+{type:Match|question:Select the matching words|options:[syöneet:have eaten [plural]][tulleet:have come [plural]][pelastaja:saviour][lupa:permission]|id:xH2YkH36nYsv}
+</lesson>
+<lesson:12|id:KktzC9sG15FQ>
+{type:PickWords|question:You have bought too much stuff.|options:tavaraa,liikaa,ostanut,Olet|answer:Oletostanutliikaatavaraa.|id:3WfeoWnz2xm5}
+{type:PickOneMeaning|question:The speaker is saying:|speech:juonut|options:[have drunk [singular]][have heard [plural]][naked]|answer:have drunk [singular]|id:tRD1yYeFgI4s}
+{type:PickWords|question:Me olemme antaneet rahamme hyväntekeväisyyteen.|options:to,have,charity,We,our,money,given|answer:Wehavegivenourmoneytocharity.|id:O0WAtkpon0tM}
+{type:Match|question:Select the matching words|options:[tiikeri:tiger][example term:example translation][ostanut:have bought [singular]][eksynyt:have gotten lost [singular]]|id:EhC6Ej59u0Uq}
+{type:SpellingPick|text:antaneet|options:[antaneet][ostaneet][nähneet][tullut]|answer:antaneet|id:FxtTes5Z7zDC}
+{type:AudioMatch|question:Listen and match|options:[example term:cvdPdxjhXodL][eksynyt:wF22EsAZnv3q][kappale:S74rfQmByDHz][mennyt:0i5oxBXU39Qz]|id:QkPVQKlFnKtC}
+{type:PickWords|question:You have drunken milk.|options:example term,olette,juoneet,Te,maitoa|answer:Teolettejuoneetmaitoa.|id:jRrMbH622Zhz}
+{type:PickWords|question:Oletko mennyt ihan sekaisin?|options:Have,completely,you,gone,nuts|answer:Haveyougonecompletelynuts?|id:Q91F1lGZ2qBd}
+{type:PickWords|question:permission [nom, gen]|options:lupa,example term,luvan|answer:lupa,luvan|id:qOMnVjY51moE}
+{type:SpellingPick|text:luvata|options:[luvata][tulleet][syöneet][tullut]|answer:luvata|id:vNdeLwDqd6yt}
+{type:AudioMatch|question:Listen and match|options:[odottanut:AyV38w6tAOQ3][syöneet:8w3KonTOHez1][tiikeri:1emU0989visJ][luvata:nmxX3QZm3rmM]|id:1xefAkNfJVG3}
+{type:PickWords|question:Hän on mennyt naimisiin.|options:has,He,gotten,married,example translation|answer:Hehasgottenmarried.|id:ZR12xb3Es8Jz}
+{type:PickMissingWord|question:Sinä olet juonut ______.|options:[juonut][liikaa][menneet][ostanut]|answer:liikaa|id:KrXEViYjsDhn}
+{type:PickWords|question:I have found out about it.|options:tietää,siitä,example term,saanut,olen,Minä|answer:Minäolensaanuttietääsiitä.|id:kBShJIDnHwHW}
+{type:AudioMatch|question:Listen and match|options:[juonut:cVWdyP3j697a][syöneet:MFo9uL8yXFcr][syönyt:mhujGcM8NInt][tavara:48YekjVMk05E]|id:rC6E3lpOKVbP}
+{type:PickOne|question:ostanut|options:[have seen [singular]][naked][have bought [singular]]|answer:have bought [singular]|id:qWgL5reOUrKa}
+{type:PickMissingWord|question:______ on antanut minulle toivoa.|options:[Hän][kuulleet][alasti][odottanut]|answer:Hän|id:8q4t1JhdFWmc}
+{type:Match|question:Select the matching words|options:[lupa:permission][tavara:stuff [singular]][saanut:have gotten [singular]][eksynyt:have gotten lost [singular]]|id:h9TNyv40Yatm}
+{type:Match|question:Select the matching words|options:[menneet:have gone [plural]][juoneet:have drunk [plural]][syöneet:have eaten [plural]][ostaneet:have bought [plural]]|id:tgdF6zIRpxmL}
+{type:AudioMatch|question:Listen and match|options:[example term:p2OAbIJBQ4o3][tullut:O3sBCrBur6H4][alasti:67uLpC0jhLhU][nähnyt:smSM5yZOifMv]|id:ZPw8Zid0bjUN}
+</lesson>
+<lesson:13|id:ZCWYdcLdEiW0>
+{type:PickWords|question:Olen ostanut tietokoneelleni varaosia.|options:spare,bought,for,parts,computer,I,my,have,example translation|answer:Ihaveboughtsparepartsformycomputer.|id:f3K1K2MN6b0N}
+{type:SpellingPick|text:tehnyt|options:[nähneet][saaneet][tehnyt][ostaneet]|answer:tehnyt|id:pOshlvBFoNp5}
+{type:Match|question:Select the matching words|options:[luvata:to promise][odottanut:have waited [singular]][ostaneet:have bought [plural]][example term:example translation]|id:nCa3cN76x9Rf}
+{type:AudioMatch|question:Listen and match|options:[tiikeri:kzjfgAsw1nqs][tullut:9TFRbi0LQ1k6][ostaneet:jutrULv4oleR][ostanut:JUuDF2dKzD2j]|id:Z7jbc7QrSXei}
+{type:PickMissingWord|question:______ ovat nähneet minut alasti.|options:[juonut][He][lupa][nähnyt]|answer:He|id:56UiBIopUZnb}
+{type:PickWords|question:We have heard enough.|options:olemme,Me,tarpeeksi,example term,kuulleet|answer:Meolemmekuulleettarpeeksi.|id:PCk0uojsVdUD}
+{type:PickOneMeaning|question:The speaker is saying:|speech:kuullut|options:[have eaten [plural]][to promise][have heard [singular]]|answer:have heard [singular]|id:BV4Bfzbv43yg}
+{type:PickWords|question:I have given her everything.|options:kaiken,Olen,antanut,example term,hänelle|answer:Olenantanuthänellekaiken.|id:bzMXDB8vWRef}
+{type:AudioMatch|question:Listen and match|options:[nähnyt:1L2mvdXq1zTc][saanut:s2HkEMpqqJGE][example term:WxOkKHGo1SGo][luvata:oo2kNXtY7YrH]|id:Z18KLmbW35vc}
+{type:PickWords|question:Olen antanut hänelle kaiken.|options:everything,I,have,given,her|answer:Ihavegivenhereverything.|id:zhdx2uhUD5cP}
+{type:PickWords|question:You have drunken milk.|options:Te,maitoa,juoneet,olette|answer:Teolettejuoneetmaitoa.|id:Ybf9zCI6OT96}
+{type:PickWords|question:Me olemme ostaneet vaatteita.|options:We,example translation,have,bought,clothes|answer:Wehaveboughtclothes.|id:csriUINUC0Bz}
+{type:PickWords|question:I have eaten four slices of bread.|options:example term,olen,leipää,Minä,syönyt,neljä|answer:Minäolensyönytneljäleipää.|id:5vsz3YKBDPPb}
+{type:Match|question:Select the matching words|options:[ostanut:have bought [singular]][ostaneet:have bought [plural]][antanut:have given [singular]][alasti:naked]|id:9w1u8sz5Gkdc}
+{type:SpellingPick|text:eksyneet|options:[luvata][eksyneet][saanut][lupa]|answer:eksyneet|id:zzPv3KzKEXZq}
+{type:AudioMatch|question:Listen and match|options:[ostaneet:eqGhR8sk35Sn][lupa:bAPclVx47YBC][tulleet:QEABXEkRW429][tiikeri:xfKur1fUwJpP]|id:8i2GySRQ2s4V}
+{type:AudioMatch|question:Listen and match|options:[tullut:H28SqwOd22OJ][antaneet:SvTa3RNXNghH][example term:PxiDIci3ljfD][pelastaja:ove5hlB4ePBP]|id:pSPRS5DT2hai}
+{type:PickMissingWord|question:______, luvan|options:[tavara][tullut][alasti][lupa]|answer:lupa|id:98Gf86EsSUNT}
+{type:Match|question:Select the matching words|options:[syönyt:have eaten [singular]][tullut:have come [singular]][ostanut:have bought [singular]][ostaneet:have bought [plural]]|id:GcCIzYJzOqIM}
+{type:PickOne|question:antanut|options:[stuff [singular]][have given [singular]][to promise]|answer:have given [singular]|id:lDyCP2KaZBX2}
+</lesson>
+<lesson:14|id:mnaADu8aioTf>
+{type:PickWords|question:Olet mennyt sinne ilman lupaa.|options:have,there,permission,You,without,example translation,gone|answer:Youhavegonetherewithoutpermission.|id:Be7rdIAGWEAk}
+{type:PickWords|question:I have drunken alcohol for my whole life.|options:alkoholia,olen,Minä,koko,juonut,elämäni,example term|answer:Minäolenjuonutalkoholiakokoelämäni.|id:kxiLwxfa7PIP}
+{type:PickMissingWord|question:______ olemme kuulleet tarpeeksi.|options:[Me][pelastaja][alasti][tullut]|answer:Me|id:wS1cfqGMXeyx}
+{type:AudioMatch|question:Listen and match|options:[juoneet:fKyT4lURLt0Y][antaneet:uqvF0Y8GgndF][kuullut:58IZuwHLcrKv][tavara:cOM0hzGNxXz6]|id:DoKQ2FBEKnvZ}
+{type:PickMissingWord|question:Olen ______ töihin joka päivä.|options:[pelastaja][mennyt][saanut][kappale]|answer:mennyt|id:OCvDwAT9yvUn}
+{type:PickOne|question:lupa|options:[have given [plural]][have gotten lost [singular]][permission]|answer:permission|id:T4qbcHVesJCh}
+{type:PickWords|question:Me olemme eksyneet metsässä.|options:the,We,lost,woods,are,in|answer:Wearelostinthewoods.|id:saMVSGbft5tY}
+{type:PickOneMeaning|question:The speaker is saying:|speech:ostanut|options:[have bought [singular]][stuff [singular]][have heard [singular]]|answer:have bought [singular]|id:YJrWVZAQqAYE}
+{type:Match|question:Select the matching words|options:[syöneet:have eaten [plural]][alasti:naked][kuulleet:have heard [plural]][example term:example translation]|id:RKn5122wvK2R}
+{type:PickWords|question:She has gone into the forest alone.|options:Hän,on,yksin,mennyt,metsään|answer:Hänonmennytmetsäänyksin.|id:MOOd8ZrxTlys}
+{type:AudioMatch|question:Listen and match|options:[odottaneet:EN68uFyJaQZA][example term:1oaVO5vUha6X][kuullut:KUbMldoxo7Rs][eksynyt:AMHH2HIs1NyU]|id:jCUmEQ6t3eBl}
+{type:PickWords|question:They have given money to charity.|options:hyväntekeväisyyteen,Te,olette,antaneet,rahaa|answer:Teoletteantaneetrahaahyväntekeväisyyteen.|id:LqLtwKI1Yof6}
+{type:SpellingPick|text:pelastaja|options:[kuullut][pelastaja][saanut][tehneet]|answer:pelastaja|id:FSg5w2VQMbu6}
+{type:PickWords|question:Oletteko tehneet niin kuin lupasitte?|options:promised,example translation,as,you,you,done,Have|answer:Haveyoudoneasyoupromised?|id:TBTqxEIqIqZg}
+{type:AudioMatch|question:Listen and match|options:[odottanut:ZsJw2ZGPuS9C][menneet:oL0JkGUGw4rL][nähnyt:Xz1ApAihknyC][tehnyt:MqUuJePcTQi0]|id:6IrgubeA4RS9}
+{type:Match|question:Select the matching words|options:[juonut:have drunk [singular]][syöneet:have eaten [plural]][tehnyt:have done [singular]][nähnyt:have seen [singular]]|id:OA8kXkIzwF5h}
+{type:PickWords|question:I have seen Cologne's cathedral.|options:tuomiokirkon,example term,Olen,Kölnin,nähnyt|answer:OlennähnytKölnintuomiokirkon.|id:XxZvItooNxFn}
+{type:SpellingPick|text:luvata|options:[eksyneet][alasti][saanut][luvata]|answer:luvata|id:UWOFaysGKil4}
+{type:AudioMatch|question:Listen and match|options:[saanut:4JFWJw5ZYCFh][example term:X4tyHOqpq7P3][tehneet:OV87l23GRM9u][tullut:sf5rea7fGrx4]|id:gEmSCbPhGwUH}
+{type:Match|question:Select the matching words|options:[mennyt:have gone [singualr]][saaneet:have gotten [plural]][antaneet:have given [plural]][lupa:permission]|id:QmJz506zYfOq}
+</lesson>
+<lesson:15|id:Lb7BE2WhnSeX>
+{type:PickOneMeaning|question:The speaker is saying:|speech:juoneet|options:[have heard [plural]][have eaten [singular]][have drunk [plural]]|answer:have drunk [plural]|id:F0YBjzq3FcCh}
+{type:PickWords|question:Te olette juoneet maitoa.|options:drunken,milk,have,You|answer:Youhavedrunkenmilk.|id:mMXfrXlAtMgX}
+{type:AudioMatch|question:Listen and match|options:[odottaneet:7zgkgbfKDyNe][lupa:WmQIzHW654GT][tehnyt:mqY1rPSFg36A][alasti:PqgWllit2abx]|id:XpNruoJclwHX}
+{type:SpellingPick|text:eksyneet|options:[ostanut][tullut][kappale][eksyneet]|answer:eksyneet|id:f14Gswg48fUN}
+{type:AudioMatch|question:Listen and match|options:[tullut:jyrvSQrULHf0][kuulleet:WOdhrwTE6amo][tehneet:a91xvhxO5971][example term:07bU4KIb9CzM]|id:RoRJjEjXOxuo}
+{type:Match|question:Select the matching words|options:[juoneet:have drunk [plural]][luvata:to promise][tiikeri:tiger][saanut:have gotten [singular]]|id:dOWl6nx5nz2E}
+{type:PickWords|question:Have they come home already?|options:tulleet,Ovatko,example term,kotiin,jo,he|answer:Ovatkohetulleetjokotiin?|id:Ey1sbRXlQdEn}
+{type:SpellingPick|text:syöneet|options:[tullut][syöneet][saanut][pelastaja]|answer:syöneet|id:DrfcKWGKj3sm}
+{type:PickWords|question:She has bought a new computer.|options:on,example term,uuden,tietokoneen,Hän,ostanut|answer:Hänonostanutuudentietokoneen.|id:gqTvYzgsXuBc}
+{type:PickMissingWord|question:______ on mennyt metsään yksin.|options:[alasti][Hän][kuulleet][example term]|answer:Hän|id:kytcarwflwAk}
+{type:PickWords|question:Sinä olet juonut liikaa.|options:much,too,You,drunken,example translation,have|answer:Youhavedrunkentoomuch.|id:GtzNcdtQORV4}
+{type:PickWords|question:Minä olen tehnyt sen valmiiksi.|options:ready,it,made,have,I|answer:Ihavemadeitready.|id:Oy5iJt2Uc84l}
+{type:Match|question:Select the matching words|options:[ostanut:have bought [singular]][ostaneet:have bought [plural]][tullut:have come [singular]][kappale:piece, song]|id:kMLBn42YcLTW}
+{type:PickOne|question:ostaneet|options:[have bought [plural]][have done [singular]][permission]|answer:have bought [plural]|id:8LGYR3xLU7kW}
+{type:PickWords|question:Have you gone to the bar to drink again?|options:example term,taas,mennyt,baariin,juomaan,Olenko|answer:Olenkomennyttaasbaariinjuomaan?|id:dTAHz4HfX3sh}
+{type:Match|question:Select the matching words|options:[odottanut:have waited [singular]][pelastaja:saviour][example term:example translation][eksyneet:have gotten lost [plural]]|id:QhcLrTR1Cf1n}
+{type:AudioMatch|question:Listen and match|options:[example term:yHV9cv3U6NFN][mennyt:AexMHay3dURB][kuulleet:GWdrEGAUZqPr][saaneet:gHkAuC9P2zRT]|id:J5IEbZepDq4E}
+{type:PickWords|question:Have you gotten by well?|options:Oletteko,tulleet,hyvin,toimeen|answer:Olettekotulleethyvintoimeen?|id:mBFx7dIKrBEf}
+{type:PickMissingWord|question:Olen nähnyt ______ tuomiokirkon.|options:[eksyneet][Kölnin][tehnyt][juonut]|answer:Kölnin|id:xJJalLdSWOBM}
+{type:AudioMatch|question:Listen and match|options:[tiikeri:7TAQ7K0zYbPM][saanut:2kttheCWBPkm][tehnyt:ccoPheISqzeZ][juoneet:PVcvRdtQ619l]|id:XInAcbm0AkzC}
+</lesson>
+<lesson:16|id:JeQGq7BihGDE>
+{type:SpellingPick|text:mennyt|options:[tehneet][kuulleet][mennyt][ostanut]|answer:mennyt|id:R8yHMzPpdFGI}
+{type:PickWords|question:He ovat nähneet minut alasti.|options:seen,example translation,me,They,naked,have|answer:Theyhaveseenmenaked.|id:DmdUCmjU7DtT}
+{type:PickOneMeaning|question:The speaker is saying:|speech:mennyt|options:[have given [plural]][have gone [singualr]][tiger]|answer:have gone [singualr]|id:2qRUDVHqvtwI}
+{type:Match|question:Select the matching words|options:[kappale:piece, song][kuullut:have heard [singular]][tullut:have come [singular]][example term:example translation]|id:CWXAYFOdZeWi}
+{type:AudioMatch|question:Listen and match|options:[kappale:6g5fxCKmNuAa][odottaneet:adxYo9AkwldH][tiikeri:LQmHDtapmPyQ][kuullut:1rSQ8XXr1B3x]|id:Ol2RGet7KkH1}
+{type:PickWords|question:Have you gone to the bar to drink again?|options:baariin,juomaan,taas,example term,mennyt,Olenko|answer:Olenkomennyttaasbaariinjuomaan?|id:0xzmMkoBl8vl}
+{type:PickWords|question:I have made it ready.|options:Minä,sen,valmiiksi,olen,tehnyt|answer:Minäolentehnytsenvalmiiksi.|id:Y0gdAsBDBwNw}
+{type:Match|question:Select the matching words|options:[tavara:stuff [singular]][nähnyt:have seen [singular]][nähneet:have seen [plural]][kappale:piece, song]|id:gyDBAstlobar}
+{type:AudioMatch|question:Listen and match|options:[saanut:V3IkFzybwxmz][juonut:OMF5KIFyBfd2][example term:2yKnnyhRPs9U][luvata:vfsIuC6EDtxq]|id:K4DvI7fARv8C}
+{type:AudioMatch|question:Listen and match|options:[syönyt:U3cSYdF6qhdG][tavara:YH7RK1F8uHmN][kuulleet:4wQWgLTXSTTU][eksyneet:N0DcqZtAYQjE]|id:sO8y82K4X1Nr}
+{type:SpellingPick|text:alasti|options:[alasti][pelastaja][syönyt][tavara]|answer:alasti|id:TgfLh1pW9NGx}
+{type:Match|question:Select the matching words|options:[ostaneet:have bought [plural]][tullut:have come [singular]][antaneet:have given [plural]][juonut:have drunk [singular]]|id:bx5vISh3Pa3s}
+{type:PickWords|question:Olen odottanut sinua.|options:for,waited,I,you,have|answer:Ihavewaitedforyou.|id:rHsG51Lg1DBQ}
+{type:PickWords|question:He has given me hope.|options:toivoa,minulle,on,Hän,antanut|answer:Hänonantanutminulletoivoa.|id:E0ZrJdLjwBGr}
+{type:PickMissingWord|question:Oletteko ______ niin kuin lupasitte?|options:[juoneet][tehneet][saanut][juonut]|answer:tehneet|id:nhiKrXgtI7W1}
+{type:PickWords|question:Hän on kuullut meidän musiikkimme.|options:has,our,He,music,example translation,heard|answer:Hehasheardourmusic.|id:jOlK18vwdXKz}
+{type:AudioMatch|question:Listen and match|options:[saanut:CBJm3EO37KBU][example term:uUAVHeBCc89L][tehnyt:rnwWcKtvq09Y][juonut:YbW79QTHCB14]|id:V3c1Sikj6GAp}
+{type:PickOne|question:ostanut|options:[stuff [singular]][have bought [singular]][have waited [plural]]|answer:have bought [singular]|id:2Gr422hywKq4}
+{type:PickMissingWord|question:He ______ syöneet liikaa.|options:[tehneet][ostanut][ovat][tullut]|answer:ovat|id:Cve2JhTjOXpc}
+{type:PickWords|question:He has given me hope.|options:Hän,antanut,example term,on,minulle,toivoa|answer:Hänonantanutminulletoivoa.|id:ULgTKZBqC0i5}
+</lesson>
+<lesson:17|id:T78QX46T5FRS>
+{type:PickWords|question:I have heard the sound of a seal.|options:hylkeen,Olen,kuullut,äänen,example term|answer:Olenkuulluthylkeenäänen.|id:boh1cx8zDFcO}
+{type:WriteWords|question:Te olette antaneet rahaa hyväntekeväisyyteen.|answer:They have given money to charity.|id:egNMFYHjTz4z}
+{type:WriteWords|question:I have already heard that song.|answer:Olen jo kuullut tuon kappaleen.|id:nMsTRbqTFZxs}
+{type:Match|question:Select the matching words|options:[saaneet:have gotten [plural]][syöneet:have eaten [plural]][syönyt:have eaten [singular]][ostaneet:have bought [plural]]|id:IOUnQLMN5Imi}
+{type:WriteWords|question:Have you come to this conclusion alone?|answer:Oletko tullut tähän tulokseen yksin?|id:q8VchsgrxRPg}
+{type:AudioMatch|question:Listen and match|options:[antaneet:KHokq0QnR19B][tulleet:CQVZsBruEXeF][menneet:kzojI0celA60][alasti:2mHDou6JYo0D]|id:9odo3una39Gi}
+{type:WriteWords|question:Minä olen juonut alkoholia koko elämäni.|answer:I have drunken alcohol for my whole life.|id:Z6ABBph9lQyW}
+{type:PickWords|question:Hän on tullut siihen tulokseen, että siellä on liian vaarallista.|options:that,example translation,it's,to,there,come,the,has,conclusion,dangerous,too,He|answer:Hehascometotheconclusionthatit'stoodangerousthere.|id:V1IdIFkuIP59}
+{type:WriteWords|question:Me olemme ostaneet vaatteita.|answer:We have bought clothes.|id:fSxSFZH0sZrc}
+{type:PickMissingWord|question:Olenko ______ taas baariin juomaan?|options:[kuullut][tehneet][mennyt][syönyt]|answer:mennyt|id:BGKTGHi6qwrT}
+{type:AudioMatch|question:Listen and match|options:[alasti:G9Ie0PgjSH0Q][lupa:QvllvekE8Byh][luvata:kn4ul8aNNPCG][syönyt:nT0F3AJ5pbuv]|id:k64vEmDX8P2T}
+{type:SpellingPick|text:ostanut|options:[tulleet][ostanut][antaneet][syöneet]|answer:ostanut|id:xiZVWNaECyfb}
+{type:WriteWords|question:Have you already eaten?|answer:Oletko jo syönyt?|id:Afjuob71sWIL}
+{type:PickOne|question:syöneet|options:[piece, song][have gotten lost [singular]][have eaten [plural]]|answer:have eaten [plural]|id:dacj2AN8gt7c}
+{type:SpellingPick|text:luvata|options:[saanut][tiikeri][luvata][odottanut]|answer:luvata|id:Tk6Bzi4mwr0S}
+{type:Match|question:Select the matching words|options:[eksynyt:have gotten lost [singular]][tiikeri:tiger][syönyt:have eaten [singular]][odottaneet:have waited [plural]]|id:gzBKQB2suEKE}
+{type:PickOneMeaning|question:The speaker is saying:|speech:odottaneet|options:[have waited [plural]][have eaten [plural]][have seen [singular]]|answer:have waited [plural]|id:BnFqWsVTovM9}
+{type:PickMissingWord|question:______ olen juonut alkoholia koko elämäni.|options:[odottanut][Minä][saanut][syöneet]|answer:Minä|id:CnpnFbRSF4AJ}
+{type:PickWords|question:I have made it ready.|options:example term,olen,valmiiksi,sen,tehnyt,Minä|answer:Minäolentehnytsenvalmiiksi.|id:tQetuZRzJTF0}
+{type:PickMissingWord|question:Minä ______ antanut tietokoneeni siskolleni.|options:[olen][mennyt][odottanut][nähneet]|answer:olen|id:pBmsd0Zi5WiB}
+</lesson>
+<lesson:18|id:lHuD8MYBwL3A>
+{type:PickOneMeaning|question:The speaker is saying:|speech:saaneet|options:[have gotten [plural]][have heard [plural]][have gotten lost [singular]]|answer:have gotten [plural]|id:0GM5Ta4je98v}
+{type:WriteWords|question:I have waited for you.|answer:Olen odottanut sinua.|id:35Gt7SQ129ww}
+{type:PickWords|question:En tiedä, mitä he ovat kuulleet.|options:have,what,example translation,don't,I,heard,know,they|answer:Idon'tknowwhattheyhaveheard.|id:S2Wg2TIq2rBe}
+{type:SpellingPick|text:saaneet|options:[antanut][saaneet][tiikeri][syöneet]|answer:saaneet|id:6Me3o8vL4Xxz}
+{type:WriteWords|question:Pomoni on kuullut kaiken.|answer:My boss has heard everything.|id:J8IljEQH4yVe}
+{type:WriteWords|question:Ovatko he tulleet jo kotiin?|answer:Have they come home already?|id:lEeAk2uNTMMS}
+{type:Match|question:Select the matching words|options:[odottaneet:have waited [plural]][tehnyt:have done [singular]][odottanut:have waited [singular]][saaneet:have gotten [plural]]|id:w4tvOoDXH81k}
+{type:Match|question:Select the matching words|options:[pelastaja:saviour][odottaneet:have waited [plural]][kuulleet:have heard [plural]][luvata:to promise]|id:hECaopqMUIoD}
+{type:PickMissingWord|question:He ovat ______ kaiken veden.|options:[menneet][tullut][mennyt][juoneet]|answer:juoneet|id:kbiGGlopWAZO}
+{type:PickOne|question:kappale|options:[tiger][piece, song][have heard [singular]]|answer:piece, song|id:t1P5d4iZahg2}
+{type:WriteWords|question:They have given money to charity.|answer:Te olette antaneet rahaa hyväntekeväisyyteen.|id:U3tlPWgzkJU5}
+{type:PickMissingWord|question:Olen jo kuullut tuon ______.|options:[saaneet][kappaleen][odottaneet][juoneet]|answer:kappaleen|id:rtQ2OjPbYP7J}
+{type:AudioMatch|question:Listen and match|options:[nähnyt:lBmQcNh7pqga][menneet:cdEVGogLZ1jL][ostanut:5otZS9LjNWFj][odottaneet:325egSvMujkb]|id:PgK4MwQKEp6Y}
+{type:WriteWords|question:Oletteko menneet töihin?|answer:Have you gone to work?|id:VaALMJAm2iaa}
+{type:PickWords|question:You have bought too much stuff.|options:ostanut,liikaa,example term,tavaraa,Olet|answer:Oletostanutliikaatavaraa.|id:wcjk9tngZTUo}
+{type:PickWords|question:I don't know what they have heard.|options:ovat,kuulleet,he,En,mitä,tiedä,example term|answer:Entiedä,mitäheovatkuulleet.|id:7C5TSBkg1n8w}
+{type:AudioMatch|question:Listen and match|options:[odottaneet:G9VDVbV2Zv3u][tiikeri:hK4XPxseWhT6][tullut:4PsFl0LtMtlW][kuullut:8Byqgz7yjtMW]|id:kz6U5iFEziVG}
+{type:WriteWords|question:You have drunken too much.|answer:Sinä olet juonut liikaa.|id:UkMKdN760aJO}
+{type:PickMissingWord|question:Sinä olet nähnyt ______.|options:[syönyt][saaneet][nähnyt][liikaa]|answer:liikaa|id:LGzGp3Pe9ejg}
+{type:SpellingPick|text:juonut|options:[ostanut][syönyt][juonut][tehnyt]|answer:juonut|id:pOxaSojniu3y}
+</lesson>
+<lesson:19|id:sUtvxd1SZpbT>
+{type:PickMissingWord|question:______ mennyt töihin joka päivä.|options:[syöneet][Olen][tiikeri][menneet]|answer:Olen|id:vA6dcPN1nG2y}
+{type:WriteWords|question:Me olemme menneet töihin joka maanantai.|answer:We have gone to work every Monday.|id:6HPSyVL5K69m}
+{type:PickMissingWord|question:He ovat jo menneet ______.|options:[antaneet][mennyt][eksyneet][naimisiin]|answer:naimisiin|id:89wXN62VTKBu}
+{type:WriteWords|question:Me olemme tehneet suurimman osan työstä.|answer:We have done most of the work.|id:SOp18ra3gAnp}
+{type:PickOne|question:tiikeri|options:[have gotten lost [singular]][have drunk [plural]][tiger]|answer:tiger|id:UUmJ3wSE7YSB}
+{type:WriteWords|question:Have you gone completely nuts?|answer:Oletko mennyt ihan sekaisin?|id:PUcPkD5tYgon}
+{type:WriteWords|question:Ovatko he tulleet jo kotiin?|answer:Have they come home already?|id:7I037sOoBFyf}
+{type:AudioMatch|question:Listen and match|options:[juoneet:5DHKRICsxWuq][kappale:xJIWHwRIbUnt][ostanut:k62S2Z0Bqx4r][kuulleet:JR8Ca3cHPu6p]|id:DE2O71GnrjuS}
+{type:AudioMatch|question:Listen and match|options:[eksynyt:dRWAnaD6dVHU][tehneet:kMM7QpgWBWC4][lupa:9OXFVm3DUhiF][saanut:aSy6WIbMI6vc]|id:2PWmFW3838l1}
+{type:PickWords|question:Have you gone to work?|options:töihin,menneet,Oletteko,example term|answer:Olettekomenneettöihin?|id:hEOCtgM4xUgE}
+{type:Match|question:Select the matching words|options:[odottaneet:have waited [plural]][antanut:have given [singular]][alasti:naked][kappale:piece, song]|id:KbdU6whBCklD}
+{type:SpellingPick|text:odottanut|options:[odottanut][antaneet][tulleet][juonut]|answer:odottanut|id:OfopoTcC7k59}
+{type:PickWords|question:Have you come to this conclusion alone?|options:yksin,example term,tullut,tähän,tulokseen,Oletko|answer:Oletkotulluttähäntulokseenyksin?|id:5AcObW3QNtAk}
+{type:SpellingPick|text:ostaneet|options:[ostanut][lupa][ostaneet][saanut]|answer:ostaneet|id:faqONkGUB2za}
+{type:WriteWords|question:Your friend has gone by plane to China.|answer:Ystäväsi on mennyt lentokoneella Kiinaan.|id:0Y5dOyT9G93W}
+{type:PickOneMeaning|question:The speaker is saying:|speech:odottanut|options:[have waited [singular]][tiger][example translation]|answer:have waited [singular]|id:jFNVZv1SBnoe}
+{type:WriteWords|question:They have already gotten married.|answer:He ovat jo menneet naimisiin.|id:9dunkdPl7wDh}
+{type:PickWords|question:Me olemme tehneet suurimman osan työstä.|options:work,done,We,most,have,the,of|answer:Wehavedonemostofthework.|id:NQs22ht4cyBc}
+{type:PickMissingWord|question:He ovat ______ liikaa.|options:[tehneet][juonut][syöneet][lupa]|answer:syöneet|id:YH17ewBLt8jK}
+{type:Match|question:Select the matching words|options:[odottaneet:have waited [plural]][tehnyt:have done [singular]][ostaneet:have bought [plural]][antaneet:have given [plural]]|id:o0sTkM12SB99}
+</lesson>
+<lesson:20|id:zmayyh4WiF2X>
+{type:PickWords|question:Have you all heard about our saviour?|options:pelastajastamme,example term,kuulleet,Oletteko|answer:Olettekokuulleetpelastajastamme?|id:yEiMVTj3yd49}
+{type:AudioMatch|question:Listen and match|options:[eksyneet:F6lhJtnhkDke][odottanut:up3LkyXyGGmM][tehneet:1vP1rrVMWLq9][kappale:gQftbm4abe8s]|id:2a0XPblw4q13}
+{type:SpellingPick|text:odottanut|options:[odottanut][antanut][pelastaja][ostaneet]|answer:odottanut|id:ynEVPPTOzfZs}
+{type:PickMissingWord|question:Oletteko tehneet niin kuin ______?|options:[lupasitte][nähneet][kappale][tulleet]|answer:lupasitte|id:aTzHY5Jcffrp}
+{type:SpellingPick|text:eksynyt|options:[eksynyt][tulleet][syönyt][saanut]|answer:eksynyt|id:g3M4T0s4XVpV}
+{type:PickWords|question:Oletteko menneet töihin?|options:to,gone,Have,work,example translation,you|answer:Haveyougonetowork?|id:8Y6Nw5OBr2fN}
+{type:Match|question:Select the matching words|options:[eksynyt:have gotten lost [singular]][ostaneet:have bought [plural]][antaneet:have given [plural]][tulleet:have come [plural]]|id:zeLmVaJ0fwvH}
+{type:Match|question:Select the matching words|options:[mennyt:have gone [singualr]][odottaneet:have waited [plural]][tulleet:have come [plural]][nähnyt:have seen [singular]]|id:KJqZn75C2PHX}
+{type:PickOne|question:mennyt|options:[have gone [singualr]][have done [plural]][have gone [plural]]|answer:have gone [singualr]|id:eKNzK5W4nExF}
+{type:WriteWords|question:Oletteko tulleet hyvin toimeen?|answer:Have you gotten by well?|id:VbINtiCoDC8f}
+{type:PickMissingWord|question:______ mennyt ihan sekaisin?|options:[Oletko][tehneet][syönyt][eksynyt]|answer:Oletko|id:qzQh6MDufeBv}
+{type:PickMissingWord|question:Oletteko tehneet ______ kuin lupasitte?|options:[niin][eksynyt][odottanut][syönyt]|answer:niin|id:3XZIac1u1QW6}
+{type:AudioMatch|question:Listen and match|options:[kappale:TNYzJ9D78jBR][kuullut:iHgN6HrDRQdf][lupa:Dm5qZWI5e6l0][odottaneet:DhGGFdAnxNvW]|id:atHESLnIGIUc}
+{type:WriteWords|question:She has drunken herself drunk.|answer:Hän on juonut itsensä humalaan.|id:uIS6nF1LjURB}
+{type:WriteWords|question:We have gone to work every Monday.|answer:Me olemme menneet töihin joka maanantai.|id:Mh9bKhuEf2ZR}
+{type:PickWords|question:Have you all heard about our saviour?|options:kuulleet,example term,Oletteko,pelastajastamme|answer:Olettekokuulleetpelastajastamme?|id:U8r8pyqdh7cZ}
+{type:PickOneMeaning|question:The speaker is saying:|speech:tehnyt|options:[have drunk [plural]][have done [singular]][have gotten [plural]]|answer:have done [singular]|id:SelGWYe5BDTz}
+{type:WriteWords|question:They have drunken all the water.|answer:He ovat juoneet kaiken veden.|id:F9y00kZOVwNZ}
+{type:WriteWords|question:Olen nähnyt hänet muutmaan kerran.|answer:I have seen her a few times.|id:6fSMitfSIEkw}
+{type:WriteWords|question:Olenko mennyt taas baariin juomaan?|answer:Have you gone to the bar to drink again?|id:GlFx7I1xLtXe}
+</lesson>
+<lesson:21|id:RIiySqBV8W4z>
+{type:AudioMatch|question:Listen and match|options:[saanut:b5WxDVZ9mQSr][nähneet:TOwGpmgrkxgi][odottanut:vI1lcir1aFQU][juonut:Ly9vjNVcC5Wd]|id:b2f7pIa0jxtD}
+{type:PickMissingWord|question:Olen ostanut tietokoneelleni ______.|options:[kappale][tiikeri][varaosia][eksynyt]|answer:varaosia|id:AmvPFxr8tVWA}
+{type:Match|question:Select the matching words|options:[odottaneet:have waited [plural]][tehnyt:have done [singular]][menneet:have gone [plural]][odottanut:have waited [singular]]|id:hL4eJgTZ9GcT}
+{type:SpellingPick|text:eksynyt|options:[odottaneet][luvata][saaneet][eksynyt]|answer:eksynyt|id:U2RX1uMCFVim}
+{type:AudioMatch|question:Listen and match|options:[tehneet:8mEmzzrlXzol][lupa:EIHWiYG1nn9o][kuullut:6GWsAcAZDBAR][syöneet:0y0nt8S6Vjt1]|id:fRdjkodyCmlR}
+{type:PickMissingWord|question:Hän on tullut siihen tulokseen, että siellä on liian ______.|options:[eksynyt][syöneet][tehneet][vaarallista]|answer:vaarallista|id:YuPqjjI17cHU}
+{type:WriteWords|question:Hän on mennyt naimisiin.|answer:He has gotten married.|id:zRngnatnGCTB}
+{type:PickMissingWord|question:______ on ostanut uudet kengät.|options:[Työntekijä][pelastaja][juonut][mennyt]|answer:Työntekijä|id:uvB9TA2rzeYr}
+{type:PickOneMeaning|question:The speaker is saying:|speech:pelastaja|options:[tiger][saviour][have waited [singular]]|answer:saviour|id:E2BpLs43UOpY}
+{type:PickWords|question:You have drunken milk.|options:maitoa,juoneet,Te,olette,example term|answer:Teolettejuoneetmaitoa.|id:SuF8vA2tQsa2}
+{type:WriteWords|question:Olen nähnyt hänet muutmaan kerran.|answer:I have seen her a few times.|id:6X9AeBgxSU0L}
+{type:WriteWords|question:You have seen too little.|answer:Te olette nähneet liian vähän.|id:yKIMEM7yzgnu}
+{type:PickOne|question:nähnyt|options:[to promise][have seen [singular]][have heard [singular]]|answer:have seen [singular]|id:d5gaIO5qvGFB}
+{type:Match|question:Select the matching words|options:[saanut:have gotten [singular]][tavara:stuff [singular]][nähneet:have seen [plural]][odottanut:have waited [singular]]|id:haCeZCcXUBtk}
+{type:WriteWords|question:I have drunken alcohol for my whole life.|answer:Minä olen juonut alkoholia koko elämäni.|id:lfVaJikOMCo6}
+{type:PickWords|question:Te olette juoneet maitoa.|options:have,milk,example translation,You,drunken|answer:Youhavedrunkenmilk.|id:3r4NPMXUH3V5}
+{type:SpellingPick|text:syönyt|options:[juonut][tullut][eksyneet][syönyt]|answer:syönyt|id:3QvclC9hffsU}
+{type:PickWords|question:Have you done as you promised?|options:example term,Oletteko,kuin,niin,tehneet,lupasitte|answer:Olettekotehneetniinkuinlupasitte?|id:ZeJbznYVbjPM}
+{type:WriteWords|question:Olet mennyt liian pitkälle.|answer:You ahve gone too far.|id:oa45RrnwrRQG}
+{type:WriteWords|question:They have given money to charity.|answer:Te olette antaneet rahaa hyväntekeväisyyteen.|id:nIqungOAJqQ3}
+</lesson>
+<lesson:22|id:Im6EOukewtmk>
+{type:Match|question:Select the matching words|options:[syöneet:have eaten [plural]][nähneet:have seen [plural]][juonut:have drunk [singular]][tiikeri:tiger]|id:lQjyZQGXuieu}
+{type:AudioMatch|question:Listen and match|options:[mennyt:RndUQ3aff5FX][kuulleet:gZ85Zqht6L8o][tavara:Amgg7kRRIKga][tullut:nIWV1vvH1tQD]|id:JH78JsfWHPyb}
+{type:PickMissingWord|question:Minä olen juonut ______ koko elämäni.|options:[tiikeri][alkoholia][tullut][eksynyt]|answer:alkoholia|id:9eAdqEZ8tjlj}
+{type:WriteWords|question:We have given our money to charity.|answer:Me olemme antaneet rahamme hyväntekeväisyyteen.|id:nTH5ZMUrJXcV}
+{type:SpellingPick|text:alasti|options:[alasti][tiikeri][juoneet][syönyt]|answer:alasti|id:y2vnxe9JGQR7}
+{type:AudioMatch|question:Listen and match|options:[eksyneet:E2IEX1nFdLJv][antanut:LyYtjk02k8gC][tulleet:VfsimKZT4aIh][menneet:P4daBlRvjYcQ]|id:8G3lSnzb8SzF}
+{type:PickMissingWord|question:______ on ostanut uudet kengät.|options:[Työntekijä][tehnyt][tullut][example term]|answer:Työntekijä|id:XaiXXYiztODX}
+{type:WriteWords|question:He has given me hope.|answer:Hän on antanut minulle toivoa.|id:AvNFvuKJv50A}
+{type:PickWords|question:We have given our money to charity.|options:Me,antaneet,olemme,hyväntekeväisyyteen,rahamme|answer:Meolemmeantaneetrahammehyväntekeväisyyteen.|id:nrOeZx4ToXyX}
+{type:PickOne|question:mennyt|options:[have gone [singualr]][stuff [singular]][piece, song]|answer:have gone [singualr]|id:4aSX2LUms8nF}
+{type:WriteWords|question:Te olette antaneet rahaa hyväntekeväisyyteen.|answer:They have given money to charity.|id:HrCoiYpUKnDW}
+{type:PickWords|question:Olen eksynyt.|options:am,example translation,I,lost|answer:Iamlost.|id:Elz7ejN6py3u}
+{type:WriteWords|question:Onko se mennyt pilalle?|answer:Has it gone bad?|id:zOIdyEjoE44I}
+{type:WriteWords|question:You have bought too much stuff.|answer:Olet ostanut liikaa tavaraa.|id:wgF5wUSt8TQF}
+{type:Match|question:Select the matching words|options:[kuulleet:have heard [plural]][saaneet:have gotten [plural]][juonut:have drunk [singular]][ostanut:have bought [singular]]|id:cR8Wvj95IVtI}
+{type:PickOneMeaning|question:The speaker is saying:|speech:tehneet|options:[have done [plural]][have eaten [singular]][have done [singular]]|answer:have done [plural]|id:Vf1F3E3tX90k}
+{type:PickWords|question:permission [nom, gen]|options:lupa,luvan|answer:lupa,luvan|id:4KWOJUoAAcI2}
+{type:WriteWords|question:Olen nähnyt hänet muutmaan kerran.|answer:I have seen her a few times.|id:EdJ7W9WlQ5Cv}
+{type:PickMissingWord|question:luvata, ______|options:[tehnyt][lupaan][menneet][nähnyt]|answer:lupaan|id:AxY1rbGeha3h}
+{type:SpellingPick|text:antanut|options:[juonut][syönyt][kappale][antanut]|answer:antanut|id:wvWOb5tnTBlL}
+</lesson>
+<lesson:23|id:k7FtBPkkHQmI>
+{type:PickOneMeaning|question:The speaker is saying:|speech:luvata|options:[have gotten lost [singular]][have bought [singular]][to promise]|answer:to promise|id:bvQRkqz8JPe3}
+{type:PickMissingWord|question:______ olemme tehneet suurimman osan työstä.|options:[example term][Me][luvata][odottanut]|answer:Me|id:HAdNcI9ccU1Y}
+{type:PickWords|question:You have gotten everything you wanted.|options:kaiken,example term,halusit,Sinä,saanut,mitä,olet|answer:Sinäoletsaanutkaiken,mitähalusit.|id:NWi1XU5OMI01}
+{type:WriteWords|question:Hän on juonut itsensä humalaan.|answer:She has drunken herself drunk.|id:zJqNbupO08b2}
+{type:AudioMatch|question:Listen and match|options:[alasti:chjG1cb5zApp][kuulleet:ucnf5eKYNErt][nähneet:79GCFsHQbQYQ][tulleet:ihFVZhAxZbao]|id:Ormtus3uAL4h}
+{type:WriteWords|question:Minä olen saanut tietää siitä.|answer:I have found out about it.|id:1tB3ZORoUMQ1}
+{type:Match|question:Select the matching words|options:[syönyt:have eaten [singular]][kappale:piece, song][saanut:have gotten [singular]][nähneet:have seen [plural]]|id:RaInSur76uz0}
+{type:WriteWords|question:They have seen me naked.|answer:He ovat nähneet minut alasti.|id:o3xqANKfRWTq}
+{type:SpellingPick|text:ostaneet|options:[ostaneet][tehnyt][syönyt][ostanut]|answer:ostaneet|id:W4UmVVSvMqxW}
+{type:AudioMatch|question:Listen and match|options:[luvata:lHAQApaKigCn][odottanut:KiiXK3pvO2fe][ostaneet:WSx7SvNS3dq9][alasti:oQpyv4FNCR8i]|id:Y523ODPGVB2A}
+{type:PickWords|question:Pomoni on kuullut kaiken.|options:My,heard,boss,everything,has|answer:Mybosshasheardeverything.|id:HPtIvxc06ghi}
+{type:WriteWords|question:Oletteko tehneet niin kuin lupasitte?|answer:Have you done as you promised?|id:U0o3wLWH4ZqL}
+{type:PickMissingWord|question:He ______ syöneet liikaa.|options:[ovat][eksynyt][syöneet][antaneet]|answer:ovat|id:9lOKuERiIEEL}
+{type:PickMissingWord|question:Olet mennyt ______ pitkälle.|options:[syöneet][syönyt][liian][example term]|answer:liian|id:GN7IyKxFoMtm}
+{type:Match|question:Select the matching words|options:[juoneet:have drunk [plural]][ostanut:have bought [singular]][saanut:have gotten [singular]][tiikeri:tiger]|id:it0ehVHilFe7}
+{type:WriteWords|question:We have waited for you.|answer:Olemme odottaneet sinua.|id:prLQQO8nY7pZ}
+{type:PickOne|question:mennyt|options:[have drunk [plural]][have gotten lost [plural]][have gone [singualr]]|answer:have gone [singualr]|id:27tj9x6bKaOz}
+{type:PickWords|question:The employee has bought new shoes.|options:example term,ostanut,kengät,Työntekijä,uudet,on|answer:Työntekijäonostanutuudetkengät.|id:rUcBFnHQGFfG}
+{type:WriteWords|question:I don't know what they have heard.|answer:En tiedä, mitä he ovat kuulleet.|id:OJ5LTvPYlmbA}
+{type:SpellingPick|text:juonut|options:[tullut][antanut][juoneet][juonut]|answer:juonut|id:qJHXU4vVDZCJ}
+</lesson>
+<lesson:24|id:GMVf7xw0QNyc>
+{type:Match|question:Select the matching words|options:[saaneet:have gotten [plural]][mennyt:have gone [singualr]][alasti:naked][juoneet:have drunk [plural]]|id:MBb6r06iuHXu}
+{type:PickMissingWord|question:Olen antanut ______ kaiken.|options:[luvata][hänelle][kappale][tullut]|answer:hänelle|id:dKzwrhZgIwRR}
+{type:SpellingPick|text:eksynyt|options:[pelastaja][kuulleet][tehneet][eksynyt]|answer:eksynyt|id:ICQmGpRoSx1v}
+{type:PickWords|question:Me olemme saaneet palkkamme.|options:have,example translation,our,gotten,We,pay|answer:Wehavegottenourpay.|id:svVUaBvG2n8w}
+{type:WriteWords|question:Me olemme tehneet suurimman osan työstä.|answer:We have done most of the work.|id:P7s3cFbXoorU}
+{type:PickOneMeaning|question:The speaker is saying:|speech:tavara|options:[example translation][stuff [singular]][permission]|answer:stuff [singular]|id:HzTluDpjZoeu}
+{type:WriteWords|question:permission [nom, gen]|answer:lupa, luvan|id:YveV4jLk7k32}
+{type:PickMissingWord|question:______ jo syönyt?|options:[saanut][syöneet][odottaneet][Oletko]|answer:Oletko|id:74J1AJkrTRMt}
+{type:WriteWords|question:You have bought too much stuff.|answer:Olet ostanut liikaa tavaraa.|id:fb5BSASg0cPb}
+{type:WriteWords|question:Olemme odottaneet sinua.|answer:We have waited for you.|id:rBS9Y2okmr7w}
+{type:PickWords|question:Has it gone bad?|options:pilalle,se,mennyt,Onko,example term|answer:Onkosemennytpilalle?|id:ez0l3mdJYWWe}
+{type:AudioMatch|question:Listen and match|options:[menneet:Rpa8XLHMQ6LA][nähneet:oQWYkAkNSbeY][mennyt:gCf4CecYt5G6][eksynyt:rn5OSL70PNR4]|id:BvODbHDg8nhh}
+{type:WriteWords|question:We have done most of the work.|answer:Me olemme tehneet suurimman osan työstä.|id:mIiNcIPRsaYw}
+{type:SpellingPick|text:syönyt|options:[odottanut][luvata][syönyt][tiikeri]|answer:syönyt|id:49UzCySMktjn}
+{type:AudioMatch|question:Listen and match|options:[pelastaja:hNeCq8vemVRv][tulleet:sdOu2AROlgIM][luvata:xx8INbOYSKAY][menneet:XMjqB093ZnOF]|id:arfnJyjfuD6E}
+{type:PickWords|question:Have you gone to work?|options:töihin,menneet,Oletteko|answer:Olettekomenneettöihin?|id:m0DRVcfZcypx}
+{type:Match|question:Select the matching words|options:[syönyt:have eaten [singular]][ostaneet:have bought [plural]][kappale:piece, song][alasti:naked]|id:rty5e3ytHvW5}
+{type:WriteWords|question:Te olette nähneet liian vähän.|answer:You have seen too little.|id:UL0QHCa4KXjF}
+{type:PickOne|question:syöneet|options:[have eaten [plural]][saviour][have done [singular]]|answer:have eaten [plural]|id:wmTGMCyxmiJw}
+{type:PickMissingWord|question:He ovat jo ______ naimisiin.|options:[ostaneet][menneet][tehneet][alasti]|answer:menneet|id:IkRO3mRB6ETI}
+</lesson>
+<lesson:25|id:4JAzXJxqvuY5>
+{type:SpellingPick|text:syöneet|options:[saaneet][lupa][ostaneet][syöneet]|answer:syöneet|id:Tv5STzbrihhv}
+{type:SpellingPick|text:tehnyt|options:[tehnyt][juoneet][eksyneet][juonut]|answer:tehnyt|id:dmBK2mGi4fsi}
+{type:AudioMatch|question:Listen and match|options:[eksyneet:gSXV9klN7Uix][menneet:DAGmoYZRFirT][odottanut:TPxcYNdQPHRV][juonut:QROwp1ZrhuVX]|id:sC3dPpzS8oiy}
+{type:PickOne|question:syönyt|options:[have eaten [singular]][have given [plural]][have gotten [singular]]|answer:have eaten [singular]|id:G5HoHw5wqvBR}
+{type:PickMissingWord|question:______ olemme nähneet maailmaa.|options:[Me][antanut][kuulleet][tehneet]|answer:Me|id:qZwcCK0OEmES}
+{type:PickWords|question:Olen jo kuullut tuon kappaleen.|options:song,heard,already,I,have,example translation,that|answer:Ihavealreadyheardthatsong.|id:04O5Gr0vGzA6}
+{type:Match|question:Select the matching words|options:[tehneet:have done [plural]][menneet:have gone [plural]][tullut:have come [singular]][ostaneet:have bought [plural]]|id:JxcWzv5KaGk2}
+{type:WriteWords|question:Työntekijä on ostanut uudet kengät.|answer:The employee has bought new shoes.|id:fna55sGuQWgD}
+{type:PickMissingWord|question:Hän on ______ minulle toivoa.|options:[tehnyt][eksyneet][mennyt][antanut]|answer:antanut|id:dIPUt40UrM9Q}
+{type:PickOneMeaning|question:The speaker is saying:|speech:juoneet|options:[have drunk [plural]][have seen [plural]][have done [singular]]|answer:have drunk [plural]|id:Khu7uS3QOPsT}
+{type:AudioMatch|question:Listen and match|options:[eksyneet:iVoq6YCrcO3o][syönyt:6qO8Yt31ccWT][alasti:kVsm8ObTCb35][pelastaja:JuDDurm6NHwd]|id:UabPm1YDjw19}
+{type:Match|question:Select the matching words|options:[antanut:have given [singular]][syönyt:have eaten [singular]][ostaneet:have bought [plural]][kappale:piece, song]|id:TsFLIDrym4Da}
+{type:PickWords|question:I have come to that conclusion.|options:Olen,example term,siihen,tulokseen,tullut|answer:Olentullutsiihentulokseen.|id:3a1g8vHEP63C}
+{type:WriteWords|question:Minä olen ostanut uuden tietokoneen.|answer:I have bought a new computer.|id:wbKJyblrzX7e}
+{type:WriteWords|question:Have you gotten by well?|answer:Oletteko tulleet hyvin toimeen?|id:W9tD3MoRndjq}
+{type:WriteWords|question:You have eaten everything.|answer:Te olette syöneet kaiken.|id:wd0YUJVGxbaD}
+{type:WriteWords|question:luvata, lupaan|answer:to promise, I promise|id:s9jbiIYiUDMg}
+{type:WriteWords|question:He has seen a tiger in the forest.|answer:Hän on nähnyt metsässä tiikerin.|id:2rDST8VwQ1c8}
+{type:WriteWords|question:Have you all heard about our saviour?|answer:Oletteko kuulleet pelastajastamme?|id:YZJ9c5D7FARr}
+{type:WriteWords|question:Ystäväsi on mennyt lentokoneella Kiinaan.|answer:Your friend has gone by plane to China.|id:XhRheEIuBnNm}
+</lesson>
+<lesson:26|id:AVPqQSStoQgL>
+{type:SpellingPick|text:juoneet|options:[nähnyt][eksynyt][tavara][juoneet]|answer:juoneet|id:KHagjTnsfrCH}
+{type:PickOne|question:tehneet|options:[have done [plural]][have drunk [plural]][have gone [plural]]|answer:have done [plural]|id:Zy8MEgArpXyZ}
+{type:WriteWords|question:They have eaten too much.|answer:He ovat syöneet liikaa.|id:f1b962Q3vMqf}
+{type:PickOneMeaning|question:The speaker is saying:|speech:juonut|options:[have seen [singular]][have drunk [singular]][have waited [plural]]|answer:have drunk [singular]|id:LwYx3CcIechR}
+{type:PickWords|question:I have seen her a few times.|options:Olen,muutmaan,hänet,nähnyt,example term,kerran|answer:Olennähnythänetmuutmaankerran.|id:NMjVGBGsWIo8}
+{type:PickMissingWord|question:______ on mennyt naimisiin.|options:[Hän][eksyneet][example term][tullut]|answer:Hän|id:ZakoBtTg0r3J}
+{type:WriteWords|question:lupa, luvan|answer:permission [nom, gen]|id:DlMGmVtZl4UE}
+{type:WriteWords|question:He has heard our music.|answer:Hän on kuullut meidän musiikkimme.|id:9bDEUBTOZsyS}
+{type:WriteWords|question:I am lost.|answer:Olen eksynyt.|id:w0I35IUfCTL1}
+{type:PickMissingWord|question:Olemme ______ sinua.|options:[syönyt][odottaneet][menneet][kuullut]|answer:odottaneet|id:1brbragS4GkQ}
+{type:WriteWords|question:I have waited for you.|answer:Olen odottanut sinua.|id:xAtE4Jod7a3s}
+{type:WriteWords|question:Oletteko menneet töihin?|answer:Have you gone to work?|id:i8wakA6x70xJ}
+{type:Match|question:Select the matching words|options:[odottanut:have waited [singular]][tullut:have come [singular]][tulleet:have come [plural]][eksynyt:have gotten lost [singular]]|id:EGelhxcEWlNd}
+{type:SpellingPick|text:saaneet|options:[tulleet][kuulleet][saaneet][kappale]|answer:saaneet|id:bv1DLp9vC7ar}
+{type:WriteWords|question:Me olemme saaneet palkkamme.|answer:We have gotten our pay.|id:jOGpgqK8IqPt}
+{type:Match|question:Select the matching words|options:[kuullut:have heard [singular]][odottaneet:have waited [plural]][syönyt:have eaten [singular]][luvata:to promise]|id:v68tWiDv12wE}
+{type:WriteWords|question:Olet ostanut liikaa tavaraa.|answer:You have bought too much stuff.|id:CuQ2AjpFEt8d}
+{type:AudioMatch|question:Listen and match|options:[antaneet:55K7ewyElcbQ][kuulleet:zSP22aG4opbY][saaneet:XBMrw6q4YrA6][luvata:dwnirTBx70Mn]|id:VPvRuqtDpfso}
+{type:AudioMatch|question:Listen and match|options:[alasti:A3g78DKlH9gh][luvata:VFwWXTrCCONs][odottaneet:WamOVhUWoBlq][antaneet:LMNKNYmRoday]|id:GHpxXKvms785}
+{type:PickWords|question:Olen nähnyt hänet muutmaan kerran.|options:I,a,have,example translation,few,times,her,seen|answer:Ihaveseenherafewtimes.|id:1Ku68OQY50Ng}
+</lesson>
+<lesson:27|id:GCb38aDrXGc3>
+{type:WriteWords|question:You have eaten everything.|answer:Te olette syöneet kaiken.|id:ZexaRKGtPAue}
+{type:PickMissingWord|question:______ olen juonut alkoholia koko elämäni.|options:[Minä][tavara][example term][nähnyt]|answer:Minä|id:np3n1ftGG21V}
+{type:PickOneMeaning|question:The speaker is saying:|speech:tehneet|options:[have done [plural]][have given [singular]][have waited [plural]]|answer:have done [plural]|id:XOfkFZrrfvDU}
+{type:WriteWords|question:Olet ostanut liikaa tavaraa.|answer:You have bought too much stuff.|id:ChAUJrlUr4Pc}
+{type:WriteWords|question:Hän on nähnyt metsässä tiikerin.|answer:He has seen a tiger in the forest.|id:J3rXScMrRg0u}
+{type:WriteWords|question:I have made it ready.|answer:Minä olen tehnyt sen valmiiksi.|id:ko6boKOPQbMd}
+{type:AudioMatch|question:Listen and match|options:[saanut:UHs4RlBlxtiM][odottaneet:FR3tGt8Jc10B][nähneet:ASCN9rM5fTXG][menneet:sF6dIt12URCS]|id:Ydqtn0Cd6xPO}
+{type:AudioMatch|question:Listen and match|options:[saaneet:NkiZRjdMHjaB][tiikeri:NWtbcSNNZXLd][syöneet:YFSbco3smpbL][nähneet:ujpAhPX2B5qU]|id:hWSdUs3YjS7p}
+{type:Match|question:Select the matching words|options:[saaneet:have gotten [plural]][mennyt:have gone [singualr]][eksynyt:have gotten lost [singular]][menneet:have gone [plural]]|id:4NyIH2RBue0U}
+{type:PickWords|question:Onko se mennyt pilalle?|options:gone,example translation,bad,Has,it|answer:Hasitgonebad?|id:pxBVMPKooQGM}
+{type:WriteWords|question:I have gone nuts.|answer:Olen mennyt sekaisin.|id:mkttUofDloiX}
+{type:SpellingPick|text:tiikeri|options:[tiikeri][luvata][ostanut][tehneet]|answer:tiikeri|id:TCd5yv9Zf0hj}
+{type:PickMissingWord|question:He ovat nähneet minut ______.|options:[ostanut][alasti][example term][tulleet]|answer:alasti|id:tUoVT4WpytRj}
+{type:WriteWords|question:We have gotten our pay.|answer:Me olemme saaneet palkkamme.|id:tXAOEhjxynmD}
+{type:Match|question:Select the matching words|options:[ostaneet:have bought [plural]][juoneet:have drunk [plural]][odottaneet:have waited [plural]][luvata:to promise]|id:cz5rm0MvEGyr}
+{type:PickOne|question:lupa|options:[permission][have heard [singular]][piece, song]|answer:permission|id:DBHpfodkKOKE}
+{type:WriteWords|question:Te olette syöneet kaiken.|answer:You have eaten everything.|id:24S4HgX0Q23E}
+{type:SpellingPick|text:lupa|options:[odottaneet][alasti][lupa][syöneet]|answer:lupa|id:IMBx0gutCWbx}
+{type:WriteWords|question:Oletko mennyt ihan sekaisin?|answer:Have you gone completely nuts?|id:z4KYue1VjdiY}
+{type:PickWords|question:He has heard our music.|options:on,Hän,meidän,kuullut,musiikkimme|answer:Hänonkuullutmeidänmusiikkimme.|id:sGIWxGrOBLrR}
+</lesson>
+<lesson:28|id:TdQWptiktnPp>
+{type:PickMissingWord|question:Olen nähnyt hänet muutmaan ______.|options:[menneet][kerran][tehnyt][odottaneet]|answer:kerran|id:WNqhTzm5Ntx0}
+{type:Match|question:Select the matching words|options:[antaneet:have given [plural]][tiikeri:tiger][syönyt:have eaten [singular]][nähneet:have seen [plural]]|id:ZV4Cg1YdMoXJ}
+{type:WriteWords|question:We have gotten by well.|answer:Me olemme tulleet hyvin toimeen.|id:YMpUOxEDIVTI}
+{type:WriteWords|question:Have you gone completely nuts?|answer:Oletko mennyt ihan sekaisin?|id:6zaPCEb0YIYe}
+{type:AudioMatch|question:Listen and match|options:[juoneet:WDXjU2gvjBMg][saaneet:O4l65t2rOHRJ][syöneet:jdH4BF11aZnB][nähnyt:47Cj7UmNyaB4]|id:3g4BpewEwj4R}
+{type:SpellingPick|text:kuulleet|options:[antaneet][alasti][odottaneet][kuulleet]|answer:kuulleet|id:H3c5dXatrLpU}
+{type:Match|question:Select the matching words|options:[eksynyt:have gotten lost [singular]][tehneet:have done [plural]][antanut:have given [singular]][kappale:piece, song]|id:cD3WblFOq89B}
+{type:WriteWords|question:Koira on odottanut minua koko päivän.|answer:The dog has waited for me the whole day.|id:G7xx4Bjp67at}
+{type:WriteWords|question:We have waited for you.|answer:Olemme odottaneet sinua.|id:GhQwabVrPBk8}
+{type:WriteWords|question:They have already gotten married.|answer:He ovat jo menneet naimisiin.|id:oSrwDzvHs3LP}
+{type:PickOne|question:saaneet|options:[have gotten lost [plural]][have gotten [plural]][have waited [singular]]|answer:have gotten [plural]|id:6c17FZ7BZUvq}
+{type:WriteWords|question:Oletteko tehneet niin kuin lupasitte?|answer:Have you done as you promised?|id:sb121Cik7gyA}
+{type:AudioMatch|question:Listen and match|options:[kuullut:EF0LYG9Wbyab][ostaneet:UhALW4K7dlRi][eksynyt:WN3pZK9yfpua][syöneet:lDeyARjS2XMr]|id:myy8IMUYSjIU}
+{type:WriteWords|question:Olen tullut siihen tulokseen.|answer:I have come to that conclusion.|id:IqYNcPZ9dpDS}
+{type:PickMissingWord|question:Hän on ______ itsensä humalaan.|options:[juonut][tehnyt][syönyt][menneet]|answer:juonut|id:FvoJGaYdk15N}
+{type:PickWords|question:Olet mennyt liian pitkälle.|options:You,too,ahve,example translation,far,gone|answer:Youahvegonetoofar.|id:P7F3LrTRKN6h}
+{type:PickOneMeaning|question:The speaker is saying:|speech:tullut|options:[have come [singular]][have gotten [plural]][have given [singular]]|answer:have come [singular]|id:hGlOzMnbRYqu}
+{type:WriteWords|question:Olen nähnyt Kölnin tuomiokirkon.|answer:I have seen Cologne's cathedral.|id:cuaX45ZxLr3a}
+{type:PickWords|question:They have seen me naked.|options:He,minut,alasti,ovat,example term,nähneet|answer:Heovatnähneetminutalasti.|id:6MlTrhKJuuC9}
+{type:SpellingPick|text:alasti|options:[kappale][tehneet][alasti][odottaneet]|answer:alasti|id:DrIm47VeCUsw}
+</lesson>
+<lesson:29|id:lMwgSiRWC1CO>
+{type:Match|question:Select the matching words|options:[syöneet:have eaten [plural]][nähnyt:have seen [singular]][antanut:have given [singular]][tullut:have come [singular]]|id:ZC2Wl35J6dp4}
+{type:WriteWords|question:Oletteko tehneet niin kuin lupasitte?|answer:Have you done as you promised?|id:cpC15fEcUiKe}
+{type:WriteWords|question:The employee has bought new shoes.|answer:Työntekijä on ostanut uudet kengät.|id:w9gJ7e5o3s2E}
+{type:AudioMatch|question:Listen and match|options:[syönyt:6sr0Q7muPBFc][kuullut:rCPlr9CMZ8xE][tehneet:6nFXCyxcEdux][odottaneet:T8miHeMngTMS]|id:nn3wbleCASJe}
+{type:PickWords|question:Oletko mennyt ihan sekaisin?|options:completely,you,Have,gone,nuts,example translation|answer:Haveyougonecompletelynuts?|id:uX9u5nn1IM5n}
+{type:WriteWords|question:Olet ostanut liikaa tavaraa.|answer:You have bought too much stuff.|id:x8ROHzfFlEIV}
+{type:SpellingPick|text:lupa|options:[tehneet][syöneet][tullut][lupa]|answer:lupa|id:Kj89YisjX3K5}
+{type:PickWords|question:You have eaten everything.|options:olette,example term,Te,syöneet,kaiken|answer:Teolettesyöneetkaiken.|id:1Btqi7MKnpEM}
+{type:WriteWords|question:The employee has bought new shoes.|answer:Työntekijä on ostanut uudet kengät.|id:uHOAniMrfBMr}
+{type:AudioMatch|question:Listen and match|options:[saanut:7AhZccuBYcd6][juoneet:wX9vj91Eon6V][eksynyt:kAROSaeDO9wP][tulleet:7wlMD0gQTsrI]|id:2Vvo5lxP63LL}
+{type:PickMissingWord|question:Oletko kuullut ______?|options:[nähneet][kappale][kuullut][pelastajastamme]|answer:pelastajastamme|id:tnajSZIEIjec}
+{type:PickMissingWord|question:Oletteko ______ niin kuin lupasitte?|options:[kuullut][syönyt][saanut][tehneet]|answer:tehneet|id:geb6oiEPLeUi}
+{type:WriteWords|question:We have bought clothes.|answer:Me olemme ostaneet vaatteita.|id:Cgpp94TAwKK1}
+{type:PickOne|question:nähneet|options:[have seen [plural]][have drunk [singular]][have done [plural]]|answer:have seen [plural]|id:aMtjyT4fxB8r}
+{type:PickOneMeaning|question:The speaker is saying:|speech:tehnyt|options:[have gotten [singular]][have done [singular]][have heard [plural]]|answer:have done [singular]|id:r9xdbymncN2u}
+{type:Match|question:Select the matching words|options:[saaneet:have gotten [plural]][tullut:have come [singular]][juoneet:have drunk [plural]][kappale:piece, song]|id:RFFQitTdAsqy}
+{type:WriteWords|question:Me olemme tehneet suurimman osan työstä.|answer:We have done most of the work.|id:DS5H3ARy1btd}
+{type:WriteWords|question:Oletko eksynyt internetin maailmaan?|answer:Are you lost in the world of the internet?|id:wq4QczwF9Q82}
+{type:WriteWords|question:Has it gone bad?|answer:Onko se mennyt pilalle?|id:1r7oIJfDAZ1b}
+{type:SpellingPick|text:saanut|options:[odottanut][saanut][nähneet][juoneet]|answer:saanut|id:MBypfG5CRuZF}
+</lesson>
+<lesson:30|id:em1h6NGsdiFr>
+{type:SpellingPick|text:juonut|options:[juonut][tulleet][saanut][alasti]|answer:juonut|id:z5ybQgjsHUQI}
+{type:Match|question:Select the matching words|options:[juoneet:have drunk [plural]][ostaneet:have bought [plural]][odottaneet:have waited [plural]][mennyt:have gone [singualr]]|id:KpcdcwVIJ9pl}
+{type:PickOneMeaning|question:The speaker is saying:|speech:eksynyt|options:[have given [plural]][have come [plural]][have gotten lost [singular]]|answer:have gotten lost [singular]|id:7Dvz1Miu2Na3}
+{type:SpellingPick|text:pelastaja|options:[luvata][pelastaja][kuulleet][syöneet]|answer:pelastaja|id:eXsMABkNMlg4}
+{type:PickOne|question:menneet|options:[have gone [plural]][have heard [plural]][have heard [singular]]|answer:have gone [plural]|id:wx6ogQwxx5pa}
+{type:WriteWords|question:Have you gotten by well?|answer:Oletteko tulleet hyvin toimeen?|id:imr9IzerOTem}
+{type:PickMissingWord|question:Minä ______ saanut tietää siitä.|options:[olen][kappale][alasti][mennyt]|answer:olen|id:4eu9C7OuTsuj}
+{type:WriteWords|question:Ovatko he tulleet jo kotiin?|answer:Have they come home already?|id:7OzPnXfqrDtD}
+{type:WriteWords|question:You have seen too little.|answer:Te olette nähneet liian vähän.|id:dM4tqHLeh3yC}
+{type:WriteWords|question:Ystäväsi on mennyt lentokoneella Kiinaan.|answer:Your friend has gone by plane to China.|id:mB3GCvVgbT1J}
+{type:WriteWords|question:The dog has waited for me the whole day.|answer:Koira on odottanut minua koko päivän.|id:cIb5tw307Sez}
+{type:PickMissingWord|question:Me ______ saaneet palkkamme.|options:[antanut][olemme][saaneet][odottanut]|answer:olemme|id:SO2dcbFgjJec}
+{type:WriteWords|question:Olet ostanut liikaa tavaraa.|answer:You have bought too much stuff.|id:CWrKSshzwkdY}
+{type:AudioMatch|question:Listen and match|options:[lupa:bf4i6wiRt8og][luvata:lDhxqGOdMpJx][saanut:fkwCHkILa1Mz][syönyt:fT5wuvYMkW1j]|id:TxWH6X9ikgtb}
+{type:PickWords|question:Have you gone to work?|options:menneet,töihin,example term,Oletteko|answer:Olettekomenneettöihin?|id:P8cMA2j8Opd2}
+{type:Match|question:Select the matching words|options:[mennyt:have gone [singualr]][tehnyt:have done [singular]][antanut:have given [singular]][saaneet:have gotten [plural]]|id:UQ5OOFjmmQMq}
+{type:WriteWords|question:Have you done as you promised?|answer:Oletteko tehneet niin kuin lupasitte?|id:RxauWFIl1Mm9}
+{type:WriteWords|question:Olen eksynyt.|answer:I am lost.|id:xIkXxZtOUyay}
+{type:AudioMatch|question:Listen and match|options:[kappale:FhodYLzDAcbO][tullut:aTzWuUBmGSgU][nähneet:QAvAPNlpkeEo][ostaneet:VYyQymuwpVyN]|id:lhwrhcY78lUS}
+{type:PickWords|question:Oletko mennyt ihan sekaisin?|options:you,Have,gone,completely,example translation,nuts|answer:Haveyougonecompletelynuts?|id:vmOp0aXl6hEp}
+</lesson>
+<lesson:31|id:9HbFhMapEVDz>
+{type:Match|question:Select the matching words|options:[juoneet:have drunk [plural]][tullut:have come [singular]][kuulleet:have heard [plural]][odottanut:have waited [singular]]|id:bYIauZ64Qeny}
+{type:WriteWords|question:Sinä olet juonut liikaa.|answer:You have drunken too much.|id:I9Hov9ml7s3W}
+{type:WriteWords|question:Me olemme antaneet rahamme hyväntekeväisyyteen.|answer:We have given our money to charity.|id:R978R5IZONtz}
+{type:AudioMatch|question:Listen and match|options:[syöneet:Cse5XKkfGhIb][nähnyt:TcO6ZhStL3qk][eksyneet:UEXTwkU8jPWn][luvata:07vqc0In7e3n]|id:123bmJDTdTt3}
+{type:WriteWords|question:Hän on ostanut uuden tietokoneen.|answer:She has bought a new computer.|id:y7mZE186N29c}
+{type:SpellingPick|text:kuullut|options:[tavara][juonut][kuullut][nähneet]|answer:kuullut|id:MMdD78iL2ZFC}
+{type:WriteWords|question:I have already heard that song.|answer:Olen jo kuullut tuon kappaleen.|id:gnTJc23FLMDe}
+{type:PickMissingWord|question:Ystäväsi on mennyt ______ Kiinaan.|options:[lentokoneella][nähnyt][tullut][lupa]|answer:lentokoneella|id:m0vcuQ0Zk5HD}
+{type:WriteWords|question:permission [nom, gen]|answer:lupa, luvan|id:RnHReuEVG96V}
+{type:PickOne|question:syöneet|options:[naked][saviour][have eaten [plural]]|answer:have eaten [plural]|id:hSIYSEdJZCU4}
+{type:Match|question:Select the matching words|options:[saaneet:have gotten [plural]][odottanut:have waited [singular]][luvata:to promise][menneet:have gone [plural]]|id:WZx4Y5YI80Hz}
+{type:PickWords|question:Hän on antanut minulle toivoa.|options:hope,me,example translation,He,has,given|answer:Hehasgivenmehope.|id:5zL7aP22spZb}
+{type:SpellingPick|text:antaneet|options:[antaneet][alasti][kappale][menneet]|answer:antaneet|id:7oclLoN8eTme}
+{type:PickOneMeaning|question:The speaker is saying:|speech:tiikeri|options:[have waited [singular]][tiger][have come [plural]]|answer:tiger|id:VrHWfODQsKip}
+{type:PickWords|question:You have bought too much stuff.|options:Olet,example term,ostanut,liikaa,tavaraa|answer:Oletostanutliikaatavaraa.|id:Wbt0tU4IAN0F}
+{type:WriteWords|question:luvata, lupaan|answer:to promise, I promise|id:A9d7PJ4Zt3Pg}
+{type:WriteWords|question:I have heard the sound of a seal.|answer:Olen kuullut hylkeen äänen.|id:FZ3e1jjYKPOL}
+{type:AudioMatch|question:Listen and match|options:[kuullut:D0jeG6WexUtO][tehneet:SS7sc7CYO1rE][syönyt:swUjLOhmpNDz][alasti:9LscIlBETRgq]|id:tC17B8dOJmJh}
+{type:WriteWords|question:He has given me hope.|answer:Hän on antanut minulle toivoa.|id:kwYuAlOMxvc2}
+{type:PickMissingWord|question:______, lupaan|options:[saanut][odottaneet][menneet][luvata]|answer:luvata|id:wton7BV5s50R}
+</lesson>
+<lesson:32|id:uzSOyNY5WYM9>
+{type:PickWords|question:We have heard enough.|options:Me,olemme,example term,tarpeeksi,kuulleet|answer:Meolemmekuulleettarpeeksi.|id:MhQykElVY6o9}
+{type:WriteWords|question:He has gotten married.|answer:Hän on mennyt naimisiin.|id:LQawR61eC4D4}
+{type:PickMissingWord|question:Olen ostanut tietokoneelleni ______.|options:[pelastaja][varaosia][tehnyt][antanut]|answer:varaosia|id:Iw1DopX7aca7}
+{type:WriteWords|question:She has bought a new computer.|answer:Hän on ostanut uuden tietokoneen.|id:gv1DrGEC3EE6}
+{type:Match|question:Select the matching words|options:[odottaneet:have waited [plural]][tavara:stuff [singular]][nähneet:have seen [plural]][tiikeri:tiger]|id:bjxw2SHTDy41}
+{type:AudioMatch|question:Listen and match|options:[nähneet:s7sKRe0y3DAJ][tulleet:OG0s6xRJaq6A][tullut:niIrFwyQJEGu][juoneet:rLQzIR4jLKS2]|id:6hto8v9k6SXF}
+{type:WriteWords|question:Onko se mennyt pilalle?|answer:Has it gone bad?|id:SsON2nfeqQM6}
+{type:AudioMatch|question:Listen and match|options:[tiikeri:iBhyEfv3vwdc][antanut:vxgDVbX81FhC][tehneet:bubWWybtxeDH][ostaneet:mfNve3lxhMF1]|id:AIo4Fb0xUevD}
+{type:SpellingPick|text:eksynyt|options:[eksynyt][luvata][tiikeri][tavara]|answer:eksynyt|id:BnzOlPpdlAzP}
+{type:WriteWords|question:Olet mennyt sinne ilman lupaa.|answer:You have gone there without permission.|id:ktZRklZ7y6W0}
+{type:WriteWords|question:I have seen Cologne's cathedral.|answer:Olen nähnyt Kölnin tuomiokirkon.|id:VvU5VcLZwV6u}
+{type:Match|question:Select the matching words|options:[eksyneet:have gotten lost [plural]][eksynyt:have gotten lost [singular]][tehneet:have done [plural]][syöneet:have eaten [plural]]|id:HUPJnaZUetNL}
+{type:WriteWords|question:Olen mennyt sekaisin.|answer:I have gone nuts.|id:1pvDNdh5UlVH}
+{type:PickOne|question:lupa|options:[piece, song][have seen [plural]][permission]|answer:permission|id:xMRDY7ymE3hu}
+{type:WriteWords|question:Have you already eaten?|answer:Oletko jo syönyt?|id:ekghgQwNxfo2}
+{type:PickOneMeaning|question:The speaker is saying:|speech:tulleet|options:[have come [plural]][have gotten [singular]][have waited [singular]]|answer:have come [plural]|id:XRxqYEJAylaJ}
+{type:PickMissingWord|question:Työntekijä ______ ostanut uudet kengät.|options:[pelastaja][on][kuullut][menneet]|answer:on|id:YSeeYdH8AjEn}
+{type:PickWords|question:Työntekijä on ostanut uudet kengät.|options:employee,has,new,shoes,bought,The|answer:Theemployeehasboughtnewshoes.|id:VwJXAruynr4i}
+{type:WriteWords|question:Sinä olet saanut kaiken, mitä halusit.|answer:You have gotten everything you wanted.|id:kOSDcnYU61BT}
+{type:SpellingPick|text:tehneet|options:[juonut][odottanut][juoneet][tehneet]|answer:tehneet|id:JrbzOyQQhnx4}
+</lesson>
+<lesson:33|id:stJ2PJxDgGYv>
+{type:WriteWords|question:We have seen the world.|answer:Me olemme nähneet maailmaa.|id:sis2Dwj56wHo}
+{type:WriteWords|question:Olen ostanut tietokoneelleni varaosia.|answer:I have bought spare parts for my computer.|id:NUaDBgGUanVC}
+{type:AudioMatch|question:Listen and match|options:[syönyt:erGLMuHXCqVa][nähneet:x6ixKubEn8Rr][alasti:cihXTIkSvY45][luvata:4z9lChM3aCU5]|id:r7jDMgxhQHkK}
+{type:AudioMatch|question:Listen and match|options:[tehneet:Pr90jeF6pww4][tavara:lEhbRK2CEjup][tullut:fNoTiSe68eSd][tulleet:ZHONmst7nKOU]|id:uNt8niaPVL1N}
+{type:WriteWords|question:Hän on ostanut uuden tietokoneen.|answer:She has bought a new computer.|id:xBSwIL7geAhQ}
+{type:WriteWords|question:Hän on kuullut meidän musiikkimme.|answer:He has heard our music.|id:1dyr48nHNRER}
+{type:WriteWords|question:I have waited for you.|answer:Olen odottanut sinua.|id:AEuxblAnBqaT}
+{type:WriteWords|question:We have bought clothes.|answer:Me olemme ostaneet vaatteita.|id:we9RmRXsRY9j}
+{type:PickWords|question:Oletteko menneet töihin?|options:example translation,gone,to,work,Have,you|answer:Haveyougonetowork?|id:WUL7lQCFJD55}
+{type:WriteWords|question:Koira on odottanut minua koko päivän.|answer:The dog has waited for me the whole day.|id:Hk2rbeGoqqgM}
+{type:PickOneMeaning|question:The speaker is saying:|speech:kappale|options:[have done [singular]][piece, song][example translation]|answer:piece, song|id:Hqk8TuNNjNZq}
+{type:PickMissingWord|question:Olen mennyt ______.|options:[syöneet][sekaisin][tiikeri][saanut]|answer:sekaisin|id:U8yW12v6BCgi}
+{type:WriteWords|question:I have come to that conclusion.|answer:Olen tullut siihen tulokseen.|id:H6BaVT1YasSQ}
+{type:SpellingPick|text:odottanut|options:[eksyneet][mennyt][odottanut][antaneet]|answer:odottanut|id:I12zm6VMzCv7}
+{type:PickOne|question:tullut|options:[permission][have come [singular]][saviour]|answer:have come [singular]|id:OJEmMQr4GE5E}
+{type:PickMissingWord|question:Me olemme ______ metsässä.|options:[tullut][mennyt][tiikeri][eksyneet]|answer:eksyneet|id:FOnGXIZhiXij}
+{type:SpellingPick|text:ostaneet|options:[luvata][kappale][nähnyt][ostaneet]|answer:ostaneet|id:6BajbXzfYEYL}
+{type:WriteWords|question:You have bought too much stuff.|answer:Olet ostanut liikaa tavaraa.|id:AZBI0Zif3KQD}
+{type:Match|question:Select the matching words|options:[luvata:to promise][tiikeri:tiger][saaneet:have gotten [plural]][odottanut:have waited [singular]]|id:isdiiIy0Dpss}
+{type:PickWords|question:You have seen too little.|options:example term,Te,nähneet,olette,vähän,liian|answer:Teolettenähneetliianvähän.|id:MQc9AqCHccHV}
+{type:Match|question:Select the matching words|options:[juonut:have drunk [singular]][ostaneet:have bought [plural]][nähneet:have seen [plural]][mennyt:have gone [singualr]]|id:abwvKhAY3gFF}
+{type:WriteWords|question:Minä olen ostanut uuden tietokoneen.|answer:I have bought a new computer.|id:hIFtem0DJBQJ}
+</lesson>
+<lesson:34|id:9WaZMypTgCMW>
+{type:WriteWords|question:Olen nähnyt Kölnin tuomiokirkon.|answer:I have seen Cologne's cathedral.|id:ZWyXx1LMxYz4}
+{type:PickWords|question:Olen mennyt sekaisin.|options:I,nuts,gone,have,example translation|answer:Ihavegonenuts.|id:dFbufVKOTCFu}
+{type:WriteWords|question:Have you done as you promised?|answer:Oletteko tehneet niin kuin lupasitte?|id:GAK53nDW2vWF}
+{type:SpellingPick|text:eksynyt|options:[eksynyt][juonut][juoneet][antanut]|answer:eksynyt|id:ZXhDmP3TV7X4}
+{type:AudioMatch|question:Listen and match|options:[syönyt:5YkPCDZtehAn][kappale:UPLLp5Noc4rk][nähneet:2HQGzZ6su1pz][ostaneet:PZpPobLlhW0V]|id:qFQUpB4NBZeS}
+{type:AudioMatch|question:Listen and match|options:[tullut:EAVFcvnaJYzY][alasti:JFf54rCycAs7][juonut:JmggArKPTro5][tehneet:SWsQvWx7L0bG]|id:LbwbvrOBVW9e}
+{type:SpellingPick|text:tehneet|options:[nähnyt][kappale][eksyneet][tehneet]|answer:tehneet|id:98BL9bTGJCtO}
+{type:PickMissingWord|question:He ovat nähneet ______ alasti.|options:[minut][luvata][eksyneet][saanut]|answer:minut|id:SU1iD0h7CuVt}
+{type:WriteWords|question:He has seen a tiger in the forest.|answer:Hän on nähnyt metsässä tiikerin.|id:sChLi2ouvsqY}
+{type:PickWords|question:The dog has waited for me the whole day.|options:odottanut,päivän,on,minua,koko,Koira,example term|answer:Koiraonodottanutminuakokopäivän.|id:v036V0Kg39al}
+{type:WriteWords|question:He has come to the conclusion that it's too dangerous there.|answer:Hän on tullut siihen tulokseen, että siellä on liian vaarallista.|id:eVLrspgBlaFG}
+{type:WriteWords|question:I am lost.|answer:Olen eksynyt.|id:DZyAOZFALH2Q}
+{type:Match|question:Select the matching words|options:[tulleet:have come [plural]][eksynyt:have gotten lost [singular]][tavara:stuff [singular]][luvata:to promise]|id:zgOFLF3E4rEz}
+{type:PickOne|question:tulleet|options:[naked][have come [plural]][have come [singular]]|answer:have come [plural]|id:VdmqUUAdNB6h}
+{type:PickMissingWord|question:Te ______ juoneet maitoa.|options:[tulleet][kappale][eksynyt][olette]|answer:olette|id:25d43LBX4Hp0}
+{type:WriteWords|question:Te olette syöneet kaiken.|answer:You have eaten everything.|id:9Cp6BdomxED9}
+{type:WriteWords|question:He ovat jo menneet naimisiin.|answer:They have already gotten married.|id:PLFE89n6ip4T}
+{type:WriteWords|question:Me olemme eksyneet metsässä.|answer:We are lost in the woods.|id:2GkWNJ0SJRUu}
+{type:WriteWords|question:Oletteko kuulleet pelastajastamme?|answer:Have you all heard about our saviour?|id:h9YPu1Zzy1cw}
+{type:WriteWords|question:Have you already eaten?|answer:Oletko jo syönyt?|id:Y3tKhaqHsm9w}
+{type:Match|question:Select the matching words|options:[eksynyt:have gotten lost [singular]][menneet:have gone [plural]][syönyt:have eaten [singular]][tehnyt:have done [singular]]|id:yQn8PbewA3Qs}
+{type:PickOneMeaning|question:The speaker is saying:|speech:example term|options:[example translation][have drunk [singular]][have gotten [plural]]|answer:example translation|id:tuviOJS7QlrD}
+</lesson>
+<lesson:35|id:OPRQlrIksBDt>
+{type:SpellingPick|text:saaneet|options:[kuulleet][saaneet][syöneet][tehneet]|answer:saaneet|id:1xjtWahLU2jj}
+{type:AudioMatch|question:Listen and match|options:[antaneet:mw6pyOLxzaod][saaneet:d3XSpUh9tcH6][tulleet:pDaWTxuE9voz][ostaneet:bIIWiemxx8A7]|id:koIeoBCtGpWS}
+{type:WriteWords|question:Are you lost in the world of the internet?|answer:Oletko eksynyt internetin maailmaan?|id:hgzx0HjSdgMP}
+{type:AudioMatch|question:Listen and match|options:[luvata:ORz2Llt1ZOlY][syöneet:DUKhMKAjLUua][tiikeri:bGZaglqOGmWY][nähneet:ibU1nyzVliwv]|id:ur4tVK31a28N}
+{type:Match|question:Select the matching words|options:[syönyt:have eaten [singular]][ostaneet:have bought [plural]][syöneet:have eaten [plural]][juonut:have drunk [singular]]|id:1BAR89sQ5SwH}
+{type:WriteWords|question:We are lost in the woods.|answer:Me olemme eksyneet metsässä.|id:bGrC2pxNLkE4}
+{type:PickOneMeaning|question:The speaker is saying:|speech:luvata|options:[to promise][permission][saviour]|answer:to promise|id:ASjG5eC0uWXp}
+{type:Match|question:Select the matching words|options:[kappale:piece, song][odottaneet:have waited [plural]][syöneet:have eaten [plural]][tullut:have come [singular]]|id:WAxEndOw2O1L}
+{type:SpellingPick|text:eksyneet|options:[tavara][eksyneet][tehnyt][ostanut]|answer:eksyneet|id:B6KiTBSeDpaU}
+{type:PickMissingWord|question:______ eksynyt.|options:[mennyt][Olen][syöneet][syönyt]|answer:Olen|id:lQzVVFJyyYbx}
+{type:WriteWords|question:Te olette juoneet maitoa.|answer:You have drunken milk.|id:F0ndYK1SPhdy}
+{type:WriteWords|question:They have already gotten married.|answer:He ovat jo menneet naimisiin.|id:arV5M8B7goDX}
+{type:PickMissingWord|question:He ______ juoneet kaiken veden.|options:[alasti][ovat][pelastaja][kuullut]|answer:ovat|id:Jg6O5UJ27Gd8}
+{type:PickOne|question:nähnyt|options:[have gone [plural]][tiger][have seen [singular]]|answer:have seen [singular]|id:lmxJvPTWA10D}
+{type:PickWords|question:Have you heard about our saviour?|options:example term,pelastajastamme,Oletko,kuullut|answer:Oletkokuullutpelastajastamme?|id:9mYPD4Tyxfyq}
+{type:WriteWords|question:Me olemme saaneet palkkamme.|answer:We have gotten our pay.|id:SBcINtgLNUJX}
+{type:WriteWords|question:Hän on mennyt metsään yksin.|answer:She has gone into the forest alone.|id:r1ULpAiaPvn4}
+{type:WriteWords|question:Have you heard about our saviour?|answer:Oletko kuullut pelastajastamme?|id:TFWofE3CMpCu}
+{type:WriteWords|question:Te olette juoneet maitoa.|answer:You have drunken milk.|id:IbLciVio6uaX}
+{type:PickWords|question:Te olette juoneet maitoa.|options:drunken,milk,example translation,You,have|answer:Youhavedrunkenmilk.|id:2pegc5e7DhhV}
+{type:WriteWords|question:Me olemme antaneet rahamme hyväntekeväisyyteen.|answer:We have given our money to charity.|id:4SlrStdXL8wH}
+{type:WriteWords|question:I have made it ready.|answer:Minä olen tehnyt sen valmiiksi.|id:HkyYae82Rj17}
+</lesson>
+<lesson:36|id:3imKF9jOROrJ>
+{type:WriteWords|question:You have seen too much.|answer:Sinä olet nähnyt liikaa.|id:CuNCW9Xe1Q2y}
+{type:AudioMatch|question:Listen and match|options:[tulleet:9t2IL9OtW0OR][kuulleet:vq38m5LE2Koz][tehnyt:B3oI4ZTbZwyz][saaneet:OrMFc6O9k56r]|id:h1NDfnARtnN9}
+{type:WriteWords|question:Olemme odottaneet sinua.|answer:We have waited for you.|id:220fVpuGbGZu}
+{type:SpellingPick|text:odottaneet|options:[mennyt][odottaneet][odottanut][ostaneet]|answer:odottaneet|id:0Nf0Z57vAbPU}
+{type:PickOne|question:eksyneet|options:[have done [singular]][to promise][have gotten lost [plural]]|answer:have gotten lost [plural]|id:JpbykWgWJIrT}
+{type:WriteWords|question:Pomoni on kuullut kaiken.|answer:My boss has heard everything.|id:WrPUFYdfw5FU}
+{type:Match|question:Select the matching words|options:[saanut:have gotten [singular]][antaneet:have given [plural]][syönyt:have eaten [singular]][kappale:piece, song]|id:4xjRgpShnLTB}
+{type:WriteWords|question:Olen nähnyt hänet muutmaan kerran.|answer:I have seen her a few times.|id:erQfZq7IRGmu}
+{type:WriteWords|question:You have drunken milk.|answer:Te olette juoneet maitoa.|id:DSTTGSgLkFMY}
+{type:Match|question:Select the matching words|options:[ostanut:have bought [singular]][kappale:piece, song][nähnyt:have seen [singular]][eksyneet:have gotten lost [plural]]|id:SRAkovUIXXQi}
+{type:SpellingPick|text:tiikeri|options:[tullut][pelastaja][odottanut][tiikeri]|answer:tiikeri|id:VmmvT6KbZgcl}
+{type:AudioMatch|question:Listen and match|options:[kuullut:moXwJymreQyw][eksynyt:JRKN0pFcGOvt][eksyneet:SbpEBBHx50CJ][mennyt:PGQedCe1W2AB]|id:RDqZzeriQPLB}
+{type:WriteWords|question:Oletko jo syönyt?|answer:Have you already eaten?|id:IGWwP5D6L15T}
+{type:PickOneMeaning|question:The speaker is saying:|speech:mennyt|options:[have gotten [plural]][have drunk [plural]][have gone [singualr]]|answer:have gone [singualr]|id:Z9yQYP8EAFNd}
+{type:WriteWords|question:Are you lost in the world of the internet?|answer:Oletko eksynyt internetin maailmaan?|id:O5sxCqctATNe}
+{type:PickWords|question:to promise, I promise|options:lupaan,luvata|answer:luvata,lupaan|id:IP6UIphdhQnj}
+{type:PickMissingWord|question:______ mennyt liian pitkälle.|options:[Olet][menneet][tehneet][eksynyt]|answer:Olet|id:DLMbDIyQ51AO}
+{type:PickMissingWord|question:______ on ostanut uuden tietokoneen.|options:[ostaneet][saaneet][Hän][kuullut]|answer:Hän|id:lbvyNLGp4rpa}
+{type:WriteWords|question:Have you all heard about our saviour?|answer:Oletteko kuulleet pelastajastamme?|id:nfgqjpniHsKE}
+{type:WriteWords|question:Me olemme eksyneet metsässä.|answer:We are lost in the woods.|id:QBQCtOnb9Y4P}
+{type:WriteWords|question:Have you gone to the bar to drink again?|answer:Olenko mennyt taas baariin juomaan?|id:jV52ii5kGO6k}
+{type:PickWords|question:Hän on juonut itsensä humalaan.|options:herself,She,example translation,drunken,drunk,has|answer:Shehasdrunkenherselfdrunk.|id:nRGDBtcFETZf}
+</lesson>
+<lesson:37|id:fmIWdoESkmAF>
+{type:WriteWords|question:Have they come home already?|answer:Ovatko he tulleet jo kotiin?|id:tHDrkxVNjuuy}
+{type:WriteWords|question:He ovat nähneet minut alasti.|answer:They have seen me naked.|id:k2bEd3et32ys}
+{type:WriteWords|question:I have seen her a few times.|answer:Olen nähnyt hänet muutmaan kerran.|id:F8r8SCvdTZbE}
+{type:PickOne|question:odottanut|options:[have eaten [plural]][naked][have waited [singular]]|answer:have waited [singular]|id:4x8bGTMtdTBt}
+{type:PickMissingWord|question:Pomoni on ______ kaiken.|options:[kuullut][tehnyt][nähneet][lupa]|answer:kuullut|id:DpbSNDIlf5o4}
+{type:WriteWords|question:Minä olen ostanut uuden tietokoneen.|answer:I have bought a new computer.|id:AnQSXCh4QQEI}
+{type:WriteWords|question:We have seen the world.|answer:Me olemme nähneet maailmaa.|id:5IpUJzq4klGa}
+{type:AudioMatch|question:Listen and match|options:[nähneet:5U9lDpdcUt45][eksyneet:YgPx8RRK4r9g][kuulleet:4iH9Qmw5B1u7][syönyt:8abn2ZViIYoa]|id:QobWV1kU3w0T}
+{type:Match|question:Select the matching words|options:[alasti:naked][syöneet:have eaten [plural]][syönyt:have eaten [singular]][antanut:have given [singular]]|id:nThez55XJY2K}
+{type:WriteWords|question:He ovat juoneet kaiken veden.|answer:They have drunken all the water.|id:sOKAb4q1VSWL}
+{type:SpellingPick|text:kappale|options:[pelastaja][antanut][kappale][eksynyt]|answer:kappale|id:MHClKw5TK0gW}
+{type:PickWords|question:Ystäväsi on mennyt lentokoneella Kiinaan.|options:China,example translation,friend,gone,plane,to,has,Your,by|answer:YourfriendhasgonebyplanetoChina.|id:UCEXKzfTubZA}
+{type:PickOneMeaning|question:The speaker is saying:|speech:nähnyt|options:[have gotten lost [plural]][have seen [singular]][have eaten [singular]]|answer:have seen [singular]|id:4RtFFsbohj1V}
+{type:SpellingPick|text:saanut|options:[nähneet][tehneet][saanut][odottanut]|answer:saanut|id:y8DxRc3p9XYa}
+{type:WriteWords|question:Hän on ostanut uuden tietokoneen.|answer:She has bought a new computer.|id:tauNdjl4HSdt}
+{type:PickWords|question:We have given our money to charity.|options:olemme,rahamme,example term,hyväntekeväisyyteen,antaneet,Me|answer:Meolemmeantaneetrahammehyväntekeväisyyteen.|id:bz5PIZvkmq8Q}
+{type:AudioMatch|question:Listen and match|options:[luvata:pLeAUxvVRo8P][juonut:vMk0oV4cj153][tiikeri:9T6g6h5C0hwh][kappale:ar8d51xGZCsp]|id:9Qst0SeFJ6yt}
+{type:Match|question:Select the matching words|options:[ostaneet:have bought [plural]][alasti:naked][kuulleet:have heard [plural]][tiikeri:tiger]|id:0nULG9WyVQGA}
+{type:WriteWords|question:I have heard the sound of a seal.|answer:Olen kuullut hylkeen äänen.|id:63A78ZhJrUNc}
+{type:PickMissingWord|question:Minä olen antanut ______ siskolleni.|options:[luvata][kuullut][antanut][tietokoneeni]|answer:tietokoneeni|id:gTspE83S84if}
+{type:WriteWords|question:He has come to the conclusion that it's too dangerous there.|answer:Hän on tullut siihen tulokseen, että siellä on liian vaarallista.|id:Vg7um0mmYXhg}
+{type:WriteWords|question:Hän on kuullut meidän musiikkimme.|answer:He has heard our music.|id:ux4dDqRpTujT}
+</lesson>
+<lesson:38|id:gtkywygqpmcS>
+{type:PickOneMeaning|question:The speaker is saying:|speech:eksyneet|options:[have waited [singular]][have eaten [plural]][have gotten lost [plural]]|answer:have gotten lost [plural]|id:xb9jpphz1AYg}
+{type:WriteWords|question:You have drunken too much.|answer:Sinä olet juonut liikaa.|id:W3DCwMVe0qtq}
+{type:PickMissingWord|question:Minä olen syönyt ______ leipää.|options:[eksyneet][juonut][tehnyt][neljä]|answer:neljä|id:ihHgskv3T9EQ}
+{type:PickMissingWord|question:Oletko jo ______?|options:[ostanut][syönyt][juoneet][tulleet]|answer:syönyt|id:cOAX4vogxWkS}
+{type:SpellingPick|text:tullut|options:[eksynyt][luvata][antaneet][tullut]|answer:tullut|id:dlrJJQA4cDYg}
+{type:Match|question:Select the matching words|options:[kuullut:have heard [singular]][kuulleet:have heard [plural]][kappale:piece, song][alasti:naked]|id:7A7NPAwG6qNm}
+{type:WriteWords|question:Oletteko tulleet hyvin toimeen?|answer:Have you gotten by well?|id:0LyEpGyG5Bsg}
+{type:WriteWords|question:Have you done as you promised?|answer:Oletteko tehneet niin kuin lupasitte?|id:VwuxSf4iTEGy}
+{type:WriteWords|question:Oletko tullut tähän tulokseen yksin?|answer:Have you come to this conclusion alone?|id:YEUXRn96In8v}
+{type:PickWords|question:Olen nähnyt hänet muutmaan kerran.|options:I,few,a,seen,times,have,example translation,her|answer:Ihaveseenherafewtimes.|id:cFAzEAiDhVYW}
+{type:Match|question:Select the matching words|options:[odottaneet:have waited [plural]][menneet:have gone [plural]][mennyt:have gone [singualr]][odottanut:have waited [singular]]|id:NBKDD3ce7Qbg}
+{type:PickOne|question:ostaneet|options:[have bought [plural]][have seen [plural]][have gotten [singular]]|answer:have bought [plural]|id:MjdKwXUZuPyT}
+{type:PickWords|question:We have waited for you.|options:odottaneet,sinua,Olemme|answer:Olemmeodottaneetsinua.|id:WUnVlANc4T8t}
+{type:WriteWords|question:You have drunken too much.|answer:Sinä olet juonut liikaa.|id:cSqGg9bcN7DB}
+{type:AudioMatch|question:Listen and match|options:[kuulleet:tmuqloqkXBui][kuullut:UJXZGb0RA1Dq][syöneet:Xy8VXX6aW2Lh][juoneet:4ciYQJGIZfXx]|id:onOetnib7EOM}
+{type:AudioMatch|question:Listen and match|options:[syöneet:ybGbiwz2uzqB][ostanut:0ov6ulvaalBc][tehneet:fnLwADt901d4][kappale:pAo70mVAqc1W]|id:VGXtUfSkwBzk}
+{type:WriteWords|question:I have given her everything.|answer:Olen antanut hänelle kaiken.|id:qPkZJpHJtZkK}
+{type:WriteWords|question:Hän on mennyt metsään yksin.|answer:She has gone into the forest alone.|id:ZcPBauF6VkCW}
+{type:WriteWords|question:Minä olen saanut tietää siitä.|answer:I have found out about it.|id:8VHD7aNldGGY}
+{type:WriteWords|question:Työntekijä on ostanut uudet kengät.|answer:The employee has bought new shoes.|id:td7k7dQsiHOE}
+{type:SpellingPick|text:luvata|options:[lupa][luvata][tavara][kuullut]|answer:luvata|id:V51u67L2GVUh}
+{type:WriteWords|question:I don't know what they have heard.|answer:En tiedä, mitä he ovat kuulleet.|id:EItPGj9EP0PD}
+</lesson>
+<lesson:39|id:jVgFKicdSlQN>
+{type:WriteWords|question:Has it gone bad?|answer:Onko se mennyt pilalle?|id:lMq0gLGmwyNR}
+{type:AudioMatch|question:Listen and match|options:[nähnyt:P3mt5THDngQc][menneet:fopJYaia5dkr][tullut:TwTfsdN31xuv][mennyt:Jqeltpk6JafP]|id:VcQkd7aakIoV}
+{type:Match|question:Select the matching words|options:[mennyt:have gone [singualr]][tiikeri:tiger][pelastaja:saviour][nähneet:have seen [plural]]|id:0YVghJ13yrQG}
+{type:WriteWords|question:Minä olen saanut tietää siitä.|answer:I have found out about it.|id:bXikY8OUwYTK}
+{type:WriteWords|question:Me olemme tulleet hyvin toimeen.|answer:We have gotten by well.|id:7O45nixgn5AC}
+{type:WriteWords|question:Have you all heard about our saviour?|answer:Oletteko kuulleet pelastajastamme?|id:WdeZ8pXoT1gu}
+{type:WriteWords|question:Olen ostanut tietokoneelleni varaosia.|answer:I have bought spare parts for my computer.|id:88HFQZrZIRcm}
+{type:SpellingPick|text:kuullut|options:[tehnyt][kuullut][odottaneet][odottanut]|answer:kuullut|id:kmDItW6SU19A}
+{type:PickWords|question:We have heard enough.|options:Me,kuulleet,example term,olemme,tarpeeksi|answer:Meolemmekuulleettarpeeksi.|id:f2dJbl71TZ8a}
+{type:AudioMatch|question:Listen and match|options:[tehnyt:n2XN6PNoCHkh][kuullut:kUlA6TRtJ1Y7][tulleet:70vu0bzL2UEG][tehneet:biCJXuqToLEi]|id:ki0D0BP8ieCo}
+{type:WriteWords|question:He has given me hope.|answer:Hän on antanut minulle toivoa.|id:OJzuG0OggycP}
+{type:PickWords|question:Me olemme menneet töihin joka maanantai.|options:work,have,example translation,Monday,gone,every,We,to|answer:WehavegonetoworkeveryMonday.|id:rdjzW0iPtCV5}
+{type:PickOneMeaning|question:The speaker is saying:|speech:syöneet|options:[have eaten [plural]][have done [singular]][have given [plural]]|answer:have eaten [plural]|id:6OSGB5pCTWXv}
+{type:PickMissingWord|question:He ovat ______ kaiken veden.|options:[juoneet][menneet][alasti][tehneet]|answer:juoneet|id:Rv0xEqh8Fqtv}
+{type:WriteWords|question:We have gotten by well.|answer:Me olemme tulleet hyvin toimeen.|id:uzSl2vOuttAa}
+{type:WriteWords|question:Oletko jo syönyt?|answer:Have you already eaten?|id:ZP5iFPWJDrCe}
+{type:PickOne|question:mennyt|options:[have drunk [plural]][have gone [singualr]][naked]|answer:have gone [singualr]|id:xOfwYK8FBZqA}
+{type:WriteWords|question:They have seen me naked.|answer:He ovat nähneet minut alasti.|id:IMowuBfcd1Mx}
+{type:Match|question:Select the matching words|options:[juoneet:have drunk [plural]][tehnyt:have done [singular]][tehneet:have done [plural]][saanut:have gotten [singular]]|id:l6ITCHxu6ov5}
+{type:SpellingPick|text:tavara|options:[tavara][tiikeri][antaneet][nähneet]|answer:tavara|id:9p8xtDcx1zpq}
+{type:WriteWords|question:Sinä olet nähnyt liikaa.|answer:You have seen too much.|id:uo4O8KlqkRkC}
+{type:PickMissingWord|question:Me olemme kuulleet ______.|options:[kappale][mennyt][example term][tarpeeksi]|answer:tarpeeksi|id:eb0p74NdzNyX}
+</lesson>
+<lesson:40|id:dNqBsWAQxXeE>
+{type:WriteWords|question:You have drunken too much.|answer:Sinä olet juonut liikaa.|id:4FpGVNFEJfLJ}
+{type:WriteWords|question:Oletko mennyt ihan sekaisin?|answer:Have you gone completely nuts?|id:K0tfxnTXk51M}
+{type:PickWords|question:Sinä olet juonut liikaa.|options:too,example translation,have,You,much,drunken|answer:Youhavedrunkentoomuch.|id:aYUiKAOFpBWB}
+{type:PickOneMeaning|question:The speaker is saying:|speech:kuullut|options:[have heard [singular]][stuff [singular]][have drunk [singular]]|answer:have heard [singular]|id:JfE7ZDp73oof}
+{type:WriteWords|question:Hän on ostanut uuden tietokoneen.|answer:She has bought a new computer.|id:1JYOCbBNsEXH}
+{type:WriteWords|question:Have you gotten by well?|answer:Oletteko tulleet hyvin toimeen?|id:xQ6miGteV1uM}
+{type:Match|question:Select the matching words|options:[odottanut:have waited [singular]][eksyneet:have gotten lost [plural]][tullut:have come [singular]][juonut:have drunk [singular]]|id:dSQmUCgEXc3b}
+{type:PickMissingWord|question:Ovatko ______ tulleet jo kotiin?|options:[ostaneet][antanut][tiikeri][he]|answer:he|id:sRGa4X9PeFx9}
+{type:Match|question:Select the matching words|options:[juoneet:have drunk [plural]][nähneet:have seen [plural]][kappale:piece, song][eksynyt:have gotten lost [singular]]|id:CZe7RKfDvfiG}
+{type:AudioMatch|question:Listen and match|options:[nähneet:fajoDH2WlGlw][syöneet:H8r63tFJhCWS][tullut:bfNKG42sXfrZ][tehneet:ATB3mRGYi28C]|id:lukblK7xx2NL}
+{type:SpellingPick|text:mennyt|options:[ostanut][menneet][mennyt][juonut]|answer:mennyt|id:JeDBg0ZTdasz}
+{type:AudioMatch|question:Listen and match|options:[nähneet:viEpWdU02ipJ][juoneet:BSxVAj5GTbBh][juonut:sh2UQ35zeAl3][pelastaja:4C9ZcFcOTiI9]|id:Sb3WIAWKacba}
+{type:PickOne|question:tehneet|options:[have drunk [plural]][tiger][have done [plural]]|answer:have done [plural]|id:t0mt7gkpfvUs}
+{type:SpellingPick|text:ostanut|options:[ostanut][eksyneet][saanut][alasti]|answer:ostanut|id:kieneBXtJJJe}
+{type:WriteWords|question:Have you gotten by well?|answer:Oletteko tulleet hyvin toimeen?|id:tOrKqwt2kfIG}
+{type:WriteWords|question:They have already gotten married.|answer:He ovat jo menneet naimisiin.|id:W6uKteAao5lj}
+{type:PickWords|question:Have you gone completely nuts?|options:Oletko,example term,ihan,sekaisin,mennyt|answer:Oletkomennytihansekaisin?|id:rwfSMZmW3VKm}
+{type:WriteWords|question:Minä olen saanut tietää siitä.|answer:I have found out about it.|id:5TD6eIQ27RXY}
+{type:PickMissingWord|question:Me ______ kuulleet tarpeeksi.|options:[alasti][olemme][juonut][example term]|answer:olemme|id:OvvoxzbK5P6e}
+{type:WriteWords|question:Have you already eaten?|answer:Oletko jo syönyt?|id:iDfFerRWuG9w}
+{type:WriteWords|question:Te olette nähneet liian vähän.|answer:You have seen too little.|id:g9WsSw3qoH3e}
+{type:WriteWords|question:Koira on odottanut minua koko päivän.|answer:The dog has waited for me the whole day.|id:Yc2RBMzXEjbo}
+</lesson>
+</skill>
+<skill:Conditional|image:train|lessonsperlevel:3|strokecolor:51,105,30|fillcolor:174,213,129|position:3|description:Enter skill description here.|id:VumX6tCo3cLr>
+<lesson:1|id:ROqIbL5J3rPD>
+{type:PickOne|question:New PickOne Question?|options:[Option A][Option B][Option C]|answer:Option A|id:4jr3DNstByad}
+{type:FlashCard|front:New FlashCard Front|back:New FlashCard Back|id:vrAVH0I2KReJ}
+</lesson>
+</skill>
+<skill:Making plans|image:handshake|lessonsperlevel:3|strokecolor:46,125,50|fillcolor:129,199,132|position:7|description:Enter skill description here.|id:3owcXr73g5lt>
+<lesson:1|id:9L0LeXaeUWEO>
+{type:PickOne|question:New PickOne Question?|options:[Option A][Option B][Option C]|answer:Option A|id:AJrYK8rRTpV5}
+{type:FlashCard|front:New FlashCard Front|back:New FlashCard Back|id:qkUrEOPi6Dib}
+</lesson>
+</skill>
+<skill:As and into something|image:cat|lessonsperlevel:3|strokecolor:255,205,210|fillcolor:229,115,115|position:4|description:Enter skill description here.|id:nod8Bii1spi7>
+<lesson:1|id:OOZ26QEj6pDa>
+{type:PickOne|question:New PickOne Question?|options:[Option A][Option B][Option C]|answer:Option A|id:GnC3kxptRKqJ}
+{type:FlashCard|front:New FlashCard Front|back:New FlashCard Back|id:OmzTx2bBxf4H}
+</lesson>
+</skill>
+<skill:Hospital|image:id-card|lessonsperlevel:3|strokecolor:65,71,155|fillcolor:187,222,251|position:10|description:Enter skill description here.|id:O9RTdt3b37h6>
+<lesson:1|id:LLrk6Npds8vb>
+{type:PickOne|question:New PickOne Question?|options:[Option A][Option B][Option C]|answer:Option A|id:9AEKyeMokTD3}
+{type:FlashCard|front:New FlashCard Front|back:New FlashCard Back|id:GRpRmpxBGaaO}
+</lesson>
+</skill>
+<skill:Bodyparts|image:ask-for-help|lessonsperlevel:3|strokecolor:65,71,155|fillcolor:176,190,197|position:11|description:Enter skill description here.|id:tPni0uL8umuW>
+<lesson:1|id:fGoVZqDBX97Y>
+{type:PickOne|question:New PickOne Question?|options:[Option A][Option B][Option C]|answer:Option A|id:WX7SmUoyUAOh}
+{type:FlashCard|front:New FlashCard Front|back:New FlashCard Back|id:bDgSe3vtuMQu}
+</lesson>
+</skill>
+<skill:At the doctor's|image:doctor|lessonsperlevel:3|strokecolor:126,87,194|fillcolor:179,157,219|position:7|description:Enter skill description here.|id:FC1jCmPsjjoN>
+<lesson:1|id:UlwhwnJeu6Pg>
+{type:PickOne|question:New PickOne Question?|options:[Option A][Option B][Option C]|answer:Option A|id:C16UGuDjv92i}
+{type:FlashCard|front:New FlashCard Front|back:New FlashCard Back|id:bRPaeieiUjXg}
+</lesson>
+</skill>
+<skill:Food and cooking|image:bread|lessonsperlevel:3|strokecolor:141,110,99|fillcolor:255,205,210|position:8|description:Enter skill description here.|id:w5SeFogR3FFS>
+<lesson:1|id:a8IYL28FFWYB>
+{type:PickOne|question:New PickOne Question?|options:[Option A][Option B][Option C]|answer:Option A|id:8KSDZKYIBP1z}
+{type:FlashCard|front:New FlashCard Front|back:New FlashCard Back|id:84s55GwjPgAn}
+</lesson>
+</skill>
+<skill:Makeup and cosmetics|image:morning|lessonsperlevel:3|strokecolor:171,71,188|fillcolor:225,190,231|position:9|description:Enter skill description here.|id:K3T1X7OtrZaI>
+<lesson:1|id:tm4AVROpKClv>
+{type:PickOne|question:New PickOne Question?|options:[Option A][Option B][Option C]|answer:Option A|id:u8X0RumyQhYD}
+{type:FlashCard|front:New FlashCard Front|back:New FlashCard Back|id:I7KGLPSkI5TK}
+</lesson>
+</skill>
+<skill:Clothes|image:christmas|lessonsperlevel:3|strokecolor:136,14,79|fillcolor:176,190,197|position:10|description:Enter skill description here.|id:TVDFA6VqPGuv>
+<lesson:1|id:x2CwZRps76rz>
+{type:PickOne|question:New PickOne Question?|options:[Option A][Option B][Option C]|answer:Option A|id:4J17JDoeWhtR}
+{type:FlashCard|front:New FlashCard Front|back:New FlashCard Back|id:g8uY9KtiSrgT}
+</lesson>
+</skill>
+<skill:Weather|image:cloudy|lessonsperlevel:3|strokecolor:144,202,249|fillcolor:100,181,246|position:10|description:Enter skill description here.|id:ecUbVbGwZnXC>
+<lesson:1|id:3auqU1FvmXZ6>
+{type:PickOne|question:New PickOne Question?|options:[Option A][Option B][Option C]|answer:Option A|id:jZML346ScU6R}
+{type:FlashCard|front:New FlashCard Front|back:New FlashCard Back|id:fOean2mvUaPF}
+</lesson>
+</skill>
+<skill:Travelling|image:airport|lessonsperlevel:3|strokecolor:65,71,155|fillcolor:100,181,246|position:11|description:Enter skill description here.|id:mJhcloEM9btf>
+<lesson:1|id:eZtOvO9sbNpi>
+{type:PickOne|question:New PickOne Question?|options:[Option A][Option B][Option C]|answer:Option A|id:bjHfpZOo8QgG}
+{type:FlashCard|front:New FlashCard Front|back:New FlashCard Back|id:jb1HYuiVOOnH}
+</lesson>
+</skill>
+<skill:Hobbies|image:book|lessonsperlevel:3|strokecolor:78,52,46|fillcolor:141,110,99|position:12|description:Enter skill description here.|id:L2pGWdDqe2kC>
+<lesson:1|id:vnuiJKEO76s4>
+{type:PickOne|question:New PickOne Question?|options:[Option A][Option B][Option C]|answer:Option A|id:nH4v1rITgqUM}
+{type:FlashCard|front:New FlashCard Front|back:New FlashCard Back|id:8CpnGMfwsgLh}
+</lesson>
+</skill>
+<skill:Expressing future tense|image:afternoon|lessonsperlevel:3|strokecolor:41,182,246|fillcolor:255,202,40|position:14|description:Enter skill description here.|id:lwc4UqJYsNyU>
+<lesson:1|id:qj4VQAVVvI4H>
+{type:PickOne|question:New PickOne Question?|options:[Option A][Option B][Option C]|answer:Option A|id:bmGlZ2pUKizL}
+{type:FlashCard|front:New FlashCard Front|back:New FlashCard Back|id:UlG3FzPniuv0}
+</lesson>
+</skill>
+<skill:At school|image:teacher|lessonsperlevel:3|strokecolor:78,52,46|fillcolor:161,136,127|position:16|description:Enter skill description here.|id:AHIC8wwNE8yE>
+<lesson:1|id:qzEtzIRNbufq>
+{type:PickOne|question:New PickOne Question?|options:[Option A][Option B][Option C]|answer:Option A|id:8SMPUUus1J7v}
+{type:FlashCard|front:New FlashCard Front|back:New FlashCard Back|id:K5aBN9udF7Ce}
+</lesson>
+</skill>
+<skill:Sports|image:water-bottle|lessonsperlevel:3|strokecolor:65,71,155|fillcolor:255,183,77|position:17|description:Enter skill description here.|id:Xrq931WQKwky>
+<lesson:1|id:bota3LO1016h>
+{type:PickOne|question:New PickOne Question?|options:[Option A][Option B][Option C]|answer:Option A|id:J1SCk6WOSKjn}
+{type:FlashCard|front:New FlashCard Front|back:New FlashCard Back|id:nA71MHdcocXY}
+</lesson>
+</skill>
+<skill:In jail|image:goodbye|lessonsperlevel:3|strokecolor:63,81,181|fillcolor:69,90,100|position:22|description:Enter skill description here.|id:UAvzuNhoAY8y>
+<lesson:1|id:xVvvBVJicoIb>
+{type:PickOne|question:New PickOne Question?|options:[Option A][Option B][Option C]|answer:Option A|id:yzY6lTeff2MK}
+{type:FlashCard|front:New FlashCard Front|back:New FlashCard Back|id:TFjgFh0akZ5i}
+</lesson>
+</skill>
+</unit>

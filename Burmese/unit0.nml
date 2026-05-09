@@ -1,0 +1,127 @@
+<unit:0>
+<skill:The Consonants|image:blocks|lessonsperlevel:3|strokecolor:229,57,53|fillcolor:102,187,106|position:0|description:In this skill, you'll learn basic Burmese consonants.|id:i0McOBXitiGl>
+<lesson:1|id:HT6ALzbbAHcE>
+{type:FlashCard|front:က|back:ka (ka kyí)|id:GQaFnfmNVOzL}
+{type:FlashCard|front:ခ|back:kha (kha kwé)|id:cY9dXj8QAHTx}
+{type:AudioMatch|question:Match the pairs|options:[ka:audio_match_id1][kha:audio_match_id2][ga:pBHkGEfhEz4B0K5JOg][nga:G5C22UPhE7h3q6KOA7]|id:TW0FMxRNvijh}
+{type:FlashCard|front:ဂ|back:ga (ga ngè)|id:lkqVpquJycz3}
+{type:FlashCard|front:င|back:nga (nga)|id:fniyfcYWZ4Ip}
+{type:PickOneAudio|question:Which audio is ဂ?|options:[audio_id_1a][audio_id_1b][audio_id_1c]|answer:audio_id_1c|id:h6WSercpY5L4}
+{type:PickWords|question:က ခ င ဂ|options:[ka ga nga ha][ka kha nga ya][ka kha nga ga][ka kha na ga]|answer:ka kha nga ga|answerviewable:က ka , ခ kha , င nga , ဂ ga|id:ngd5POiLBFfJ}
+{type:FlashCard|front:စ|back:sa (sa lóun)|id:D82OxNQTCAY2}
+{type:FlashCard|front:ဆ|back:sa (sa làin)|id:U3uKZxX3lJZN}
+{type:PickOne|question:စ ဂ င ခ|options:[sa ga nga kha][kha ka sa nga][nga sa ga kha]|answer:sa ga nga kha|id:8DZ7fmd2Ly0S}
+{type:Match|question:Match the pairs:|options:[က:ka][ဂ:ga][စ or ဆ:sa][င:nga]|id:mktEQEYhdWdf}
+{type:PickOne|question:Which letter has the same sound as ဆ?|options:[ခ][င][စ]|answer:စ|id:B9DbChXFlJ1F}
+</lesson>
+<lesson:2|id:UwQ6J70JlHie>
+{type:FlashCard|front:ဇ|back:za (za gwé)|id:A2hQMNMTlOsY}
+{type:FlashCard|front:ည|back:nya (nya)|id:eVBeHDF455It}
+{type:PickOne|question:Which one is za?|options:[က][ဇ][ဂ]|answer:ဇ|id:NXuOAW7nKWbn}
+{type:FlashCard|front:တ|back:ta (ta wán pù)|id:3ZKaFviAl1rF}
+{type:FlashCard|front:ထ|back:hta (hta sìn htó)|id:BpacP67ykwiJ}
+{type:PickOneAudio|question:Which audio is ta?|options:[audio_id_1a][audio_id_1b][audio_id_1c]|answer:audio_id_1b|id:aZG1c6NEgKD0}
+{type:Match|question:Match the pairs:|options:[ဇ:za][ည:nya][တ:ta][ထ:hta]|id:XxfwruprKuZR}
+{type:FlashCard|front:ဒ|back:da (da dwáy)|id:uB90D3fWtaV6}
+{type:FlashCard|front:ဓ|back:da (da out chait)|id:lme0ujKRsjEK}
+{type:PickOne|question:Which letter has the same sound as ဒ?|options:[ထ][ဓ][ည]|answer:ဓ|id:D0VS4gMta9WZ}
+{type:Match|question:Match the pairs:|options:[က:ka][တ:ta][ည:nya][င:nga]|id:D2nlAXHuIaSo}
+</lesson>
+<lesson:3|id:ppPwMmAoAdPx>
+{type:PickOne|question:How do you say ည (night) in Burmese?|options:[nga][nya][ka]|answer:nya|id:PfLGiDniyqmY}
+{type:FlashCard|front:န|back:na (na ngè)|id:n6KJwPCFHTe4}
+{type:FlashCard|front:ပ|back:pa (pa sout)|id:sysQs9Zbfz0Y}
+{type:PickOne|question:Which one is ပ?|options:[pa][ba][pha]|answer:pa|id:6hzLwfDQ5fCL}
+{type:FlashCard|front:ဖ|back:pha (pha ú htoat)|id:SFmQAWuKDvtS}
+{type:FlashCard|front:ဗ|back:ba (ba htet chait)|id:xL5GtwvDXk8f}
+{type:FlashCard|front:ဘ|back:ba (ba kóun)|id:BTtfb4N33gxT}
+{type:PickOne|question:Which letter has the same sound as ဗ?|options:[ဘ][ဖ][ပ]|answer:ဘ|id:BKJZvwILTD7f}
+{type:FlashCard|front:မ|back:ma (ma)|id:bxuVYSQyXtF1}
+{type:Match|question:Match the pairs:|options:[န:na][ပ:pa][ဖ:pha][မ:ma]|id:2yo0Wk1xO7cR}
+{type:PickWords|question:ပထမ (first)|options:[pa ma na][pa hta ma][ma ma ka][ba ba hta]|answer:pa hta ma|answerviewable:ပ - pa , ထ - hta , မ - ma|id:27B6IzlPR4MB}
+</lesson>
+<lesson:4|id:0f3ZBu6YCgU5>
+{type:PickOne|question:How do you say မမ (older sister) in Burmese?|options:[pa pa][ma ma][hta hta]|answer:ma ma|id:LMc1JbTmBEvR}
+{type:FlashCard|front:ယ|back:ya (ya pet let)|id:2R4sh49FSUer}
+{type:FlashCard|front:ရ|back:ya , sometimes it's ra (ya kout)|id:CAwpbP4FCDDx}
+{type:PickOne|question:Which letter has the same sound as ယ ?|options:[ပ][ရ][လ]|answer:ရ|id:QO5b5GZvrB95}
+{type:FlashCard|front:လ|back:la (la)|id:xHqijVMipJ0b}
+{type:FlashCard|front:ဝ|back:wa (wa lóun)|id:WXp1dkWxTcGZ}
+{type:FlashCard|front:သ|back:tha (tha)|id:z5EnkCs5bjPj}
+{type:FlashCard|front:ဟ|back:ha (ha)|id:VBvJdqQAN4RD}
+{type:Match|question:Match the pairs:|options:[လ:la][ဝ:wa][သ:tha][ဟ:ha]|id:kLUMnUP0rU7U}
+{type:FlashCard|front:အ|back:a (a)|id:Bxph02Td6oEL}
+</lesson>
+<lesson:5|id:gWjQZQRf7aqG>
+{type:PickOne|question:ဗလ|options:[ba la][da la][wa tha]|answer:ba la|id:93e1lp0MAZcO}
+{type:FlashCard|front:ရသ (ra tha)|back:amusement , (in art) flavor, taste|id:K4rrNQdxiXEc}
+{type:FlashCard|front:မမ က!|back:Older sister, dance!|id:Eb9jEsKgyaSF}
+{type:Match|question:Match the pairs:|options:[က:ka][ခ:kha][ဂ:ga][င:nga]|id:43dxxiF2VyWK}
+{type:Match|question:Match the pairs:|options:[စ or ဆ:sa][ဇ:za][ည:nya][တ:ta]|id:toNnZ6GEd6Sz}
+{type:PickOne|question:Pick what you hear|options:[ဘဘ ထ][မထရ][မမ က]|answer:ဘဘ ထ|id:t7KJc8TifqnL}
+{type:Match|question:Match the pairs:|options:[ထ:hta][ဒ or ဓ:da][န:na][ပ:pa]|id:foIDh32IFNyv}
+{type:Match|question:Match the pairs:|options:[ဖ:pha][ဗ or ဘ:ba][မ:ma][ယ or ရ:ya]|id:6LVi5i5hPYkN}
+{type:Match|question:Match the pairs:|options:[လ:la][ဝ:wa][သ:tha][ဟ:ha]|id:V0V5Q97Tu6JQ}
+{type:PickOne|question:အ|options:[ba][ka][a]|answer:a|id:pK0tQMYQHXd6}
+</lesson>
+</skill>
+<skill:အ အာ အား|image:apple|lessonsperlevel:3|strokecolor:249,168,37|fillcolor:129,199,132|position:1|description:In this lessons, you'll learn how to say အ အာ အား 3 tones of a  in Burmese.|id:NzAdRNhv7Tjr>
+<lesson:1|id:RKWhkRbEKS8Y>
+{type:FlashCard|front:ာ|back:Its name is ရေးချ (yáy cha)|id:unknown_question_1750155611755}
+{type:FlashCard|front:ကာ ( က + ာ )|back:kà|id:EDzI0BiqKVjA}
+{type:FlashCard|front:စာ (sà)|back:letter|id:9CMrxFXDHqAl}
+{type:FlashCard|front:မာ|back:mà|id:djazjOFkTHWO}
+{type:FlashCard|front:လာ|back:là|id:PYg9N9nDyOFF}
+{type:WriteWords|question:Write ma ma mà là in Burmese script|answer:မမမာလာ#မမ မာလာ|answerviewable:မမမာလာ|special:[မ (ma) , မာ (mà) , လာ (là)]|id:UFcn2aluXf23}
+{type:PickOne|question:နာ|options:[hà][nà][bà]|answer:hà|id:EuOSTVfy5c5p}
+{type:PickOneAudio|question:ဆရာမ (female teacher)|options:[audio_id_1a][audio_id_1b][audio_id_1c]|answer:audio_id_1a|id:jsYtWLjvQAre}
+{type:FlashCard|front:ါ|back:Its name is မောက်ချ (mout cha) and it is the same vowel as ာ - ရေးချ (yày cha). But this one is only for ခ ၊ ဂ ၊ င ၊ ဒ ၊ ပ and ဝ .|id:D71OJ9Zy1PAw}
+{type:FlashCard|front:ခါ (khà)|back:(verb) to shake|id:9EFo2z7Ye5RE}
+{type:FlashCard|front:ငါ (ngà)|back:I (informal)|id:dcWPs1yu451n}
+{type:Match|question:Match the pairs:|options:[ညာ:nyà][တာ:tà][ဒါ:dà][ဟာ:hà]|id:oAYn1m3aKeNa}
+{type:Match|question:Match the pairs:|options:[ဂါ:gà][ဇာ:zà][ထာ:htà][ပါ:pà]|id:hKpzAHVO4pbm}
+</lesson>
+<lesson:2|id:1IeZTbTjLpE7>
+{type:FlashCard|front:း|back:Its name is ဝစ္စပေါက် (wit sàn pout)|id:unknown_question_1750155611762}
+{type:FlashCard|front:ကား (ká)|back:car|id:tXbIOe8YWMfc}
+{type:FlashCard|front:ခါး (khá)|back:back of the body, (verb) to be bitter|id:MgbLN7NiEN99}
+{type:FlashCard|front:လား|back:lá|id:lnTAi7U4T0XH}
+{type:WriteWords|question:Write mà mà ka pà lá in Burmese|answer:မမကပါလား#မမ ကပါလား|answerviewable:မမကပါလား|special:[မမကပါလား = older sister, why don't you dance]|id:PhNrgiIUrp9O}
+{type:FlashCard|front:အ အာ အား|back:a à á|id:T3MeweRacNzz}
+{type:Match|question:Match the pairs:|options:[န နာ နား:na nà ná][ပ ပါ ပါး:pa pà pá][မ မာ မား:ma mà má][င ငါ ငါး:nga ngà ngá]|id:IweimdvKStVV}
+{type:PickOne|question:Which one is ga gà gá?|options:[ဂ ဂါ ဂါး][ခ ခါ ခါး][တ တာ တား]|answer:ဂ ဂါ ဂါး|id:6P2BwGUn8tvq}
+{type:PickWords|question:ရ ရာ ရား|options:[na nà ná][ya yà yá][ha hà há][sa sà sá]|answer:ya yà yá|answerviewable:ရ (ya), ရာ (yà) , ရား (yá)|id:YPWwG43iBfZZ}
+{type:PickMissingWord|question:Pick the missing word ဇ __ ဇား|options:[ဇာ][စာ][မာ]|answer:ဇာ|id:w2zit1G2v5KJ}
+{type:PickOne|question:How do you say ငါး (five or fish) in Burmese?|options:[khá][gá][ngà]|answer:ngà|id:Hc9N3YGzfU4o}
+</lesson>
+<lesson:3|id:6DhmlQfZwQ5X>
+{type:PickOne|question:How do you say ည ညာ ညား in Burmese?|options:[ga gà gá][nga ngà ngá][nya nyà nyá]|answer:nya nyà nyá|id:w7DF8YQcjBWy}
+{type:FlashCard|front:ရထား (ya htá)|back:train , chariot , carriage|id:OZZNKwg6Sdbj}
+{type:FlashCard|front:စပါး (za bá)|id:unknown_question_1750318025058}
+{type:FlashCard|front:ကစား (ga zá)|id:unknown_question_1750318025058}
+{type:FlashCard|front:ကစားမလား|id:unknown_question_1750318025058}
+{type:Match|question:Match the pairs:|options:[Term 1:Definition 1][Term 2:Definition 2]|id:B9l2SB1oXkAg}
+{type:FlashCard|front:နား (ná)|back:(noun) ear, (verb) rest|id:73Y9hpzixYrd}
+{type:PickOne|question:How to say “ would you like to rest? ” in Burmese|options:[နားမလား][စားမလား][တားမလား]|answer:နားမလား|id:Fygyy9B6R9jP}
+{type:PickOne|question:How do you say " food " in Burmese?|options:[စားစရာ][ကစားစရာ][မမ မာလာ]|answer:စားစရာ|id:3M5yCQN0uhoy}
+{type:PickOne|question:Translate “ (female) Teacher, are you free? " into Burmese|options:[ဆရာမ အားလား][ညအခါ လာသာသာ][ကစားမလား]|answer:ဆရာမ အားလား|id:RyBi3ObvRmtA}
+</lesson>
+</skill>
+<skill:အိ အီ အီး|image:apple|lessonsperlevel:3|strokecolor:65,71,155|fillcolor:255,75,85|position:2|description:Enter skill description here.|id:UY1qiqSRSXQw>
+<lesson:1|id:IqGQlXRL0NZl>
+{type:FlashCard|front:ိ|back:Its name is lóun gyí tìn|id:8zdu9xCIKUDE}
+</lesson>
+</skill>
+<skill:အု အူ အူး|image:apple|lessonsperlevel:3|strokecolor:65,71,155|fillcolor:255,75,85|position:3|description:Enter skill description here.|id:kw3EQAmv6fOw>
+<lesson:1|id:bzvTERaCsm3a>
+{type:PickOne|question:New PickOne Question?|options:[Option A][Option B][Option C]|answer:Option A|id:XNcsujpg98Mq}
+{type:FlashCard|front:New FlashCard Front|back:New FlashCard Back|id:Yw8wJ79JOVOz}
+</lesson>
+</skill>
+<skill:New Skill|image:apple|lessonsperlevel:3|strokecolor:65,71,155|fillcolor:255,75,85|position:4|description:Enter skill description here.|id:bk9Zshokd1fV>
+<lesson:1|id:ajtXCBoiS5V9>
+{type:PickOne|question:New PickOne Question?|options:[Option A][Option B][Option C]|answer:Option A|id:oZ5hQ5xsE6cM}
+{type:FlashCard|front:New FlashCard Front|back:New FlashCard Back|id:dz23mElDQDCA}
+</lesson>
+</skill>
+</unit>

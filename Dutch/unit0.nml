@@ -1,0 +1,272 @@
+<unit:0>
+<skill:Basic words and phrases|image:netherlands|lessonsperlevel:3|strokecolor:183,28,28|fillcolor:240,98,146|position:0|description:A couple of basic words and phrases to get you started.|id:W2xf1aRFsHQw>
+<lesson:1|id:YtudXC38lylf>
+{type:FlashCard|front:Good evening|back:Goedenavond|id:BsLrIDuO2pK6}
+{type:ImagePick|question:Mevrouw|options:[Hello:bread][No:bread][Good evening:bread][Madam:bread]|answerCount:1|answer:Madam|answercount:1|id:ZswiznfjWLqc}
+{type:FlashCard|front:Goedenavond|back:Good evening|id:Flxwt9gDDcOq}
+{type:PickOne|question:Mevrouw|options:[FallbackOpt2][Madam][FallbackOpt1]|answer:Madam|id:A9hgf2IAWO22}
+{type:AudioMatch|question:Listen and match|options:[Mevrouw:a2W5Juj44yxe][Nee:SJa6L44cXmmg][Dankjewel:nLD2xJOFRKQT][Meneer:VHiiwQINRwUL]|id:azHTrT9fBHJx}
+{type:SpellingPick|text:Ja|options:[Goedemorgen][Meneer][Ja][Dankjewel]|answer:Ja|id:4BbVjA2bayAh}
+{type:AudioMatch|question:Listen and match|options:[Dankjewel:YKDN401tRwbe][Ja:6B7BFoK5QR3o][Goedenavond:ym0gwjUhGOsu][Hallo:s8JfY63iSBeg]|id:LuYt0e3Zb9OC}
+{type:AudioMatch|question:Listen and match|options:[Dankjewel:KIBJ9znAgXW2][Mevrouw:2E0ErmyXYqUr][Goedenavond:Zusm8PLuG7aZ][Meneer:sakGHfOF5Ia2]|id:ztAEB7vqhnIB}
+{type:ImagePick|question:Goedemorgen|options:[Mister:bread][Hello:bread][Good morning:bread][Thank you:bread]|answerCount:1|answer:Good morning|answercount:1|id:8FaWSq5w4eog}
+{type:PickOne|question:Mevrouw|options:[Meneer][Kind][Madam]|answer:Madam|id:bQKYBUBGdpdb}
+{type:ImagePick|question:Mevrouw|options:[Madam:bread][Hello:bread][Thank you:bread][Good morning:bread]|answerCount:1|answer:Madam|answercount:1|id:1uQ39z3gccc4}
+{type:PickOne|question:Goedenavond|options:[FallbackOpt1][FallbackOpt2][Good evening]|answer:Good evening|id:LMeLkX5M0hnN}
+{type:ImagePick|question:Goedenavond|options:[Good evening:bread][Madam:bread][Good morning:bread][Yes:bread]|answerCount:1|answer:Good evening|answercount:1|id:gTyZk4aGQWFv}
+{type:AudioMatch|question:Listen and match|options:[Nee:Ic7sXOZv3S7c][Hallo:sYU2ryO0BKcL][Goedemorgen:ij8W6RC6PISg][Ja:6Xm446MgXHBc]|id:BUGYh0dTSZbT}
+{type:ImagePick|question:Goedemorgen|options:[Hello:bread][Good morning:bread][Yes:bread][No:bread]|answerCount:1|answer:Good morning|answercount:1|id:v8AnNCV2jdFA}
+{type:PickOneMeaning|question:The speaker is saying:|speech:Goedenavond|options:[Mister][Good evening][Madam]|answer:Good evening|id:GrIxu79GLG7K}
+{type:PickOne|question:Goedenavond|options:[Good morning][Good evening][Good afternoon]|answer:Good evening|id:Y1ZtdWNVehd2}
+{type:FlashCard|front:Good morning|back:Goedemorgen|id:twiqdZdN0y36}
+{type:SpellingPick|text:Goedenavond|options:[Goedemorgen][Goedenavond][Hallo][Ja]|answer:Goedenavond|id:9G6IFduPVQ4Y}
+{type:AudioMatch|question:Listen and match|options:[Meneer:IHxT3llNgtMY][Goedenavond:GAij3pP4t2y1][Nee:InSXOSeVhCqK][Hallo:LfMGvxYLL3qn]|id:FjTqTvSN5xLI}
+</lesson>
+<lesson:2|id:ps9TBswz0ZKe>
+{type:PickOne|question:Hallo|options:[Hello][Doei][Goedemorgen]|answer:Hello|id:qLx21Q2Z5oxX}
+{type:PickOne|question:Goedemorgen|options:[Good morning][Good evening][Hello]|answer:Good morning|id:VDCTzL86sqjO}
+{type:SpellingPick|text:Mevrouw|options:[Goedemorgen][Mevrouw][Dankjewel][Goedenavond]|answer:Mevrouw|id:2gen3hM7oUQD}
+{type:FlashCard|front:Nee|back:No|id:JLCdKdfY1Ieu}
+{type:AudioMatch|question:Listen and match|options:[Goedenavond:Pm2m7tQuXknL][Nee:LtveEO9lLYZ4][Hallo:uURQzz7RTyN5][Goedemorgen:2vn74IBffg3S]|id:QMQvc5TGzxF8}
+{type:ImagePick|question:Ja|options:[Good morning:bread][No:bread][Yes:bread][Hello:bread]|answerCount:1|answer:Yes|answercount:1|id:glO7vbCP77gg}
+{type:ImagePick|question:Meneer|options:[Hello:bread][Good morning:bread][No:bread][Mister:bread]|answerCount:1|answer:Mister|answercount:1|id:O6fjBdD843DU}
+{type:AudioMatch|question:Listen and match|options:[Goedemorgen:1L4umPUc5dPD][Dankjewel:oHVV9QLTPMrC][Ja:MPO2jgn7rU2n][Goedenavond:4cZOhFvdk1ZT]|id:B3E5LM4HqMsX}
+{type:FlashCard|front:Yes|back:Ja|id:OJ3oXO9A7bup}
+{type:ImagePick|question:Ja|options:[Thank you:bread][Yes:bread][Mister:bread][Good evening:bread]|answerCount:1|answer:Yes|answercount:1|id:M6cPlGvNrId6}
+{type:ImagePick|question:Meneer|options:[Madam:bread][Good morning:bread][Yes:bread][Mister:bread]|answerCount:1|answer:Mister|answercount:1|id:zGHtRc2RWexR}
+{type:ImagePick|question:Goedenavond|options:[Thank you:bread][No:bread][Good evening:bread][Yes:bread]|answerCount:1|answer:Good evening|answercount:1|id:E41bvmSDkIUm}
+{type:PickOne|question:Ja|options:[Yes][FallbackOpt2][FallbackOpt1]|answer:Yes|id:odynqJ0M4EE4}
+{type:PickOneMeaning|question:The speaker is saying:|speech:Nee|options:[Hello][No][Yes]|answer:No|id:dLNptGQmm4lV}
+{type:FlashCard|front:Mister|back:Meneer|id:sGPmIKXJznt2}
+{type:AudioMatch|question:Listen and match|options:[Dankjewel:PbQuuEqbU3Sk][Nee:qUHNUdPoIg7d][Hallo:BgEP1Iuhj7HZ][Ja:m7yvrDYGgPfj]|id:nnZRRZJSU34f}
+{type:AudioMatch|question:Listen and match|options:[Ja:kxIMtMBjEXCX][Goedemorgen:6dUsCscsDDap][Hallo:0Ja3N6BJdh6l][Meneer:iYEfl0uXeSuF]|id:sVC7EdYdJWoB}
+{type:PickOne|question:Meneer|options:[Jongen][Mevrouw][Mister]|answer:Mister|id:N1ZbWXXR6NgS}
+{type:AudioMatch|question:Listen and match|options:[Nee:pQnLmT0CRe1y][Goedemorgen:UeRUDPO13YWM][Goedenavond:6nT4ReGS50Tn][Meneer:YqRZAVUblrO4]|id:A4zILOomn804}
+{type:SpellingPick|text:Goedemorgen|options:[Dankjewel][Meneer][Goedemorgen][Ja]|answer:Goedemorgen|id:RwvBOJAQHaJy}
+</lesson>
+<lesson:3|id:bimsb1uVdMtZ>
+{type:PickMissingWord|question:Hallo ______|options:[allemaal][Hallo][Ja][Goedemorgen]|answer:allemaal|id:52PL25Ybpqbn}
+{type:PickWords|question:Nee|options:No|answer:No|id:inilOJU9U5MX}
+{type:PickMissingWord|question:Goedenavond ______.|options:[Dankjewel][Nee][mevrouw][Goedemorgen]|answer:mevrouw|id:O9G3BSt8t5Ph}
+{type:AudioMatch|question:Listen and match|options:[Dankjewel:jJNler5Py2yI][Meneer:47G30TtXm8Nk][Goedenavond:jkuI2u0wbm8D][Hallo:FPuy9BpwS45d]|id:krCAC8b27V7o}
+{type:Match|question:Select the matching words|options:[Mevrouw:Madam][Ja:Yes][Hallo:Hello][Goedemorgen:Good morning]|id:r34ytIeTj27c}
+{type:PickWords|question:No|options:Nee|answer:Nee|id:21xK8F2OrnTq}
+{type:PickWords|question:Nee|options:No|answer:No|id:epmzVY3B6rJN}
+{type:PickWords|question:Good morning sir.|options:[meneer, Goedemorgen]|answer:Goedemorgen meneer.|id:RUzIAIguoM8H}
+{type:AudioMatch|question:Listen and match|options:[Goedenavond:9dnWM6SJdon8][Dankjewel:2gZSYVT5o9YK][Hallo:ltGSbYTjv93J][Mevrouw:ipvcaW3aAKvq]|id:SORd1NbR3JBt}
+{type:SpellingPick|text:Mevrouw|options:[Goedenavond][Dankjewel][Meneer][Mevrouw]|answer:Mevrouw|id:ZesXGhSh0OVZ}
+{type:AudioMatch|question:Listen and match|options:[Ja:xJDqs55Bda4f][Nee:ukjEVvwo9Fiw][Dankjewel:RYb3gl3jLpQo][Hallo:xISImGkpQCII]|id:gbHCYX9m1yks}
+{type:PickOneMeaning|question:The speaker is saying:|speech:Hallo|options:[Good morning][Yes][Hello]|answer:Hello|id:1w6XaDIgJUkO}
+{type:Match|question:Select the matching words|options:[Hallo:Hello][Goedenavond:Good evening][Ja:Yes][Mevrouw:Madam]|id:6FASMhzm6zkV}
+{type:PickOne|question:Goedenavond|options:[No][Yes][Good evening]|answer:Good evening|id:fAAaji173RSE}
+{type:PickWords|question:Goedenavond mevrouw.|options:[Madam, evening, Good]|answer:Good evening Madam.|id:u06xHGzrCLUt}
+{type:PickWords|question:Hello everybody|options:allemaal,Hallo|answer:Halloallemaal|id:gPQ3etkUoccw}
+{type:Match|question:Select the matching words|options:[Hallo:Hello][Mevrouw:Madam][Nee:No][Meneer:Mister]|id:oZwhDxCAe5vm}
+{type:PickWords|question:Good evening Madam.|options:mevrouw,Goedenavond|answer:Goedenavondmevrouw.|id:v0vyw5LRhDxQ}
+{type:SpellingPick|text:Nee|options:[Nee][Goedemorgen][Dankjewel][Goedenavond]|answer:Nee|id:BmyUduaeJVOu}
+{type:AudioMatch|question:Listen and match|options:[Goedemorgen:4BlA82050oC6][Meneer:oYgXfDhOUtLz][Mevrouw:6GlnFwltT1wz][Dankjewel:x25qqbgovP5S]|id:bK9nAOEsogfj}
+</lesson>
+<lesson:4|id:QhrEzRnSmmP4>
+{type:Match|question:Select the matching words|options:[Goedenavond:Good evening][Nee:No][Hallo:Hello][Dankjewel:Thank you]|id:9jKcAHLZP6tK}
+{type:PickWords|question:Goedenavond mevrouw.|options:[Madam, Good, evening]|answer:Good evening Madam.|id:FmpTspChP8pr}
+{type:PickOneMeaning|question:The speaker is saying:|speech:Nee|options:[No][Good morning][Good evening]|answer:No|id:EX2TD8NBbVcE}
+{type:Match|question:Select the matching words|options:[Mevrouw:Madam][Dankjewel:Thank you][Meneer:Mister][Hallo:Hello]|id:kMzBXeuvm0g1}
+{type:PickWords|question:Hallo allemaal|options:Hello,everybody|answer:Helloeverybody|id:5On5wpEZijCG}
+{type:PickOne|question:Nee|options:[Yes][No][Mister]|answer:No|id:Ns4D5zdf6ilo}
+{type:AudioMatch|question:Listen and match|options:[Hallo:kLxI316HGEW1][Dankjewel:NYF4A9dmtUEO][Meneer:rllriZfM5VVR][Ja:SWXrSfTJ9Kby]|id:HUfcW1o1xaTk}
+{type:Match|question:Select the matching words|options:[Ja:Yes][Meneer:Mister][Hallo:Hello][Nee:No]|id:7lMk5cj2tuac}
+{type:PickWords|question:Good evening Madam.|options:[mevrouw, Goedenavond]|answer:Goedenavond mevrouw.|id:mZzq0nMjCOzk}
+{type:AudioMatch|question:Listen and match|options:[Mevrouw:oahmTjn354AV][Hallo:PLeMwKGam0YG][Nee:YImZ3pHnV4Uh][Ja:i5KZB7Q9qIr6]|id:ORO8PyeOitCd}
+{type:PickWords|question:Goedenavond mevrouw.|options:Madam,Good,evening|answer:GoodeveningMadam.|id:bMiXRXjTKjXQ}
+{type:SpellingPick|text:Dankjewel|options:[Meneer][Dankjewel][Mevrouw][Nee]|answer:Dankjewel|id:voGBeVaXoPZw}
+{type:AudioMatch|question:Listen and match|options:[Mevrouw:dtnKNZ7UQr56][Meneer:aWq2lQHbZJ8t][Nee:pCuOc8Z7yMC9][Goedemorgen:FGQOaIoeZa37]|id:p20GTyjihk6C}
+{type:SpellingPick|text:Goedenavond|options:[Hallo][Ja][Goedemorgen][Goedenavond]|answer:Goedenavond|id:6qR4gst3f599}
+{type:PickMissingWord|question:Hallo ______|options:[dankjewel][Goedenavond][allemaal][Ja]|answer:allemaal|id:sbTt04VrXT8R}
+{type:PickWords|question:Good morning sir.|options:Goedemorgen,meneer|answer:Goedemorgenmeneer.|id:1yrhsrbe4WoL}
+{type:PickWords|question:Yes, thank you|options:dankjewel,Ja|answer:Ja,dankjewel|id:dqr2GejOGeMW}
+{type:AudioMatch|question:Listen and match|options:[Dankjewel:GsPJAT9PWtMp][Ja:meb6aY32g05j][Goedemorgen:blfa5jiJ6qX6][Hallo:zosXsvt0LJks]|id:rOu2DUqDlWc0}
+{type:PickWords|question:Hello everybody|options:Hallo,allemaal|answer:Halloallemaal|id:8VtEQGd0n2CH}
+</lesson>
+<lesson:5|id:8Xtyv4naSTNl>
+{type:WriteWords|question:No|answer:Nee|id:YRpbz23yY5gt}
+{type:WriteWords|question:Good morning sir.|answer:Goedemorgen meneer.|id:cjnNIYlbi6PB}
+{type:WriteWords|question:Goedemorgen meneer.|answer:Good morning sir.|id:E2OZsUQOrplN}
+{type:PickOneMeaning|question:The speaker is saying:|speech:Dankjewel|options:[Madam][Thank you][Mister]|answer:Thank you|id:6t7mYIx3ONRo}
+{type:PickMissingWord|question:______, dankjewel|options:[Ja][Dankjewel][Meneer][Goedenavond]|answer:Ja|id:8J4t253Yc6fc}
+{type:AudioMatch|question:Listen and match|options:[Hallo:xSsB3mPsRPps][Mevrouw:x9WkYn5D39Sq][Goedemorgen:8eDxs6DyPplN][Goedenavond:ujevmjIpjIz8]|id:HTa6OlsHOImx}
+{type:PickWords|question:Good evening Madam.|options:Goedenavond,mevrouw|answer:Goedenavondmevrouw.|id:aj6spnukzc3Y}
+{type:PickWords|question:Goedemorgen meneer.|options:morning,Good,sir|answer:Goodmorningsir.|id:F9T0TK8KHdXe}
+{type:WriteWords|question:Hallo allemaal|answer:Hello everybody|id:7k5o6yQOOy5b}
+{type:Match|question:Select the matching words|options:[Goedemorgen:Good morning][Nee:No][Ja:Yes][Goedenavond:Good evening]|id:sfWgaA32w1UM}
+{type:AudioMatch|question:Listen and match|options:[Goedemorgen:6DCftyS8hyvy][Goedenavond:1uOWfL2eDfHu][Nee:CfBF3GhtGb6b][Hallo:ww6SaHIywDw4]|id:nXgINW5QwVqN}
+{type:WriteWords|question:Goedenavond mevrouw.|answer:Good evening Madam.|id:CuAVrLnkXQHF}
+{type:Match|question:Select the matching words|options:[Meneer:Mister][Goedemorgen:Good morning][Goedenavond:Good evening][Mevrouw:Madam]|id:aSppJrbfxKOe}
+{type:PickWords|question:Good evening Madam.|options:mevrouw,Goedenavond|answer:Goedenavondmevrouw.|id:Rke9lDff4iOV}
+{type:SpellingPick|text:Ja|options:[Hallo][Goedemorgen][Nee][Ja]|answer:Ja|id:qNxgdLEpvrMH}
+{type:PickOne|question:Mevrouw|options:[No][Madam][Hello]|answer:Madam|id:1YCzkKiHMBzg}
+{type:SpellingPick|text:Meneer|options:[Mevrouw][Nee][Meneer][Goedemorgen]|answer:Meneer|id:U0c3kYFJSoB0}
+</lesson>
+<lesson:6|id:cAkXr2sgA00E>
+{type:PickWords|question:Good evening Madam.|options:mevrouw,Goedenavond|answer:Goedenavondmevrouw.|id:1RBrAWgyBoTc}
+{type:WriteWords|question:Good morning sir.|answer:Goedemorgen meneer.|id:XVrEJeCgQTMo}
+{type:SpellingPick|text:Meneer|options:[Mevrouw][Dankjewel][Goedenavond][Meneer]|answer:Meneer|id:guC8j8OSl898}
+{type:WriteWords|question:Goedenavond mevrouw.|answer:Good evening Madam.|id:kPZULRuxdPcr}
+{type:PickWords|question:Ja, dankjewel|options:Yes,thank,you|answer:Yes,thankyou|id:D7LWSCJ2pWwj}
+{type:WriteWords|question:Good morning sir.|answer:Goedemorgen meneer.|id:z4hjNcQ7Mlr8}
+{type:WriteWords|question:Goedenavond mevrouw.|answer:Good evening Madam.|id:cdVNDoyaPgZO}
+{type:AudioMatch|question:Listen and match|options:[Goedenavond:qX6fvpYjGAnK][Ja:2LtqkAUNBUkm][Dankjewel:WeTVCHzsFURf][Mevrouw:wF01uo3miu32]|id:IouO2HtK8sLp}
+{type:PickMissingWord|question:______ mevrouw.|options:[Kind][Goedenavond][Dankjewel][Meneer]|answer:Goedenavond|id:kiOdqbdwXMo6}
+{type:WriteWords|question:Nee|answer:No|id:4eVjJE1L5EDc}
+{type:SpellingPick|text:Nee|options:[Ja][Goedenavond][Nee][Hallo]|answer:Nee|id:JTkf9EAMnNLp}
+{type:PickOne|question:Goedemorgen|options:[Yes][Good morning][Hello]|answer:Good morning|id:E6zzW5etTcLX}
+{type:Match|question:Select the matching words|options:[Goedemorgen:Good morning][Hallo:Hello][Nee:No][Ja:Yes]|id:45hVRyC1YcAd}
+{type:PickWords|question:Yes, thank you|options:dankjewel,Ja|answer:Ja,dankjewel|id:qnMueUZXwoZl}
+{type:PickMissingWord|question:______, dankjewel|options:[Mevrouw][Meneer][Goedemorgen][Ja]|answer:Ja|id:jPumWukYRQHB}
+{type:AudioMatch|question:Listen and match|options:[Goedenavond:rJJXzy648mXX][Ja:CbjuHugAywdD][Goedemorgen:X0wvZsWpDnU0][Dankjewel:VNb191O2i4fj]|id:CTNqI6ZhSUfj}
+{type:WriteWords|question:Good morning sir.|answer:Goedemorgen meneer.|id:FXlP1mULkd2d}
+{type:PickOneMeaning|question:The speaker is saying:|speech:Goedemorgen|options:[Madam][Good morning][Hello]|answer:Good morning|id:IPdq7YdrXeJS}
+{type:Match|question:Select the matching words|options:[Goedenavond:Good evening][Goedemorgen:Good morning][Ja:Yes][Meneer:Mister]|id:LIE91P146BLa}
+</lesson>
+<lesson:7|id:yv6VAIGyDZ9c>
+{type:PickOneMeaning|question:The speaker is saying:|speech:Goedenavond|options:[Good morning][Good evening][Hello]|answer:Good evening|id:ev0c6GEgtQfJ}
+{type:AudioMatch|question:Listen and match|options:[Nee:aFO8cU9Y3aRw][Ja:dymQnlYDEPT1][Dankjewel:2PHzr8MX4f97][Goedenavond:G88RTWUwoRvP]|id:dmIX3zvvfGH6}
+{type:WriteWords|question:Goedemorgen meneer.|answer:Good morning sir.|id:md5BOCzKTHyE}
+{type:WriteWords|question:Good morning sir.|answer:Goedemorgen meneer.|id:hIwOmdaJGWaa}
+{type:WriteWords|question:Yes, thank you|answer:Ja, dankjewel|id:o0Km6guME5TJ}
+{type:WriteWords|question:Hallo allemaal|answer:Hello everybody|id:l1KG4HeFFzNT}
+{type:PickOne|question:Meneer|options:[Good evening][Madam][Mister]|answer:Mister|id:YnvX5babfaIn}
+{type:PickWords|question:Hello everybody|options:Hallo,allemaal|answer:Halloallemaal|id:Q1HH682lIaK7}
+{type:WriteWords|question:No|answer:Nee|id:Jv8AjcCMDeWe}
+{type:Match|question:Select the matching words|options:[Goedemorgen:Good morning][Hallo:Hello][Dankjewel:Thank you][Meneer:Mister]|id:SSFMUdE7ZRYm}
+{type:WriteWords|question:Goedemorgen meneer.|answer:Good morning sir.|id:BfYYW6iBfTEW}
+{type:WriteWords|question:Goedenavond mevrouw.|answer:Good evening Madam.|id:cBvA8IO7fBXt}
+{type:SpellingPick|text:Dankjewel|options:[Meneer][Hallo][Dankjewel][Nee]|answer:Dankjewel|id:l9sav7n8Irx8}
+{type:SpellingPick|text:Goedemorgen|options:[Nee][Hallo][Meneer][Goedemorgen]|answer:Goedemorgen|id:6KU8BlYCOF3x}
+{type:WriteWords|question:Yes, thank you|answer:Ja, dankjewel|id:Yyi5T8JglRgV}
+{type:Match|question:Select the matching words|options:[Goedenavond:Good evening][Nee:No][Meneer:Mister][Dankjewel:Thank you]|id:fJC8nyz8IL3K}
+{type:AudioMatch|question:Listen and match|options:[Meneer:pOVRXPxxnYcW][Dankjewel:RUusR4ZOmEo8][Hallo:Ci6osE28zxlw][Goedenavond:816Yi2BpT7gd]|id:mQGPfuw4GOdV}
+</lesson>
+<lesson:8|id:Wp1GSMiVMlcC>
+{type:WriteWords|question:Hallo allemaal|answer:Hello everybody|id:T0IZeIyOoTD7}
+{type:WriteWords|question:Goedemorgen meneer.|answer:Good morning sir.|id:Z5pZQcSsfCnG}
+{type:AudioMatch|question:Listen and match|options:[Goedemorgen:koqf3wi5Wcag][Mevrouw:OxhLTqVSUQzN][Meneer:H3OnaAZvsLHo][Nee:olBFST5ebTep]|id:NVQHhxkxAXIe}
+{type:WriteWords|question:Good evening Madam.|answer:Goedenavond mevrouw.|id:U0DgqISoGtQz}
+{type:WriteWords|question:Good morning sir.|answer:Goedemorgen meneer.|id:ev691ks2hRht}
+{type:SpellingPick|text:Dankjewel|options:[Dankjewel][Goedemorgen][Ja][Goedenavond]|answer:Dankjewel|id:bxcKfWttLXAS}
+{type:PickWords|question:Ja, dankjewel|options:you,thank,Yes|answer:Yes,thankyou|id:hVZB06NjzQ5V}
+{type:WriteWords|question:Hallo allemaal|answer:Hello everybody|id:EteK90MH3U1t}
+{type:SpellingPick|text:Ja|options:[Ja][Nee][Goedemorgen][Mevrouw]|answer:Ja|id:PgHMnQeSXN2J}
+{type:WriteWords|question:Ja, dankjewel|answer:Yes, thank you|id:aSJSK0w0AJ0H}
+{type:WriteWords|question:Hello everybody|answer:Hallo allemaal|id:OkjYBY1SD8Ee}
+{type:Match|question:Select the matching words|options:[Goedenavond:Good evening][Mevrouw:Madam][Goedemorgen:Good morning][Nee:No]|id:cRviqPrOmt2v}
+{type:PickOneMeaning|question:The speaker is saying:|speech:Nee|options:[No][Hello][Madam]|answer:No|id:41oT8ICjRb5V}
+{type:WriteWords|question:Good evening Madam.|answer:Goedenavond mevrouw.|id:xoNDg8TznGm0}
+{type:PickOne|question:Nee|options:[Madam][Good evening][No]|answer:No|id:WVaDzxkcNb7x}
+{type:AudioMatch|question:Listen and match|options:[Goedemorgen:wRMN83Rew2vY][Dankjewel:O0DoPjDyamTY][Mevrouw:fB2w05Ur75qu][Hallo:QlBwIz6OHply]|id:O2fc7Y0dzu33}
+{type:Match|question:Select the matching words|options:[Mevrouw:Madam][Dankjewel:Thank you][Goedenavond:Good evening][Meneer:Mister]|id:up4nuheuBFJd}
+{type:PickWords|question:Hello everybody|options:allemaal,Hallo|answer:Halloallemaal|id:ZeR4stfZ3rjW}
+</lesson>
+<lesson:9|id:Dk34yRqiWNz8>
+{type:PickOneMeaning|question:The speaker is saying:|speech:Ja|options:[Good morning][Good evening][Yes]|answer:Yes|id:vexLFmDjJG1y}
+{type:WriteWords|question:Ja, dankjewel|answer:Yes, thank you|id:aEJ8Z9nM5jIe}
+{type:PickOne|question:Dankjewel|options:[Thank you][Hello][Good morning]|answer:Thank you|id:A8aNuEUg3fO0}
+{type:PickMissingWord|question:______ allemaal|options:[Nee][Hallo][Mevrouw][Meneer]|answer:Hallo|id:lMRyReEFRMz2}
+{type:Match|question:Select the matching words|options:[Goedemorgen:Good morning][Goedenavond:Good evening][Meneer:Mister][Dankjewel:Thank you]|id:pzYOpMyqsjvE}
+{type:PickWords|question:Ja, dankjewel|options:Yes,thank,you|answer:Yes,thankyou|id:AnClI5oRb2HP}
+{type:WriteWords|question:Hello everybody|answer:Hallo allemaal|id:G2vUbBzRf7WJ}
+{type:WriteWords|question:Yes, thank you|answer:Ja, dankjewel|id:j8cktqyykMoy}
+{type:Match|question:Select the matching words|options:[Nee:No][Goedenavond:Good evening][Ja:Yes][Goedemorgen:Good morning]|id:M4un6cMkstkt}
+{type:WriteWords|question:Goedemorgen meneer.|answer:Good morning sir.|id:6rUJFqmBd2YF}
+{type:WriteWords|question:Nee|answer:No|id:VtOQtAt6D6HB}
+{type:WriteWords|question:Ja, dankjewel|answer:Yes, thank you|id:VyTjlCePYkVd}
+{type:PickWords|question:Hello everybody|options:Hallo,allemaal|answer:Halloallemaal|id:318sjX7J16it}
+{type:WriteWords|question:Good evening Madam.|answer:Goedenavond mevrouw.|id:bjHZnHHXqkLP}
+{type:AudioMatch|question:Listen and match|options:[Nee:HDryLJeDoW6l][Hallo:NmxeqpqRURtw][Meneer:T2YVYoAPhJcb][Goedemorgen:ART7AN8uy380]|id:VW0Li9yHmlxf}
+{type:WriteWords|question:Good morning sir.|answer:Goedemorgen meneer.|id:TmAIj1Jk9OKa}
+{type:AudioMatch|question:Listen and match|options:[Ja:TxaROp8MB61C][Meneer:OLDzLuqavssX][Dankjewel:7sb3guB4Nml9][Goedenavond:S9pvyku2QS0H]|id:uuL0kbUXu71j}
+{type:SpellingPick|text:Goedemorgen|options:[Dankjewel][Nee][Meneer][Goedemorgen]|answer:Goedemorgen|id:vgjY1jlFkFjy}
+{type:WriteWords|question:Yes, thank you|answer:Ja, dankjewel|id:jdKWHXZjWVk4}
+{type:SpellingPick|text:Mevrouw|options:[Goedemorgen][Hallo][Mevrouw][Dankjewel]|answer:Mevrouw|id:Rpis2asGIFLk}
+{type:WriteWords|question:Goedemorgen meneer.|answer:Good morning sir.|id:7wNqrrzGA2ox}
+</lesson>
+<lesson:10|id:Vutw4yzj7oqw>
+{type:WriteWords|question:Ja, dankjewel|answer:Yes, thank you|id:bJAIpZxabre7}
+{type:PickMissingWord|question:Goedemorgen ______.|options:[Goedenavond][meneer][Ja][Hallo]|answer:meneer|id:SVC5K7258Dab}
+{type:Match|question:Select the matching words|options:[Mevrouw:Madam][Goedemorgen:Good morning][Dankjewel:Thank you][Goedenavond:Good evening]|id:hm1bQwcgkBqc}
+{type:PickOneMeaning|question:The speaker is saying:|speech:Meneer|options:[Yes][Mister][Good morning]|answer:Mister|id:VPOjqan87jTF}
+{type:WriteWords|question:Ja, dankjewel|answer:Yes, thank you|id:P4ytJzFUXVC6}
+{type:WriteWords|question:Goedenavond mevrouw.|answer:Good evening Madam.|id:Url3tJtLI4jD}
+{type:Match|question:Select the matching words|options:[Nee:No][Mevrouw:Madam][Goedenavond:Good evening][Hallo:Hello]|id:phUqwmAjpnDB}
+{type:WriteWords|question:Good evening Madam.|answer:Goedenavond mevrouw.|id:zCbkamMgtbJN}
+{type:PickWords|question:Goedenavond mevrouw.|options:Madam,evening,Good|answer:GoodeveningMadam.|id:RjhABCY8Gy1B}
+{type:WriteWords|question:Goedemorgen meneer.|answer:Good morning sir.|id:1sCPHsycPFlr}
+{type:SpellingPick|text:Goedenavond|options:[Meneer][Nee][Dankjewel][Goedenavond]|answer:Goedenavond|id:u6bIcyNvfcEb}
+{type:WriteWords|question:Ja, dankjewel|answer:Yes, thank you|id:j7bPFvLzDFF7}
+{type:WriteWords|question:No|answer:Nee|id:mjc4v4aU8QSr}
+{type:AudioMatch|question:Listen and match|options:[Mevrouw:Y3giRuUdW0iY][Dankjewel:c1h941uR0n50][Hallo:7hw3w1n9lqhd][Nee:oOXpDHIenDPP]|id:ugZyNqvduSVR}
+{type:WriteWords|question:Good morning sir.|answer:Goedemorgen meneer.|id:7sIQgHbo2Ma1}
+{type:AudioMatch|question:Listen and match|options:[Dankjewel:xKJAViRXOpqq][Nee:f1pDp9b7eWmz][Hallo:iiJnyLnZbHzZ][Mevrouw:TJGIWtlGItAd]|id:ul5NicSZhqa7}
+{type:WriteWords|question:Hello everybody|answer:Hallo allemaal|id:rSyKpp1gV0H5}
+{type:SpellingPick|text:Goedenavond|options:[Mevrouw][Ja][Goedenavond][Goedemorgen]|answer:Goedenavond|id:8u412Fpchw8W}
+{type:PickOne|question:Ja|options:[Thank you][No][Yes]|answer:Yes|id:OWKK2iE4p9BT}
+{type:PickWords|question:No|options:Nee|answer:Nee|id:9Ua3Wte26FfR}
+</lesson>
+</skill>
+<skill:Nouns and articles|image:cat|lessonsperlevel:4|strokecolor:65,71,155|fillcolor:121,134,203|position:1|description:An introduction to Dutch articles and nouns.|id:CMTMcVwkiOQJ>
+<lesson:1|id:mvajNeGNj1qs>
+{type:ImagePick|question:The mouse|options:[De kat:cat][De hond:placeholder.png][Het konijn:placeholder.png][De muis:placeholder.png]|answer:De muis|id:sSxc7Mdzm9xE}
+{type:ImagePick|question:The dog|options:[De kat:placeholder.png][De hond:placeholder.png][Het konijn:placeholder.png][De muis:placeholder.png]|answer:De hond|id:2S98MFljaikQ}
+{type:ImagePick|question:The bunny|options:[De kat:placeholder.png][De hond:placeholder.png][Het konijn:placeholder.png][De muis:placeholder.png]|answer:Het konijn|id:T1a7ajWY2drT}
+{type:ImagePick|question:The cat|options:[De kat:placeholder.png][De hond:placeholder.png][Het konijn:placeholder.png][De muis:placeholder.png]|answer:De kat|id:5cqcdO1osxJi}
+{type:PickOne|question:New PickOne Question?|options:[Option A][Option B][Option C]|answer:Option A|id:G4HM5Mba0SMN}
+</lesson>
+</skill>
+<skill:To be and to have|image:bread|lessonsperlevel:3|strokecolor:46,125,50|fillcolor:139,195,74|position:2|description:An introduction to your first verbs: to be and to have.|id:YBHtxUanzY41>
+<lesson:1|id:Gg1BRTYqksOY>
+{type:PickOne|question:New PickOne Question?|options:[Option A][Option B][Option C]|answer:Option A|id:8QqQ9tjrMnON}
+{type:FlashCard|front:New FlashCard Front|back:New FlashCard Back|id:2mA9m2RrN3tI}
+</lesson>
+</skill>
+<skill:Adjectives|image:apple|lessonsperlevel:3|strokecolor:65,71,155|fillcolor:255,75,85|position:3|description:Enter skill description here.|id:rC8HOW6k4kKf>
+<lesson:1|id:it2KaFo7KvrG>
+{type:PickOne|question:New PickOne Question?|options:[Option A][Option B][Option C]|answer:Option A|id:r4QvWQViE1iT}
+{type:FlashCard|front:New FlashCard Front|back:New FlashCard Back|id:7yt7JzxXTIQx}
+</lesson>
+</skill>
+<skill:Nouns II|image:bread|lessonsperlevel:3|strokecolor:239,83,80|fillcolor:239,154,154|position:4|description:Enter skill description here.|id:wqWkJOiQWnfh>
+<lesson:1|id:JmWElWsFnYNo>
+{type:PickOne|question:New PickOne Question?|options:[Option A][Option B][Option C]|answer:Option A|id:4tak988UrHO5}
+{type:FlashCard|front:New FlashCard Front|back:New FlashCard Back|id:Tm5e76pJ2uXN}
+</lesson>
+</skill>
+<skill:Present tense|image:apple|lessonsperlevel:3|strokecolor:65,71,155|fillcolor:255,75,85|position:5|description:Enter skill description here.|id:72dyidZ8XkYz>
+<lesson:1|id:sYtJym3QXz9n>
+{type:PickOne|question:New PickOne Question?|options:[Option A][Option B][Option C]|answer:Option A|id:jQwqIjUr3lTS}
+{type:FlashCard|front:New FlashCard Front|back:New FlashCard Back|id:0VGZS35BZdPR}
+</lesson>
+</skill>
+<skill:To go|image:apple|lessonsperlevel:3|strokecolor:65,71,155|fillcolor:255,75,85|position:6|description:Enter skill description here.|id:clRp9T1B4zXT>
+<lesson:1|id:Tn0l9P4Havky>
+{type:PickOne|question:New PickOne Question?|options:[Option A][Option B][Option C]|answer:Option A|id:GzcvZNK1tnUT}
+{type:FlashCard|front:New FlashCard Front|back:New FlashCard Back|id:mn8HMaT60yqI}
+</lesson>
+</skill>
+<skill:Adjectives II|image:apple|lessonsperlevel:3|strokecolor:65,71,155|fillcolor:255,75,85|position:7|description:Enter skill description here.|id:sRvvKfE6BTY9>
+<lesson:1|id:V2Rvc4Qmnp2t>
+{type:PickOne|question:New PickOne Question?|options:[Option A][Option B][Option C]|answer:Option A|id:Zw23YzQMaFnU}
+{type:FlashCard|front:New FlashCard Front|back:New FlashCard Back|id:bbXWpEAoD868}
+</lesson>
+</skill>
+<skill:[some vocab topic]|image:apple|lessonsperlevel:3|strokecolor:65,71,155|fillcolor:255,75,85|position:8|description:Enter skill description here.|id:QjDsDBYvt1wI>
+<lesson:1|id:FtIXiXH6LZiY>
+{type:PickOne|question:New PickOne Question?|options:[Option A][Option B][Option C]|answer:Option A|id:hkqahyLPbzIm}
+{type:FlashCard|front:New FlashCard Front|back:New FlashCard Back|id:JUIJVgmyjLal}
+</lesson>
+</skill>
+<skill:Plural|image:apple|lessonsperlevel:3|strokecolor:65,71,155|fillcolor:255,75,85|position:9|description:Enter skill description here.|id:8QZCmEtnptd0>
+<lesson:1|id:p81T6Ge2RkZY>
+{type:PickOne|question:New PickOne Question?|options:[Option A][Option B][Option C]|answer:Option A|id:87agNsN2AVhg}
+{type:FlashCard|front:New FlashCard Front|back:New FlashCard Back|id:wJlmhGOBZ2Cd}
+</lesson>
+</skill>
+</unit>

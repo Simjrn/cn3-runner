@@ -1,0 +1,49 @@
+<unit:1>
+<skill:Greetings|image:hello|lessonsperlevel:3|strokecolor:92,107,192|fillcolor:244,143,177|position:0|description:Enter skill description here.|id:pS77P6WgUfbw>
+<lesson:1|id:EkgZOXFldQaT>
+{type:PickOne|question:Translate မင်္ဂလာပါ (mìn ga là pà)|options:[Bye][Hello][How are you?]|answer:Hello|id:TiFSdLiUmKxa}
+{type:FlashCard|front:မင်္ဂလာပါ
+(Mìn ga là pà)|back:Hello
+(Lit. Blessings to you)|id:LtzyMRJGmYmh}
+{type:PickOne|question:Translate တွေ့ရတာ ဝမ်းသာပါတယ်
+(tway ya tà wán thà pà tè)|options:[See you later][Nice to meet you][Hello]|answer:Nice to meet you|id:GuKxbSJj3SAD}
+{type:FlashCard|front:တွေ့ရတာ ဝမ်းသာပါတယ်
+(tway ya tà wán thà pà tè)|back:Nice to meet you
+(Lit. I'm glad to get to meet you)|id:ofLCUqib3ZeE}
+{type:PickOne|question:How do you say “ I'm glad ” in Burmese?|options:[ဝမ်းသာပါတယ်][မင်္ဂလာပါ][ဘာလုပ်နေလဲ]|answer:ဝမ်းသာပါတယ်|id:LxyDcr2w1wGx}
+{type:PickOne|question:How do you say “ to meet (you) ” in Burmese?|options:[တွေ့ရတာ][ဗိုက်ဆာတယ်][အိပ်ချင်တယ်]|answer:တွေ့ရတာ|id:l2D5XK5ulh7m}
+{type:FlashCard|front:‌နေကောင်းလား
+(này káun lá)|back:How are you?
+(Lit. good (in health)?|id:feZBmrZvZr4Q}
+{type:AudioMatch|question:Match text to audio:|options:[မင်္ဂလာပါ:audio_match_id1][တွေ့ရတာ:audio_match_id2][ဝမ်းသာပါတယ်:fws8UKkHQaFXndkpgD][နေကောင်းလား:nUZNaP2HeTdHvY7sig]|id:qXcnyVNRdfuF}
+</lesson>
+<lesson:2|id:1Ucnlv2B2Qg1>
+{type:PickOne|question:New PickOne Question?|options:[Option A][Option B][Option C]|answer:Option A|id:1KF9fHhAyChZ}
+{type:FlashCard|front:New FlashCard Front|back:New FlashCard Back|id:KCaCrfiZpM4S}
+</lesson>
+</skill>
+<skill:Pronouns|image:apple|lessonsperlevel:3|strokecolor:65,71,155|fillcolor:255,75,85|position:1|description:Enter skill description here.|id:1Nwm1ASPQNr4>
+<lesson:1|id:slqxAxYl4ORl>
+{type:PickOne|question:New PickOne Question?|options:[Option A][Option B][Option C]|answer:Option A|id:wGAWSgn2kltu}
+{type:FlashCard|front:New FlashCard Front|back:New FlashCard Back|id:RNG1Pd8AjClt}
+</lesson>
+</skill>
+<skill:Family|image:apple|lessonsperlevel:3|strokecolor:65,71,155|fillcolor:255,75,85|position:2|description:Enter skill description here.|id:A9DWh06ASq7j>
+<lesson:1|id:0UO2k0hAPIOv>
+{type:PickOne|question:New PickOne Question?|options:[Option A][Option B][Option C]|answer:Option A|id:KLOkg7WZwgpG}
+{type:FlashCard|front:New FlashCard Front|back:New FlashCard Back|id:4Mvn1xCBvc66}
+</lesson>
+</skill>
+<skill:Fruits|image:apple|lessonsperlevel:3|strokecolor:65,71,155|fillcolor:255,75,85|position:3|description:Enter skill description here.|id:3iXhluBZncnw>
+<lesson:1|id:O82icv91uW4H>
+{type:PickOne|question:New PickOne Question?|options:[Option A][Option B][Option C]|answer:Option A|id:mhkFNI20TR6z}
+{type:FlashCard|front:New FlashCard Front|back:New FlashCard Back|id:aQ7qGLNOOWoe}
+</lesson>
+</skill>
+<skill:Numbers|image:apple|lessonsperlevel:3|strokecolor:65,71,155|fillcolor:255,75,85|position:4|description:Enter skill description here.|id:wrX6vQOefNnM>
+<lesson:1|id:ItBSiexwZ6p3>
+{type:PickOne|question:New PickOne Question?|options:[Option A][Option B][Option C]|answer:Option A|id:FPdpk8VfqQQs}
+{type:FlashCard|front:New FlashCard Front|back:New FlashCard Back|id:asbwi0U51MYj}
+</lesson>
+</skill>
+</unit>

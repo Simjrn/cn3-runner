@@ -4,7 +4,6 @@ from streamlit_extras.card_selector import *
 import re
 import pandas as pd
 
-
 def translate_to_standard_md(text):
     #<image:img_LMJskZwdHsKZ_1764187126150.png/>
     if not text.startswith("<image:"):
@@ -13,8 +12,6 @@ def translate_to_standard_md(text):
         text = re.sub(r'\*(?!\s)(.+?)(?<!\s)\*', r'**\1**', text)
         text = re.sub(r'_([^_]+?)_', r'*\1*', text)
         return text
-
-
 
 
 def split_list_by_string(original_list, trigger_string):
@@ -167,4 +164,3 @@ def create_path(unit, course):
             if st.button("Back to Path", type="primary"):
                 st.session_state.current_view = "main"
                 st.rerun()
-
