@@ -1300,12 +1300,547 @@
 </lesson>
 </skill>
 <skill:Make indefinite sentences|image:where|lessonsperlevel:3|strokecolor:244,67,54|fillcolor:0,0,0|position:3b|description:Learn how to make sentences that are less specific|id:xu4ABZ8oIeNX>
-<lesson:1|id:5SbgPnN9Hvxm>
-{type:PickOne|question:New PickOne Question?|options:[Option A][Option B][Option C]|answer:Option A|id:rGi94tFDkztw}
-{type:FlashCard|front:New FlashCard Front|back:New FlashCard Back|id:bqDn95k6KWwh}
+<lesson:1|id:op87NvpHYTbr>
+{type:FlashCard|front:some (m)|back:intgins|id:Xs4wEH8HlX6m}
+{type:PickOne|question:utrò|options:[somewhere else, elsewhere][Sleep! (sg)][Put! (pl)]|answer:somewhere else, elsewhere|id:4Ulfm5x7nhlG}
+{type:PickOne|question:en mintga cas|options:[Eat! (pl)][Go! (sg)][anyway]|answer:anyway|id:20JIEjcF8LIj}
+{type:FlashCard|front:aynwhere, somewhere|back:insauna|id:DHpeNiQZTCyq}
+{type:ImagePick|question:sometimes|options:[nagin:no][en mintga cas:always][mintgatant:sometimes_part-time][nagut:no]|answer:mintgatant|id:YVk3tLBSYAvB}
+{type:FlashCard|front:nowhere|back:nagliur|id:AzUgn5jMGnIR}
+{type:PickOneMeaning|question:The speaker is saying:|speech:nagliur|options:[Go! (pl)][Put! (pl)][nowhere]|answer:nowhere|id:8nkvMnNNaGfq}
+{type:PickOne|question:en mintga cas|options:[Eat! (sg)][Have!][anyway]|answer:anyway|id:NPsRXyXNr5oa}
+{type:PickOne|question:nagliur|options:[Eat! (pl)][nowhere][Play! (sg)]|answer:nowhere|id:hvxrX2Z95Xlr}
+{type:FlashCard|front:some (m)|back:intgins|id:TbuAT0OpHeUr}
+{type:FlashCard|front:someone, anyone|back:insatgi|id:Pxs3Lkj9HpDE}
+{type:PickOne|question:insauna|options:[Go! (pl)][aynwhere, somewhere][Sleep! (sg)]|answer:aynwhere, somewhere|id:o4qrECv6X6BG}
+{type:PickOne|question:insatgi|options:[Sleep! (pl)][someone, anyone][Make! (sg)]|answer:someone, anyone|id:MfLcK9b1yrAV}
+</lesson>
+<lesson:2|id:pWIQOdhbeD5C>
+{type:PickOne|question:mintgatant|options:[Eat! (pl)][sometimes][Have!]|answer:sometimes|id:V9WugiKU8tY1}
+{type:FlashCard|front:some (m)|back:intgins|id:36YBYJkQoxEp}
+{type:FlashCard|front:nobody at all|back:nagin carstgaun|id:zqFEMcKR5l8A}
+{type:PickOne|question:utrò|options:[Eat! (sg)][somewhere else, elsewhere][Go! (sg)]|answer:somewhere else, elsewhere|id:QdqkpRemyAG3}
+{type:FlashCard|front:nowhere|back:nagliur|id:r1PoHsm3mAFN}
+{type:FlashCard|front:anyway|back:en mintga cas|id:7CCSgEp8MYYO}
+{type:ImagePick|question:some (f)|options:[intginas:numbers][insatge:new-product][nagliur:no][intgins:numbers]|answer:intginas|id:oUpkztyNyNVp}
+{type:PickOne|question:en mintga cas|options:[Have!][anyway][Sleep! (sg)]|answer:anyway|id:Vp0r4e2xvC1Y}
+{type:FlashCard|front:anyway|back:en mintga cas|id:1mjxY8p3vfj4}
+{type:PickOne|question:insauna|options:[Go! (pl)][aynwhere, somewhere][Have!]|answer:aynwhere, somewhere|id:0x5EhILtiNgO}
+{type:PickOneMeaning|question:The speaker is saying:|speech:nagut|options:[somewhere else, elsewhere][nothing][Sleep! (pl)]|answer:nothing|id:1aHq5N9O7xl1}
+{type:PickOne|question:utrò|options:[Have!][Eat! (pl)][somewhere else, elsewhere]|answer:somewhere else, elsewhere|id:7R2aWFzCHOdA}
+{type:PickOne|question:intgins|options:[Play! (pl)][Go! (sg)][some (m)]|answer:some (m)|id:OWJh2D5JlFZ8}
+</lesson>
+<lesson:3|id:7UlJMh1kNtHJ>
+{type:PickOne|question:insatge|options:[Eat! (sg)][anything, something][Put! (pl)]|answer:anything, something|id:YxESpp2aGMTe}
+{type:PickOne|question:en mintga cas|options:[Go! (sg)][Eat! (pl)][anyway]|answer:anyway|id:qYo16N3FFNyG}
+{type:PickOne|question:en mintga cas|options:[anyway][Sleep! (pl)][Play! (sg)]|answer:anyway|id:xxnc9O50iOSW}
+{type:PickOne|question:nagin carstgaun|options:[Eat! (pl)][Play! (sg)][nobody at all]|answer:nobody at all|id:zyQvvfasOiXh}
+{type:FlashCard|front:somewhere else, elsewhere|back:utrò|id:LRvVwGLifgg6}
+{type:FlashCard|front:aynwhere, somewhere|back:insauna|id:qTngs5ktpZLM}
+{type:PickOne|question:insauna|options:[Make! (pl)][aynwhere, somewhere][Have!]|answer:aynwhere, somewhere|id:2RXOUMhEK8IQ}
+{type:FlashCard|front:nothing|back:nagut|id:RkwxPDe5Q9Ya}
+{type:ImagePick|question:some (m)|options:[intgins:numbers][nagut:no][utrò:there][insatgi:user]|answer:intgins|id:A1sEA2elgBt6}
+{type:PickOneMeaning|question:The speaker is saying:|speech:nagin carstgaun|options:[nobody at all][Eat! (sg)][Sleep! (sg)]|answer:nobody at all|id:vx4GoP98NWL8}
+{type:PickOne|question:intginas|options:[Play! (pl)][Put! (pl)][some (f)]|answer:some (f)|id:tUUQEgKZCMci}
+{type:FlashCard|front:somewhere else, elsewhere|back:utrò|id:QVHYo1HjpKin}
+{type:FlashCard|front:some (f)|back:intginas|id:IQUKkIIQVlLl}
+</lesson>
+<lesson:4|id:faIyavKQT0ER>
+{type:PickOne|question:utrò|options:[somewhere else, elsewhere][Have!][Put! (pl)]|answer:somewhere else, elsewhere|id:FD89qqA3Y2rF}
+{type:PickWords|question:Nagin carstgaun na vul mangiar pizza|options:[to][Nobody][later][at][wants][post][pizza][onion][all][sg][eat]|answer:Nobodyatallwantstoeatpizza|answerviewable:Nobody at all wants to eat pizza|id:MNt3WQFJGXOt}
+{type:PickMissingWord|question:___Jau___ sun nagliur|options:[Jau][Mettai!][mintgatant][Metta!]|answer:Jau|id:jPrRCfsiiur1}
+{type:PickOne|question:insauna|options:[aynwhere, somewhere][Eat! (sg)][Be!]|answer:aynwhere, somewhere|id:fTelEVuooqaG}
+{type:Match|question:Select the matching words|options:[Mangiei!:Eat! (pl)][Metta!:Put! (sg)][Faschai!:Make! (pl)][nagut:nothing]|id:x5jhkBOKRPys}
+{type:PickWords|question:El n'ha nagut|options:[near][I][He][nothing][has][somewhere][want]|answer:Hehasnothing|answerviewable:He has nothing|id:V93zKvIb0RRO}
+{type:PickOne|question:nagut|options:[Play! (pl)][nothing][Make! (pl)]|answer:nothing|id:713Uo4eNG8WW}
+{type:PickWords|question:Is there anyone else?|options:[auter][igl][Ha][insatgi]|answer:Haiglinsatgiauter?|answerviewable:Ha igl insatgi auter?|id:dLORH6HYfNRA}
+{type:PickOneMeaning|question:The speaker is saying:|speech:intgins|options:[Sleep! (pl)][nobody at all][some (m)]|answer:some (m)|id:LcKA3A86vSep}
+{type:Match|question:Select the matching words|options:[utrò:somewhere else, elsewhere][nagin carstgaun:nobody at all][insatgi:someone, anyone][en mintga cas:anyway]|id:v1Mom015jGDj}
+{type:PickWords|question:Nobody at all is making pasta|options:[pasta][ella][na][Nagin][fa][carstgaun]|answer:Nagincarstgaunnafapasta|answerviewable:Nagin carstgaun na fa pasta|id:0dsSnRXrJPF5}
+{type:PickWords|question:Nagin na va là|options:[Nobody][go][making][eat][has][there][is][going][near]|answer:Nobodyisgoingthere|answerviewable:Nobody is going there|id:ZBCxbqtK6gym}
+{type:PickWords|question:Why does nobody want to go with my grandfather?|options:[ir][sin][tat][nagin][in][mes][na][Dei][Hajas][cun][vul][Pertge]|answer:Pertgenavulnaginircunmestat?|answerviewable:Pertge na vul nagin ir cun mes tat?|id:3DxsoKMDonqd}
+{type:PickWords|question:Why does nobody want to go with my grandfather?|options:[vul][Pertge][intgins][ir][cun][mes][na][tat][intginas][mintga][carottas][nagin][nagliur]|answer:Pertgenavulnaginircunmestat?|answerviewable:Pertge na vul nagin ir cun mes tat?|id:DkSAzTXerAqY}
+{type:PickOne|question:nagin carstgaun|options:[anyway][anything, something][nobody at all]|answer:nobody at all|id:2b5wuiyFVRkO}
+{type:PickMissingWord|question:Jau hai ___intgins___ portget da mar|options:[intgins][Mei!][Metta!][Va!]|answer:intgins|id:UseAfTXT9xNC}
+{type:PickOne|question:intginas|options:[Eat! (pl)][some (f)][Go! (pl)]|answer:some (f)|id:22xmHX5WqvcC}
+{type:Match|question:Select the matching words|options:[nagut:nothing][nagin carstgaun:nobody at all][nagin:nobody, no one][insauna:aynwhere, somewhere]|id:ibKgqrnEUZtm}
+</lesson>
+<lesson:5|id:kIeSd1YueGpJ>
+{type:PickOne|question:insatge|options:[anything, something][Play! (sg)][Make! (pl)]|answer:anything, something|id:MhHy7rIMK7ou}
+{type:PickMissingWord|question:Nagin carstgaun na fa ___pasta___|options:[pasta][Dorma!][Va!][intgins]|answer:pasta|id:jgIgujQkBQAo}
+{type:PickMissingWord|question:È ___ella___ insauna sper qua?|options:[Sajas!][ella][insatge][Fai!]|answer:ella|id:dL4o6AZ8P7mr}
+{type:PickWords|question:Nobody at all is making pasta|options:[fa][qua][pasta][carstgaun][mes][stgaffa][Nagin][Dai][na]|answer:Nagincarstgaunnafapasta|answerviewable:Nagin carstgaun na fa pasta|id:79DRvOGs6HYV}
+{type:Match|question:Select the matching words|options:[utrò:somewhere else, elsewhere][insatgi:someone, anyone][en mintga cas:anyway][nagin:nobody, no one]|id:NRuGrdu8NYNu}
+{type:PickOne|question:intgins|options:[Be!][Make! (sg)][some (m)]|answer:some (m)|id:2cYC388rw4zb}
+{type:Match|question:Select the matching words|options:[nagin carstgaun:nobody at all][insauna:aynwhere, somewhere][utrò:somewhere else, elsewhere][nagut:nothing]|id:DC93SI20DuF1}
+{type:PickOne|question:mintgatant|options:[somewhere else, elsewhere][sometimes][nowhere]|answer:sometimes|id:gxXHFH0rcjxl}
+{type:PickOne|question:intgins|options:[Eat! (pl)][some (m)][Make! (sg)]|answer:some (m)|id:f0SapSNxMoUi}
+{type:PickWords|question:Nobody at all is making pasta|options:[carstgaun][Nagin][pasta][intginas][na][Jau][fa]|answer:Nagincarstgaunnafapasta|answerviewable:Nagin carstgaun na fa pasta|id:f1vtRF9CPmKU}
+{type:PickWords|question:He wants to eat anyway|options:[vul][El][cas][mintga][mangiar][en]|answer:Elvulenmintgacasmangiar|answerviewable:El vul en mintga cas mangiar|id:x1KXUj3iSdFC}
+{type:PickOneMeaning|question:The speaker is saying:|speech:insatge|options:[Have!][Sleep! (sg)][anything, something]|answer:anything, something|id:4TBY9jdDo8nV}
+{type:Match|question:Select the matching words|options:[Mei!:Go! (pl)][Fai!:Make! (sg)][Dei!:Play! (pl)][nagin:nobody, no one]|id:wJI6Me41o1lc}
+{type:PickWords|question:Nobody at all is making pasta|options:[carstgaun][pasta][Nagin][na][fa]|answer:Nagincarstgaunnafapasta|answerviewable:Nagin carstgaun na fa pasta|id:xZ0sBoPfKVKE}
+{type:PickOne|question:insauna|options:[aynwhere, somewhere][Play! (pl)][Play! (sg)]|answer:aynwhere, somewhere|id:5PFAUmf0XJHs}
+{type:PickWords|question:El vul en mintga cas mangiar|options:[eat][want][anyway][wants][to][Do][I][go][He][My]|answer:Hewantstoeatanyway|answerviewable:He wants to eat anyway|id:O5vFGtqcIKhK}
+{type:PickWords|question:Vuls ti intgins tartuffels?|options:[wants][you][potatoes][some][Do][want][I]|answer:Doyouwantsomepotatoes?|answerviewable:Do you want some potatoes?|id:BaRaZucpWplb}
+{type:PickWords|question:Pertge na vul nagin ir cun mes tat?|options:[to][does][want][croissant][with][go][on][Why][chair][grandfather][nobody][my][midnight]|answer:Whydoesnobodywanttogowithmygrandfather?|answerviewable:Why does nobody want to go with my grandfather?|id:323pXC8r3Smq}
+</lesson>
+<lesson:6|id:xqcD1q9IToGf>
+{type:PickWords|question:He has nothing|options:[tomata][Mettai][nagut][El][Sajas][n'ha][Faschai]|answer:Eln'hanagut|answerviewable:El n'ha nagut|id:do61ICXolj2i}
+{type:PickOne|question:insatgi|options:[someone, anyone][some (f)][aynwhere, somewhere]|answer:someone, anyone|id:CwgXRS56XuTh}
+{type:PickWords|question:I want something different|options:[utrò][insatge][Jau][vi][auter]|answer:Jauviinsatgeauter|answerviewable:Jau vi insatge auter|id:7KT6OMhoupCC}
+{type:PickOne|question:nagut|options:[Make! (sg)][nothing][Have!]|answer:nothing|id:jD4uLg4jmHcP}
+{type:PickWords|question:Jau sun nagliur|options:[am][nowhere][I]|answer:Iamnowhere|answerviewable:I am nowhere|id:KZMRjqRC6Bkg}
+{type:Match|question:Select the matching words|options:[mintgatant:sometimes][utrò:somewhere else, elsewhere][nagut:nothing][nagin carstgaun:nobody at all]|id:AgfD8Tukj14W}
+{type:PickMissingWord|question:Vegnan els ___ad___ ir utró?|options:[ad][insatgi][nagut][mintgatant]|answer:ad|id:B9CglNH7s427}
+{type:PickMissingWord|question:___El___ vul en mintga cas mangiar|options:[Mettai!][El][Sajas!][Faschai!]|answer:El|id:SRQ2ZuT7zwac}
+{type:PickOne|question:nagin carstgaun|options:[Have!][Eat! (sg)][nobody at all]|answer:nobody at all|id:IGQgVGOrniEK}
+{type:PickWords|question:I am nowhere|options:[Jau][nagliur][sun]|answer:Jausunnagliur|answerviewable:Jau sun nagliur|id:FMOvOhfu5Ms4}
+{type:PickWords|question:Nagin na va là|options:[going][is][someone][there][want][Nobody][pigs]|answer:Nobodyisgoingthere|answerviewable:Nobody is going there|id:y7zKtdDKZ17o}
+{type:Match|question:Select the matching words|options:[insatgi:someone, anyone][Hajas!:Have!][Metta!:Put! (sg)][Dei!:Play! (pl)]|id:qE49j92LOdoj}
+{type:Match|question:Select the matching words|options:[insatge:anything, something][intgins:some (m)][utrò:somewhere else, elsewhere][nagin:nobody, no one]|id:yqAgFlbbwL4P}
+{type:PickWords|question:I want nothing|options:[chaun][vi][igl][Ja][qua][na][nagut]|answer:Janavinagut|answerviewable:Ja na vi nagut|id:erdkqqyURQRa}
+{type:PickOne|question:insatgi|options:[someone, anyone][Eat! (pl)][Sleep! (pl)]|answer:someone, anyone|id:x9T00yhkzILD}
+{type:PickWords|question:Jau sun insauna|options:[am][floor][bed][midnight][I][Eat][somewhere]|answer:Iamsomewhere|answerviewable:I am somewhere|id:ZcURADs4IcuV}
+{type:PickOne|question:insatge|options:[Play! (pl)][anything, something][Make! (sg)]|answer:anything, something|id:0CrJfWMDNU3L}
+{type:PickOneMeaning|question:The speaker is saying:|speech:Dei!|options:[some (m)][Put! (sg)][Play! (pl)]|answer:Play! (pl)|id:d8FLNJQn2Ppl}
+</lesson>
+<lesson:7|id:Wl3PdygV1uCH>
+{type:WriteWords|question:Will they go elsewhere?|answer:[Vegnan els ad ir utró?]|answerviewable:Vegnan els ad ir utró?|special:[Vegnan][els][ad][ir][utró?]|id:HrIjCnqGxynM}
+{type:PickMissingWord|question:Ha ___ella___ intginas carottas?|options:[en mintga cas][ella][utrò][nagliur]|answer:ella|id:CFl86DhLRu2X}
+{type:PickWords|question:I speak with someone else|options:[pizza][ella][en][nagliur][discur][Jau][cun][insatgi][auter]|answer:Jaudiscurcuninsatgiauter|answerviewable:Jau discur cun insatgi auter|id:Xrnvj59irKQY}
+{type:WriteWords|question:Will they go elsewhere?|answer:[Vegnan els ad ir utró?]|answerviewable:Vegnan els ad ir utró?|special:[Vegnan][els][ad][ir][utró?]|id:Of8sytvpRU3n}
+{type:PickMissingWord|question:___Ha___ ella intginas carottas?|options:[en mintga cas][Ha][Dai!][Va!]|answer:Ha|id:2T5zUFXgOAlI}
+{type:PickOne|question:insatgi|options:[aynwhere, somewhere][someone, anyone][sometimes]|answer:someone, anyone|id:Xe1s2pX3pV7U}
+{type:WriteWords|question:I speak with someone else|answer:[Jau discur cun insatgi auter]|answerviewable:Jau discur cun insatgi auter|special:[Jau][discur][cun][insatgi][auter]|id:tyYGlEO9SY4g}
+{type:WriteWords|question:He wants to eat anyway|answer:[El vul en mintga cas mangiar]|answerviewable:El vul en mintga cas mangiar|special:[El][vul][en][mintga][cas][mangiar]|id:yIFmdiIUd2WH}
+{type:PickOneMeaning|question:The speaker is saying:|speech:en mintga cas|options:[aynwhere, somewhere][nobody, no one][anyway]|answer:anyway|id:ECBJ0JvyaFB8}
+{type:Match|question:Select the matching words|options:[nagin:nobody, no one][insatgi:someone, anyone][utrò:somewhere else, elsewhere][nagin carstgaun:nobody at all]|id:ysMGXozoguwE}
+{type:PickMissingWord|question:___Jau___ sun insauna|options:[intginas][Hajas!][Jau][nagut]|answer:Jau|id:uWIkIAKR9D22}
+{type:PickWords|question:El n'ha nagut|options:[you][nothing][to][some][He][has]|answer:Hehasnothing|answerviewable:He has nothing|id:uMcaBUtxDYUd}
+{type:WriteWords|question:I want nothing|answer:[Ja na vi nagut]|answerviewable:Ja na vi nagut|special:[Ja][na][vi][nagut]|id:DkToVc9lE3pm}
+{type:PickWords|question:I want to go elsewhere|options:[utrò][sun][Ha][Jau][ti][ir][n'ha][carstgaun][vi]|answer:Jauviirutrò|answerviewable:Jau vi ir utrò|id:4GQqhSqg4A8f}
+{type:Match|question:Select the matching words|options:[mintgatant:sometimes][insatge:anything, something][nagut:nothing][insauna:aynwhere, somewhere]|id:lx2HxKnFDEPT}
+{type:WriteWords|question:Sometimes she has a dog (female)|answer:[Mintgatant ha ella ina chogna]|answerviewable:Mintgatant ha ella ina chogna|special:[Mintgatant][ha][ella][ina][chogna]|id:TCPf525yHrwn}
+</lesson>
+<lesson:8|id:RxYXLJEr51qj>
+{type:PickWords|question:Mintgatant ha ella ina chogna|options:[want][pigs][has][Sometimes][I][at][female][dog][a][is][she]|answer:Sometimesshehasadog(female)|answerviewable:Sometimes she has a dog (female)|id:E40mxgLJnjN3}
+{type:PickWords|question:Why does nobody want to go with my grandfather?|options:[vul][carstgaun][mes][utrò][ir][Pertge][tat][Vuls][cun][na][nagin]|answer:Pertgenavulnaginircunmestat?|answerviewable:Pertge na vul nagin ir cun mes tat?|id:rbtAduduX3qM}
+{type:Match|question:Select the matching words|options:[insauna:aynwhere, somewhere][nagin carstgaun:nobody at all][mintgatant:sometimes][insatge:anything, something]|id:DKfSdZ6xOW8z}
+{type:WriteWords|question:I want nothing|answer:[Ja na vi nagut]|answerviewable:Ja na vi nagut|special:[Ja][na][vi][nagut]|id:huO2stLswlNA}
+{type:PickMissingWord|question:___È___ ella insauna sper qua?|options:[È][mintgatant][insatgi][Dorma!]|answer:È|id:WoKHrcIfDp94}
+{type:WriteWords|question:I have some guinea pigs|answer:[Jau hai intgins portget da mar]|answerviewable:Jau hai intgins portget da mar|special:[Jau][hai][intgins][portget][da][mar]|id:L3hkds1Tj8vD}
+{type:PickMissingWord|question:Jau vi ___ir___ utrò|options:[Dei!][Durmi!][insatge][ir]|answer:ir|id:Klp2qK2qo8l6}
+{type:PickOne|question:mintgatant|options:[nothing][anything, something][sometimes]|answer:sometimes|id:igJ1N6A7NL5J}
+{type:PickMissingWord|question:Nagin carstgaun na ___fa___ pasta|options:[insatge][fa][Durmi!][Dai!]|answer:fa|id:5ty7zzE8HXOg}
+{type:PickWords|question:Is she somewhere near here?|options:[È][qua][Jau][insauna][na][El][vul][sper][ella][là]|answer:Èellainsaunasperqua?|answerviewable:È ella insauna sper qua?|id:xESz24louyOZ}
+{type:WriteWords|question:Nobody at all wants to eat pizza|answer:[Nagin carstgaun na vul mangiar pizza]|answerviewable:Nagin carstgaun na vul mangiar pizza|special:[Nagin][carstgaun][na][vul][mangiar][pizza]|id:Svd8iAhd6K0k}
+{type:PickOneMeaning|question:The speaker is saying:|speech:Dorma!|options:[Eat! (sg)][sometimes][Sleep! (sg)]|answer:Sleep! (sg)|id:mDI7UHuPflSl}
+{type:WriteWords|question:Do you want some potatoes?|answer:[Vuls ti intgins tartuffels?]|answerviewable:Vuls ti intgins tartuffels?|special:[Vuls][ti][intgins][tartuffels?]|id:A9kyQdIrUet7}
+{type:WriteWords|question:I have some guinea pigs|answer:[Jau hai intgins portget da mar]|answerviewable:Jau hai intgins portget da mar|special:[Jau][hai][intgins][portget][da][mar]|id:0VZlPQFe26ld}
+{type:WriteWords|question:He wants to eat anyway|answer:[El vul en mintga cas mangiar]|answerviewable:El vul en mintga cas mangiar|special:[El][vul][en][mintga][cas][mangiar]|id:rPdBimQcOhBr}
+{type:Match|question:Select the matching words|options:[nagliur:nowhere][insatgi:someone, anyone][nagin carstgaun:nobody at all][en mintga cas:anyway]|id:2kAWrrvwCeBC}
+</lesson>
+<lesson:9|id:SkZZaJzsZkmf>
+{type:PickMissingWord|question:___Jau___ sun nagliur|options:[Jau][nagin carstgaun][nagin][Mei!]|answer:Jau|id:R73sXeJvCfEX}
+{type:WriteWords|question:He has some houses|answer:[El ha intginas chasas]|answerviewable:El ha intginas chasas|special:[El][ha][intginas][chasas]|id:38irSzP6xmnd}
+{type:PickWords|question:Why does nobody want to go with my grandfather?|options:[Pertge][na][mes][intgins][n'ha][mangiar][tat][cun][ir][vul][vi][nagin]|answer:Pertgenavulnaginircunmestat?|answerviewable:Pertge na vul nagin ir cun mes tat?|id:FF4lUgasLdcH}
+{type:PickWords|question:He has nothing|options:[intginas][els][insauna][nagut][qua][Mintgtatant][El][n'ha]|answer:Eln'hanagut|answerviewable:El n'ha nagut|id:BHqbEHhpVgTx}
+{type:PickWords|question:Mes chaun è nagliur|options:[is][male][nowhere][My][dog]|answer:Mydog(male)isnowhere|answerviewable:My dog (male) is nowhere|id:f9CWIeRvyIhv}
+{type:WriteWords|question:Nobody at all wants to eat pizza|answer:[Nagin carstgaun na vul mangiar pizza]|answerviewable:Nagin carstgaun na vul mangiar pizza|special:[Nagin][carstgaun][na][vul][mangiar][pizza]|id:cp0iizBQbxih}
+{type:WriteWords|question:Nobody at all is making pasta|answer:[Nagin carstgaun na fa pasta]|answerviewable:Nagin carstgaun na fa pasta|special:[Nagin][carstgaun][na][fa][pasta]|id:yYq4lShyBwpT}
+{type:WriteWords|question:Nobody is going there|answer:[Nagin na va là]|answerviewable:Nagin na va là|special:[Nagin][na][va][là]|id:g9jOrxXehsoH}
+{type:PickOne|question:insatgi|options:[anything, something][someone, anyone][anyway]|answer:someone, anyone|id:T8zqSuzjMxfl}
+{type:PickOneMeaning|question:The speaker is saying:|speech:insatge|options:[sometimes][anything, something][Eat! (pl)]|answer:anything, something|id:U5MK5RyQREQq}
+{type:WriteWords|question:He has some houses|answer:[El ha intginas chasas]|answerviewable:El ha intginas chasas|special:[El][ha][intginas][chasas]|id:pTj3oHwS93eA}
+{type:PickMissingWord|question:Pertge na vul nagin ir cun ___mes___ tat?|options:[intginas][mes][Faschai!][Mangiei!]|answer:mes|id:rTE2tGJjJ66F}
+{type:Match|question:Select the matching words|options:[intgins:some (m)][insatgi:someone, anyone][nagin:nobody, no one][insatge:anything, something]|id:BgrWql8WFkGg}
+{type:Match|question:Select the matching words|options:[insatgi:someone, anyone][nagin carstgaun:nobody at all][nagut:nothing][utrò:somewhere else, elsewhere]|id:yOH8LpUDDCsA}
+{type:WriteWords|question:Why does nobody want to go with my grandfather?|answer:[Pertge na vul nagin ir cun mes tat?]|answerviewable:Pertge na vul nagin ir cun mes tat?|special:[Pertge][na][vul][nagin][ir][cun][mes][tat?]|id:VDEF1nrfDGxk}
+{type:PickMissingWord|question:Mintgtatant vi jau ___mangiar___ in cornet|options:[mangiar][Mangiei!][Fai!][intginas]|answer:mangiar|id:cHWfMzwrGZYM}
+</lesson>
+<lesson:10|id:MxsMEZbGJL55>
+{type:WriteWords|question:Sometimes, i want to eat a croissant|answer:[Mintgtatant vi jau mangiar in cornet]|answerviewable:Mintgtatant vi jau mangiar in cornet|special:[Mintgtatant][vi][jau][mangiar][in][cornet]|id:EUOdGcznje3d}
+{type:WriteWords|question:I want to go elsewhere|answer:[Jau vi ir utrò]|answerviewable:Jau vi ir utrò|special:[Jau][vi][ir][utrò]|id:uYrQCuMZb0Oo}
+{type:PickWords|question:Jau vi ir utrò|options:[nowhere][I][to][Nobody][elsewhere][some][something][want][go]|answer:Iwanttogoelsewhere|answerviewable:I want to go elsewhere|id:InST4u6X7ksW}
+{type:Match|question:Select the matching words|options:[insauna:aynwhere, somewhere][nagin:nobody, no one][insatge:anything, something][intginas:some (f)]|id:OxXfijhEBgnX}
+{type:WriteWords|question:Nobody at all wants to eat pizza|answer:[Nagin carstgaun na vul mangiar pizza]|answerviewable:Nagin carstgaun na vul mangiar pizza|special:[Nagin][carstgaun][na][vul][mangiar][pizza]|id:W0fFnPeqj2VN}
+{type:PickMissingWord|question:___Nagin___ na va là|options:[Faschai!][utrò][Nagin][Fai!]|answer:Nagin|id:hSbqH8ZnsK3G}
+{type:WriteWords|question:Do you (sg) want something?|answer:[Vuls ti insatge?]|answerviewable:Vuls ti insatge?|special:[Vuls][ti][insatge?]|id:nRrEqk3zmbLD}
+{type:PickOne|question:intginas|options:[some (f)][anything, something][nothing]|answer:some (f)|id:3evMYFc3Mq4k}
+{type:WriteWords|question:I am somewhere|answer:[Jau sun insauna]|answerviewable:Jau sun insauna|special:[Jau][sun][insauna]|id:RevvsYErXJxP}
+{type:WriteWords|question:I want to go elsewhere|answer:[Jau vi ir utrò]|answerviewable:Jau vi ir utrò|special:[Jau][vi][ir][utrò]|id:D2CQswbtU52Y}
+{type:WriteWords|question:My dog (male) is nowhere|answer:[Mes chaun è nagliur]|answerviewable:Mes chaun è nagliur|special:[Mes][chaun][è][nagliur]|id:qLIatJHzDKAp}
+{type:Match|question:Select the matching words|options:[utrò:somewhere else, elsewhere][nagut:nothing][insauna:aynwhere, somewhere][mintgatant:sometimes]|id:bbDk6LzBqNee}
+{type:PickMissingWord|question:Nagin carstgaun na fa ___pasta___|options:[insatge][pasta][Va!][intgins]|answer:pasta|id:4GptQWHaXxeY}
+{type:WriteWords|question:Do you want some potatoes?|answer:[Vuls ti intgins tartuffels?]|answerviewable:Vuls ti intgins tartuffels?|special:[Vuls][ti][intgins][tartuffels?]|id:Yd3dnSChb0Lm}
+{type:PickWords|question:Sometimes she has a dog (female)|options:[chogna][ella][ina][ha][auter][là][Mintgatant]|answer:Mintgatanthaellainachogna|answerviewable:Mintgatant ha ella ina chogna|id:s3cPlnRQNZmP}
+{type:PickOneMeaning|question:The speaker is saying:|speech:Mangiei!|options:[some (f)][Eat! (pl)][Go! (sg)]|answer:Eat! (pl)|id:tLUmitQblfbs}
+</lesson>
+<lesson:11|id:TdiQfotkrh3N>
+{type:PickMissingWord|question:Jau ___vi___ en mintga cas ir|options:[insatge][nagut][nagin][vi]|answer:vi|id:EYiYEa5jLQ2J}
+{type:WriteWords|question:Nobody at all is making pasta|answer:[Nagin carstgaun na fa pasta]|answerviewable:Nagin carstgaun na fa pasta|special:[Nagin][carstgaun][na][fa][pasta]|id:xDs8MmnbsZbo}
+{type:Match|question:Select the matching words|options:[intgins:some (m)][insauna:aynwhere, somewhere][insatgi:someone, anyone][nagliur:nowhere]|id:xxMVPaQ6uf7B}
+{type:PickWords|question:Pertge na vul nagin ir cun mes tat?|options:[my][to][something][with][Why][go][does][nobody][want][grandfather]|answer:Whydoesnobodywanttogowithmygrandfather?|answerviewable:Why does nobody want to go with my grandfather?|id:1kbd9AbtkYeH}
+{type:Match|question:Select the matching words|options:[intgins:some (m)][nagut:nothing][en mintga cas:anyway][intginas:some (f)]|id:4HL46BtQiH29}
+{type:WriteWords|question:Will they go elsewhere?|answer:[Vegnan els ad ir utró?]|answerviewable:Vegnan els ad ir utró?|special:[Vegnan][els][ad][ir][utró?]|id:do6YaZzkHaaI}
+{type:WriteWords|question:Sometimes she has a dog (female)|answer:[Mintgatant ha ella ina chogna]|answerviewable:Mintgatant ha ella ina chogna|special:[Mintgatant][ha][ella][ina][chogna]|id:ju4Z6RoRruPh}
+{type:WriteWords|question:My dog (male) is nowhere|answer:[Mes chaun è nagliur]|answerviewable:Mes chaun è nagliur|special:[Mes][chaun][è][nagliur]|id:U0uIUJIBmBPO}
+{type:WriteWords|question:Do you want some potatoes?|answer:[Vuls ti intgins tartuffels?]|answerviewable:Vuls ti intgins tartuffels?|special:[Vuls][ti][intgins][tartuffels?]|id:1rm0NqUACgcQ}
+{type:PickMissingWord|question:___È___ ella insauna sper qua?|options:[Dorma!][È][intgins][intginas]|answer:È|id:BMxxwQL7nhCv}
+{type:PickOne|question:nagut|options:[somewhere else, elsewhere][nobody at all][nothing]|answer:nothing|id:zE3ZShWc1zR8}
+{type:WriteWords|question:Why does nobody want to go with my grandfather?|answer:[Pertge na vul nagin ir cun mes tat?]|answerviewable:Pertge na vul nagin ir cun mes tat?|special:[Pertge][na][vul][nagin][ir][cun][mes][tat?]|id:8tGQsnPV78tC}
+{type:PickWords|question:My dog (male) is nowhere|options:[è][tartuffels][vul][nagliur][chaun][Mes]|answer:Meschaunènagliur|answerviewable:Mes chaun è nagliur|id:1dbLgElGFBLX}
+{type:PickOneMeaning|question:The speaker is saying:|speech:en mintga cas|options:[anyway][Play! (pl)][nowhere]|answer:anyway|id:oAKAKkPmpH6r}
+{type:WriteWords|question:Sometimes, i want to eat a croissant|answer:[Mintgtatant vi jau mangiar in cornet]|answerviewable:Mintgtatant vi jau mangiar in cornet|special:[Mintgtatant][vi][jau][mangiar][in][cornet]|id:HIxSTNTg9624}
+{type:WriteWords|question:I want something different|answer:[Jau vi insatge auter]|answerviewable:Jau vi insatge auter|special:[Jau][vi][insatge][auter]|id:KUGHPRUd8CxD}
+</lesson>
+<lesson:12|id:wLV4ABXEjOqN>
+{type:WriteWords|question:He has nothing|answer:[El n'ha nagut]|answerviewable:El n'ha nagut|special:[El][n'ha][nagut]|id:e9L7aJacoRaT}
+{type:WriteWords|question:I want to go anyway|answer:[Jau vi en mintga cas ir]|answerviewable:Jau vi en mintga cas ir|special:[Jau][vi][en][mintga][cas][ir]|id:neD392qzF724}
+{type:WriteWords|question:Do you (sg) want something?|answer:[Vuls ti insatge?]|answerviewable:Vuls ti insatge?|special:[Vuls][ti][insatge?]|id:QS80PcbnvBct}
+{type:PickWords|question:My dog (male) is nowhere|options:[chaun][ella][Mes][è][nagliur]|answer:Meschaunènagliur|answerviewable:Mes chaun è nagliur|id:1KVZlViz764r}
+{type:PickMissingWord|question:___Jau___ vi ir utrò|options:[Fai!][Va!][nagliur][Jau]|answer:Jau|id:XhO6aOn18NqF}
+{type:WriteWords|question:He has nothing|answer:[El n'ha nagut]|answerviewable:El n'ha nagut|special:[El][n'ha][nagut]|id:mhrREhQPUqKI}
+{type:WriteWords|question:Is she somewhere near here?|answer:[È ella insauna sper qua?]|answerviewable:È ella insauna sper qua?|special:[È][ella][insauna][sper][qua?]|id:O6be3c9ZBTcp}
+{type:WriteWords|question:I am somewhere|answer:[Jau sun insauna]|answerviewable:Jau sun insauna|special:[Jau][sun][insauna]|id:Xs9aEDw7JM1V}
+{type:WriteWords|question:He has nothing|answer:[El n'ha nagut]|answerviewable:El n'ha nagut|special:[El][n'ha][nagut]|id:qif4DySMRCeW}
+{type:PickOne|question:nagin|options:[nowhere][nobody, no one][nobody at all]|answer:nobody, no one|id:kEVwi1e6ie0R}
+{type:Match|question:Select the matching words|options:[mintgatant:sometimes][intgins:some (m)][nagin:nobody, no one][en mintga cas:anyway]|id:dlgqFB2Ld20c}
+{type:PickMissingWord|question:Ha ___igl___ insatgi auter?|options:[insauna][igl][Dai!][Mei!]|answer:igl|id:wyUP7ocviJGf}
+{type:WriteWords|question:Sometimes, i want to eat a croissant|answer:[Mintgtatant vi jau mangiar in cornet]|answerviewable:Mintgtatant vi jau mangiar in cornet|special:[Mintgtatant][vi][jau][mangiar][in][cornet]|id:q232ganTt4oa}
+{type:Match|question:Select the matching words|options:[nagin:nobody, no one][intginas:some (f)][mintgatant:sometimes][intgins:some (m)]|id:mtFZkVrblXsi}
+{type:PickWords|question:Jau hai intgins portget da mar|options:[guinea][pigs][have][is][some][I]|answer:Ihavesomeguineapigs|answerviewable:I have some guinea pigs|id:konmHUTJGiKB}
+{type:PickOneMeaning|question:The speaker is saying:|speech:en mintga cas|options:[anyway][Be!][Make! (pl)]|answer:anyway|id:KUb0LnG3T9II}
+</lesson>
+<lesson:13|id:Wlba9MZBNBcz>
+{type:WriteWords|question:I want nothing|answer:[Ja na vi nagut]|answerviewable:Ja na vi nagut|special:[Ja][na][vi][nagut]|id:SQrubeHByiVX}
+{type:PickOne|question:insauna|options:[aynwhere, somewhere][some (f)][sometimes]|answer:aynwhere, somewhere|id:KU0SqlIN3QDY}
+{type:WriteWords|question:I want something different|answer:[Jau vi insatge auter]|answerviewable:Jau vi insatge auter|special:[Jau][vi][insatge][auter]|id:l5tF1peaNK7X}
+{type:PickMissingWord|question:___È___ ella insauna sper qua?|options:[nagut][Mei!][È][insauna]|answer:È|id:NgWKhC1nGIdu}
+{type:Match|question:Select the matching words|options:[intginas:some (f)][intgins:some (m)][nagut:nothing][nagin carstgaun:nobody at all]|id:f3QAqS6OMiLV}
+{type:PickWords|question:Jau vi en mintga cas ir|options:[I][grandfather][anyway][want][to][Is][go][something]|answer:Iwanttogoanyway|answerviewable:I want to go anyway|id:EfzUCDUuBvH4}
+{type:Match|question:Select the matching words|options:[insatgi:someone, anyone][nagin carstgaun:nobody at all][mintgatant:sometimes][nagut:nothing]|id:Ht5Bw9Tt2Vkc}
+{type:PickOneMeaning|question:The speaker is saying:|speech:Va!|options:[Sleep! (sg)][Go! (pl)][Go! (sg)]|answer:Go! (sg)|id:meAgbMz5kF9Z}
+{type:WriteWords|question:I want something different|answer:[Jau vi insatge auter]|answerviewable:Jau vi insatge auter|special:[Jau][vi][insatge][auter]|id:rkty3pmIC9vm}
+{type:WriteWords|question:He has nothing|answer:[El n'ha nagut]|answerviewable:El n'ha nagut|special:[El][n'ha][nagut]|id:i062QWTu7MR2}
+{type:WriteWords|question:Do you (sg) want something?|answer:[Vuls ti insatge?]|answerviewable:Vuls ti insatge?|special:[Vuls][ti][insatge?]|id:JnsZW1tjGgox}
+{type:WriteWords|question:He has some houses|answer:[El ha intginas chasas]|answerviewable:El ha intginas chasas|special:[El][ha][intginas][chasas]|id:VxUfOoSCZvkn}
+{type:WriteWords|question:He wants to eat anyway|answer:[El vul en mintga cas mangiar]|answerviewable:El vul en mintga cas mangiar|special:[El][vul][en][mintga][cas][mangiar]|id:AxtiTvgmDtKQ}
+{type:WriteWords|question:Is there anyone else?|answer:[Ha igl insatgi auter?]|answerviewable:Ha igl insatgi auter?|special:[Ha][igl][insatgi][auter?]|id:AiHv1CwM4HSd}
+{type:PickWords|question:I have some guinea pigs|options:[portget][Jau][hai][mar][da][intgins]|answer:Jauhaiintginsportgetdamar|answerviewable:Jau hai intgins portget da mar|id:iLP2g0V3reoR}
+{type:PickMissingWord|question:El vul en ___mintga___ cas mangiar|options:[Mettai!][insatge][mintga][nagin carstgaun]|answer:mintga|id:bE1knV83Eks9}
+{type:WriteWords|question:I am nowhere|answer:[Jau sun nagliur]|answerviewable:Jau sun nagliur|special:[Jau][sun][nagliur]|id:1yefUFbhqqSC}
+{type:WriteWords|question:I am somewhere|answer:[Jau sun insauna]|answerviewable:Jau sun insauna|special:[Jau][sun][insauna]|id:uECjm4oqZH7A}
+</lesson>
+<lesson:14|id:IVsDevCbaUtv>
+{type:Match|question:Select the matching words|options:[en mintga cas:anyway][insatgi:someone, anyone][insauna:aynwhere, somewhere][nagut:nothing]|id:Mw6Xeh19Kdx4}
+{type:WriteWords|question:Do you (sg) want something?|answer:[Vuls ti insatge?]|answerviewable:Vuls ti insatge?|special:[Vuls][ti][insatge?]|id:XrsJpq9N9LtQ}
+{type:WriteWords|question:I want nothing|answer:[Ja na vi nagut]|answerviewable:Ja na vi nagut|special:[Ja][na][vi][nagut]|id:j2jP7Gy5kqda}
+{type:PickWords|question:Jau sun insauna|options:[somewhere][have][I][to][nobody][am][want]|answer:Iamsomewhere|answerviewable:I am somewhere|id:FPZd8yFlYNVI}
+{type:PickOneMeaning|question:The speaker is saying:|speech:nagin|options:[Sleep! (sg)][nobody, no one][some (m)]|answer:nobody, no one|id:Bp61y7wXOTKj}
+{type:WriteWords|question:Is there anyone else?|answer:[Ha igl insatgi auter?]|answerviewable:Ha igl insatgi auter?|special:[Ha][igl][insatgi][auter?]|id:HRI5upGKRqTO}
+{type:WriteWords|question:Why does nobody want to go with my grandfather?|answer:[Pertge na vul nagin ir cun mes tat?]|answerviewable:Pertge na vul nagin ir cun mes tat?|special:[Pertge][na][vul][nagin][ir][cun][mes][tat?]|id:fYzx1BzkArBU}
+{type:Match|question:Select the matching words|options:[nagliur:nowhere][insauna:aynwhere, somewhere][insatge:anything, something][intgins:some (m)]|id:HLqZuoPwgnQP}
+{type:PickWords|question:Why does nobody want to go with my grandfather?|options:[tat][auter][Pertge][nagut][vul][cun][ir][na][nagin][igl][mes]|answer:Pertgenavulnaginircunmestat?|answerviewable:Pertge na vul nagin ir cun mes tat?|id:0Pgou74cJc3c}
+{type:WriteWords|question:Do you want some potatoes?|answer:[Vuls ti intgins tartuffels?]|answerviewable:Vuls ti intgins tartuffels?|special:[Vuls][ti][intgins][tartuffels?]|id:gkmMMMZzEm86}
+{type:WriteWords|question:Do you want some potatoes?|answer:[Vuls ti intgins tartuffels?]|answerviewable:Vuls ti intgins tartuffels?|special:[Vuls][ti][intgins][tartuffels?]|id:Jl1NTKSrM8YO}
+{type:PickMissingWord|question:Vuls ti ___intgins___ tartuffels?|options:[nagin][nagut][intginas][intgins]|answer:intgins|id:q07rDVvtseKp}
+{type:WriteWords|question:I want to go anyway|answer:[Jau vi en mintga cas ir]|answerviewable:Jau vi en mintga cas ir|special:[Jau][vi][en][mintga][cas][ir]|id:sBPcd76Hy3I2}
+{type:WriteWords|question:I want to go anyway|answer:[Jau vi en mintga cas ir]|answerviewable:Jau vi en mintga cas ir|special:[Jau][vi][en][mintga][cas][ir]|id:ZtLNQny4lZ7z}
+{type:PickOne|question:nagin carstgaun|options:[someone, anyone][nowhere][nobody at all]|answer:nobody at all|id:cbLhCJxUGYUb}
+{type:WriteWords|question:I am nowhere|answer:[Jau sun nagliur]|answerviewable:Jau sun nagliur|special:[Jau][sun][nagliur]|id:j3ILr1JGp3Y4}
+{type:WriteWords|question:Is she somewhere near here?|answer:[È ella insauna sper qua?]|answerviewable:È ella insauna sper qua?|special:[È][ella][insauna][sper][qua?]|id:Djrpabu9iqBq}
+{type:PickMissingWord|question:___Vuls___ ti intgins tartuffels?|options:[Hajas!][en mintga cas][Sajas!][Vuls]|answer:Vuls|id:GC8CbYCXMduT}
+</lesson>
+<lesson:15|id:w44fJ8obbD3X>
+{type:WriteWords|question:I want something different|answer:[Jau vi insatge auter]|answerviewable:Jau vi insatge auter|special:[Jau][vi][insatge][auter]|id:PfV0ozWMjzCU}
+{type:PickWords|question:He has nothing|options:[n'ha][nagut][cas][El]|answer:Eln'hanagut|answerviewable:El n'ha nagut|id:xWvCEJn2E0TQ}
+{type:WriteWords|question:My dog (male) is nowhere|answer:[Mes chaun è nagliur]|answerviewable:Mes chaun è nagliur|special:[Mes][chaun][è][nagliur]|id:aCYc8HuUP2ZC}
+{type:PickOne|question:insatge|options:[aynwhere, somewhere][anything, something][nobody, no one]|answer:anything, something|id:THYmbUaKswRL}
+{type:WriteWords|question:Will they go elsewhere?|answer:[Vegnan els ad ir utró?]|answerviewable:Vegnan els ad ir utró?|special:[Vegnan][els][ad][ir][utró?]|id:8TwrJyrff4zH}
+{type:PickMissingWord|question:Vuls ___ti___ insatge?|options:[mintgatant][Mettai!][ti][Metta!]|answer:ti|id:U4ABrjaLtXT8}
+{type:WriteWords|question:I want nothing|answer:[Ja na vi nagut]|answerviewable:Ja na vi nagut|special:[Ja][na][vi][nagut]|id:1eLsWwJLx2X8}
+{type:PickMissingWord|question:Ha igl insatgi ___auter___?|options:[Durmi!][mintgatant][auter][Sajas!]|answer:auter|id:xT8cpTNjhJCG}
+{type:WriteWords|question:He has nothing|answer:[El n'ha nagut]|answerviewable:El n'ha nagut|special:[El][n'ha][nagut]|id:CMwRNrnfpRMo}
+{type:PickOneMeaning|question:The speaker is saying:|speech:Metta!|options:[Put! (sg)][aynwhere, somewhere][anyway]|answer:Put! (sg)|id:WA4S6eH3vbhe}
+{type:WriteWords|question:Sometimes she has a dog (female)|answer:[Mintgatant ha ella ina chogna]|answerviewable:Mintgatant ha ella ina chogna|special:[Mintgatant][ha][ella][ina][chogna]|id:VOIJHiUGnUhM}
+{type:PickWords|question:Jau sun insauna|options:[somewhere][am][you][I][some][He][something]|answer:Iamsomewhere|answerviewable:I am somewhere|id:PleeGPkVB9Ii}
+{type:WriteWords|question:Nobody at all is making pasta|answer:[Nagin carstgaun na fa pasta]|answerviewable:Nagin carstgaun na fa pasta|special:[Nagin][carstgaun][na][fa][pasta]|id:ZAbO9IxZPa1d}
+{type:WriteWords|question:He wants to eat anyway|answer:[El vul en mintga cas mangiar]|answerviewable:El vul en mintga cas mangiar|special:[El][vul][en][mintga][cas][mangiar]|id:HEpDjU6Ota8O}
+{type:Match|question:Select the matching words|options:[nagliur:nowhere][intgins:some (m)][utrò:somewhere else, elsewhere][insatgi:someone, anyone]|id:Mxf8eLhXees7}
+{type:WriteWords|question:He has nothing|answer:[El n'ha nagut]|answerviewable:El n'ha nagut|special:[El][n'ha][nagut]|id:lhVqkX6dn0ps}
+{type:WriteWords|question:Nobody is going there|answer:[Nagin na va là]|answerviewable:Nagin na va là|special:[Nagin][na][va][là]|id:sLxfhCY8R7UX}
+{type:Match|question:Select the matching words|options:[mintgatant:sometimes][en mintga cas:anyway][nagin:nobody, no one][intgins:some (m)]|id:Twk43PzNOJgk}
 </lesson>
 </skill>
-<skill:School|image:apple|lessonsperlevel:3|strokecolor:244,67,54|fillcolor:0,0,0|position:3a|description:Learn different school subjects and other vocabulary about school in romansh|id:BdJzfJqnx2O0>
+<skill:To learn|image:education_learn|lessonsperlevel:3|strokecolor:244,67,54|fillcolor:0,0,0|position:3a|description:Learn how to conjuagte the werb 'to learn' in Romansh in the past, present and future|id:MnD0uCzE0HBY>
+<lesson:1|id:kUsQOyrwFlHP>
+{type:FlashCard|front:he learnt|back:el emprendeva|id:BmR6FQEdQa5d}
+{type:FlashCard|front:to learn|back:emprender|id:db8FwCUzBTJq}
+{type:FlashCard|front:you (pl) learnt|back:vus emprendevas|id:zkM8Nag8wg79}
+{type:PickOne|question:el emprenda|options:[anything, something][he learns][nobody at all]|answer:he learns|id:JMATj3cJr8lr}
+{type:PickOneMeaning|question:The speaker is saying:|speech:els emprendan|options:[some (m)][to learn][they learn]|answer:they learn|id:R5lHn3sYRHfk}
+{type:FlashCard|front:she learnt|back:ella emprendeva|id:FphuQdT8cDNP}
+{type:PickOne|question:ti emprendevas|options:[nothing][anything, something][you (sg) learnt]|answer:you (sg) learnt|id:IbSlJEKnjaby}
+{type:PickOne|question:els emprendan|options:[nothing][they learn][some (f)]|answer:they learn|id:5sgSDPt91X4d}
+{type:FlashCard|front:she learnt|back:ella emprendeva|id:82K0YlQ38MhN}
+{type:PickOne|question:emprender|options:[nothing][nowhere][to learn]|answer:to learn|id:2U7y5XHUvLkB}
+{type:PickOne|question:els emprendevan|options:[somewhere else, elsewhere][they learnt][some (m)]|answer:they learnt|id:VeMymjZ9GWuE}
+{type:PickOne|question:el emprenda|options:[somewhere else, elsewhere][he learns][anything, something]|answer:he learns|id:647I95EmKgtV}
+</lesson>
+<lesson:2|id:hwuKxVBWusF7>
+{type:FlashCard|front:we learnt|back:nus emprendevan|id:eezbaqVrnCub}
+{type:PickOneMeaning|question:The speaker is saying:|speech:emprender|options:[aynwhere, somewhere][someone, anyone][to learn]|answer:to learn|id:XkT1vl6J2rjq}
+{type:PickOne|question:ti emprendevas|options:[nobody at all][you (sg) learnt][someone, anyone]|answer:you (sg) learnt|id:rqC5uKvrtrjb}
+{type:PickOne|question:ti emprendas|options:[you (sg) learn][nobody at all][aynwhere, somewhere]|answer:you (sg) learn|id:OCSLFh3OIId1}
+{type:FlashCard|front:you (sg) learn|back:ti emprendas|id:Uf2L3GFVyQ5o}
+{type:FlashCard|front:you (sg) learn|back:ti emprendas|id:PZ1vsx1c7kyz}
+{type:FlashCard|front:you (sg) learnt|back:ti emprendevas|id:ECUyv9GQQtt1}
+{type:PickOne|question:vus emprendevas|options:[you (pl) learnt][aynwhere, somewhere][someone, anyone]|answer:you (pl) learnt|id:wgncreoaT1bS}
+{type:PickOne|question:emprender|options:[to learn][anything, something][anyway]|answer:to learn|id:oIedtBZKKpcc}
+{type:FlashCard|front:I learn|back:jau emprend|id:NBc1lTvqIYja}
+{type:PickOne|question:vus emprendevas|options:[anyway][you (pl) learnt][some (m)]|answer:you (pl) learnt|id:CVwF8rSeiccX}
+{type:PickOne|question:emprender|options:[somewhere else, elsewhere][some (f)][to learn]|answer:to learn|id:hGQ4OTDbnVQ7}
+</lesson>
+<lesson:3|id:YqPbkKZcuErJ>
+{type:FlashCard|front:he learnt|back:el emprendeva|id:5whqYFOdCaP2}
+{type:PickOne|question:jau emprend|options:[nowhere][some (f)][I learn]|answer:I learn|id:Ar7iPLCdb6YS}
+{type:PickOne|question:nus emprendain|options:[we learn][some (m)][anything, something]|answer:we learn|id:UldJIHAJHe4e}
+{type:FlashCard|front:she learnt|back:ella emprendeva|id:rVtp8toRSOpq}
+{type:FlashCard|front:to learn|back:emprender|id:YMQsmM6vQ2x5}
+{type:FlashCard|front:we learn|back:nus emprendain|id:04AZqCjV7SZJ}
+{type:PickOne|question:che|options:[anyway][that (connective)][some (m)]|answer:that (connective)|id:5JAFOFJlLxkj}
+{type:FlashCard|front:you (pl) learnt|back:vus emprendevas|id:n492e6zp6Vnl}
+{type:PickOneMeaning|question:The speaker is saying:|speech:insatge|options:[anything, something][they learnt][they learn]|answer:anything, something|id:tow6MTwiURkl}
+{type:PickOne|question:ella emprenda|options:[she learns][aynwhere, somewhere][anything, something]|answer:she learns|id:THZztG4iukvp}
+{type:PickOne|question:nus emprendain|options:[aynwhere, somewhere][we learn][nowhere]|answer:we learn|id:emA3KI7FM4LB}
+{type:PickOne|question:nus emprendevan|options:[nobody at all][we learnt][nothing]|answer:we learnt|id:vvWSqMrmv0JS}
+</lesson>
+<lesson:4|id:gcxsXXi3IOBL>
+{type:PickMissingWord|question:Els emprendevan da ___dar___ rugby|options:[dar][nus emprendain][intgins][che]|answer:dar|id:hbwhDMtHLefn}
+{type:PickWords|question:Does he learn with anyone?|options:[insatgi][el][cun][Emprenda]|answer:Emprendaelcuninsatgi?|answerviewable:Emprenda el cun insatgi?|id:8LDMbx6YR3fQ}
+{type:PickOne|question:emprender|options:[to learn][nobody at all][aynwhere, somewhere]|answer:to learn|id:W1fhTXay4v4T}
+{type:PickWords|question:Jau vi emprender|options:[I][dog][they][My][learn][want][Will][to]|answer:Iwanttolearn|answerviewable:I want to learn|id:xeUOPT3N14xM}
+{type:PickOne|question:vus emprendevas|options:[anything, something][aynwhere, somewhere][you (pl) learnt]|answer:you (pl) learnt|id:imBK5oSYSSTL}
+{type:PickOneMeaning|question:The speaker is saying:|speech:els emprendevan|options:[they learnt][he learns][they learn]|answer:they learnt|id:d5x7BtzFfW7g}
+{type:PickWords|question:Emprendan els da far ins schuppa?|options:[soup][a][they][to][Do][he][make][You][learn][Are]|answer:Dotheylearntomakeasoup?|answerviewable:Do they learn to make a soup?|id:lPmJxh5k5kio}
+{type:PickWords|question:Are you (sg) learning to make a pizza?|options:[emprend][vegnan][pizza][mia][Emprendas][ti][emprendevas][far][ina][ad][da]|answer:Emprendastidafarinapizza?|answerviewable:Emprendas ti da far ina pizza?|id:ozctLK24hvlr}
+{type:PickWords|question:They learnt to play rugby|options:[en][emprendevan][dar][utrò][da][Jau][Els][rugby][ti]|answer:Elsemprendevandadarrugby|answerviewable:Els emprendevan da dar rugby|id:wl3Y4l9za2Fw}
+{type:Match|question:Select the matching words|options:[insatge:anything, something][nagin carstgaun:nobody at all][emprender:to learn][utrò:somewhere else, elsewhere]|id:KBxzOQes55bb}
+{type:PickMissingWord|question:Jau ___emprend___ insatge cun mes tat|options:[vus emprendevas][el emprendeva][el emprenda][emprend]|answer:emprend|id:D8hnVA1v5ijp}
+{type:PickWords|question:Emprendas ti da far ina pizza?|options:[learning][they][you][this][something][Are][pizza][learnt][to][tasty][sg][a][make]|answer:Areyou(sg)learningtomakeapizza?|answerviewable:Are you (sg) learning to make a pizza?|id:7izn44H3Y9Ke}
+{type:PickOne|question:nus emprendain|options:[they learnt][we learn][he learns]|answer:we learn|id:Pw87skxPBp46}
+{type:Match|question:Select the matching words|options:[els emprendan:they learn][els emprendevan:they learnt][vus emprendais:you (pl) learn][vus emprendevas:you (pl) learnt]|id:OYwLA20KCisJ}
+{type:Match|question:Select the matching words|options:[ella emprenda:she learns][nus emprendevan:we learnt][els emprendan:they learn][el emprenda:he learns]|id:Xk32jkt0WT7b}
+{type:PickWords|question:I am learning nothing now|options:[emprend][Jau][ussa][damaun][mes][nagut][schuppa]|answer:Jauemprendnagutussa|answerviewable:Jau emprend nagut ussa|id:OwG6OmFNZhkk}
+</lesson>
+<lesson:5|id:NNzgIOEc4mfp>
+{type:PickWords|question:She learnt to sleep in a bed|options:[far][zercladur][letg][Emprenda][durmir][Ella][da][emprendeva][en][in]|answer:Ellaemprendevadadurmireninletg|answerviewable:Ella emprendeva da durmir en in letg|id:XQrhOwayNEyQ}
+{type:Match|question:Select the matching words|options:[nus emprendain:we learn][els emprendan:they learn][el emprendeva:he learnt][jau emprendeva:I learnt]|id:qqUljZWUupzL}
+{type:PickWords|question:She learnt to sleep in a bed|options:[Mes][emprendeva][Ella][en][Jau][in][cun][È][durmir][da][letg]|answer:Ellaemprendevadadurmireninletg|answerviewable:Ella emprendeva da durmir en in letg|id:xiAtZcIL7HmD}
+{type:PickMissingWord|question:Emprendan els da far ___ins___ schuppa?|options:[el emprendeva][vus emprendais][insatge][ins]|answer:ins|id:z8PlzlFywUyM}
+{type:Match|question:Select the matching words|options:[che:that (connective)][ti emprendevas:you (sg) learnt][els emprendevan:they learnt][el emprenda:he learns]|id:xFUSn3X12Xxo}
+{type:PickWords|question:Vegn el ad emprender insatge oz?|options:[learn][Will][am][You][Romansh][tasty][something][he][today]|answer:Willhelearnsomethingtoday?|answerviewable:Will he learn something today?|id:OBtq0cvnXys9}
+{type:PickWords|question:Els emprendevan da dar rugby|options:[make][They][girl][play][learnt][to][rugby][this][anything]|answer:Theylearnttoplayrugby|answerviewable:They learnt to play rugby|id:P8aCiF1xYtTd}
+{type:PickOneMeaning|question:The speaker is saying:|speech:ti emprendevas|options:[you (sg) learnt][I learnt][she learnt]|answer:you (sg) learnt|id:krNyqr9AE6Mz}
+{type:PickOne|question:che|options:[some (f)][that (connective)][nothing]|answer:that (connective)|id:wYxPc9N1AjeL}
+{type:PickWords|question:She doesn't learn anything here|options:[n'emprenda][Ella][Nus][qua][nagut]|answer:Ellan'emprendanagutqua|answerviewable:Ella n'emprenda nagut qua|id:sIPLykpXC3HE}
+{type:PickMissingWord|question:Vus emprendevas che jau sun ___ina___ matta|options:[intgins][jau emprend][ella emprenda][ina]|answer:ina|id:Tl5SvmWRaj46}
+{type:PickOne|question:emprender|options:[to learn][anything, something][nowhere]|answer:to learn|id:cK9pdceNjWnY}
+{type:PickWords|question:Emprendevan els da far ina tschigulatta chauda?|options:[make][Nobody][a][to][Did][here][learn][they][hot][some][chocolate][is]|answer:Didtheylearntomakeahotchocolate?|answerviewable:Did they learn to make a hot chocolate?|id:V5noJW1HgByb}
+{type:PickOne|question:nus emprendevan|options:[we learnt][to learn][you (pl) learn]|answer:we learnt|id:Pr2gfG0AOdvH}
+{type:Match|question:Select the matching words|options:[intgins:some (m)][jau emprendeva:I learnt][intginas:some (f)][nagliur:nowhere]|id:lsjzW5SMa3fU}
+{type:PickWords|question:They learnt to play rugby|options:[in][dar][vus][Els][emprendevan][rugby][insatge][da][ad]|answer:Elsemprendevandadarrugby|answerviewable:Els emprendevan da dar rugby|id:bpY2TmlmHbab}
+</lesson>
+<lesson:6|id:uMcr8L0XEEkG>
+{type:PickWords|question:She doesn't learn anything here|options:[Ella][qua][el][n'emprenda][nagut]|answer:Ellan'emprendanagutqua|answerviewable:Ella n'emprenda nagut qua|id:5Yw5V7V1zQij}
+{type:PickMissingWord|question:El emprendeva far ina ___tschavera___|options:[tschavera][ella emprenda][che][intgins]|answer:tschavera|id:nV74eBatZLqv}
+{type:PickOne|question:nus emprendevan|options:[nobody, no one][some (m)][we learnt]|answer:we learnt|id:cOCZRomQ5bmE}
+{type:PickOne|question:el emprenda|options:[someone, anyone][he learns][sometimes]|answer:he learns|id:nhZFGggPMfua}
+{type:PickWords|question:Ti emprendevas insatge|options:[learnt][sg][learn][something][Does][You]|answer:You(sg)learntsomething|answerviewable:You (sg) learnt something|id:XTPmSSihjb2p}
+{type:Match|question:Select the matching words|options:[nus emprendain:we learn][en mintga cas:anyway][mintgatant:sometimes][insauna:aynwhere, somewhere]|id:a5KUZoRRR5OZ}
+{type:Match|question:Select the matching words|options:[els emprendevan:they learnt][nus emprendain:we learn][jau emprend:I learn][vus emprendevas:you (pl) learnt]|id:0MFEA4jAog8h}
+{type:PickOneMeaning|question:The speaker is saying:|speech:en mintga cas|options:[anyway][we learn][that (connective)]|answer:anyway|id:mZA8C7pzzYtK}
+{type:PickOne|question:jau emprend|options:[I learn][you (pl) learnt][you (sg) learn]|answer:I learn|id:Kdi4LcChszVG}
+{type:PickWords|question:I want to learn|options:[mar][là][Jau][vi][tartuffels][nagin][emprender]|answer:Jauviemprender|answerviewable:Jau vi emprender|id:BCFXUxpWiL2w}
+{type:Match|question:Select the matching words|options:[ti emprendas:you (sg) learn][nus emprendain:we learn][che:that (connective)][jau emprendeva:I learnt]|id:3b3GzgXSX0ja}
+{type:PickMissingWord|question:Els vegnan ad emprender da far in cornet ___damaun___|options:[els emprendevan][el emprenda][damaun][ella emprendeva]|answer:damaun|id:fyCEr3EuqwBc}
+{type:PickWords|question:Emprendeva el che el è in mat?|options:[Did][something][boy][that][don't][he][he][learn][a][is]|answer:Didhelearnthatheisaboy?|answerviewable:Did he learn that he is a boy?|id:RBUoJpebFQOg}
+{type:PickWords|question:He learns that this croissant is tasty|options:[cornet][saira][far][emprenda][El][gustus][è][n'emprendain][Jau][quest][che]|answer:Elemprendachequestcornetègustus|answerviewable:El emprenda che quest cornet è gustus|id:yueDsvJGgjuJ}
+{type:PickWords|question:Emprendevas ti da betg ir a frantscha|options:[sg][learn][somewhere][nowhere][go][to][pasta][not][Spain][Did][making][to][you]|answer:Didyou(sg)learnnottogotoSpain?|answerviewable:Did you (sg) learn not to go to Spain?|id:lbeBf30nFPLV}
+{type:PickWords|question:She learn Romansh|options:[emprenda][Ella][tschigulatta][da][rumantsch]|answer:Ellaemprendarumantsch|answerviewable:Ella emprenda rumantsch|id:CfHyPTE1u886}
+</lesson>
+<lesson:7|id:uuXPktov2gma>
+{type:PickWords|question:I want to learn|options:[emprendain][da][Jau][vi][insatge][emprender]|answer:Jauviemprender|answerviewable:Jau vi emprender|id:mTaVS8BTyVaX}
+{type:PickMissingWord|question:Nus ___emprendain___ cun mes barb|options:[emprendain][vus emprendais][che][nagut]|answer:emprendain|id:5lS8qX9PLAMl}
+{type:PickWords|question:Emprendeva el che el è in mat?|options:[is][that][he][boy][a][he][Did][make][learn][I]|answer:Didhelearnthatheisaboy?|answerviewable:Did he learn that he is a boy?|id:UnnMqjpbGCBl}
+{type:PickMissingWord|question:Emprendan els ___da___ far ins schuppa?|options:[en mintga cas][jau emprendeva][nagliur][da]|answer:da|id:QmssN4ZFSc2k}
+{type:WriteWords|question:Are you (pl) learning anything?|answer:[Emprendais vus insatge?]|answerviewable:Emprendais vus insatge?|special:[Emprendais][vus][insatge?]|id:AWLSXdoZTygu}
+{type:PickMissingWord|question:Emprendan els da ___far___ ins schuppa?|options:[nus emprendain][far][insatge][utrò]|answer:far|id:kyuPQUJjkatb}
+{type:PickOneMeaning|question:The speaker is saying:|speech:nus emprendain|options:[anything, something][sometimes][we learn]|answer:we learn|id:O9oU8CeKlpeC}
+{type:WriteWords|question:She learnt to sleep in a bed|answer:[Ella emprendeva da durmir en in letg]|answerviewable:Ella emprendeva da durmir en in letg|special:[Ella][emprendeva][da][durmir][en][in][letg]|id:1wyQg2fPPAL9}
+{type:WriteWords|question:Did you learn that the dessert is tasty?|answer:[Emprendevas vus che il dessert è gustus?]|answerviewable:Emprendevas vus che il dessert è gustus?|special:[Emprendevas][vus][che][il][dessert][è][gustus?]|id:36ZTkeAxE0Da}
+{type:Match|question:Select the matching words|options:[els emprendan:they learn][ella emprendeva:she learnt][jau emprend:I learn][ti emprendas:you (sg) learn]|id:vHtETbRMBmK3}
+{type:WriteWords|question:Are you (sg) learning to make a pizza?|answer:[Emprendas ti da far ina pizza?]|answerviewable:Emprendas ti da far ina pizza?|special:[Emprendas][ti][da][far][ina][pizza?]|id:lodCeaOE22mq}
+{type:WriteWords|question:She learn Romansh|answer:[Ella emprenda rumantsch]|answerviewable:Ella emprenda rumantsch|special:[Ella][emprenda][rumantsch]|id:DxCi70xmdXhc}
+{type:PickWords|question:Will he learn something today?|options:[ad][emprender][cornet][qua][insatge][Vegn][el][Nus][oz]|answer:Vegnelademprenderinsatgeoz?|answerviewable:Vegn el ad emprender insatge oz?|id:rjmG8rbJKwYf}
+{type:WriteWords|question:Did they learn to make a hot chocolate?|answer:[Emprendevan els da far ina tschigulatta chauda?]|answerviewable:Emprendevan els da far ina tschigulatta chauda?|special:[Emprendevan][els][da][far][ina][tschigulatta][chauda?]|id:g6eB7GOYZPg6}
+{type:Match|question:Select the matching words|options:[els emprendevan:they learnt][el emprenda:he learns][jau emprend:I learn][che:that (connective)]|id:7ZF0cH0c4OF4}
+{type:PickOne|question:vus emprendais|options:[you (pl) learn][you (pl) learnt][they learn]|answer:you (pl) learn|id:2DLEgip3wvkM}
+</lesson>
+<lesson:8|id:Lrp2mmfEHRRM>
+{type:Match|question:Select the matching words|options:[ella emprenda:she learns][vus emprendevas:you (pl) learnt][che:that (connective)][els emprendan:they learn]|id:RyqRMTIwnQ6x}
+{type:WriteWords|question:Did they learn to make a hot chocolate?|answer:[Emprendevan els da far ina tschigulatta chauda?]|answerviewable:Emprendevan els da far ina tschigulatta chauda?|special:[Emprendevan][els][da][far][ina][tschigulatta][chauda?]|id:w1t0Uy8KrBpG}
+{type:PickOne|question:el emprenda|options:[she learnt][that (connective)][he learns]|answer:he learns|id:sCsvB3u3LMj8}
+{type:PickWords|question:They learnt to play rugby|options:[Els][nagut][emprendevan][vus][dar][mes][da][Emprenda][rugby]|answer:Elsemprendevandadarrugby|answerviewable:Els emprendevan da dar rugby|id:DSZF4ym8r3Gx}
+{type:PickWords|question:I am learning nothing now|options:[far][ussa][nagut][el][ina][Ella][Jau][emprend]|answer:Jauemprendnagutussa|answerviewable:Jau emprend nagut ussa|id:o28ZizhEQ54O}
+{type:WriteWords|question:She didn't learn anything|answer:[Ella n'emprendeva nagut]|answerviewable:Ella n'emprendeva nagut|special:[Ella][n'emprendeva][nagut]|id:nbMbz0MCNa5a}
+{type:WriteWords|question:She learn Romansh|answer:[Ella emprenda rumantsch]|answerviewable:Ella emprenda rumantsch|special:[Ella][emprenda][rumantsch]|id:QEzeBXkpd348}
+{type:WriteWords|question:Did they learn to make a hot chocolate?|answer:[Emprendevan els da far ina tschigulatta chauda?]|answerviewable:Emprendevan els da far ina tschigulatta chauda?|special:[Emprendevan][els][da][far][ina][tschigulatta][chauda?]|id:LT94kruDcgdD}
+{type:Match|question:Select the matching words|options:[ti emprendas:you (sg) learn][jau emprendeva:I learnt][nus emprendain:we learn][el emprenda:he learns]|id:huuautvyXQ7o}
+{type:WriteWords|question:We learn with my uncle|answer:[Nus emprendain cun mes barb]|answerviewable:Nus emprendain cun mes barb|special:[Nus][emprendain][cun][mes][barb]|id:ZTKcwvqhldn8}
+{type:PickWords|question:Emprendevas ti da betg ir a frantscha|options:[that][Did][Spain][you][go][dessert][to][She][learn][Romansh][sg][something][not][to]|answer:Didyou(sg)learnnottogotoSpain?|answerviewable:Did you (sg) learn not to go to Spain?|id:69N1UfTQYmrs}
+{type:PickMissingWord|question:___Vus___ emprendais da fat pasta|options:[vus emprendais][nagut][intginas][Vus]|answer:Vus|id:SytjdVdI3SSi}
+{type:PickMissingWord|question:Emprendevas vus che il dessert è ___gustus___?|options:[nus emprendain][nagut][gustus][che]|answer:gustus|id:MwauKZoHKz2i}
+{type:WriteWords|question:You (pl) learn to make pasta|answer:[Vus emprendais da fat pasta]|answerviewable:Vus emprendais da fat pasta|special:[Vus][emprendais][da][fat][pasta]|id:pm9X5e9s3He7}
+{type:PickOneMeaning|question:The speaker is saying:|speech:ella emprenda|options:[you (pl) learn][she learns][nothing]|answer:she learns|id:A0MripVufoOJ}
+{type:PickMissingWord|question:Nus ___emprendain___ cun mes barb|options:[ti emprendevas][nagut][intgins][emprendain]|answer:emprendain|id:VUMo8m4mJruX}
+</lesson>
+<lesson:9|id:u04LFlR9p8ns>
+{type:PickMissingWord|question:Els vegnan ad emprender da far in cornet ___damaun___|options:[damaun][nagut][intginas][nus emprendain]|answer:damaun|id:JWMZmHYsWsa5}
+{type:WriteWords|question:We learnt to not eat the knife|answer:[Nus emprendevan da betg mangiar il cunti]|answerviewable:Nus emprendevan da betg mangiar il cunti|special:[Nus][emprendevan][da][betg][mangiar][il][cunti]|id:MbkdJHiHWbOa}
+{type:PickWords|question:Ti emprendas questa saira|options:[learn][sg][this][You][evening]|answer:You(sg)learnthisevening|answerviewable:You (sg) learn this evening|id:cPpnGnLPorh4}
+{type:WriteWords|question:He learns that this croissant is tasty|answer:[El emprenda che quest cornet è gustus]|answerviewable:El emprenda che quest cornet è gustus|special:[El][emprenda][che][quest][cornet][è][gustus]|id:v5eNaWMdXJ4J}
+{type:PickWords|question:We learn with my uncle|options:[tatta][mes][Nus][barb][Els][cun][emprendain]|answer:Nusemprendaincunmesbarb|answerviewable:Nus emprendain cun mes barb|id:MOBMl3d5NYx3}
+{type:WriteWords|question:Will he learn something today?|answer:[Vegn el ad emprender insatge oz?]|answerviewable:Vegn el ad emprender insatge oz?|special:[Vegn][el][ad][emprender][insatge][oz?]|id:LEc5YS9fO0SX}
+{type:PickMissingWord|question:Vegn el ad ___emprender___ insatge oz?|options:[nus emprendain][el emprendeva][emprender][ti emprendas]|answer:emprender|id:MyLXjxiNwwUz}
+{type:PickOne|question:ti emprendevas|options:[he learnt][you (sg) learnt][we learn]|answer:you (sg) learnt|id:t2bbqY3wHwQz}
+{type:Match|question:Select the matching words|options:[ella emprenda:she learns][el emprenda:he learns][el emprendeva:he learnt][che:that (connective)]|id:qUj6aDcMjbBe}
+{type:WriteWords|question:Did I learn to do this?|answer:[Emprendeva jau da far questa?]|answerviewable:Emprendeva jau da far questa?|special:[Emprendeva][jau][da][far][questa?]|id:yEh5bFqe5x6e}
+{type:PickOneMeaning|question:The speaker is saying:|speech:jau emprendeva|options:[I learnt][they learn][nobody at all]|answer:I learnt|id:VtldCu7RRuQm}
+{type:PickWords|question:Did they learn to make a hot chocolate?|options:[far][letg][els][chauda][Emprendevan][cunti][da][tschigulatta][ina]|answer:Emprendevanelsdafarinatschigulattachauda?|answerviewable:Emprendevan els da far ina tschigulatta chauda?|id:eTkq10Al8SaP}
+{type:Match|question:Select the matching words|options:[nus emprendevan:we learnt][jau emprendeva:I learnt][ti emprendas:you (sg) learn][els emprendan:they learn]|id:hiAlX61i7XuW}
+{type:WriteWords|question:Did you (sg) learn not to go to Spain?|answer:[Emprendevas ti da betg ir a frantscha]|answerviewable:Emprendevas ti da betg ir a frantscha|special:[Emprendevas][ti][da][betg][ir][a][frantscha]|id:HgH0B9m4IGWB}
+{type:WriteWords|question:I want to learn|answer:[Jau vi emprender]|answerviewable:Jau vi emprender|special:[Jau][vi][emprender]|id:wdwNW7BFkqBR}
+{type:PickMissingWord|question:Emprendevas ti da betg ir a ___frantscha___|options:[els emprendevan][frantscha][ti emprendevas][insatge]|answer:frantscha|id:W0UUrsxaEFsg}
+</lesson>
+<lesson:10|id:Tni8oG0gqdCb>
+{type:PickMissingWord|question:___Vegn___ el ad emprender insatge oz?|options:[nus emprendain][Vegn][nagin][nagut]|answer:Vegn|id:0gNLep35XawD}
+{type:PickWords|question:I learnt with my grandmother|options:[emprendevas][Jau][mia][emprendeva][cun][n'emprenda][far][da][tatta]|answer:Jauemprendevacunmiatatta|answerviewable:Jau emprendeva cun mia tatta|id:jRxmGZkUVcUt}
+{type:PickOneMeaning|question:The speaker is saying:|speech:en mintga cas|options:[nowhere][anyway][you (sg) learn]|answer:anyway|id:4lK7RQQIlj9r}
+{type:WriteWords|question:We learn with my uncle|answer:[Nus emprendain cun mes barb]|answerviewable:Nus emprendain cun mes barb|special:[Nus][emprendain][cun][mes][barb]|id:GpWKDYAORNvb}
+{type:WriteWords|question:She learn Romansh|answer:[Ella emprenda rumantsch]|answerviewable:Ella emprenda rumantsch|special:[Ella][emprenda][rumantsch]|id:1D9y19IDJn7s}
+{type:WriteWords|question:You (sg) learn this evening|answer:[Ti emprendas questa saira]|answerviewable:Ti emprendas questa saira|special:[Ti][emprendas][questa][saira]|id:iYg7bjX6Vu8h}
+{type:WriteWords|question:Did you learn that the dessert is tasty?|answer:[Emprendevas vus che il dessert è gustus?]|answerviewable:Emprendevas vus che il dessert è gustus?|special:[Emprendevas][vus][che][il][dessert][è][gustus?]|id:iojXd5bo3VBx}
+{type:PickWords|question:Jau emprend nagut ussa|options:[learning][now][this][I][am][didn't][Do][nothing]|answer:Iamlearningnothingnow|answerviewable:I am learning nothing now|id:9cDIkGvtHIYM}
+{type:PickOne|question:nus emprendain|options:[that (connective)][we learn][you (pl) learnt]|answer:we learn|id:agKRd51wXE0b}
+{type:WriteWords|question:They learnt to play rugby|answer:[Els emprendevan da dar rugby]|answerviewable:Els emprendevan da dar rugby|special:[Els][emprendevan][da][dar][rugby]|id:irCLULHeT0M4}
+{type:WriteWords|question:Did I learn to do this?|answer:[Emprendeva jau da far questa?]|answerviewable:Emprendeva jau da far questa?|special:[Emprendeva][jau][da][far][questa?]|id:rtj9gaNFCWLw}
+{type:PickMissingWord|question:Nus ___n'emprendevan___ betg questa|options:[nagliur][n'emprendevan][nagin carstgaun][vus emprendevas]|answer:n'emprendevan|id:mCeR4b5QLhjj}
+{type:WriteWords|question:You (sg) learn this evening|answer:[Ti emprendas questa saira]|answerviewable:Ti emprendas questa saira|special:[Ti][emprendas][questa][saira]|id:GbXERElEks2P}
+{type:WriteWords|question:Did he learn that he is a boy?|answer:[Emprendeva el che el è in mat?]|answerviewable:Emprendeva el che el è in mat?|special:[Emprendeva][el][che][el][è][in][mat?]|id:VR9DkzPDLF9s}
+{type:Match|question:Select the matching words|options:[el emprendeva:he learnt][els emprendan:they learn][vus emprendais:you (pl) learn][che:that (connective)]|id:y8Hp7sjIaFks}
+{type:Match|question:Select the matching words|options:[nus emprendevan:we learnt][el emprenda:he learns][ella emprenda:she learns][jau emprend:I learn]|id:yf78up0Cuxst}
+</lesson>
+<lesson:11|id:zBPPmdpolcBM>
+{type:WriteWords|question:You (pl) learn to make pasta|answer:[Vus emprendais da fat pasta]|answerviewable:Vus emprendais da fat pasta|special:[Vus][emprendais][da][fat][pasta]|id:URFvjBNuh0GW}
+{type:Match|question:Select the matching words|options:[el emprenda:he learns][ella emprendeva:she learnt][jau emprend:I learn][jau emprendeva:I learnt]|id:zqqJxcL2y6JK}
+{type:WriteWords|question:You (pl) learn to make pasta|answer:[Vus emprendais da fat pasta]|answerviewable:Vus emprendais da fat pasta|special:[Vus][emprendais][da][fat][pasta]|id:v8hNilbaeNtI}
+{type:PickOne|question:el emprendeva|options:[he learnt][you (pl) learn][I learn]|answer:he learnt|id:AOO4NEd0dsWs}
+{type:WriteWords|question:He learns that this croissant is tasty|answer:[El emprenda che quest cornet è gustus]|answerviewable:El emprenda che quest cornet è gustus|special:[El][emprenda][che][quest][cornet][è][gustus]|id:JLCMMsKaFGic}
+{type:WriteWords|question:Did I learn to do this?|answer:[Emprendeva jau da far questa?]|answerviewable:Emprendeva jau da far questa?|special:[Emprendeva][jau][da][far][questa?]|id:gPCxRu6TNQ0V}
+{type:PickMissingWord|question:Emprendeva ___el___ che el è in mat?|options:[emprender][nus emprendevan][el][mintgatant]|answer:el|id:IJ1QAsR988kA}
+{type:WriteWords|question:I learnt with my grandmother|answer:[Jau emprendeva cun mia tatta]|answerviewable:Jau emprendeva cun mia tatta|special:[Jau][emprendeva][cun][mia][tatta]|id:nNhX5dTZlPJc}
+{type:WriteWords|question:Did they learn to make a hot chocolate?|answer:[Emprendevan els da far ina tschigulatta chauda?]|answerviewable:Emprendevan els da far ina tschigulatta chauda?|special:[Emprendevan][els][da][far][ina][tschigulatta][chauda?]|id:XmfxFD21n3Be}
+{type:PickWords|question:Emprendan els da far ins schuppa?|options:[Do][they][soup][learn][knife][he][make][a][Does][to]|answer:Dotheylearntomakeasoup?|answerviewable:Do they learn to make a soup?|id:om1rGNY1Zmpe}
+{type:PickMissingWord|question:Emprenda el cun ___insatgi___?|options:[els emprendevan][intginas][insatgi][mintgatant]|answer:insatgi|id:KlaaIj1hdR0h}
+{type:PickWords|question:She didn't learn anything|options:[Ella][nagut][da][Emprendevas][qua][n'emprendeva]|answer:Ellan'emprendevanagut|answerviewable:Ella n'emprendeva nagut|id:vGEC9y3a8Zqs}
+{type:WriteWords|question:Are you (sg) learning to make a pizza?|answer:[Emprendas ti da far ina pizza?]|answerviewable:Emprendas ti da far ina pizza?|special:[Emprendas][ti][da][far][ina][pizza?]|id:tWQ6dL587x83}
+{type:PickOneMeaning|question:The speaker is saying:|speech:emprender|options:[to learn][I learn][nobody, no one]|answer:to learn|id:k8Dx6Y83A1dl}
+{type:WriteWords|question:They learnt to play rugby|answer:[Els emprendevan da dar rugby]|answerviewable:Els emprendevan da dar rugby|special:[Els][emprendevan][da][dar][rugby]|id:xPmTz2obYpAU}
+{type:Match|question:Select the matching words|options:[vus emprendais:you (pl) learn][el emprenda:he learns][nus emprendain:we learn][ti emprendevas:you (sg) learnt]|id:a9RGgC5jZlPT}
+</lesson>
+<lesson:12|id:gHDh60bc8eIl>
+{type:PickWords|question:Jau emprend nagut ussa|options:[am][now][nothing][I][boy][learning][sg]|answer:Iamlearningnothingnow|answerviewable:I am learning nothing now|id:z6gc0w7AGVMm}
+{type:PickOneMeaning|question:The speaker is saying:|speech:ti emprendas|options:[you (sg) learnt][you (sg) learn][some (m)]|answer:you (sg) learn|id:vq81GJeCKYad}
+{type:PickMissingWord|question:Ti ___emprendevas___ insatge|options:[emprendevas][nus emprendain][els emprendevan][vus emprendevas]|answer:emprendevas|id:cPYvZfSctzbI}
+{type:PickOne|question:jau emprendeva|options:[I learn][I learnt][we learnt]|answer:I learnt|id:1CRkPK9vDOPe}
+{type:WriteWords|question:We learn with my uncle|answer:[Nus emprendain cun mes barb]|answerviewable:Nus emprendain cun mes barb|special:[Nus][emprendain][cun][mes][barb]|id:FyosNnmH6v1H}
+{type:Match|question:Select the matching words|options:[ti emprendevas:you (sg) learnt][emprender:to learn][vus emprendevas:you (pl) learnt][nus emprendain:we learn]|id:PC8tNlhTguXC}
+{type:WriteWords|question:Are you (pl) learning anything?|answer:[Emprendais vus insatge?]|answerviewable:Emprendais vus insatge?|special:[Emprendais][vus][insatge?]|id:TUP64hBFkI84}
+{type:WriteWords|question:You (pl) learnt that I am a girl|answer:[Vus emprendevas che jau sun ina matta]|answerviewable:Vus emprendevas che jau sun ina matta|special:[Vus][emprendevas][che][jau][sun][ina][matta]|id:f0DcolyibA1d}
+{type:WriteWords|question:She didn't learn anything|answer:[Ella n'emprendeva nagut]|answerviewable:Ella n'emprendeva nagut|special:[Ella][n'emprendeva][nagut]|id:RL0xZtOWXdGQ}
+{type:WriteWords|question:I learn something with my grandfather|answer:[Jau emprend insatge cun mes tat]|answerviewable:Jau emprend insatge cun mes tat|special:[Jau][emprend][insatge][cun][mes][tat]|id:xOl4h2HLkJJw}
+{type:PickWords|question:Did you learn that the dessert is tasty?|options:[vus][Jau][che][dessert][emprendeva][gustus][il][n'emprendeva][da][Emprendevas][è][ad]|answer:Emprendevasvuscheildessertègustus?|answerviewable:Emprendevas vus che il dessert è gustus?|id:T4ohpxbSl0gW}
+{type:Match|question:Select the matching words|options:[nus emprendain:we learn][els emprendevan:they learnt][jau emprendeva:I learnt][nus emprendevan:we learnt]|id:pgHRYfqc3Q2P}
+{type:PickMissingWord|question:Vus emprendais da fat ___pasta___|options:[els emprendan][utrò][insauna][pasta]|answer:pasta|id:7vx55kzaAIaW}
+{type:WriteWords|question:She learn Romansh|answer:[Ella emprenda rumantsch]|answerviewable:Ella emprenda rumantsch|special:[Ella][emprenda][rumantsch]|id:3gKwhvnM2GAd}
+{type:WriteWords|question:She learnt to sleep in a bed|answer:[Ella emprendeva da durmir en in letg]|answerviewable:Ella emprendeva da durmir en in letg|special:[Ella][emprendeva][da][durmir][en][in][letg]|id:f6A1IE53ctCp}
+{type:WriteWords|question:They learn to make the knödeln|answer:[Els emprendan da far ils canadels]|answerviewable:Els emprendan da far ils canadels|special:[Els][emprendan][da][far][ils][canadels]|id:N4QG9CgQerQC}
+</lesson>
+<lesson:13|id:sHNW56LADvPO>
+{type:WriteWords|question:She didn't learn anything|answer:[Ella n'emprendeva nagut]|answerviewable:Ella n'emprendeva nagut|special:[Ella][n'emprendeva][nagut]|id:SPPvTQ8Iw4pd}
+{type:PickWords|question:El emprenda che quest cornet è gustus|options:[He][tasty][hot][that][learns][this][croissant][is]|answer:Helearnsthatthiscroissantistasty|answerviewable:He learns that this croissant is tasty|id:JjoDoLjRQMHK}
+{type:PickMissingWord|question:Vus emprendais ___da___ fat pasta|options:[da][emprender][nus emprendevan][el emprenda]|answer:da|id:NaB9jKs0fgvf}
+{type:PickOne|question:els emprendevan|options:[he learnt][they learnt][she learnt]|answer:they learnt|id:dZd6vG1zGrSV}
+{type:WriteWords|question:They learn to make the knödeln|answer:[Els emprendan da far ils canadels]|answerviewable:Els emprendan da far ils canadels|special:[Els][emprendan][da][far][ils][canadels]|id:RHkHT0MxeuVn}
+{type:WriteWords|question:Did I learn to do this?|answer:[Emprendeva jau da far questa?]|answerviewable:Emprendeva jau da far questa?|special:[Emprendeva][jau][da][far][questa?]|id:DhtmaplZhOTO}
+{type:WriteWords|question:You (pl) learn to make pasta|answer:[Vus emprendais da fat pasta]|answerviewable:Vus emprendais da fat pasta|special:[Vus][emprendais][da][fat][pasta]|id:2euLDbpIwg0D}
+{type:Match|question:Select the matching words|options:[vus emprendevas:you (pl) learnt][che:that (connective)][ti emprendevas:you (sg) learnt][jau emprend:I learn]|id:ubLPpTohLThr}
+{type:PickMissingWord|question:Els emprendevan ___da___ dar rugby|options:[nagin][insauna][els emprendan][da]|answer:da|id:dSsTgdsd6kQ7}
+{type:WriteWords|question:I learn something with my grandfather|answer:[Jau emprend insatge cun mes tat]|answerviewable:Jau emprend insatge cun mes tat|special:[Jau][emprend][insatge][cun][mes][tat]|id:tDOOhH7etBGv}
+{type:PickOneMeaning|question:The speaker is saying:|speech:en mintga cas|options:[we learn][anyway][nobody at all]|answer:anyway|id:UBnW08tWkv76}
+{type:WriteWords|question:She learnt to sleep in a bed|answer:[Ella emprendeva da durmir en in letg]|answerviewable:Ella emprendeva da durmir en in letg|special:[Ella][emprendeva][da][durmir][en][in][letg]|id:4LtzplesAj3k}
+{type:Match|question:Select the matching words|options:[ella emprendeva:she learnt][nus emprendain:we learn][el emprendeva:he learnt][ella emprenda:she learns]|id:uLVg1NF5RhNo}
+{type:WriteWords|question:I learnt with my grandmother|answer:[Jau emprendeva cun mia tatta]|answerviewable:Jau emprendeva cun mia tatta|special:[Jau][emprendeva][cun][mia][tatta]|id:8jsjJ0ue5PlY}
+{type:WriteWords|question:Does he learn with anyone?|answer:[Emprenda el cun insatgi?]|answerviewable:Emprenda el cun insatgi?|special:[Emprenda][el][cun][insatgi?]|id:lBl3nt6v4Pke}
+{type:WriteWords|question:You (sg) learnt something|answer:[Ti emprendevas insatge]|answerviewable:Ti emprendevas insatge|special:[Ti][emprendevas][insatge]|id:NUEG71obijzk}
+{type:WriteWords|question:Did he learn that he is a boy?|answer:[Emprendeva el che el è in mat?]|answerviewable:Emprendeva el che el è in mat?|special:[Emprendeva][el][che][el][è][in][mat?]|id:JorzeWY8uOjv}
+{type:PickWords|question:Did you learn that the dessert is tasty?|options:[fat][emprendeva][pizza][in][è][Emprendevas][vus][il][che][gustus][dessert]|answer:Emprendevasvuscheildessertègustus?|answerviewable:Emprendevas vus che il dessert è gustus?|id:KMjBX2SmwbFR}
+</lesson>
+<lesson:14|id:JQviwTksTSxX>
+{type:PickMissingWord|question:Ella n'emprenda ___nagut___ qua|options:[vus emprendevas][ti emprendevas][insauna][nagut]|answer:nagut|id:m2u1kPXwOsMJ}
+{type:PickWords|question:Ella n'emprendeva nagut|options:[She][didn't][learn][you][anything][the][learnt][grandmother]|answer:Shedidn'tlearnanything|answerviewable:She didn't learn anything|id:qHdsmUzBCMos}
+{type:WriteWords|question:She didn't learn anything|answer:[Ella n'emprendeva nagut]|answerviewable:Ella n'emprendeva nagut|special:[Ella][n'emprendeva][nagut]|id:fcF50hQC6wD1}
+{type:WriteWords|question:They learn to make the knödeln|answer:[Els emprendan da far ils canadels]|answerviewable:Els emprendan da far ils canadels|special:[Els][emprendan][da][far][ils][canadels]|id:jquBf9ZImmyQ}
+{type:WriteWords|question:They learn to make the knödeln|answer:[Els emprendan da far ils canadels]|answerviewable:Els emprendan da far ils canadels|special:[Els][emprendan][da][far][ils][canadels]|id:D81K0soJD4sY}
+{type:Match|question:Select the matching words|options:[ti emprendevas:you (sg) learnt][el emprendeva:he learnt][vus emprendais:you (pl) learn][ti emprendas:you (sg) learn]|id:AvZaAIgvtwsG}
+{type:WriteWords|question:Did you (sg) learn not to go to Spain?|answer:[Emprendevas ti da betg ir a frantscha]|answerviewable:Emprendevas ti da betg ir a frantscha|special:[Emprendevas][ti][da][betg][ir][a][frantscha]|id:cZmPMsouDK4r}
+{type:WriteWords|question:You (sg) learn this evening|answer:[Ti emprendas questa saira]|answerviewable:Ti emprendas questa saira|special:[Ti][emprendas][questa][saira]|id:3OLvuEnr7Ro3}
+{type:Match|question:Select the matching words|options:[jau emprendeva:I learnt][els emprendevan:they learnt][el emprendeva:he learnt][vus emprendais:you (pl) learn]|id:hGuZvaNAwp11}
+{type:PickMissingWord|question:Els vegnan ad emprender da ___far___ in cornet damaun|options:[el emprendeva][nagin][intgins][far]|answer:far|id:evbqRbHr7izZ}
+{type:PickOneMeaning|question:The speaker is saying:|speech:jau emprend|options:[they learn][I learn][that (connective)]|answer:I learn|id:552kXVYIy3JZ}
+{type:WriteWords|question:She didn't learn anything|answer:[Ella n'emprendeva nagut]|answerviewable:Ella n'emprendeva nagut|special:[Ella][n'emprendeva][nagut]|id:udpQZaf1mtcL}
+{type:WriteWords|question:Do they learn to make a soup?|answer:[Emprendan els da far ins schuppa?]|answerviewable:Emprendan els da far ins schuppa?|special:[Emprendan][els][da][far][ins][schuppa?]|id:bOLvXuO1wV1f}
+{type:PickOne|question:jau emprendeva|options:[I learnt][you (pl) learnt][we learn]|answer:I learnt|id:gIr8pP7B5dIq}
+{type:WriteWords|question:They learnt to play rugby|answer:[Els emprendevan da dar rugby]|answerviewable:Els emprendevan da dar rugby|special:[Els][emprendevan][da][dar][rugby]|id:jPKd5WavgdFP}
+{type:PickWords|question:She learnt to sleep in a bed|options:[Ella][en][in][letg][durmir][da][emprendeva]|answer:Ellaemprendevadadurmireninletg|answerviewable:Ella emprendeva da durmir en in letg|id:vR3jtMIVgWVz}
+{type:WriteWords|question:Are you (sg) learning to make a pizza?|answer:[Emprendas ti da far ina pizza?]|answerviewable:Emprendas ti da far ina pizza?|special:[Emprendas][ti][da][far][ina][pizza?]|id:SnpIWQBHVu9K}
+{type:WriteWords|question:She learn Romansh|answer:[Ella emprenda rumantsch]|answerviewable:Ella emprenda rumantsch|special:[Ella][emprenda][rumantsch]|id:hzkE4bZaLbFY}
+</lesson>
+<lesson:15|id:RJm4NNRWsg8B>
+{type:WriteWords|question:Does he learn with anyone?|answer:[Emprenda el cun insatgi?]|answerviewable:Emprenda el cun insatgi?|special:[Emprenda][el][cun][insatgi?]|id:cXkFzhKOBAXx}
+{type:PickMissingWord|question:Ella ___emprendeva___ da durmir en in letg|options:[els emprendevan][insatge][emprendeva][ella emprenda]|answer:emprendeva|id:JhHQePgbIjeQ}
+{type:PickWords|question:Did he learn that he is a boy?|options:[che][in][el][è][mat][gustus][Emprendeva][questa][el]|answer:Emprendevaelcheelèinmat?|answerviewable:Emprendeva el che el è in mat?|id:SFjBlyu8P4cW}
+{type:PickOneMeaning|question:The speaker is saying:|speech:mintgatant|options:[sometimes][he learnt][some (f)]|answer:sometimes|id:SJizJlh9ME8R}
+{type:Match|question:Select the matching words|options:[ella emprenda:she learns][jau emprend:I learn][ti emprendas:you (sg) learn][el emprendeva:he learnt]|id:GYuD4cTYgZck}
+{type:WriteWords|question:She learnt to sleep in a bed|answer:[Ella emprendeva da durmir en in letg]|answerviewable:Ella emprendeva da durmir en in letg|special:[Ella][emprendeva][da][durmir][en][in][letg]|id:Ibr2yvys7cEp}
+{type:WriteWords|question:He learnt to make a meal|answer:[El emprendeva da far ina tschavera]|answerviewable:El emprendeva far ina tschavera|special:[El][emprendeva][far][ina][tschavera]|id:vPPL0UN1RlGD}
+{type:WriteWords|question:They will learnto make a croissant tomorrow|answer:[Els vegnan ad emprender da far in cornet damaun]|answerviewable:Els vegnan ad emprender da far in cornet damaun|special:[Els][vegnan][ad][emprender][da][far][in][cornet][damaun]|id:RcgUafAJgxin}
+{type:PickMissingWord|question:Ella ___emprenda___ rumantsch|options:[emprenda][els emprendan][ella emprendeva][nagin]|answer:emprenda|id:KaN7aSwMHvp1}
+{type:PickOne|question:emprender|options:[he learnt][to learn][they learn]|answer:to learn|id:rWKdxx3bexn0}
+{type:WriteWords|question:Did I learn to do this?|answer:[Emprendeva jau da far questa?]|answerviewable:Emprendeva jau da far questa?|special:[Emprendeva][jau][da][far][questa?]|id:mtfzH4Is1BOn}
+{type:Match|question:Select the matching words|options:[vus emprendais:you (pl) learn][els emprendevan:they learnt][ti emprendevas:you (sg) learnt][nus emprendain:we learn]|id:GWvcCA0akjCP}
+{type:WriteWords|question:You (pl) learnt that I am a girl|answer:[Vus emprendevas che jau sun ina matta]|answerviewable:Vus emprendevas che jau sun ina matta|special:[Vus][emprendevas][che][jau][sun][ina][matta]|id:XedYYX15HrbH}
+{type:PickWords|question:Emprendevan els da far ina tschigulatta chauda?|options:[chocolate][they][hot][make][learn][knife][a][learnt][Did][to]|answer:Didtheylearntomakeahotchocolate?|answerviewable:Did they learn to make a hot chocolate?|id:kXvo5ET2r3p8}
+{type:WriteWords|question:We learnt to not eat the knife|answer:[Nus emprendevan da betg mangiar il cunti]|answerviewable:Nus emprendevan da betg mangiar il cunti|special:[Nus][emprendevan][da][betg][mangiar][il][cunti]|id:JNNcC9NNTc7H}
+{type:WriteWords|question:Do they learn to make a soup?|answer:[Emprendan els da far ins schuppa?]|answerviewable:Emprendan els da far ins schuppa?|special:[Emprendan][els][da][far][ins][schuppa?]|id:YARpSzcU5I9Q}
+{type:WriteWords|question:Did I learn to do this?|answer:[Emprendeva jau da far questa?]|answerviewable:Emprendeva jau da far questa?|special:[Emprendeva][jau][da][far][questa?]|id:nbvKS42aozg8}
+{type:WriteWords|question:She didn't learn anything|answer:[Ella n'emprendeva nagut]|answerviewable:Ella n'emprendeva nagut|special:[Ella][n'emprendeva][nagut]|id:ZqWjqhi5PR7d}
+</lesson>
+</skill>
+<skill:School|image:apple|lessonsperlevel:3|strokecolor:244,67,54|fillcolor:0,0,0|position:4|description:Learn different school subjects and other vocabulary about school in romansh|id:BdJzfJqnx2O0>
 <lesson:1|id:ijNa7ldaITa8>
 {type:PickOne|question:New PickOne Question?|options:[Option A][Option B][Option C]|answer:Option A|id:9O20LSeQEU5d}
 {type:FlashCard|front:New FlashCard Front|back:New FlashCard Back|id:RTeJpYdNcUe1}
