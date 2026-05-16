@@ -3,9 +3,13 @@ import re
 import streamlit_sortables as s_t
 import random
 
+line = "{type:AudioMatch|question:Match the pairs|options:[ka:audio_match_id1][kha:audio_match_id2][ga:pBHkGEfhEz4B0K5JOg][nga:G5C22UPhE7h3q6KOA7]|id:TW0FMxRNvijh}"
 
 @st.fragment
-def render_question(line, question):
+def render_question(line, question, course):
+    debug = st.expander("🪲 Debug")
+    with debug:
+        st.write(line)
     line = line.split('|')
     if line[0] == '{type:PickOneMeaning':
         st.header("What does this mean?")
@@ -37,6 +41,31 @@ def render_question(line, question):
             else:
                 result.error("No")
                 return "incorrect"
+    elif 'AudioMatch' in line[0]:
+        st.header("Listen and match:")
+        options = line[2][9:-1].split("][")
+        audios = []
+        answers = []
+        for line in options:
+            line = line.split(':')
+            answers.append(line[0])
+            audios.append(line[1])
+        with debug:
+            st.write(audios)
+            st.write(answers)
+        left, right = st.columns(2)
+        with left:
+            for item in audios:
+                st.audio(f"{course}/{item}.mp3")
+        with right:
+            correct_answers = answers.copy()
+            random.shuffle(answers)
+            sorted_items = s_t.sort_items(answers, direction="vertical", key="AudioMatch"+question)
+        if st.button("Submit"):
+            if sorted_items == correct_answers:
+                st.success("Correct!")
+            else:
+                st.error(f"Nope, it was '{" --> ".join(correct_answers)}'")
     elif 'PickMissingWord' in line[0]:
         st.header(re.sub(r'_[^_]+_', '', line[1][9:]))
         options = line[2][9:-1].split("][")
@@ -78,12 +107,22 @@ def render_question(line, question):
         st.header("Translate: '"+line[1][9:]+ "'")
         answer = st.text_area("",key=question)
         submit = st.button("Submit", key="WriteWordsButton"+question)
+        if '[' in line[2]:
+            answers = line[2][8:1].split("][")
+        else:
+            answers = []
+            answers.append(line[2][7:])
+        with debug:
+            st.write(answers)
         if submit:
-            if answer == line[2][7:]:
+            if answer in answers:
                 st.success("Correct")
                 return "correct"
             else:
-                st.error("")
+                answer = line[3][15:]
+                if answer == '}':
+                    answer = line[2][7:]
+                st.error(f"No, the correct answer was '{answer}'")
                 return "incorrect"
     elif "PickWords" in line[0]:
         words = line[2][9:-1].split("][")
@@ -132,7 +171,7 @@ def render_question(line, question):
             else:
                 st.error("")
                 return "incorrect"
-    elif "Match" in line[0]:
+    elif "Match" in line[0] and not 'Audio' in line[0]:
         st.header("Sort the items on the right so they match their pair on the left")
         col1, col2 = st.columns(2)
         pairs = line[2][9:-1].split("][")
@@ -167,8 +206,10 @@ def render_question(line, question):
             else:
                 st.error("Try again!")
                 return "incorrect"
+    elif 'FlashCard' in line[0]:
+        st.header(f"What is '{line[1][6:]}'?")
+        with st.expander("Reveal answer: "):
+            st.write(line[2][5:])
     else:
         return "error"
-
-
 

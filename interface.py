@@ -3,6 +3,7 @@ import questions as q
 from streamlit_extras.card_selector import *
 import re
 import pandas as pd
+from metadata import metadata
 
 def translate_to_standard_md(text):
     #<image:img_LMJskZwdHsKZ_1764187126150.png/>
@@ -48,6 +49,7 @@ def create_path(unit, course):
         # --- VIEW 1: Main Path ---
         if st.session_state.current_view == "main":
             with open(f"{course}/unit{unit}.nml", "r") as f:
+                st.title(f"{course} course")
                 for line in f:
                     if line.startswith("<unit:"):
                         st.header(line[1:-2].replace(":", " "))
@@ -59,12 +61,15 @@ def create_path(unit, course):
                         if st.button(skill_name, key=f"btn_{skill_name}", width="stretch"):
                             st.session_state.current_view = skill_name
                             st.rerun() # Refresh to show the new view
+            with open(f"{course}/metadata.nmd") as data:
+                for line in data:
+                    metadata(line)
         elif st.session_state.current_view == "questions":
             counter = st.session_state.counter
             lessons = st.session_state.lessons
             num = st.session_state.num
             if not num >= len(lessons[counter-1]):
-                error = q.render_question(lessons[counter-1][num], str(num))
+                error = q.render_question(lessons[counter-1][num], str(num), course)
                 num += 1
                 st.session_state.num = num
                 if error:
