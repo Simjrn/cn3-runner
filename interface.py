@@ -5,6 +5,56 @@ import re
 import pandas as pd
 from metadata import metadata
 
+
+def banner():
+    st.markdown(
+    """
+    <style>
+    /* Remove default Streamlit top padding */
+    body {
+        margin: 0;
+        padding: 0;
+    }
+    /* Style the top bar container */
+    .top-bar {
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 60px;
+        background-color: #FF6863;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        z-index: 999999;
+    }
+
+    /* FORCE text visibility inside the top bar */
+    .top-bar h1 {
+        color: #ffffff !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        font-size: 28px !important;
+        font-family: sans-serif !important;
+    }
+    </style>
+    """,
+    unsafe_allow_html=True
+    )
+
+    st.markdown(
+    """
+    <div class="top-bar">
+        <h1>Romanshly</h1>
+    </div>
+    """,
+    unsafe_allow_html=True
+    )
+
+
+
 def translate_to_standard_md(text):
     #<image:img_LMJskZwdHsKZ_1764187126150.png/>
     if not text.startswith("<image:"):
@@ -48,6 +98,7 @@ def create_path(unit, course):
     with placeholder.container():
         # --- VIEW 1: Main Path ---
         if st.session_state.current_view == "main":
+            banner()
             with open(f"{course}/unit{unit}.nml", "r") as f:
                 st.title(f"{course} course")
                 for line in f:

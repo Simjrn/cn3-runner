@@ -2,6 +2,8 @@ import streamlit as st
 from interface import create_path
 from streamlit_image_select import image_select
 
+
+
 num = st.sidebar.selectbox("What unit are you studying?", (0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10))
 switch = st.sidebar.expander("Switch language")
 def switch_lang():
